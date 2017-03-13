@@ -1,0 +1,240 @@
+/*****************************************/
+/*                BG                     */
+/*****************************************/
+.grayBg {
+	position:absolute;
+	z-index:-1;
+	background-color: #f7f5f0;
+	filter:alpha(opacity=50);
+	opacity: 0.5;
+	top:256px;
+	width:100%;
+	height:1055px;
+}
+/*****************************************/
+/*                Slider                 */
+/*****************************************/
+.swiper-container {
+	width:1248px;
+	height:540px;
+	overflow:hidden;
+}
+.swiper-wrapper {
+	height:496px;
+}
+.swiper-slide {
+	position:relative;
+}
+.swiper-slide .sliderBg {
+	display:block;
+	width:1196px;
+	height:496px;
+	background-size:cover;
+}
+.bg1 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-1.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bg2 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-2.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bg3 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-3.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bg4 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-4.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bg5 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-5.jpg') center center no-repeat;
+	background-size:cover;
+}
+.discount {
+	position:absolute;
+	right:0px;
+	top:92px;
+}
+.event {
+	position:absolute;
+	width:461px;
+	height:71px;
+	bottom:208px;
+	left:0;
+}
+.event .transparentBg {
+	width:inherit;
+	height:inherit;
+	background-color:#f6a623;
+	filter:alpha(opacity=50);
+	opacity:0.5;
+}
+.event .transparentTxt {
+	text-align:center;
+	color:#fff;
+	padding-top:23px;
+	font-size:1.8em;
+}
+.recommand {
+	position:absolute;
+	width:461px;
+	height:208px;
+	bottom:0;
+	left:0;
+	background-color: #f4af39;
+	color:#fff;
+	padding-top:37px;
+	font-size:20px;
+	line-height:32px;
+	font-weight:lighter;
+}
+.recommand p {
+	padding-left:100px;	
+}
+.recommand .borderBtn {
+	display:block;
+	width:185px;
+	height:48px;
+	margin:10px auto;
+	border:1px solid #fff;
+	color:inherit;
+	font-size:16px;
+	margin-top:20px;
+}
+.recommand .borderBtn i.fa {padding-left:30px;}
+/*****************************************/
+/*                flicking               */
+/*****************************************/
+/*.touchslider-nav {
+	z-index:999;
+	width:100%;
+	padding:40px 0 0px;
+	text-align:center;
+}
+
+.touchslider-nav-item {
+	display:inline-block;
+	width:8px;
+	height:8px;
+	border-radius:50%;
+	margin:0 4px;
+	padding:0;
+	background-color:#999;	
+	text-indent:-10000px;
+}*/
+
+.swiper-pagination-bullet-active {
+	background-color:#e4b76c;
+}
+/*****************************************/
+/*                Vedio                  */
+/*****************************************/
+.wrap h2 {
+	padding:72px 0 30px;
+}
+.videoWrap {
+	height:301px;
+	background-color: #94c5db;
+	position:relative;
+	
+}
+.videoWrap ul {
+	color:#fff;
+	padding:5.4em 0 10.3em 9.5em;
+	width:500px;
+	line-height:48px;
+	font-size:16px;
+	font-weight:lighter;
+}
+.videoWrap video {
+	position:absolute;
+	width:500px;
+	height:302px;
+	top:-38px;
+	right:32px;
+	background-color:#ddd;
+}
+.videoWrap i.fa {
+	padding-right:30px;
+}
+/*****************************************/
+/*                Itinerary              */
+/*****************************************/
+.graded {
+	margin-bottom:31px;
+}
+.yellowBtn {
+	display: block;
+	margin:70px auto 73px;
+}
+/*****************************************/
+/*                Media query            */
+/*****************************************/
+@media screen and (max-width:1196px) {
+	.site {
+		width:100%;
+		overflow:hidden;
+	}
+	.swiper-container,
+	.touchslider-item,
+	.touchslider-item .sliderBg {
+		width:100%;
+	}
+	.header-nav {
+		padding:20px;
+	}
+}
+@media screen and (max-width:1024px) {
+	.header .borderBtn,
+	.header .hotline {
+		display:none;
+	}	
+	.wrap h2 {
+		padding:20px;
+	}
+	.videoWrap {
+		margin:2em;
+	}
+	.videoWrap ul {
+		padding:1.3em 1.5em 1.8em;
+		line-height:1.8em;
+	}
+	.videoWrap video {
+		width:70%;
+		height:70%;
+		right:0;
+		top:40%;
+	}
+	.home-trip-box {
+		margin:20px;
+	}
+}
+@media screen and (max-width:800px) {		
+	.header-logo {
+		margin-top:0;
+	}	
+	.header .borderBtn,
+	.header .hotline {
+		display:none;
+	}	
+	.discount {
+		right:21px;
+		top:21px;
+	}
+	.event,
+	.recommand {
+		width:100%;
+	}
+}
+@media screen and (max-width: 600px) {
+	.header-nav {
+		justify-content:space-between;
+	}
+	.header-nav li {
+		margin:0;
+	}
+}
+@media screen and (max-width: 300px) {
+
+}

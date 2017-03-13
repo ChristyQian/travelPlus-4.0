@@ -1,0 +1,51 @@
+@media screen and (max-width: 600px) {
+	.itinerary-visual {
+		height:240px;
+	}
+
+	.itinerary-image { 
+		height:240px; 
+	}
+
+	.itinerary-image ul { 
+		height:240px; 
+	}
+
+	.itinerary-image li { 
+		height:240px; 
+	}
+
+	.itinerary-image li span { 
+		height:240px; 
+	}
+
+	.itinerary-image li a { 
+		height:240px; 
+	}
+
+	.itinerary-daily {
+		padding: 20px;
+	}
+
+	.itinerary-name h1 {
+		font-size: 20px;
+		line-height: 36px;
+		letter-spacing: 2px;
+	}
+
+	.itinerary-name h2 {
+		font-size: 16px;		
+		line-height: 32px;
+		letter-spacing: 1px;
+	}
+
+	.itinerary-name h3 {
+		font-size: 16px;		
+		line-height: 32px;		
+	}
+
+	.itinerary-price {
+		margin-left: 0;
+		font-size: 14px;
+	}
+}
