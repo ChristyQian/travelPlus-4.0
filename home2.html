@@ -9,6 +9,7 @@
 		<link type="text/css" rel="stylesheet" href="css/swiper-3.4.1.min.css">
 		<link type="text/css" rel="stylesheet" href="css/common.css">
 		<link type="text/css" rel="stylesheet" href="css/home.css">
+		<script src="https://unpkg.com/vue/dist/vue.js"></script>
 		<script src="js/swiper.min.js"></script>
 		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
 		<!-- flexbox fix for IE js -->
@@ -51,7 +52,7 @@
 			<!-- slider -->
 			<div class="swiper-container">
 			    <div class="swiper-wrapper">
-			        <div class="swiper-slide touchslider-item">
+			        <div class="swiper-slide">
 			        	<div class="sliderBg bg1"></div>
 						<div class="discount">
 							<div class="transparentBg"></div>
@@ -73,7 +74,7 @@
 							<button class="borderBtn">查看行程<i class="fa fa-long-arrow-right"></i></button>
 						</div>
 			        </div>
-			        <div class="swiper-slide touchslider-item">
+			        <div class="swiper-slide">
 			        	<div class="sliderBg bg2"></div>
 						<div class="discount">
 							<div class="transparentBg"></div>
@@ -95,7 +96,7 @@
 							<button class="borderBtn">查看行程<i class="fa fa-long-arrow-right"></i></button>
 						</div>
 			        </div>
-			        <div class="swiper-slide touchslider-item">
+			        <div class="swiper-slide">
 			        	<div class="sliderBg bg3"></div>
 						<div class="discount">
 							<div class="transparentBg"></div>
@@ -117,7 +118,7 @@
 							<button class="borderBtn">查看行程<i class="fa fa-long-arrow-right"></i></button>
 						</div>
 			        </div>
-			        <div class="swiper-slide touchslider-item">
+			        <div class="swiper-slide">
 			        	<div class="sliderBg bg4"></div>
 						<div class="discount">
 							<div class="transparentBg"></div>
@@ -139,7 +140,7 @@
 							<button class="borderBtn">查看行程<i class="fa fa-long-arrow-right"></i></button>
 						</div>
 			        </div>
-			        <div class="swiper-slide touchslider-item">
+			        <div class="swiper-slide">
 			        	<div class="sliderBg bg5"></div>
 						<div class="discount">
 							<div class="transparentBg"></div>
@@ -167,11 +168,13 @@
 			    </div>
 			  
 			</div>
-			<!-- video -->
+			<!-- video -->  
 			<div class="wrap">
-				<h2>别样自由团</h2>
+				<h2>TravelPlus别样自由团</h2>
 				<div class="videoWrap">
-					<video></video>
+					<video width="500" height="302">
+						<source src="http://v.youku.com/v_show/id_XMTg0NjAwMTAwOA==.html" type="video/mp4"></source>
+					</video>
 					<ul>
 						<li><i class="fa fa-long-arrow-right"></i>外籍导游和中方领队，带你融入当地</li>
 						<li><i class="fa fa-long-arrow-right"></i>结识有趣同龄伙伴，旅程更添精彩</li>
@@ -199,7 +202,7 @@
 								一路向北欧洲之旅 <br/>
 								伦敦 - 阿姆斯特丹 - 哥本哈根
 							</p>
-							<div class="graded">
+							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -228,7 +231,7 @@
 							<p>
 								城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
 							</p>
-							<div class="graded">
+							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -258,7 +261,7 @@
 								食在意大利 <br/>
 								里维埃拉 - 博洛尼亚- 维罗纳
 							</p>
-							<div class="graded">
+							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>

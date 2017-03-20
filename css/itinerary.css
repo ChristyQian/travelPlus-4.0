@@ -1,51 +1,419 @@
-@media screen and (max-width: 600px) {
-	.itinerary-visual {
-		height:240px;
-	}
+.site {
+	width:1160px;
+}
+.imagesWrap {
+	width:100%;
+	height:600px;
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-5.jpg') center center no-repeat;
+	background-size:cover;
+}
+.imagesWrap .site {
+	position:relative;	
+	height:600px;
+}
+.discount {
+	position: absolute;
+	top:-52px;
+	right:24px;
+}
+.tourInfo {
+	position:absolute;
+	left:0;
+	bottom:0;
+	width:461px;
+	height:223px;
+}
+.tourInfo .transparentBg {
+	width:inherit;
+	height: inherit;
+	background-color:#aed4e5;
+	filter:alpha(opacity=80);
+	opacity: 0.8;
+	mix-blend-mode: multiply;
+}
+.tourInfo .transparentTxt {
+	text-align:left;
+	padding:2em 4em 3em;
+	
+}
+.tourInfo .transparentTxt .yellowTxt,
+.tourInfo .transparentTxt .pinkTxt {
+	font-size:1.6em;
+}
 
-	.itinerary-image { 
-		height:240px; 
-	}
+.tourName {
+	font-size:3.6em;
+	line-height:3.6em;
+}
+.itineraryInfo {
+	width:1160px;
+	margin:0 auto;
+	background-color:#94c5db;
+	min-height:200px;
+	padding:0em 5.2em 5.2em;
+}
+.itineraryInfo .flex-row-start-around {
+	padding:2.4em 0;
+}
+.itineraryInfo .flex-row-start-around.itineraryBasicInfo {
+	border-bottom:1px solid rgba(255,255,255,0.5);
+}
+.itineraryInfo .flex1 {
+	align-self: flex-end;
+	font-size:2.4em;
+}
+.itineraryInfo .flex1:first-child {
+	padding-right:2em;
+}
+.itineraryInfo .flex1:last-child {
+	padding-left:2em;	
+}
+.itineraryLine {
+	color:#fff;
+}
+.itineraryLine .days {
+	line-height:2em;	
+}
+.itineraryLine .flex-row-start-between {
+	font-size:0.75em;
+}
+.itineraryLine .flex-row-start-between div,
+.itineraryLine .flex-row-start-between i {
+	align-self:flex-end;
+}
+.itineraryLine .flex-row-start-between i {
+	color:#231f20;
+	filter:alpha(opacity=50);
+	opacity: 0.5;
+}
+.itineraryLine .flex-row-start-between i:last-child {
+	display: none;
+}
+.itineraryLine+.flex-row-start-between div{
+	align-self: center;
+}
 
-	.itinerary-image ul { 
-		height:240px; 
-	}
+.priceWG {
+	color:#fff;
+	font-size:1.5em;
+}
+.priceWG span {
+	display:block;
+	font-size:14px;
+	color:#4a4a4a;
+	font-weight:lighter;
+	padding-left:0.5em;
+}
+.blueRBtn {
+	font-size:0.8em;
+}
+.itineraryHighLights .flex1 {
+	align-self: baseline;
+	font-weight:lighter;
+}
+.itineraryHighLights .tourGuide {
+	padding:1.5em 0;
+	line-height:1.5em;
+}
+.tourGuide {
+	color:#fff;
 
-	.itinerary-image li { 
-		height:240px; 
-	}
+}
+.hightLight h4 {
+	margin-bottom:20px;
+	font-size:1em;
+}
+.hightLight p {
+	font-size:0.7em;
+	line-height:2em;
+}
+/*****************************************/
+/*                Slider                 */
+/*****************************************/
+.itineraryPhoto.swiper-container {
+	width:1160px;
+	height:710px;
+	overflow:hidden;
+}
 
-	.itinerary-image li span { 
-		height:240px; 
-	}
+.itineraryPhoto .swiperBgWrap {
+	position:relative;
+	width:inherit;
+	height:652px;
+}
+.swiper-slide .slideBg {
+	display:block;
+	width:1196px;
+	height:652px;
+}
+.bg1 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/4.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bg2 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/3.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bg3 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bg4 {
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg') center center no-repeat;
+	background-size:cover;
+}
+.bgIntro,
+.hotelIntro {
+	position:absolute;
+	z-index:3;
+	width:inherit;
+	height:56px;
+	bottom:0;
+}
+.bgIntro .transparentBg,
+.hotelIntro .transparentBg {
+	width:inherit;
+	height:inherit;
+	background-color:#2F7899;
+	filter:alpha(opacity=50);
+	opacity:0.5;
+	/*mix-blend-mode: multiply;*/
+}
+.bgIntro .transparentTxt,
+.hotelIntro .transparentTxt {
+	text-align:left;
+	line-height: 56px;
+	padding:0 20px;
+	font-size:1.6em;
+	font-weight: lighter;
+}
+.swiper-slide .photoBy {
+	display: flex;
+	align-items: center;
+	padding:10px;
+}
+.swiper-slide .photoBy .imgWrap {
+	margin-right: 10px;
+}
+/*****************************************/
+/*             What's included           */
+/*****************************************/
+.blueIconBg {
+	width:100%;
+	min-height:200px;
+	background-color:#94c5db;
+	margin:30px 0;
+	padding:30px 30px 80px 30px;
+	color:#fff;
+}
+/*.blueIconBg h4 {
+	font-size:2.4em;
+	font-weight: lighter;	
+}*/
+.includedItems {
+	flex-flow: row wrap;
+}
+.includedItems div {
+	width:160px;
+	text-align: center;
+	align-items: baseline;
+	font-size: 1.6em;
+	font-weight: lighter;
+	margin:0 10px;
+}
+.includedItems div img {
+	display: flex;
+	margin:20px auto;
+	width: 50px;
+	height:50px;
+}
+/*****************************************/
+/*           Itinerary component         */
+/*****************************************/
+.itineraryIntro.flex-row-start-around {
+	align-items: center;
+}
+.initialScreen {
+	width: inherit;
+	height:435px;
+	overflow:hidden;
+	padding:20px 30px;
+}
+.initialScreen.expand {
+	overflow:visible;
+	height:auto;
+}
+.com_itinerary_summary {
+	border-left:1px dashed #94c5db;
+	padding-left:30px;
 
-	.itinerary-image li a { 
-		height:240px; 
-	}
+}
+.itinerary_daily_item {
+	padding-bottom:15px;
+}
 
-	.itinerary-daily {
-		padding: 20px;
-	}
+.itinerary_daily_title {
+	position:relative;
+	font-size: 1.6em;
+	padding-bottom:15px;
+	color:#94c5db;
+}
+.itinerary_daily_title label {
+	display:inline-block;
+	width:55.8px;
+}
+.itinerary_daily_title span {
+	color:#333;
+}
+.itemCircle {
+	position:absolute;
+	z-index:2;
+	width:16px;
+	height:16px;
+	border-radius:8px;
+	background-color:#94c5db;
+	left:-38px;
+}
+.itinarary_daily_detail {
+	font-size:1.4em;
+	/*font-weight:lighter;*/
+	line-height:2em;
+}
+.itineraryMap {
+	width: 580px;
+}
+.itineraryMap img {
+	display: flex;
+	width:inherit;
+	height: auto;
+}
+.itineraryIntro .borderBtn {
+	display: block;
+	width: 327px;
+	height: 48px;
+	border-radius:24px;
+	margin:40px auto;
+}
 
-	.itinerary-name h1 {
-		font-size: 20px;
-		line-height: 36px;
-		letter-spacing: 2px;
-	}
+/* etc, on coloring */
+h1 {
+  font-size: 7rem;
+  font-weight: 700;
+  letter-spacing: -1.25rem;
+}
+h1 span {
+  mix-blend-mode: multiply;
+}
+h1 span:nth-child(1) {
+  color: rgba(#AB1795, 0.75);
+}
+/* etc, on coloring */
+/*****************************************/
+/*           Itinerary Hotel             */
+/*****************************************/
+.hotels .swiper-container {
+	width:inherit;
+	height:580px;
+	overflow:hidden;
+}
+.hotels .swiper-slide {
+	width:560px;
+	height:560px;
+}
+.hotels .swiper-slide .slideBg {
+	display:block;
+	width:560px;
+	height:379px;
+	overflow: hidden;
+}
+.hotels .swiper-slide .slideBg.bg1 {
+	background:#efefef url('http://q-cc.bstatic.com/images/hotel/max1024x768/588/58883677.jpg') center center no-repeat;
+	background-size:cover;
+}
+.hotels .swiper-slide .slideBg.bg2 {
+	background:#efefef url('http://r-cc.bstatic.com/images/hotel/max1024x768/232/23227460.jpg') center center no-repeat;
+	background-size:cover;
+}
+.hotels .swiper-slide .slideBg.bg3 {
+	background:#efefef url('http://q-cc.bstatic.com/images/hotel/max1024x768/277/27790285.jpg') center center no-repeat;
+	background-size:cover;
+}
+.hotels .swiper-slide .slideBg.bg4 {
+	background:#efefef url('http://q-cc.bstatic.com/images/hotel/max1024x768/277/27790228.jpg') center center no-repeat;
+	background-size:cover;
+}
+.hotels .swiperBgWrap {
+	width:inherit;
+	height:379px;
+	position:relative;
+}
+.hotelDes {
+	font-size:1.6em;
+	font-weight:lighter;
+	padding:2.6rem 5.9rem 3.4rem 4rem;
+}
 
-	.itinerary-name h2 {
-		font-size: 16px;		
-		line-height: 32px;
-		letter-spacing: 1px;
-	}
-
-	.itinerary-name h3 {
-		font-size: 16px;		
-		line-height: 32px;		
-	}
-
-	.itinerary-price {
-		margin-left: 0;
-		font-size: 14px;
-	}
+.reviews .swiper-container {
+	width:inherit;
+	height:360px;
+	overflow:hidden;
+}
+.reviews .swiper-slide {
+	width:360px;
+	height:360px;
+}
+.blog {
+	padding-bottom:135px;
+}
+.blog h4 {
+	padding-bottom:20px;
+	border-bottom:1px solid #ddd;
+	margin-bottom:20px;
+}
+.salesWrap {
+	position:absolute;
+	z-index: 3;
+	width:320px;
+	left:460px;
+	bottom:0;
+}
+.salesWrap .com_dialog {
+	width: inherit;
+	height: auto;
+}
+.salesWrap .dialogWrap {
+	position:absolute;
+	height: auto;
+	background-color:#fff;
+	color:#4a4a4a;
+	font-weight:bold;
+	bottom:10px;
+	padding:18px;
+}
+.salesWrap .dialogWrap img {
+	margin-left:30px;
+}
+.salesWrap .dialog {
+	margin:0;
+}
+.salesWrap .dialogBelongTo {
+	border-top: 13px solid #fff;
+}
+.flight .swiper-slide {
+	padding:90px 100px;	
+}
+.flight .com_flightInfo {
+	width:inherit;
+}
+.flight .com_flightInfo .flex-row-start-around {
+	padding:15px 0;
+	font-size:19px;
+}
+.voyage {
+	font-size:12px;
+	font-weight:bold;
+}
+.flight .com_flightInfo .flex-row-start-around .flex1 span {
+	display:block;
+	font-size:14px;
 }
