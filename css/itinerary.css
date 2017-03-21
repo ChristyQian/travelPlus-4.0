@@ -293,7 +293,7 @@
 .itineraryMap img {
 	display: block;
 	width:inherit;
-	height: auto;
+	padding:20px;
 }
 .borderBtn.allItinerary {
 	display: block;
