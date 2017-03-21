@@ -97,7 +97,7 @@
 	display:block;
 	width:185px;
 	height:48px;
-	margin:10px auto;
+	margin:10px 0 10px 100px;
 	border:1px solid #fff;
 	color:inherit;
 	font-size:16px;
@@ -134,7 +134,9 @@
 	text-align:center;
 }
 .features .flex1 {margin:0 20px;}
-
+.features p {
+	text-align:left;
+}
 .wrap h4 {
 	padding:72px 0 30px;
 }
@@ -188,7 +190,6 @@
 		padding:20px;
 	}
 	.videoWrap {
-		width:inherit;
 		margin:2em;
 	}
 	.videoWrap ul {
@@ -216,8 +217,71 @@
 	}
 }
 @media screen and (max-width: 600px) {
-
+	.event .transparentTxt {
+		text-align:left;
+		padding-left:20px;
+	}
+	.recommand p {
+		padding-left:20px;
+	}
+	.recommand .borderBtn {
+		margin-left:20px;
+	}
+	.videoWrap {
+		height:auto;
+		margin-bottom:90px;
+	}
+	
+	.videoWrap video {
+		width:90%;
+		height:174px;
+		right:0;
+		top:inherit;
+		bottom:-70px;
+	}
+	.features {
+		width:inherit;
+		padding:10px;
+		padding-bottom:120px;
+	}
+	.flex-row-start-around.features {
+		flex-direction:column;
+		text-align:left;
+	}
+	.flex-row-start-around.features .iWrap,
+	.features p {
+		display:inline-block;
+		vertical-align: middle;
+	}
+	.features p {
+		display:inline-block;
+		width:60%;
+		margin-left:20px;
+		padding-top:20px;
+	}
+	.localGuide, 
+	.like-minded, 
+	.freeTime {
+		width:61px;
+		mix-blend-mode: luminosity;
+	}
+	.localGuide {
+		height:80px;
+	}
+	.like-minded {
+		background:url(../img/bV@2x.png) no-repeat;
+		background-size:cover;
+		height: 130px;
+		mix-blend-mode: luminosity;
+	}
+	.freeTime {
+		height:80px;
+	}
+	.wrap h4 {
+		padding:20px;
+	}
+	.yellowBtn {
+		width:80%;
+	}
 }
-@media screen and (max-width: 300px) {
 
-}

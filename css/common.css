@@ -67,9 +67,7 @@ footer ul {
 	padding-bottom:1.95em;
 	margin-bottom:2.25em;
 }
-.header-nav {
-	margin-bottom:0;
-}
+
 .wrap {
 	justify-content: flex-start;
 }
@@ -187,6 +185,7 @@ footer ul {
 /*****************************************/
 .header-nav {
 	padding:40px 0 36px;
+	margin-bottom:0;
 }
 .header-nav li,
 footer ul li {
@@ -356,9 +355,13 @@ h4 {
 }
 .discount .transparentTxt {
 	font-size:10px;
-	padding-top:29px;
+	padding-top:19px;
 	font-weight:lighter;
-	line-height: normal;
+	line-height: 1.5em;
+}
+.quoBg .discount .transparentTxt {
+	padding-top:35px;
+	line-height: 1.5em;
 }
 .discount .transparentTxt p {
 	font-size: 16px;
@@ -507,7 +510,7 @@ h4 {
 	background-color:#f5a623;
 	filter:alpha(opacity=80);
 	opacity:0.8;
-	padding:125px 0 91px;
+	padding:50px 0 91px;
 	margin:50px auto;
 }
 .quotation {
@@ -542,6 +545,8 @@ h4 {
 	right:32px;
 	z-index:3;
 	mix-blend-mode: multiply;
+	width:129px;
+	height:129px;
 }
 .quoInfo {
 	position:absolute;
@@ -721,6 +726,9 @@ footer .flex-row-center-start .flexAuto p {
 	.header-nav li, 
 	footer ul li {
 		margin:0;
+	}
+	.wrap h4 {
+		padding:20px;
 	}
 }
 
