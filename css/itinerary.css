@@ -236,14 +236,15 @@
 /*****************************************/
 /*           Itinerary component         */
 /*****************************************/
-.itineraryIntro.flex-row-start-around {
-	align-items: center;
+.itineraryIntro {
+	overflow:hidden;
 }
 .initialScreen {
 	width: inherit;
 	height:435px;
 	overflow:hidden;
 	padding:20px 30px;
+	margin-bottom:50px
 }
 .initialScreen.expand {
 	overflow:visible;
@@ -286,19 +287,20 @@
 	line-height:2em;
 }
 .itineraryMap {
+	float:right;
 	width: 580px;
 }
 .itineraryMap img {
-	display: flex;
+	display: block;
 	width:inherit;
 	height: auto;
 }
-.itineraryIntro .borderBtn {
+.borderBtn.allItinerary {
 	display: block;
 	width: 327px;
 	height: 48px;
 	border-radius:24px;
-	margin:40px auto;
+	margin:0px auto 40px;
 }
 
 /* etc, on coloring */

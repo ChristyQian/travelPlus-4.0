@@ -279,9 +279,11 @@
 		<!-- Itinerary -->	
 		<div class="site">
 			<h4>行程安排</h4>
-			<div class="flex-row-start-around itineraryIntro section">
-				<div class="flex1">
-					<div class="initialScreen">
+			<div class="itineraryIntro section">
+					<div class="itineraryMap">
+						<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/jewels-of-alpine-europe.jpg"  />
+					</div>
+					<div class="initialScreen">						
 						<div class="com_itinerary_summary">
 							<div class="itinerary_daily_item">						
 								<div>
@@ -298,7 +300,6 @@
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div class="itemCircle"></div>
 								<div>
 									<div class="itinerary_daily_title">
 										<div class="itemCircle"></div>
@@ -330,7 +331,6 @@
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div class="itemCircle"></div>
 								<div>
 									<div class="itinerary_daily_title">
 										<div class="itemCircle"></div>
@@ -361,7 +361,6 @@
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div class="itemCircle"></div>
 								<div>
 									<div class="itinerary_daily_title">
 										<div class="itemCircle"></div>
@@ -392,7 +391,6 @@
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div class="itemCircle"></div>
 								<div>
 									<div class="itinerary_daily_title">
 										<div class="itemCircle"></div>
@@ -423,7 +421,6 @@
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div class="itemCircle"></div>
 								<div>
 									<div class="itinerary_daily_title">
 										<div class="itemCircle"></div>
@@ -439,15 +436,9 @@
 								</div>
 							</div>
 						</div>						
-					</div>
-					<button class="borderBtn allItinerary">全部行程</button>
-				</div>
-				<div class="flex1">
-					<div class="itineraryMap">
-						<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/jewels-of-alpine-europe.jpg"  />
-					</div>
-				</div>
+					</div>				
 			</div>
+			<button class="borderBtn allItinerary">全部行程</button>
 		</div>
 		
 		<!-- Hotels -->	
@@ -1004,6 +995,7 @@
 			<p>&copy;Signum International S.a r.l Luxembourg Luzern Branch, EF英孚教育旗下公司，版权所有。</p>
 		</div>
 		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
+		<script src="js/sticky.min.js"></script>
 		<script src="js/jquery.lettering-0.6.1.min.js"></script>
 		<script src="js/swiper.min.js"></script>
 		<script>      
@@ -1045,7 +1037,8 @@
 		    	}
 		    });
 		    /* initial transparency Txt */
-		    $(".transparentBg").lettering();
+//		    $(".transparentBg").lettering();
+			$(".itineraryMap").stick_in_parent();
 		</script>
 	</body>
 </html>

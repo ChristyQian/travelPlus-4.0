@@ -50,6 +50,7 @@ a:hover {
 li {
 	list-style: none;
 }
+input,button,select,textarea{outline:none;}
 /*****************************************/
 /*                Flex Display           */
 /*****************************************/
