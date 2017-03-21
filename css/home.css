@@ -69,6 +69,7 @@
 	background-color:#f6a623;
 	filter:alpha(opacity=50);
 	opacity:0.5;
+	mix-blend-mode: multiply;
 }
 .event .transparentTxt {
 	text-align:center;
@@ -127,6 +128,13 @@
 /*****************************************/
 /*                Vedio                  */
 /*****************************************/
+.features {
+	width:600px;
+	padding:50px 0 50px 80px;
+	text-align:center;
+}
+.features .flex1 {margin:0 20px;}
+
 .wrap h2 {
 	padding:72px 0 30px;
 }

@@ -51,6 +51,9 @@ li {
 	list-style: none;
 }
 input,button,select,textarea{outline:none;}
+i {
+	display:inline-block;
+}
 /*****************************************/
 /*                Flex Display           */
 /*****************************************/
@@ -207,6 +210,28 @@ footer ul li {
 .Oval {
   background-color: #f4af39;
   border: solid 1px #ffffff;
+}
+.localGuide,
+.like-minded,
+.freeTime {
+	mix-blend-mode: multiply;
+	height:110px;
+}
+.localGuide {
+	width:83px;
+	background:url(../img/a.png) no-repeat;
+	background-size:cover;
+	
+}
+.like-minded {
+	width:129px;
+	background:url(../img/b.png) no-repeat;
+	background-size:cover;
+}
+.freeTime {
+	width:83px;
+	background:url(../img/c.png) no-repeat;
+	background-size:cover;
 }
 /*****************************************/
 /*                Button                 */
