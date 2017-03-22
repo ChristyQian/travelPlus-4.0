@@ -72,10 +72,11 @@
 	mix-blend-mode: multiply;
 }
 .event .transparentTxt {
-	text-align:center;
+	text-align:left;
 	color:#fff;
 	padding-top:23px;
 	font-size:1.8em;
+	padding-left: 100px;
 }
 .recommand {
 	position:absolute;
@@ -179,9 +180,7 @@
 /*                Media query            */
 /*****************************************/
 @media screen and (max-width:1196px) {
-	.swiper-container,
-	.touchslider-item,
-	.touchslider-item .sliderBg {
+	.swiper-container {
 		width:100%;
 	}
 }
@@ -190,20 +189,19 @@
 		padding:20px;
 	}
 	.videoWrap {
-		margin:2em;
-	}
-	.videoWrap ul {
-		padding:1.3em 1.5em 1.8em;
-		line-height:1.8em;
+		margin:1em;
 	}
 	.videoWrap video {
-		width:70%;
-		height:70%;
+		width:40%;
+		height:80%;
 		right:0;
-		top:40%;
+		top:10%;
 	}
 	.home-trip-box {
 		margin:20px;
+	}
+	.features {
+		padding-left:20px;
 	}
 }
 @media screen and (max-width:800px) {			
@@ -244,10 +242,7 @@
 		padding:10px;
 		padding-bottom:120px;
 	}
-	.flex-row-start-around.features {
-		flex-direction:column;
-		text-align:left;
-	}
+
 	.flex-row-start-around.features .iWrap,
 	.features p {
 		display:inline-block;
@@ -255,31 +250,11 @@
 	}
 	.features p {
 		display:inline-block;
-		width:60%;
+		width:55%;
 		margin-left:20px;
 		padding-top:20px;
 	}
-	.localGuide, 
-	.like-minded, 
-	.freeTime {
-		width:61px;
-		mix-blend-mode: luminosity;
-	}
-	.localGuide {
-		height:80px;
-	}
-	.like-minded {
-		background:url(../img/bV@2x.png) no-repeat;
-		background-size:cover;
-		height: 130px;
-		mix-blend-mode: luminosity;
-	}
-	.freeTime {
-		height:80px;
-	}
-	.wrap h4 {
-		padding:20px;
-	}
+	
 	.yellowBtn {
 		width:80%;
 		margin-top:20px;

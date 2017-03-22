@@ -9,9 +9,9 @@
 		<link type="text/css" rel="stylesheet" href="css/swiper-3.4.1.min.css">
 		<link type="text/css" rel="stylesheet" href="css/common.css">
 		<link type="text/css" rel="stylesheet" href="css/itinerary.css">
+		<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
 		<!--<script src="https://unpkg.com/vue/dist/vue.js"></script>-->
 		<script src="js/swiper.min.js"></script>
-		<script src="js/jquery-1.7.1.min.js"></script>
 		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
 		<!-- flexbox fix for IE js -->
 		<script src="js/flexibility-master/flexibility.min.js"></script>
@@ -137,7 +137,7 @@
 			</div>
 		</div>
 		<!-- Swiper -->			
-		<div class="wrap">
+		<div class="section">
 			<div class="itineraryPhoto swiper-container">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
@@ -215,7 +215,7 @@
 			</div>
 		</div>
 		<!-- Include -->
-		<div class="wrap blueIconBg">
+		<div class="section blueIconBg">
 			<div class="site">
 				<h4>价格包含</h4>
 				<div class="includedItems flex-row-start-start section">
@@ -754,7 +754,7 @@
 		</div>
 		
 		<!-- Get a personalized quotation -->
-		<div class="wrap quoBg">
+		<div class="section quoBg">
 			<div class="quotation">
 				<h4>自定义价格</h4>
 				<div class="quotationBg"></div>
@@ -832,10 +832,10 @@
 		<!-- More trips like this -->
 		<div class="site">
 			<!-- trips -->
-			<div class="flex-col-skretch-start wrap">
+			<div class="section">
 				<h4>当季精选</h4>
-				<div class="section flex-row-start-between">
-					<div class="home-trip-box flex-col-center-start wrap">
+				<div class="flex-row-start-between">
+					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
 							<div class="hotSale">
@@ -865,7 +865,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="home-trip-box flex-col-center-start wrap">
+					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
 							<div class="hotSale">
@@ -894,7 +894,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="home-trip-box flex-col-center-start wrap">
+					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/3.jpg" alt="" />
 							<div class="hotSale">
@@ -998,12 +998,10 @@
 			<p>ICP 粵B2-20060734 广州英培商务咨询有限公司</p>
 			<p>&copy;Signum International S.a r.l Luxembourg Luzern Branch, EF英孚教育旗下公司，版权所有。</p>
 		</div>
-		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
+		<script src="js/jquery-1.7.1.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-		<script src="js/jquery.lettering-0.6.1.min.js"></script>
-		<script src="js/swiper.min.js"></script>
 		<script>      
-		    var swiper1 = new Swiper('.swiper-container', {
+		    var swiper1 = new Swiper('.itineraryPhoto.swiper-container', {
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true
 		    });  

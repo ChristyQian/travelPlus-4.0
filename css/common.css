@@ -381,14 +381,11 @@ h4 {
 }
 .home-trip-box {
 	position: relative;
-	overflow: hidden;
-	width: 360px;
-	flex: 1 0 280px;	
-	background-color: #fff;
-	min-height: 350px;	
+	flex: 0 1 380px;	
+	background-color: #fff;	
 }
 .imgWrap {
-	width:inherit;
+	width:100%;
 	height:248px;
 	position:relative;
 }
@@ -403,8 +400,9 @@ h4 {
 	width: 100%;	
 }
 .hotSale {
-	width:inherit;
+	width:100%;
 	height:56px;
+	oveflow
 }
 .hotSale .transparentBg {
 	width: inherit;
@@ -423,7 +421,7 @@ h4 {
 	font-size:14px;
 }
 .agendaWrap {
-	width:inherit;
+	width:100%;
 	height:160px;
 	background-color:#f7f5f0;
 	font-size:16px;
@@ -652,92 +650,3 @@ footer .flex-row-center-start .flexAuto p {
 	font-size:14px;
 	color:#4a4a4a;
 }
-/*****************************************/
-/*                  Wrap                 */
-/*****************************************/
-/* ipad horizontal - 15inch pc */
-@media screen and (max-width:1024px) {
-  .wrap {  	
-    min-width: 768px;
-    width: 100%;
-    margin: 0 auto;
-    padding: 0;  
-  }
-}
-
-/* iphone6p - ipad horizontal */
-@media screen and (max-width: 768px) {
-  .wrap {
-    min-width: 420px;
-    width: 100%;
-    margin: 0 auto;
-    padding: 0;
-    }
-}
-
-/* min - iphone6p */
-@media screen and (max-width: 420px) {
-  .wrap {
-    min-width: inherit;
-    width: inherit;
-    margin: 0 auto;
-    padding: 0;  
-    }
-}
-/*****************************************/
-/*                Media query            */
-/*****************************************/
-@media screen and (max-width:1196px) {
-	.site {
-		width:100%;
-		overflow:hidden;
-	}
-	.header-nav {
-		padding:20px;
-	}
-}
-@media screen and (max-width:1024px) {
-	.header {
-		width:inherit;
-		padding:0 20px;
-	}
-
-	.flex-row-end-between {
-		align-items:center;
-	}
-} 
-@media screen and (max-width: 800px) {
-	.header-logo img {
-		width: 250px;
-		height: 50px;
-		margin: 10px 0;
-		margin-top:0;
-	}
-	.header .borderBtn,
-	.header .hotline {
-		display:none;
-	}	
-}
-@media screen and (max-width: 600px) {
-	.header {
-		padding: 0 20px !important;
-	}
-	.header-logo img {
-		width: 200px;
-		height: 40px;
-		margin: 10px 0;
-	}
-	.header-nav,
-	footer ul {
-		justify-content:space-between;
-	}
-	.header-nav li, 
-	footer ul li {
-		margin:0;
-	}
-	.wrap h4 {
-		padding:20px;
-	}
-}
-
-
