@@ -549,8 +549,19 @@
 	.itineraryMap img {
 		padding:0;
 	}
+	.blueIconBg {
+		padding:20px;
+	}
+	.blueIconBg .site h4 {
+		font-size:20px;
+		margin-top:0;
+	}
+	.blueIconBg .section {
+		padding:0;
+	}
 	.includedItems div {
-		flex:1 1 90px;
+		flex:0 1 120px;
+		font-size:12px;
 	}
 	.borderBtn.allItinerary {
 		width:300px;
