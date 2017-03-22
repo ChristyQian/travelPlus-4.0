@@ -235,6 +235,13 @@ footer ul li {
 	background:url(../img/c.png) no-repeat;
 	background-size:cover;
 }
+.grounp2 {
+	display:inline-block;
+	width:14px;
+	height:11px;
+	background:url(../img/group-2.svg) no-repeat;
+	background-size:cover;
+}
 /*****************************************/
 /*                Button                 */
 /*****************************************/
@@ -375,7 +382,7 @@ h4 {
 .home-trip-box {
 	position: relative;
 	overflow: hidden;
-	width: 280px;
+	width: 360px;
 	flex: 1 0 280px;	
 	background-color: #fff;
 	min-height: 350px;	
