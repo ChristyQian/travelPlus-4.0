@@ -57,6 +57,9 @@ i {
 /*****************************************/
 /*                Flex Display           */
 /*****************************************/
+.ibWrap {
+	display:inline-block;
+}
 .header-nav,
 footer ul {
 	display:flex;
@@ -67,7 +70,6 @@ footer ul {
 	padding-bottom:1.95em;
 	margin-bottom:2.25em;
 }
-
 .wrap {
 	justify-content: flex-start;
 }
@@ -315,6 +317,7 @@ footer ul {
 }
 h4 {
 	font-size:2.4em;
+	margin-top:99px;
 }
 .notes {
 	font-size:1.6em;
@@ -372,8 +375,8 @@ h4 {
 .home-trip-box {
 	position: relative;
 	overflow: hidden;
-	width: 360px;
-	flex: 1 0 360px;	
+	width: 280px;
+	flex: 1 0 280px;	
 	background-color: #fff;
 	min-height: 350px;	
 }
@@ -400,9 +403,7 @@ h4 {
 	width: inherit;
 	height: inherit;
 	background-color: #94c5db;
-	filter:alpha(opacity=80);
 	mix-blend-mode: multiply;
-	opacity:0.8;
 	bottom:0;
 }
 .hotSale .transparentTxt {
@@ -670,8 +671,8 @@ footer .flex-row-center-start .flexAuto p {
 /* min - iphone6p */
 @media screen and (max-width: 420px) {
   .wrap {
-    min-width: 320px;
-    width: 100%;
+    min-width: inherit;
+    width: inherit;
     margin: 0 auto;
     padding: 0;  
     }

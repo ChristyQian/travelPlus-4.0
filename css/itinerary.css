@@ -90,7 +90,7 @@
 	display: none;
 }
 .itineraryLine+.flex-row-start-between div{
-	align-self: center;
+	align-self: flex-end;
 }
 
 .priceWG {
@@ -98,7 +98,8 @@
 	font-size:1.5em;
 }
 .priceWG span {
-	display:block;
+	display:inline-block;
+	vertical-align:baseline;
 	font-size:14px;
 	color:#4a4a4a;
 	font-weight:lighter;
@@ -122,6 +123,7 @@
 .hightLight h4 {
 	margin-bottom:20px;
 	font-size:1em;
+	margin-top:0;
 }
 .hightLight p {
 	font-size:0.7em;
@@ -417,19 +419,49 @@ h1 span:nth-child(1) {
 }
 .flight .swiper-slide {
 	padding:90px 100px;	
+	background-color: #f0f2f4;
+	
+}
+.flight .swiper-slide:nth-child(odd) {
+	background-color:#f7f5f1;
 }
 .flight .com_flightInfo {
-	width:inherit;
+	border-bottom:1px solid #fff;
+	margin-bottom: 20px;
 }
-.flight .com_flightInfo .flex-row-start-around {
+.flight .swiper-slide .com_flightInfo:last-child {
+	border-bottom:none;
+}
+.flight .com_flightInfo .flex-row-start-between {
 	padding:15px 0;
 	font-size:19px;
+}
+.flight .ibWrap {
+	font-size:1.9em;
+}
+.flight .ibWrap div {
+	display:inline-block;
+	margin-right:20px;
+}
+.flight .ibWrap div:after {
+	content: " ";
+	display:inline-block;
+	width:4px;
+	height:4px;
+	vertical-align:middle;
+	border-radius:2px;
+	background-color:#fff;
+	margin-left:20px;
+}
+.flight .ibWrap div:last-child:after {
+	display:none;
 }
 .voyage {
 	font-size:12px;
 	font-weight:bold;
+	margin-bottom:16px;
 }
-.flight .com_flightInfo .flex-row-start-around .flex1 span {
+.flight .com_flightInfo .flex-row-start-between div span {
 	display:block;
 	font-size:14px;
 }
