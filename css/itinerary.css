@@ -221,7 +221,7 @@
 	flex-flow: row wrap;
 }
 .includedItems div {
-	width:160px;
+	flex:0 1 160px;
 	text-align: center;
 	align-items: baseline;
 	font-size: 1.6em;
@@ -465,16 +465,74 @@
 @media screen and (max-width: 768px) {
 	
 }
-@media screen and (max-width: 420px) {
-	.itineraryMap {
+@media screen and (max-width: 420px) {	
+	.tourInfo {
+		width:100%;
+		height:152px;
+	}
+	.tourInfo .transparentTxt {
+		padding:20px;
+	}
+	.tourInfo .flex-row-start-between {
+		flex-direction: row;
+		margin-top:30px;
+	}
+	.tourName {
+		font-size:24px;
+		line-height:24px;
+	}
+	.itineraryInfo {
+		width:100%;
+		padding: 10px;
+	}
+	.itineraryInfo .flex-row-start-around {
+		padding:10px;
+	}
+	.itineraryInfo .flex-row-start-around.itineraryBasicInfo {
+		border-bottom:none;
+	}
+	.itineraryInfo .flex-row-start-around.itineraryBasicInfo,
+	.flex-row-start-around.itineraryHighLights {
+		flex-direction: column;
+	}
+	.itineraryInfo .flex-row-start-around.itineraryBasicInfo .flex-row-start-between {
+		flex-direction: row;
+	}
+	.itineraryInfo .flex1:first-child {
+		padding-right:0;
+	}
+	.itineraryInfo .flex1.itineraryLine {
+		align-self: stretch;
+		margin-bottom:10px;
+		border-bottom:1px solid rgba(255,255,255,0.5);
+		padding-bottom:10px;
+	}
+	.itineraryInfo .flex1.itineraryLine+.flex-row-start-between {
+		align-self: stretch;
+	}
+	.itineraryInfo .flex1:last-child {
+		padding-left:0;
+	}
+	.itineraryLine+.flex-row-start-between div.priceWG {
 		
+	}
+	.blueRBtn {
+		width:144px;
+		font-size:14px;
+	}
+	.priceWG {
+		font-size:24px;
 	}
 	.notes {
 		font-size:1.4em;
 		line-height:1.8em;
 	}
-	.hotels .swiper-slide { 
+	.hotels .swiper-slide，
+	.hotelDes { 
 		width:302px;
+	}
+	.hotelDes {
+		padding:10px;
 	}
 	.reviews .swiper-slide {
 		width:295px;
@@ -482,7 +540,7 @@
 	.flight .swiper-container {
 		width:330px;
 	}
-	.flight .swiper-slide { 
+	.flight .autoWrapper { 
 		width:330px;
 	}
 	.quotation {
@@ -490,5 +548,20 @@
 	} 
 	.itineraryMap img {
 		padding:0;
+	}
+	.includedItems div {
+		flex:1 1 90px;
+	}
+	.borderBtn.allItinerary {
+		width:300px;
+	}
+	.tourGuide .serif {
+		font-size:18px;
+	}
+	.site .hightLight h4 {
+		padding:0;
+	}
+	.site .hightLight p {
+		font-size:14px;
 	}
 }

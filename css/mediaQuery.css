@@ -4,7 +4,7 @@
 @media screen and (max-width:1196px) {
 	.site {
 		width:100%;
-		overflow:hidden;
+		/*overflow:hidden;*/
 	}
 	.header-nav {
 		padding:20px;
@@ -34,12 +34,12 @@
 
 /* iphone6p - ipad horizontal */
 @media screen and (max-width: 768px) {
-  .wrap {
+  /*.wrap {
     min-width: 420px;
     width: 100%;
     margin: 0 auto;
     padding: 0;
-    }
+    }*/
     	.header-logo img {
 		width: 250px;
 		height: 50px;
@@ -57,7 +57,7 @@
 /* min - iphone6p */
 @media screen and (max-width: 420px) {
   	.site {
-  		width:330px;
+  		width:100%;
   	}
     .flex-row-start-between {
     	
