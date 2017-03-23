@@ -46,7 +46,6 @@
 	line-height:3.6em;
 }
 .itineraryInfo {
-	width:1160px;
 	margin:0 auto;
 	background-color:#94c5db;
 	min-height:200px;
@@ -138,7 +137,7 @@
 /*                Slider                 */
 /*****************************************/
 .itineraryPhoto.swiper-container {
-	width:1160px;
+	width:inherit;
 	height:710px;
 	overflow:hidden;
 	margin-top:-30px;
@@ -151,8 +150,9 @@
 }
 .itineraryPhoto .swiper-slide .slideBg {
 	display:block;
-	width:1196px;
+	width:inherit;
 	height:652px;
+	overflow:hidden;
 }
 .bg1 {
 	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/4.jpg') center center no-repeat;
@@ -457,35 +457,12 @@
 	width:inherit;
 }
 @media screen and (max-width:1024px) {
-	
+	.flight .swiper-slide {
+		padding:40px 50px 20px;	
+	}
 }
 @media screen and (max-width: 768px) {
-	
-}
-@media screen and (max-width: 420px) {	
-	.imagesWrap {
-		width:100%;
-		height:259px;
-	}
-	.imagesWrap .site {
-		height:259px;
-	}
-	.tourInfo {
-		width:100%;
-		height:152px;
-	}
-	.tourInfo .transparentTxt {
-		padding:20px;
-	}
-	.tourInfo .flex-row-start-between {
-		flex-direction: row;
-		margin-top:30px;
-	}
-	.tourName {
-		font-size:24px;
-		line-height:24px;
-	}
-	.itineraryInfo {
+.itineraryInfo {
 		width:100%;
 		padding: 10px;
 	}
@@ -495,10 +472,10 @@
 	.itineraryInfo .flex-row-start-around.itineraryBasicInfo {
 		border-bottom:none;
 	}
-	.itineraryInfo .flex-row-start-around.itineraryBasicInfo,
-	.flex-row-start-around.itineraryHighLights {
+	.itineraryInfo .flex-row-start-around.itineraryBasicInfo {
 		flex-direction: column;
 	}
+	.flex-row-start-around.itineraryHighLights,
 	.itineraryInfo .flex-row-start-around.itineraryBasicInfo .flex-row-start-between {
 		flex-direction: row;
 	}
@@ -531,9 +508,34 @@
 		font-size:1.4em;
 		line-height:1.8em;
 	}
-	.itineraryPhoto .swiper-slide .slideBg {
+}
+@media screen and (max-width: 420px) {	
+	.imagesWrap {
 		width:100%;
+		height:259px;
 	}
+	.imagesWrap .site {
+		height:259px;
+	}
+	.tourInfo {
+		width:100%;
+		height:152px;
+	}
+	.tourInfo .transparentTxt {
+		padding:20px;
+	}
+	.tourInfo .flex-row-start-between {
+		flex-direction: row;
+		margin-top:30px;
+	}
+	.tourName {
+		font-size:24px;
+		line-height:24px;
+	}
+	.flex-row-start-around.itineraryHighLights {
+		flex-direction: column;
+	}
+	
 	.itineraryPhoto.swiper-container,
 	.itineraryPhoto .swiper-slide .slideBg,
 	.itineraryPhoto .swiperBgWrap {

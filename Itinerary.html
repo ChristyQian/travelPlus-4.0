@@ -137,7 +137,7 @@
 			</div>
 		</div>
 		<!-- Swiper -->			
-		<div class="section">
+		<div class="site">
 			<div class="itineraryPhoto swiper-container">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
@@ -444,7 +444,7 @@
 		</div>
 		
 		<!-- Hotels -->	
-		<div class="site hotels resize">
+		<div class="site hotels">
 			<h4>精选酒店</h4>
 			<p class="notes">以下是我们的备选酒店，入住视具体情况而定。</p>
 			<div class="swiper-container">
@@ -517,7 +517,7 @@
 		</div>
 		
 		<!-- Flight -->
-		<div class="site flight resize">
+		<div class="site flight">
 			<h4>航班信息</h4>
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
@@ -1010,6 +1010,10 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        breakpoints: { 
+		        		//当宽度小于等于1024
+		        		1024:{
+		        			width:980
+		        		},
 				    //当宽度小于等于420
 				    420: {
 				    	  width:420,
@@ -1026,6 +1030,11 @@
 		        slidePreview:2,
 		        spaceBetween: 20,
 		        breakpoints: { 
+		        		//当宽度小于等于1024
+		        		1024:{
+		        			width:460
+		        			
+		        		},
 				    //当宽度小于等于420
 				    420: {
 				    	  width:302,
@@ -1060,6 +1069,11 @@
 		        slidesOffsetBefore : -280,
 		        slidesOffsetAfter : 280,
 		        breakpoints: { 
+		        		//当宽度小于等于1024
+		        		1024:{
+		        			width:460
+		        			
+		        		},
 				    //当宽度小于等于420
 				    420: {
 				    	  width:300,
