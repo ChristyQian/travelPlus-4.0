@@ -149,7 +149,7 @@
 	width:inherit;
 	height:652px;
 }
-.swiper-slide .slideBg {
+.itineraryPhoto .swiper-slide .slideBg {
 	display:block;
 	width:1196px;
 	height:652px;
@@ -332,7 +332,7 @@
 }
 .hotels .swiper-slide .slideBg {
 	display:block;
-	width:560px;
+/*	width:560px;*/
 	height:379px;
 	overflow: hidden;
 }
@@ -362,16 +362,10 @@
 	font-weight:lighter;
 	padding:2.6rem 5.9rem 3.4rem 4rem;
 }
-
-.reviews .swiper-container {
-	width:inherit;
-	height:360px;
-	overflow:hidden;
-}
-.reviews .swiper-slide {
+/*.reviews .swiper-slide {
 	width:360px;
 	height:360px;
-}
+}*/
 .blog {
 	padding-bottom:135px;
 }
@@ -413,7 +407,6 @@
 	bottom:0;
 }
 .flight .swiper-slide {
-	width:560px;
 	padding:60px 100px 30px;	
 	background-color: #f0f2f4;
 }
@@ -459,6 +452,9 @@
 .flight .com_flightInfo .flex-row-start-between div span {
 	display:block;
 	font-size:14px;
+}
+.reviews .com_dialog {
+	width:inherit;
 }
 @media screen and (max-width:1024px) {
 	
@@ -535,21 +531,36 @@
 		font-size:1.4em;
 		line-height:1.8em;
 	}
-	.hotels .swiper-slide，
-	.hotelDes { 
-		width:302px;
+	.itineraryPhoto .swiper-slide .slideBg {
+		width:100%;
+	}
+	.itineraryPhoto.swiper-container,
+	.itineraryPhoto .swiper-slide .slideBg,
+	.itineraryPhoto .swiperBgWrap {
+		height:260px;
+	}
+	.hotels .swiper-container {
+		height:360px;
+	}
+	.hotels .swiperBgWrap,
+	.hotels .swiper-slide .slideBg {
+		height:220px;
 	}
 	.hotelDes {
 		padding:10px;
+		font-size: 12px;
 	}
-	.reviews .swiper-slide {
-		width:295px;
+	.flight .swiper-slide {
+		padding:10px;
 	}
-	.flight .swiper-container {
-		width:330px;
+	.flight .ibWrap {
+		font-size:16px;
 	}
-	.flight .autoWrapper { 
-		width:330px;
+	.flight .com_flightInfo .flex-row-start-between {
+		padding:10px 0;
+	}
+	.flight .flex-row-start-between {
+		flex-direction: row;
 	}
 	.quotation {
 		width:320px;

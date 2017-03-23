@@ -26,8 +26,8 @@
 	position:relative;
 }
 .swiper-slide .sliderBg {
-	display:block;
 	width:1196px;
+	display:block;
 	height:496px;
 	background-size:cover;
 }
@@ -193,7 +193,7 @@
 	}
 	.videoWrap video {
 		width:40%;
-		height:80%;
+		height:8;
 		right:0;
 		top:10%;
 	}

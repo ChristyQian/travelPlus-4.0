@@ -40,10 +40,6 @@
     margin: 0 auto;
     padding: 0;
     }*/
-   .discount {
-		right:21px;
-		top:21px;
-	}
     	.header-logo img {
 		width: 250px;
 		height: 50px;
@@ -60,10 +56,18 @@
 }
 /* min - iphone6p */
 @media screen and (max-width: 420px) {
+	.swiper-slide .sliderBg {
+		width:100%;
+	}
+	.discount {
+		right:21px;
+		top:21px;
+	}
   	.site {
   		width:100%;
   	}
-  	.section h4 {
+  	.section h4,
+  	.site h4 {
   		font-size:20px;
   		padding:20px;
   		margin:0;
@@ -86,9 +90,6 @@
 	.header-nav li, 
 	footer ul li {
 		margin:0;
-	}
-	.wrap h4 {
-		padding:20px;
 	}
 	.flex-row-start-between {
 		flex-direction: column;
@@ -115,9 +116,6 @@
 	}
 	.freeTime {
 		height:80px;
-	}
-	.site h4 {
-		padding:20px;
 	}
 	.itineraryMap {
 		float:none;

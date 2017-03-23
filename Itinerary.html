@@ -1006,34 +1006,69 @@
 		<script src="js/sticky.min.js"></script>
 		<script>      
 		    var swiper1 = new Swiper('.itineraryPhoto.swiper-container', {
+		    		autoplay: 5000,
 		        pagination: '.swiper-pagination',
-		        paginationClickable: true
+		        paginationClickable: true,
+		        breakpoints: { 
+				    //当宽度小于等于420
+				    420: {
+				    	  width:420,
+				      slidesPerView: 1,
+				      spaceBetweenSlides: 10
+				    }
+				}
 		    });  
 		    var swiper2 = new Swiper('.hotels .swiper-container', {
+		    		autoplay: 5000,
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        width:560,
 		        slidePreview:2,
-		        spaceBetween: 20
+		        spaceBetween: 20,
+		        breakpoints: { 
+				    //当宽度小于等于420
+				    420: {
+				    	  width:302,
+				      slidesPerView: 1,
+				      spaceBetweenSlides: 10
+				    }
+				}
 		    }); 
 		    var swiper3 = new Swiper('.reviews .swiper-container', {
+		    		autoplay: 5000,
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        width:360,
 		        slidePreview:3,
 		        spaceBetween: 40,
-		        onAfterResize: function(swiper){
-			      width:100
-			    }
+		        breakpoints: { 
+				    //当宽度小于等于420
+				    420: {
+				    	  width:295,
+				      slidesPerView: 1,
+				      spaceBetweenSlides: 10
+				    }
+				}
 		    }); 
 		    var swiper4 = new Swiper('.flight .swiper-container',{
+		    		autoplay: 5000,
 		    		pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
 		        slidesOffsetBefore : -280,
-		        slidesOffsetAfter : 280
+		        slidesOffsetAfter : 280,
+		        breakpoints: { 
+				    //当宽度小于等于420
+				    420: {
+				    	  width:300,
+				      slidesPerView: 1,
+				      spaceBetweenSlides: 10,
+				      slidesOffsetBefore : 10,
+		        		  slidesOffsetAfter : 0
+				    }
+				  }
 		    });
 		    $('.allItinerary').click(function(){
 		    	if($('.initialScreen').hasClass('expand')){
