@@ -325,6 +325,7 @@ footer ul {
 h4 {
 	font-size:2.4em;
 	margin-top:99px;
+	line-height:2.4em;
 }
 .notes {
 	font-size:1.6em;
@@ -422,6 +423,28 @@ h4 {
 	justify-content: space-between;
 	align-items: center;
 	font-size:14px;
+}
+.home-trip-box.earlyBird .hotSale {
+	height:248px;
+}
+.earlyBirdDiscount {
+	font-size:1.8em;
+	height:59px;
+	line-height:59px;
+	color:#fff;
+	background-color:#f6a623;
+	padding:0 20px;
+	text-align:center;
+}
+.home-trip-box.earlyBird .hotSale .transparentTxt {
+	display:block;
+	padding:20px;
+	padding-top:90px;
+	text-align:left;	
+}
+.home-trip-box.earlyBird .hotSale .transparentTxt P {
+	font-size:22px;
+	line-height:1.5em;
 }
 .agendaWrap {
 	width:100%;

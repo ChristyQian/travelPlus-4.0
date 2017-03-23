@@ -444,7 +444,7 @@
 		</div>
 		
 		<!-- Hotels -->	
-		<div class="site hotels">
+		<div class="site hotels resize">
 			<h4>精选酒店</h4>
 			<p class="notes">以下是我们的备选酒店，入住视具体情况而定。</p>
 			<div class="swiper-container">
@@ -517,7 +517,7 @@
 		</div>
 		
 		<!-- Flight -->
-		<div class="site flight">
+		<div class="site flight resize">
 			<h4>航班信息</h4>
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
@@ -1021,16 +1021,19 @@
 		        paginationClickable: true,
 		        width:360,
 		        slidePreview:3,
-		        spaceBetween: 40
+		        spaceBetween: 40,
+		        onAfterResize: function(swiper){
+			      width:100
+			    }
 		    }); 
 		    var swiper4 = new Swiper('.flight .swiper-container',{
-		    	pagination: '.swiper-pagination',
+		    		pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
-//		        slidesOffsetBefore : -280,
-//		        slidesOffsetAfter : 280
+		        slidesOffsetBefore : -280,
+		        slidesOffsetAfter : 280
 		    });
 		    $('.allItinerary').click(function(){
 		    	if($('.initialScreen').hasClass('expand')){

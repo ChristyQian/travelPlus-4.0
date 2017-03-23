@@ -141,6 +141,7 @@
 	width:1160px;
 	height:710px;
 	overflow:hidden;
+	margin-top:-30px;
 }
 
 .itineraryPhoto .swiperBgWrap {
@@ -466,6 +467,13 @@
 	
 }
 @media screen and (max-width: 420px) {	
+	.imagesWrap {
+		width:100%;
+		height:259px;
+	}
+	.imagesWrap .site {
+		height:259px;
+	}
 	.tourInfo {
 		width:100%;
 		height:152px;
@@ -574,5 +582,8 @@
 	}
 	.site .hightLight p {
 		font-size:14px;
+	}
+	.quoBg {
+		padding-top:20px;
 	}
 }
