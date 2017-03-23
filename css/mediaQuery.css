@@ -15,7 +15,6 @@
   .site {  	
 		width: 980px;
 		margin: 0 auto;
-		padding: 0;  
   }
   .section h4 {
   	padding-left:20px;
@@ -25,12 +24,12 @@
 		width:inherit;
 		padding:0 20px;
 	}
-
 	.flex-row-end-between {
 		align-items:center;
 	}
 	.home-trip-box {
-		flex:0 1 310px;
+		flex:0 0 300px;
+		margin:10px 0;
 	}
 }
 
@@ -54,9 +53,15 @@
 	.features {
 		width:400px;
 	}
+	.trips .flex-row-start-between {
+		flex-flow:row wrap;
+	}
 }
 /* min - iphone6p */
 @media screen and (max-width: 420px) {
+	.site {
+		width:100%;
+	}
 	.swiper-slide .sliderBg {
 		width:100%;
 	}
@@ -64,9 +69,6 @@
 		right:21px;
 		top:21px;
 	}
-  	.site {
-  		width:100%;
-  	}
   	.section h4,
   	.site h4 {
   		font-size:20px;
@@ -124,6 +126,12 @@
 	}
 	.home-trip-box.earlyBird .hotSale .flex-row-start-between {
 		flex-direction: row;
+	}
+	.home-trip-box {
+		width:90%;
+	}
+	.trips .flex-row-start-between {
+		flex-direction: column;
 	}
 }
 /*****************************************/

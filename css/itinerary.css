@@ -140,7 +140,6 @@
 	width:inherit;
 	height:710px;
 	overflow:hidden;
-	margin-top:-30px;
 }
 
 .itineraryPhoto .swiperBgWrap {
@@ -328,7 +327,7 @@
 }
 .hotels .swiper-slide {
 	width:560px;
-	height:560px;
+	/*height:560px;*/
 }
 .hotels .swiper-slide .slideBg {
 	display:block;
@@ -402,6 +401,7 @@
 }
 .salesWrap .dialogBelongTo {
 	border-top: 13px solid #fff;
+	bottom:-10px;
 }
 .flight .swiper-pagination {
 	bottom:0;
@@ -460,9 +460,29 @@
 	.flight .swiper-slide {
 		padding:40px 50px 20px;	
 	}
+	.salesWrap {
+		left:0;
+		bottom:-80px;
+	}
+	.quoBg {
+		padding-top:20px;
+	}
+	.quoInfo form h4 {
+		margin:0;
+		margin-left:-0.7em;
+	}
+	.priceWG+.quoItem {
+		margin-top:10px;
+	}
+	.hotelDes {
+		padding:10px;
+	}
+	.hotels .swiper-container {
+		height:520px;
+	}
 }
 @media screen and (max-width: 768px) {
-.itineraryInfo {
+	.itineraryInfo {
 		width:100%;
 		padding: 10px;
 	}
@@ -494,8 +514,14 @@
 	.itineraryInfo .flex1:last-child {
 		padding-left:0;
 	}
-	.itineraryLine+.flex-row-start-between div.priceWG {
-		
+	.itineraryHighLights .flex1.hightLight {
+		padding-left:3em;
+	}
+	.hightLight h4 {
+		margin-bottom:0;
+	}
+	.includedItems div {
+		flex:0 1 200px;
 	}
 	.blueRBtn {
 		width:144px;
@@ -507,6 +533,26 @@
 	.notes {
 		font-size:1.4em;
 		line-height:1.8em;
+	}
+	.itineraryHighLights .tourGuide {
+		font-size:20px;
+	}
+	.itineraryMap {
+		float:none;
+	}
+	.blog .flex-row-start-around {
+		flex-flow:row wrap;
+		height:172px;
+		overflow:hidden;
+		padding:10px 0;
+	}
+	.blog .flex-row-center-between {
+		flex-direction: column;
+		flex:0 1 160px;
+		align-items:flex-start;
+	}
+	.blog .image {
+		margin-right:0;
 	}
 }
 @media screen and (max-width: 420px) {	
@@ -532,10 +578,15 @@
 		font-size:24px;
 		line-height:24px;
 	}
+	.itineraryPhoto.swiper-container {
+		height:560px;
+	}
 	.flex-row-start-around.itineraryHighLights {
 		flex-direction: column;
 	}
-	
+	.itineraryHighLights .flex1.hightLight {
+		padding-left:0;
+	}
 	.itineraryPhoto.swiper-container,
 	.itineraryPhoto .swiper-slide .slideBg,
 	.itineraryPhoto .swiperBgWrap {
@@ -565,13 +616,17 @@
 		flex-direction: row;
 	}
 	.quotation {
-		width:320px;
+		width:90%;
 	} 
-	.itineraryMap img {
-		padding:0;
+	.quotationBg,
+	.quotationWrap,
+	.quoInfo,
+	.quoInfo form {
+		width:100%;
 	}
 	.blueIconBg {
 		padding:20px;
+		margin-top:0;
 	}
 	.blueIconBg .site h4 {
 		font-size:20px;
@@ -596,7 +651,22 @@
 	.site .hightLight p {
 		font-size:14px;
 	}
-	.quoBg {
-		padding-top:20px;
+	.salesWrap .dialogWrap {
+		width:90%;
 	}
+	.blog .image {
+		width:auto;
+	}
+	.blog .info {
+		font-size: 14px;		
+	}
+	.blog time {
+		font-size:12px;
+	}
+
 }
+/*@media screen and (max-width: 320px){
+	.blog .flex-row-start-around {
+		flex-direction: column;
+	}
+}*/
