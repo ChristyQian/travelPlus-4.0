@@ -342,6 +342,13 @@ h4 {
 /*****************************************/
 /*                Component              */
 /*****************************************/
+.filter {
+	width:100%;
+	height:auto;
+	padding:20px;
+	background-color:#94c5db;
+	font-size:1.6em;
+}
 .transparentBg {
 	position:absolute;
 	z-index:2;
