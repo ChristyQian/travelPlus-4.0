@@ -31,8 +31,8 @@
 		flex:0 0 300px;
 		margin:10px 0;
 	}
+	
 }
-
 /* iphone6p - ipad horizontal */
 @media screen and (max-width: 768px) {
 	.site {  	
@@ -43,8 +43,7 @@
     	.header-logo img {
 		width: 250px;
 		height: 50px;
-		margin: 10px 0;
-		margin-top:0;
+		margin: 0;
 	}
 	.header .borderBtn,
 	.header .hotline {
@@ -56,11 +55,21 @@
 	.trips .flex-row-start-between {
 		flex-flow:row wrap;
 	}
+	.header-nav.affix .head-fix-right {
+		display:none;
+	}
 }
 /* min - iphone6p */
 @media screen and (max-width: 420px) {
 	.site {
 		width:100%;
+	}
+	.header {
+		padding: 0 20px !important;
+	}
+	.header .Oval,
+	.header .Oval-5 {
+		margin-right:0.2em;
 	}
 	.swiper-slide .sliderBg {
 		width:100%;
@@ -75,24 +84,34 @@
   		padding:20px;
   		margin:0;
   	}
-    .flex-row-start-between {
-    	
+    .header-nav.affix {
+    		padding:10px;
     }
-    	.header {
-		padding: 0 20px !important;
+    footer ul {
+    		padding:10px 0;
+    		justify-content: space-between;
+    }
+    .header-nav.affix .head-fix-right.flex-row-center-between {
+		display:none;
 	}
 	.header-logo img {
 		width: 200px;
 		height: 40px;
 		margin: 10px 0;
 	}
-	.header-nav,
+	.header-nav ul,
+	.header-nav.affix ul,
 	footer ul {
-		justify-content:space-between;
+		width:100%;
 	}
 	.header-nav li, 
+	.header-nav.affix li,
 	footer ul li {
+		font-size:14px;
 		margin:0;
+	}
+	footer {
+		padding:0 10px 50px;
 	}
 	.flex-row-start-between {
 		flex-direction: column;
@@ -132,6 +151,18 @@
 	}
 	.trips .flex-row-start-between {
 		flex-direction: column;
+	}
+	.quoInfo form {
+		padding-top:0;
+	}
+	.quoItem label {
+		font-size:1.2em;
+	}
+}
+/* iphone5p */
+@media screen and (max-width: 320px) {
+	.header {
+		padding-right:5px !important;
 	}
 }
 /*****************************************/

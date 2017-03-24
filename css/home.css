@@ -105,26 +105,9 @@
 	margin-top:20px;
 }
 .recommand .borderBtn i.fa {padding-left:30px;}
-/*****************************************/
-/*                flicking               */
-/*****************************************/
-/*.touchslider-nav {
-	z-index:999;
-	width:100%;
-	padding:40px 0 0px;
-	text-align:center;
+footer {
+	padding-bottom:20px;
 }
-
-.touchslider-nav-item {
-	display:inline-block;
-	width:8px;
-	height:8px;
-	border-radius:50%;
-	margin:0 4px;
-	padding:0;
-	background-color:#999;	
-	text-indent:-10000px;
-}*/
 
 /*****************************************/
 /*                Vedio                  */

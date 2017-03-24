@@ -58,18 +58,12 @@ i {
 /*****************************************/
 /*                Flex Display           */
 /*****************************************/
+.affix {
+	position: fixed;
+	z-index:9999;
+}
 .ibWrap {
 	display:inline-block;
-}
-.header-nav,
-footer ul {
-	display:flex;
-	flex-flow:row nowrap;	
-	align-items:baseline;
-	align-content:center;
-	justify-content:flex-start;
-	padding-bottom:1.95em;
-	margin-bottom:2.25em;
 }
 .flex0 {
 	flex:0;
@@ -137,31 +131,53 @@ footer ul {
 	padding:30px 0 40px;
 }
 /*****************************************/
+/*                Fixed                  */
+/*****************************************/
+.fixCAT {
+	position:fixed;
+	z-index:9999;
+	width:100%;
+	padding:1em 0;
+	bottom:0;
+	background-color:#f4af39;
+	color:#fff;
+	font-size:1.6em;
+}
+.fixCAT .Oval-5 {
+	background-color:#fff;
+	color:#2dc100;
+	margin-right:5px;
+}
+.fixCAT .Oval {
+	margin-right:5px;
+}
+.fixCAT .orangeBtn {
+	font-size:16px;
+	margin: 0;
+    height: 40px;
+    margin-left:10px;
+}
+/*****************************************/
 /*                Header                 */
 /*****************************************/
-.header {
-	width:1160px;
-}
 .header-logo {
-	margin-top:5.4em;
+	margin-top:2em;
 }
 .header .flex-col-end-between {
 	margin-top:5em;
 }
-.header .Oval-5 {
-	margin-right:16px;
-}
-.header .Oval {
+.head-fix-right .Oval,
+.head-fix-right .Oval-5 {
 	margin-right:0.5em;
 }
-.header .Oval .call {
+.Oval .call {
 	display:inline-block;
 	background:url(../img/call.png) no-repeat;
 	background-size:cover;
 	width:18px;
 	height:18px;
 }
-.header .hotline {
+.head-fix-right .hotline {
 	margin-right:2.9em;
 }
 .hotline p {
@@ -175,7 +191,7 @@ footer ul {
 	font-size:16px;
 	font-weight:bold;
 }
-.header .borderBtn {
+.head-fix-right .borderBtn {
 	width:154px;
 	height:40px;
 	line-height:40px;
@@ -188,10 +204,20 @@ footer ul {
 	padding:40px 0 36px;
 	margin-bottom:0;
 }
+.header-nav.affix {
+	width:100%;
+	background-color:#fff;
+	padding:20px;
+	top:0;
+}
 .header-nav li,
+.header-nav.affix li,
 footer ul li {
 	font-size:1.8em;
 	margin-right:4.83em;
+}
+.header-nav.affix-top .head-fix-right {
+	display:none;
 }
 /*****************************************/
 /*                Icon                   */
@@ -242,10 +268,11 @@ footer ul li {
 	background-size:cover;
 }
 .whiteArrow {
-	width:48px;
+	width:24px;
 	height:12px;
-	background:url(../img/whiteArrow.png) no-repeat;
+	background:url(../img/whiteArrow.png) right no-repeat;
 	background-size:cover;
+	margin-left:20px;
 }
 .closeIcon {
 	position:absolute;
@@ -273,9 +300,12 @@ button {
 	color:#fff;
 	border-radius:100px;
 	font-size:16px;
+	position: relative;
 }
-.yellowBtn i.fa {
-	padding-left:30px;
+.yellowBtn .whiteArrow {
+	position:absolute;
+	right:30px;
+	top:18px;
 }
 .blueRBtn {
 	width:204px;
@@ -385,6 +415,7 @@ h4 {
 	padding-top:19px;
 	font-weight:lighter;
 	line-height: 1.5em;
+	text-align:center;
 }
 .quoBg .discount .transparentTxt {
 	padding-top:35px;
@@ -668,14 +699,22 @@ h4 {
 /*                Footer                 */
 /*****************************************/
 footer {
-	padding:4.1em 2.5em;
+	padding:0 2.5em 10em;
 	background-color:#f7f5f0;
 	color:#4a4a4a;
 }
 footer ul {
-	border-bottom:1px solid #ccc;
+	display:flex;
+	justify-content: flex-start;
 }
+footer ul {
+	border-bottom:1px solid #ddd;
+	padding:20px 0;
+	margin-bottom:20px;
+}
+
 .header-nav li,
+.header-nav.affix li,
 footer ul li {
 	flex:0 0 auto;
 	align-self:baseline;
