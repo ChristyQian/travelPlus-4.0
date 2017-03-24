@@ -140,7 +140,7 @@ footer ul {
 /*                Header                 */
 /*****************************************/
 .header {
-	width:1196px;
+	width:1160px;
 }
 .header-logo {
 	margin-top:5.4em;
@@ -239,6 +239,12 @@ footer ul li {
 	width:14px;
 	height:11px;
 	background:url(../img/group-2.svg) no-repeat;
+	background-size:cover;
+}
+.whiteArrow {
+	width:48px;
+	height:12px;
+	background:url(../img/whiteArrow.png) no-repeat;
 	background-size:cover;
 }
 .closeIcon {
