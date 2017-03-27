@@ -40,7 +40,7 @@
 			</div>
 		</div>			
 		<!-- header -->
-		<div class="header">
+		<div class="header" name="top">
 			<div class="site flex-row-center-between">
 				<div class="header-logo">
 		            <a href="index.php">
@@ -138,7 +138,7 @@
 							<span>起</span>
 						</div>
 						<div>
-							<button class="blueRBtn">查询实时价格</button>
+							<a class="blueRBtn" href="#getPersonalizedPrice">查询实时价格</a>
 						</div>
 					</div>
 				</div>
@@ -551,7 +551,18 @@
 		
 		<!-- Flight -->
 		<div class="site flight">
-			<h4>航班信息</h4>
+			<h4 class="flex-row-end-between">
+				航班信息
+				<div>
+					<label>出发城市:</label>
+					<select>
+						<option>北京</option>
+						<option>上海</option>
+						<option>深圳</option>
+						<option>香港</option>
+					</select>
+				</div>
+			</h4>
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
@@ -791,7 +802,7 @@
 		</div>
 		
 		<!-- Get a personalized quotation -->
-		<div class="section quoBg">
+		<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
 				<h4>查询实时价格</h4>
 				<div class="quotationBg"></div>
@@ -967,7 +978,10 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<h4>博客</h4>
+			<h4 class="flex-row-center-between">
+				博客
+				<button class="blueBorderBtn">全部</button>
+			</h4>
 			<div class="flex-row-start-around flex-wrap">
 				<div class="flex1 flex-row-center-between">
 					<div class="image">
@@ -1001,6 +1015,7 @@
 		<!-- footer -->
 		<footer>
 			<div class="site">
+				<a href="#top" class="backToTop">回到顶部<i class="upturnedArrow"></i></a>
 				<ul>
 					<li>
 						<a href="">行程</a>
@@ -1141,6 +1156,9 @@
 			
 			$('.closeIcon').click(function(){
 				$('.salesWrap .dialogWrap').hide();
+			});
+			$('.quoBg .userInfo').click(function(){
+				$('.salesWrap .dialogWrap').show();
 			});
 		</script>
 	</body>

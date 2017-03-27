@@ -409,6 +409,20 @@
 	border-top: 13px solid #fff;
 	bottom:-10px;
 }
+.flight h4 div {
+	font-size:0.6em;
+	font-weight:normal;
+}
+.flight h4 select {
+	width:100px;
+	background-color:#2f7899;
+	color:#fff;
+}
+.flight h4 label {
+	display:inline-block;
+	vertical-align: sub;
+	margin-right:5px;
+}
 .flight .swiper-pagination {
 	bottom:0;
 }
@@ -461,6 +475,10 @@
 }
 .reviews .com_dialog {
 	width:inherit;
+}
+.quoBg .com_profile,
+.quoBg .name {
+	cursor: pointer;
 }
 @media screen and (max-width:1024px) {
 	.flight .swiper-slide {
@@ -602,6 +620,7 @@
 	.itineraryPhoto .swiperBgWrap {
 		height:260px;
 	}
+	.hotels .notes {padding:10px;}
 	.hotels .swiper-container {
 		height:360px;
 	}
@@ -673,10 +692,16 @@
 	.blog time {
 		font-size:12px;
 	}
-
-}
-/*@media screen and (max-width: 320px){
-	.blog .flex-row-start-around {
-		flex-direction: column;
+	.fixCAT,
+	.fixCAT .hotline span {
+		font-size:12px;
 	}
-}*/
+	.fixCAT .orangeBtn {
+		font-size:14px;
+	}
+	.fixCAT .Oval-5,
+	.fixCAT .Oval {
+		margin-right:0;
+	}
+}
+

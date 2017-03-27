@@ -29,20 +29,26 @@ body {
 select,
 textarea {
 	font-family: "ProximaNova-Bold","Microsoft Yahei";
-	/*-webkit-appearance:caret;*/
+	padding:0 5px;
 	width: 100%;
 	height: 30px;
 	line-height: 30px;
+}
+.quoBg select,
+.quoBg textarea {
 	background:rgba(255,255,255,0.24);
 	color:#fff;
-	padding:0 5px;
 }
 textarea {
 	resize: none;
 }
 a {
+	display:inline-block;
 	text-decoration: none;
 	color:inherit;
+}
+a.blueRBtn:hover {
+	text-decoration: none;
 }
 a:hover {
 	text-decoration:underline;
@@ -50,10 +56,11 @@ a:hover {
 li {
 	list-style: none;
 }
-input,button,select,textarea{outline:none;}
+input,button,textarea{outline:none;}
 i {
 	display:inline-block;
 	font-style: normal;
+	cursor: pointer;
 }
 /*****************************************/
 /*                Flex Display           */
@@ -137,7 +144,7 @@ i {
 	position:fixed;
 	z-index:9999;
 	width:100%;
-	padding:1em 0;
+	padding:0.6em 0;
 	bottom:0;
 	background-color:#f4af39;
 	color:#fff;
@@ -146,8 +153,8 @@ i {
 .fixCAT .Oval-5 {
 	background-color:#fff;
 	color:#2dc100;
-	margin-right:5px;
 }
+.fixCAT .Oval-5,
 .fixCAT .Oval {
 	margin-right:5px;
 }
@@ -279,6 +286,13 @@ footer ul li {
 	right:10px;
 	top:10px;
 }
+.upturnedArrow {
+	width:14px;
+	height:11px;
+	background:url(../img/group-2.svg) no-repeat;
+	background-size:cover;
+	transform: rotate(270deg);
+}
 /*****************************************/
 /*                Button                 */
 /*****************************************/
@@ -325,6 +339,12 @@ button {
 	color:#fff;
 	margin:20px 0;
 	font-size:2em; 
+}
+.blueBorderBtn {
+	width:74px;
+	height:32px;
+	border:1px solid #94c5db;
+	border-radius:100px;
 }
 /*****************************************/
 /*                Color                  */
@@ -374,6 +394,9 @@ h4 {
 }
 .serif {
 	font-family: serif;
+}
+.blog .blueBorderBtn {
+	font-size:14px;
 }
 /*****************************************/
 /*                Component              */
@@ -702,6 +725,15 @@ footer {
 	padding:0 2.5em 10em;
 	background-color:#f7f5f0;
 	color:#4a4a4a;
+}
+footer .site {
+	position:relative;
+}
+footer .site .backToTop {
+	position:absolute;
+	top:-30px;
+	right:0;
+	font-size:12px;
 }
 footer ul {
 	display:flex;
