@@ -136,12 +136,17 @@
 /*****************************************/
 /*                Slider                 */
 /*****************************************/
-.itineraryPhoto.swiper-container {
-	width:inherit;
+/*.site.itineraryPhoto {
+	width:1260px;
+}*/
+.itineraryPhoto .swiper-container {
+	width: inherit;
 	height:710px;
-	overflow:hidden;
+	/*padding:0 50px;*/
 }
-
+/*.itineraryPhoto .swiper-container .swiper-wrapper {
+	overflow:hidden;
+}*/
 .itineraryPhoto .swiperBgWrap {
 	position:relative;
 	width:inherit;
@@ -162,11 +167,11 @@
 	background-size:cover;
 }
 .bg3 {
-	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg') center center no-repeat;
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg') center center no-repeat;
 	background-size:cover;
 }
 .bg4 {
-	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg') center center no-repeat;
+	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg') center center no-repeat;
 	background-size:cover;
 }
 .bgIntro,
@@ -365,7 +370,7 @@
 .hotelDes {
 	font-size:1.6em;
 	font-weight:lighter;
-	padding:2.6rem 5.9rem 3.4rem 4rem;
+	padding:2.6rem;
 }
 /*.reviews .swiper-slide {
 	width:360px;
@@ -506,6 +511,10 @@
 	}
 }
 @media screen and (max-width: 768px) {
+	.header .com_dialog .dialogBelongTo {
+		left:inherit;
+		right:32px;
+	}
 	.tourInfo .transparentTxt {
 		padding:20px;
 	}
@@ -570,6 +579,16 @@
 	.initialScreen {
 		width:100%;
 	}
+	.itineraryPhoto .swiper-container {
+		width:100%;
+		height:560px;
+		padding:0;
+	}
+	.itineraryPhoto .swiper-slide .slideBg,
+	.itineraryPhoto .swiperBgWrap {
+		width:100%;
+		height:460px;
+	}
 	.blog .flex-row-start-around {
 		flex-flow:row wrap;
 		height:172px;
@@ -586,9 +605,16 @@
 	}
 }
 @media screen and (max-width: 420px) {	
+	.header .com_dialog,
+	.header .dialogWrap {
+		display:none;
+	}
 	.imagesWrap {
 		width:100%;
 		height:259px;
+	}
+	.site.itineraryPhoto {
+		width: 100%;
 	}
 	.imagesWrap .site {
 		height:259px;
@@ -606,8 +632,9 @@
 		font-size:24px;
 		line-height:24px;
 	}
-	.itineraryPhoto.swiper-container {
-		height:560px;
+	.itineraryPhoto .swiper-button-prev,
+	.itineraryPhoto .swiper-button-next {
+		display:none;
 	}
 	.flex-row-start-around.itineraryHighLights {
 		flex-direction: column;
@@ -615,11 +642,16 @@
 	.itineraryHighLights .flex1.hightLight {
 		padding-left:0;
 	}
-	.itineraryPhoto.swiper-container,
+	.itineraryPhoto .swiper-container {
+		width:100%;
+		height:360px;
+		padding:0;
+	}
 	.itineraryPhoto .swiper-slide .slideBg,
 	.itineraryPhoto .swiperBgWrap {
+		width:100%;
 		height:260px;
-	}
+	}	
 	.hotels .notes {padding:10px;}
 	.hotels .swiper-container {
 		height:360px;
@@ -697,11 +729,15 @@
 		font-size:12px;
 	}
 	.fixCAT .orangeBtn {
-		font-size:14px;
+		font-size:12px;
 	}
 	.fixCAT .Oval-5,
 	.fixCAT .Oval {
 		margin-right:0;
 	}
 }
-
+@media screen and (max-width: 320px) {	
+	.fixCAT .orangeBtn {
+		margin-left:0;
+	}
+}

@@ -22,6 +22,25 @@
 	<body data-spy="scroll" data-target="#travelPlusNav">
 		<div class="fixCAT">
 			<div class="site">
+				<div class="com_dialog">
+					<div class="dialogWrap">
+						<i class="closeIcon">&times;</i>
+						<div class="dialog">
+							<div class="flex-row-center-start">
+								<div class="wechatImg">
+									<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
+								</div>
+								<div class="flexAuto">
+									<p>
+										扫码关注@EFTravelPlus微信服务号<br />
+										发现实用旅行灵感和产品
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="dialogBelongTo"></div>
+					</div>
+				</div>
 				<div class="flex-row-center-between">
 			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>来撩</div>
 			        	<div class="flex-row-center-end">
@@ -32,9 +51,9 @@
 					        		<span>400-018-7518</span>
 				        		</div>
 				        	</div>
-				        	<button class="orangeBtn">
+				        	<a class="orangeBtn" href="#getPersonalizedPrice">
 				        		查询实时价格
-				        	</button>
+				        	</a> 
 			        	</div>
 		        </div>
 			</div>
@@ -42,6 +61,25 @@
 		<!-- header -->
 		<div class="header" name="top">
 			<div class="site flex-row-center-between">
+				<div class="com_dialog">
+					<div class="dialogWrap">
+						<i class="closeIcon">&times;</i>
+						<div class="dialog">
+							<div class="flex-row-center-start">
+								<div class="wechatImg">
+									<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
+								</div>
+								<div class="flexAuto">
+									<p>
+										扫码关注@EFTravelPlus微信服务号<br />
+										发现实用旅行灵感和产品
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="dialogBelongTo"></div>
+					</div>
+				</div>
 				<div class="header-logo">
 		            <a href="index.php">
 		            	<img src="img/logo.png">
@@ -63,6 +101,25 @@
 		<!-- nav -->
 		<div class="header-nav" data-spy="affix" id="travelPlusNav" data-offset-top="">
 			<div class="site flex-row-center-between">
+				<div class="com_dialog">
+					<div class="dialogWrap">
+						<i class="closeIcon">&times;</i>
+						<div class="dialog">
+							<div class="flex-row-center-start">
+								<div class="wechatImg">
+									<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
+								</div>
+								<div class="flexAuto">
+									<p>
+										扫码关注@EFTravelPlus微信服务号<br />
+										发现实用旅行灵感和产品
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="dialogBelongTo"></div>
+					</div>
+				</div>
 				<ul class="flex-row-center-between">
 					<li><a href="">行程</a></li>
 					<li><a href="">特色</a></li>
@@ -170,8 +227,8 @@
 			</div>
 		</div>
 		<!-- Swiper -->			
-		<div class="site">
-			<div class="itineraryPhoto swiper-container">
+		<div class="site itineraryPhoto">
+			<div class="swiper-container">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -242,6 +299,8 @@
 						</div>
 					</div>
 				</div>
+				<!--<div class="swiper-button-prev"></div>
+    				<div class="swiper-button-next"></div>-->
 				<!-- 如果需要分页器 -->
 			    <div class="swiper-pagination">
 			    </div>
@@ -978,7 +1037,7 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<h4 class="flex-row-center-between">
+			<h4 class="flex-row-end-between">
 				博客
 				<button class="blueBorderBtn">全部</button>
 			</h4>
@@ -1051,13 +1110,30 @@
 				<p>&copy;Signum International S.a r.l Luxembourg Luzern Branch, EF英孚教育旗下公司，版权所有。</p>
 			</div>
 		</footer>
-		
+		<div class="popup wechat">
+			<i class="closePopup">&times;</i>
+			<div class="mask"></div>
+			<div class="popupContainer">		
+				<div class="flex-col-center-center flex-wrap">
+					<div class="">
+						<p>
+							扫码关注@EFTravelPlus微信服务号<br />
+							发现实用旅行灵感和产品
+						</p>
+					</div>
+					<div class="wechatImg">
+						<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" />
+					</div>
+				</div>
+			</div>
+		</div>
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script>      
-		    var swiper1 = new Swiper('.itineraryPhoto.swiper-container', {
+		    var swiper1 = new Swiper('.itineraryPhoto .swiper-container', {
 		    		autoplay: 5000,
+		    		width:1160,
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        breakpoints: { 
@@ -1075,7 +1151,9 @@
 				      slidesPerView: 1,
 				      spaceBetweenSlides: 10
 				    }
-				}
+				},
+//		        prevButton:'.swiper-button-prev',
+//				nextButton:'.swiper-button-next'
 		    });  
 		    var swiper2 = new Swiper('.hotels .swiper-container', {
 		    		autoplay: 5000,
@@ -1142,23 +1220,63 @@
 				  }
 		    });
 		    $('.allItinerary').click(function(){
-		    	if($('.initialScreen').hasClass('expand')){
-		    		$('.initialScreen').removeClass('expand');
-		    		$('.allItinerary').html('全部行程');
-		    	}
-		    	else{
-			    	$('.initialScreen').addClass('expand');
-			    	$('.allItinerary').html('收起行程');
-		    	}
+			    	if($('.initialScreen').hasClass('expand')){
+			    		$('.initialScreen').removeClass('expand');
+			    		$('.allItinerary').html('全部行程');
+			    	}
+			    	else{
+				    	$('.initialScreen').addClass('expand');
+				    	$('.allItinerary').html('收起行程');
+			    	}
 		    });
 
-			$(".itineraryMap").stick_in_parent();
+			$(".itineraryMap").stick_in_parent();			
 			
 			$('.closeIcon').click(function(){
-				$('.salesWrap .dialogWrap').hide();
+				$(this).parentsUntil('.com_dialog').hide();
 			});
 			$('.quoBg .userInfo').click(function(){
 				$('.salesWrap .dialogWrap').show();
+			});
+			
+			$('.header .Oval-5').click(function(){
+				if(jQuery(window).width() >=768){
+					$('.header .dialogWrap').show();
+					$('.header .com_dialog').show();
+				}
+				else if(jQuery(window).width() <768){
+//					$(body).bind("touchmove",function(e){
+//						e.preventDefault();
+//					});
+//					$('body').css('height',(jQuery(window).Height())).css('overflow','hidden').attr('scroll','no');
+					$('.wechat.popup').show();	
+					$('.popup .mask').show();
+					$('.popupContainer').show();	
+				}
+			});
+
+			$(".wechat.popup .closePopup").click(function(){
+				$('.popup').hide();	
+				$('.popup .mask').hide();
+				$('.popupContainer').hide();	
+			});
+			
+			
+			$('.fixCAT .Oval-5').click(function(){
+				if(jQuery(window).width() >=768){
+					$('.fixCAT .dialogWrap').show();
+					$('.fixCAT .com_dialog').show();
+				}
+				else if(jQuery(window).width() <768){
+					$('.wechat.popup').show();	
+					$('.popup .mask').show();
+					$('.popupContainer').show();	
+				}
+			});
+			
+			$('.header-nav .Oval-5').click(function(){
+				$('.header-nav.affix .com_dialog').show();
+				$('.header-nav.affix .dialogWrap').show();
 			});
 		</script>
 	</body>

@@ -47,7 +47,8 @@ a {
 	text-decoration: none;
 	color:inherit;
 }
-a.blueRBtn:hover {
+a.blueRBtn:hover,
+.fixCAT a.orangeBtn:hover {
 	text-decoration: none;
 }
 a:hover {
@@ -144,7 +145,7 @@ i {
 	position:fixed;
 	z-index:9999;
 	width:100%;
-	padding:0.6em 0;
+	padding:0.6em;
 	bottom:0;
 	background-color:#f4af39;
 	color:#fff;
@@ -162,11 +163,73 @@ i {
 	font-size:16px;
 	margin: 0;
     height: 40px;
+    line-height:40px;
     margin-left:10px;
 }
+
 /*****************************************/
 /*                Header                 */
 /*****************************************/
+.header .site,
+.header-nav.affix .site,
+.fixCAT .site {
+	position:relative;
+}
+.header .com_dialog,
+.header-nav.affix-top .com_dialog,
+.header-nav.affix .com_dialog,
+.fixCAT .com_dialog {
+	display:none;
+	position:absolute;
+	z-index:4;
+	top:80px;
+	right:40px;
+	height:auto;
+}
+.header-nav.affix .com_dialog {	
+	position: fixed;
+	z-index: inherit;
+	right:51px;
+}
+.fixCAT .com_dialog {
+	z-index: inherit;
+	top:inherit;
+	bottom:80px;
+	left:0;
+	font-size:0.64em;
+}
+.header .com_dialog .dialogWrap,
+.header-nav.affix .com_dialog .dialogWrap,
+.fixCAT .com_dialog .dialogWrap  {
+	background-color:#fff;
+	color:#333;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+	height:auto;
+	padding:20px;
+}
+.header .com_dialog .dialogWrap .dialog,
+.header-nav.affix .com_dialog .dialogWrap .dialog,
+.fixCAT .com_dialog .dialogWrap .dialog {
+	height:auto;
+}
+.header .com_dialog .dialogWrap .wechatImg,
+.header-nav.affix .com_dialog .dialogWrap .wechatImg,
+.fixCAT .com_dialog .dialogWrap .wechatImg {
+	margin-right:10px;
+}
+.header .com_dialog .dialogBelongTo,
+.header-nav.affix .com_dialog .dialogBelongTo {
+	bottom:inherit;
+	top:-10px;
+	border-top:none;
+	border-bottom:10px solid #fff;
+	border-left:10px solid transparent;
+	border-right:10px solid transparent;
+}
+.fixCAT .com_dialog .dialogBelongTo {
+	border-top:10px solid #fff;
+	bottom:-10px;
+}
 .header-logo {
 	margin-top:2em;
 }
@@ -333,7 +396,9 @@ button {
 }
 .orangeBtn {
 	width:100%;
+	text-align:center;
 	height:56px;
+	line-height:56px;
 	border-radius:100px;
 	background-color: #eb6c04;
 	color:#fff;
@@ -401,6 +466,14 @@ h4 {
 /*****************************************/
 /*                Component              */
 /*****************************************/
+.wechatImg {
+	width:150px;
+	height:150px;
+}
+	.wechatImg img {
+		width:inherit;
+		height:inherit;
+	}
 .filter {
 	width:100%;
 	height:auto;
@@ -473,31 +546,34 @@ h4 {
 .hotSale {
 	width:100%;
 	height:56px;
-	oveflow
 }
-.hotSale .transparentBg {
-	width: inherit;
-	height: inherit;
-	background-color: #94c5db;
-	mix-blend-mode: multiply;
-	bottom:0;
-}
-.hotSale .transparentTxt {
-	color:#fff;
-	bottom:0;
-	padding:0 18px;
-	display:flex;
-	justify-content: space-between;
-	align-items: center;
-	font-size:14px;
-}
+	.hotSale .transparentBg {
+		width: inherit;
+		height: inherit;
+		background-color: #94c5db;
+		mix-blend-mode: multiply;
+		bottom:0;
+	}
+	.hotSale .transparentTxt {
+		color:#fff;
+		bottom:0;
+		padding:0 18px;
+		display:flex;
+		justify-content: space-between;
+		align-items: center;
+		font-size:14px;
+	}
 .home-trip-box.earlyBird .hotSale {
 	height:248px;
 }
-.home-trip-box.earlyBird .hotSale .transparentTxt {
-	display:block;
-	padding-top:90px;
-}
+	.home-trip-box.earlyBird .hotSale .transparentTxt {
+		display:block;
+		padding-top:90px;
+	}
+	.home-trip-box.earlyBird .hotSale .transparentTxt P {
+		font-size:22px;
+		line-height:1.5em;
+	}
 .earlyBirdDiscount {
 	font-size:1.8em;
 	height:59px;
@@ -513,10 +589,7 @@ h4 {
 	padding-top:90px;
 	text-align:left;	
 }
-.home-trip-box.earlyBird .hotSale .transparentTxt P {
-	font-size:22px;
-	line-height:1.5em;
-}
+
 .agendaWrap {
 	width:100%;
 	height:160px;
@@ -725,6 +798,7 @@ footer {
 	padding:0 2.5em 10em;
 	background-color:#f7f5f0;
 	color:#4a4a4a;
+	margin-top:50px;
 }
 footer .site {
 	position:relative;

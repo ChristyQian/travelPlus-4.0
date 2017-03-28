@@ -87,6 +87,9 @@
     .header-nav.affix {
     		padding:10px;
     }
+    footer {
+    		margin-top:0;
+    }
     footer ul {
     		padding:10px 0;
     		justify-content: space-between;
@@ -158,11 +161,63 @@
 	.quoItem label {
 		font-size:1.2em;
 	}
+	/*****************************************/
+	/*                Popup                  */
+	/*****************************************/
+	.popup {
+		position:relative;
+		overflow:hidden;
+		display:none;
+	}
+	.popup .closePopup {
+		position:fixed;
+		z-index: 110000;
+		top:10px;
+		right:10px;
+		color:#fff;
+		font-size:2em;
+	}
+	.mask {
+		display:block;
+		position:fixed;
+		overflow:hidden;
+		z-index:99999;
+		width:100%;
+		height:100%;
+		left:0;
+		top:0;
+		bottom:0;
+		right:0;
+		background-color:rgba(0,0,0,0.85);
+	}
+	.popupContainer {
+		position:fixed;
+		z-index: 100000;
+		width:100%;
+		height:100%;
+		left:0;
+		top:0;
+		color:#fff;
+	}
+	.popupContainer .flex-wrap {
+		height:100%;
+		text-align:center;
+		font-size:1.6em;
+		line-height:2em;
+	}
+	.popupContainer .flex-wrap .wechatImg {
+		margin-top:2em;
+	}
 }
 /* iphone5p */
 @media screen and (max-width: 320px) {
 	.header {
 		padding-right:5px !important;
+	}
+}
+@media screen and (min-width: 768px) {
+	.popup {
+		display:none;
 	}
 }
 /*****************************************/
