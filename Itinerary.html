@@ -45,7 +45,7 @@
 			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>来撩</div>
 			        	<div class="flex-row-center-end">
 				        	<div class="hotline flex-row-center-end">
-				        		<div class="flex-no-grow-no-shrink-auto icon Oval"><i class="call"></i></div>
+				        		<div class="flex-no-grow-no-shrink-auto icon Oval"><a class="call" href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
 				        		<div class="flex-no-grow-no-shrink-auto">
 					        		<p>来电咨询</p>
 					        		<span>400-018-7518</span>
@@ -87,7 +87,7 @@
 		        </div>
 		        <div class="head-fix-right flex-row-center-between">
 			        	<div class="icon Oval-5"><i class="fa fa-wechat"></i></div>
-			        	<div class="icon Oval"><i class="call"></i></div>
+			        	<div class="icon Oval"><a class="call"href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
 			        	<div class="hotline">
 			        		<p>来电咨询</p>
 			        		<span>400-018-7518</span>
@@ -129,7 +129,7 @@
 				</ul>
 				<div class="head-fix-right flex-row-center-between">
 			        	<div class="flex-no-grow-no-shrink-auto icon Oval-5"><i class="fa fa-wechat"></i></div>
-			        	<div class="flex-no-grow-no-shrink-auto icon Oval"><i class="call"></i></div>
+			        	<div class="flex-no-grow-no-shrink-auto icon Oval"><a class="call"href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
 			        	<div class="flex-no-grow-no-shrink-auto hotline">
 			        		<p>来电咨询</p>
 			        		<span>400-018-7518</span>
@@ -1229,8 +1229,14 @@
 				    	$('.allItinerary').html('收起行程');
 			    	}
 		    });
-
-			$(".itineraryMap").stick_in_parent();			
+			
+				if(jQuery(window).width() >=1024){
+					$(".itineraryMap").stick_in_parent();
+				}
+				else {
+					$(".itineraryMap").css('display','static');
+				}
+						
 			
 			$('.closeIcon').click(function(){
 				$(this).parentsUntil('.com_dialog').hide();
@@ -1248,7 +1254,7 @@
 //					$(body).bind("touchmove",function(e){
 //						e.preventDefault();
 //					});
-//					$('body').css('height',(jQuery(window).Height())).css('overflow','hidden').attr('scroll','no');
+//					$('body').css('height',(jQuery(window).Height())).css('position','fixed').attr('scroll','no');
 					$('.wechat.popup').show();	
 					$('.popup .mask').show();
 					$('.popupContainer').show();	
