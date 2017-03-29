@@ -140,7 +140,8 @@ footer .backToTop {
 	}
 }
 @media screen and (max-width: 420px) {
-	.site {
+	.section,
+	.blueBg {
 		padding:20px;
 	}
 	.grayBg .serif {
