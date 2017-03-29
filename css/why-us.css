@@ -1,0 +1,178 @@
+h4 {
+	margin-top:0;
+}
+.grayBg {
+	position: static;
+	padding:4em 0 0;
+	height:auto;
+	opacity:1;
+	filter:alpha(opacity=100);
+}
+.container {
+	position:relative;
+	height:840px;
+}
+.whyUsBg {
+	position:absolute;
+	background:url(http://travelplus.ef.com.cn/sp/img/banner-why-us.jpg) center bottom no-repeat;
+	width:100%;
+	height:523px;
+	bottom:0;
+}
+.grayBg .serif {
+	font-size:3em;
+	line-height:1.5em;
+}
+.Oval-6,
+.Oval-7 {
+	display:inline-block;
+	width:216px;
+	height:216px;
+	border-radius:50%;
+}
+.Oval-6 {
+	mix-blend-mode: multiply;
+  background-color: #94c5db;
+}
+.Oval-7 {
+	mix-blend-mode: multiply;
+  background-color: #f7b84f;
+  margin-left:-108px;
+}
+.whyUsTxt {
+	position:relative;
+	height:216px;
+	margin:60px 0;
+}
+.transparentBg {
+	position:absolute;
+	z-index:2;
+	width:inherit;
+	height:inherit;	
+	mix-blend-mode: multiply;
+}
+.transparentTxt {
+	position:absolute;
+	z-index:3;
+	width:324px;
+	height:inherit;
+	color:#fff;
+	display:inline-flex;
+	padding:20px;
+	font-size:1.6em;
+}
+.blueBg {
+	margin:0;
+	padding: 60px 0 100px 0;
+}
+.sixReasons {
+    flex-flow: row wrap;
+    color:#000;
+}
+.sixReasons div {
+    flex: 0 1 160px;
+    text-align: center;
+    align-items: baseline;
+    font-size: 1.6em;
+    font-weight: lighter;
+    margin: 0 10px;
+}
+.sixReasons div .imgWrap {
+    display: flex;
+    margin: 20px auto;
+    width: 100px;
+    height: 100px;
+}
+.sixReasons div .imgWrap img {
+	width:inherit;
+	height:inherit;
+}
+.advantage {
+	padding:30px 0;
+}
+	.advantage .flex-row-start-between {
+		flex-flow:row wrap;
+	}
+	h5 {
+		font-size:2em;
+	}
+	h5+p {
+		font-size:1.6em;
+		line-height:2em;
+		margin:20px 0;
+	}
+	.com_profile {
+		margin:30px 0;
+	}
+	.com_profile .imgWrap {
+		width:160px;
+		height:160px;
+	}
+	.com_profile+div {
+		font-weight:bold;
+		font-size:2em;
+		line-height:3em;
+	}
+	.com_profile+div+p {
+		font-size:1.4em;
+		text-align:center;
+	}
+.aboutUs {
+	font-size:1.4em;
+}
+footer {
+	margin-top:0;
+}
+footer .backToTop {
+	display:none;
+}
+@media screen and (max-width:1024px) {
+	.sixReasons div {
+		flex:1 0 230px;
+	}
+	.advantage .flex-col-center-center {
+		flex:1 0 250px;
+	}
+}
+@media screen and (max-width: 768px) {
+	.advantage .flex-col-center-center {
+		flex:1 0 180px;
+	}
+}
+@media screen and (max-width: 420px) {
+	.site {
+		padding:20px;
+	}
+	.grayBg .serif {
+		padding:0 20px;
+	}
+	.whyUsBg {
+		height:566px;
+	}
+	.whyUsTxt {
+		justify-content: center;
+	}
+	.Oval-6,
+	.Oval-7 {
+		width:200px;
+		height:200px;
+	}
+	.transparentTxt {
+		width:295px;
+	}
+	.sixReasons div {
+		flex:0 1 120px;
+		margin:0;
+	}
+	.sixReasons div .imgWrap {
+		width:80px;
+		height:80px;
+	}
+	.com_profile .imgWrap {
+		width:100px;
+		height:100px;
+	}
+	.advantage .flex-col-center-center {
+		flex:1 0 110px;
+	}
+}

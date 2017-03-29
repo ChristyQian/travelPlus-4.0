@@ -126,7 +126,7 @@
 	font-size:1em;
 	margin-top:0;
 }
-.blueIconBg h4 {
+.blueBg h4 {
 	margin-top:40px;
 }
 .hightLight p {
@@ -210,7 +210,7 @@
 /*****************************************/
 /*             What's included           */
 /*****************************************/
-.blueIconBg {
+.blueBg {
 	width:100%;
 	min-height:200px;
 	background-color:#94c5db;
@@ -218,7 +218,7 @@
 	padding:30px 30px 80px 30px;
 	color:#fff;
 }
-/*.blueIconBg h4 {
+/*.blueBg h4 {
 	font-size:2.4em;
 	font-weight: lighter;	
 }*/
@@ -685,15 +685,15 @@
 	.quoInfo form {
 		width:100%;
 	}
-	.blueIconBg {
+	.blueBg {
 		padding:20px;
 		margin-top:0;
 	}
-	.blueIconBg .site h4 {
+	.blueBg .site h4 {
 		font-size:20px;
 		margin-top:0;
 	}
-	.blueIconBg .section {
+	.blueBg .section {
 		padding:0;
 	}
 	.includedItems div {
@@ -731,13 +731,7 @@
 	.fixCAT .orangeBtn {
 		font-size:12px;
 	}
-	.fixCAT .Oval-5,
-	.fixCAT .Oval {
-		margin-right:0;
-	}
 }
 @media screen and (max-width: 320px) {	
-	.fixCAT .orangeBtn {
-		margin-left:0;
-	}
+
 }

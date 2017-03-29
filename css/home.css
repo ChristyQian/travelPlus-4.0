@@ -1,17 +1,4 @@
 /*****************************************/
-/*                BG                     */
-/*****************************************/
-.grayBg {
-	position:absolute;
-	z-index:-1;
-	background-color: #f7f5f0;
-	filter:alpha(opacity=50);
-	opacity: 0.5;
-	top:256px;
-	width:100%;
-	height:1055px;
-}
-/*****************************************/
 /*                Slider                 */
 /*****************************************/
 .swiper-container {

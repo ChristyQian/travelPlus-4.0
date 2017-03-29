@@ -31,6 +31,10 @@
 		flex:0 0 300px;
 		margin:10px 0;
 	}
+	.quotationBg,
+	.quotationWrap {
+		height:500px;
+	}
 	
 }
 /* iphone6p - ipad horizontal */
@@ -38,7 +42,7 @@
 	.site {  	
 		width: 680px;
 		margin: 0 auto;
-		padding: 0;  
+		/*padding: 0;*/  
     }
     	.header-logo img {
 		width: 250px;
@@ -61,6 +65,9 @@
 }
 /* min - iphone6p */
 @media screen and (max-width: 420px) {
+	.fixCAT .hotline span {
+		display:none;
+	}
 	.site {
 		width:100%;
 	}
@@ -86,9 +93,6 @@
   	}
     .header-nav.affix {
     		padding:10px;
-    }
-    footer {
-    		margin-top:0;
     }
     footer ul {
     		padding:10px 0;
@@ -213,6 +217,9 @@
 @media screen and (max-width: 320px) {
 	.header {
 		padding-right:5px !important;
+	}
+	footer .flex-row-center-start .flexAuto p {
+		width:160px;
 	}
 }
 @media screen and (min-width: 768px) {

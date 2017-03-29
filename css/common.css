@@ -48,7 +48,8 @@ a {
 	color:inherit;
 }
 a.blueRBtn:hover,
-.fixCAT a.orangeBtn:hover {
+.fixCAT a.orangeBtn:hover,
+a.grayBorderBtn {
 	text-decoration: none;
 }
 a:hover {
@@ -130,13 +131,17 @@ i {
 /*****************************************/
 /*                Site                   */
 /*****************************************/
-.site {
+.site,
+.halfSite {
 	width:1196px;
 	margin:0 auto;
 }
 .section {
 	width:100%;
 	padding:30px 0 40px;
+}
+.halfSite {
+	width:598px;
 }
 /*****************************************/
 /*                Fixed                  */
@@ -411,6 +416,11 @@ button {
 	border:1px solid #94c5db;
 	border-radius:100px;
 }
+.grayBorderBtn {
+	padding:5px 25px;
+	border-radius:24px;
+	border:1px solid #ccc;
+}
 /*****************************************/
 /*                Color                  */
 /*****************************************/
@@ -453,7 +463,7 @@ h4 {
 	line-height:3.2em;
 }
 .icp {
-	padding:20px;
+	padding:20px 0;
 	background-color:#f7f5f0;
 	line-height:1.5em;
 }
@@ -463,6 +473,38 @@ h4 {
 .blog .blueBorderBtn {
 	font-size:14px;
 }
+/*****************************************/
+/*                BG                     */
+/*****************************************/
+.grayBg {
+	position:absolute;
+	z-index:-1;
+	background-color: #f7f5f0;
+	filter:alpha(opacity=50);
+	opacity: 0.5;
+	top:256px;
+	width:100%;
+	height:1055px;
+}
+.blueBg {
+	width:100%;
+	min-height:200px;
+	background-color:#94c5db;
+	margin:30px 0;
+	padding:30px 30px 80px 30px;
+	color:#fff;
+}
+/*****************************************/
+/*                Gray Filter            */
+/*****************************************/
+.grayImg{
+-webkit-filter: grayscale(100%); 
+-moz-filter: grayscale(100%); 
+-ms-filter: grayscale(100%); 
+-o-filter: grayscale(100%); 
+filter: grayscale(100%); 
+filter: gray;
+} 
 /*****************************************/
 /*                Component              */
 /*****************************************/
@@ -739,6 +781,7 @@ h4 {
 }
 .quoInfo form h4 {
 	margin-left:-0.7em;
+	line-height: 1em;
 }
 .quoInfo form .priceWG {
 	font-size:2em;
@@ -749,7 +792,7 @@ h4 {
 	color:#000;
 }
 .priceWG+.quoItem {
-	margin-top:50px;
+	margin-top:20px;
 }
 .quoItem label {
 	display:block;
@@ -795,7 +838,7 @@ h4 {
 /*                Footer                 */
 /*****************************************/
 footer {
-	padding:0 2.5em 10em;
+	padding:0 2.5em 5em;
 	background-color:#f7f5f0;
 	color:#4a4a4a;
 	margin-top:50px;
@@ -808,6 +851,14 @@ footer .site .backToTop {
 	top:-30px;
 	right:0;
 	font-size:12px;
+}
+.defaultFooter {
+	padding:10px 0;
+	border-bottom:1px solid #ddd;
+}
+.defaultFooter .Oval {
+	background-color:transparent;
+	border:1px solid #ccc;
 }
 footer ul {
 	display:flex;
