@@ -867,6 +867,7 @@ footer .site .backToTop {
 .defaultFooter .Oval {
 	background-color:transparent;
 	border:1px solid #ccc;
+	margin-right:5px;
 }
 footer ul {
 	display:flex;
