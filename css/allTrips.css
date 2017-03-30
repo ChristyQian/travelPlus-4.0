@@ -12,3 +12,8 @@
 .destinations select option {
 	height:48px;
 }
+@media screen and (max-width:420px) {
+	.destinations {
+		width:inherit;
+	}
+}
