@@ -1,6 +1,8 @@
+.filter.affix {
+	top:0;
+}
 .destinations {
 	width:430px;
-
 }
 .destinations select {
 	margin:10px 0;

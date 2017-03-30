@@ -47,6 +47,9 @@
 		margin: 0 auto;
 		/*padding: 0;*/  
     }
+    .halfSite {
+    		width:560px;
+    }
     	.header-logo img {
 		width: 250px;
 		height: 50px;
@@ -73,6 +76,9 @@
 	}
 	.site {
 		width:100%;
+	}
+	.halfSite {
+		width:360px;
 	}
 	.header {
 		padding: 0 20px !important;
@@ -218,6 +224,9 @@
 }
 /* iphone5p */
 @media screen and (max-width: 320px) {
+	.halfSite {
+		width:280px;
+	}
 	.header {
 		padding-right:5px !important;
 	}

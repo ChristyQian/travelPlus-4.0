@@ -174,6 +174,11 @@ footer .backToTop {
 		height:100px;
 	}
 	.advantage .flex-col-center-center {
+		flex:1 0 150px;
+	}
+}
+@media screen and (max-width: 320px) { 
+	.advantage .flex-col-center-center {
 		flex:1 0 110px;
 	}
 }

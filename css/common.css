@@ -59,6 +59,11 @@ li {
 	list-style: none;
 }
 input,button,textarea,select{outline:none;}
+select {
+	-webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+}
 i {
 	display:inline-block;
 	font-style: normal;
@@ -192,9 +197,8 @@ i {
 	height:auto;
 }
 .header-nav.affix .com_dialog {	
-	position: fixed;
 	z-index: inherit;
-	right:51px;
+	right:35px;
 }
 .fixCAT .com_dialog {
 	z-index: inherit;
@@ -202,6 +206,10 @@ i {
 	bottom:80px;
 	left:0;
 	font-size:0.64em;
+}
+.header-nav.affix-top .com_dialog,
+.header-nav.affix-top .com_dialog .dialogWrap {
+	display:none;
 }
 .header .com_dialog .dialogWrap,
 .header-nav.affix .com_dialog .dialogWrap,
