@@ -1,0 +1,14 @@
+.destinations {
+	width:430px;
+
+}
+.destinations select {
+	margin:10px 0;
+	height:48px;	
+	padding:10px;
+	background-color: #2f7899;
+	color:#fff;
+}
+.destinations select option {
+	height:48px;
+}

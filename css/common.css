@@ -58,7 +58,7 @@ a:hover {
 li {
 	list-style: none;
 }
-input,button,textarea{outline:none;}
+input,button,textarea,select{outline:none;}
 i {
 	display:inline-block;
 	font-style: normal;
