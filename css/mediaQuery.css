@@ -144,16 +144,16 @@
 		mix-blend-mode: luminosity;
 	}
 	.localGuide {
-		height:80px;
+		height:90px;
 	}
 	.like-minded {
-		background:url(../img/bV@2x.png) no-repeat;
+		background:url(../img/bV.svg) no-repeat;
 		background-size:cover;
 		height: 130px;
 		mix-blend-mode: luminosity;
 	}
 	.freeTime {
-		height:80px;
+		height:90px;
 	}
 	.itineraryMap {
 		float:none;

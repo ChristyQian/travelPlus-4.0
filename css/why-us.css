@@ -64,28 +64,41 @@ h4 {
 .blueBg {
 	margin:0;
 	padding: 60px 0 100px 0;
+	color:;
 }
-.sixReasons {
+.blueBg h5 {
+	line-height:3em;
+}
+.reasons {
     flex-flow: row wrap;
-    color:#000;
+    margin:0 auto 40px;
 }
-.sixReasons div {
+.reasons div {
     flex: 0 1 160px;
     text-align: center;
-    align-items: baseline;
+    align-items: center;
     font-size: 1.6em;
     font-weight: lighter;
     margin: 0 10px;
 }
-.sixReasons div .imgWrap {
+.reasons div .imgWrap {
     display: flex;
     margin: 20px auto;
-    width: 100px;
-    height: 100px;
+    width: 60px;
+    height: 60px;
 }
-.sixReasons div .imgWrap img {
+.reasons div .imgWrap img {
 	width:inherit;
 	height:inherit;
+}
+.realSizeImg .imgWrap {
+	text-align: center;
+}
+.realSizeImg.reasons div .imgWrap img {
+	display:inline-block;
+	width:auto;
+	height:auto;
+	margin:0 auto;
 }
 .advantage {
 	padding:30px 0;
@@ -127,7 +140,7 @@ footer .backToTop {
 	display:none;
 }
 @media screen and (max-width:1024px) {
-	.sixReasons div {
+	.reasons div {
 		flex:1 0 230px;
 	}
 	.advantage .flex-col-center-center {
@@ -161,14 +174,14 @@ footer .backToTop {
 	.transparentTxt {
 		width:295px;
 	}
-	.sixReasons div {
+	.reasons div {
 		flex:0 1 120px;
 		margin:0;
 	}
-	.sixReasons div .imgWrap {
-		width:80px;
-		height:80px;
-	}
+	/*.reasons div .imgWrap {
+		width:60px;
+		height:60px;
+	}*/
 	.com_profile .imgWrap {
 		width:100px;
 		height:100px;

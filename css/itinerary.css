@@ -485,6 +485,15 @@
 .quoBg .name {
 	cursor: pointer;
 }
+.quoBg .orangeBtn {
+	position: relative;
+}
+.quoBg .orangeBtn .whiteArrow {
+	position:absolute;
+	top:22px;
+	right:40px;
+	width:34px;
+}
 @media screen and (max-width:1024px) {
 	.flight .swiper-slide {
 		padding:40px 50px 20px;	
