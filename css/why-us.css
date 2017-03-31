@@ -68,6 +68,7 @@ h4 {
 }
 .blueBg h5 {
 	line-height:3em;
+	font-weight:lighter;
 }
 .reasons {
     flex-flow: row wrap;

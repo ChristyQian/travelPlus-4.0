@@ -64,25 +64,71 @@
 		        </div>-->
 	       </div>
 		</div>
-		<div class="section filter" id="tripsFilter" data-spy="affix" data-offset-top="0">
+		<!-- If Edit Model -->
+		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="0" style="display:block;">
 			<div class="site">
-				<div class="flex-col-start-start destinations">
-					选择你的完美假期：
-					<div class="imitate-dropdown">
-						<a href="#dropdown-box" class="dropdown-switcher">全部目的地</a>
-						<div id="dropdown-box" class="dropdown-box">
-							<a href="##" class="close-dropdown"></a>
-							<div class="dropdown">
-								<ul>
-									<li>全部目的地</li>
-									<li>英国</li>
-									<li>法国</li>
-									<li>德国</li>
-									<li>瑞士</li>
-								</ul>
+				<div class="flex-row-end-between flex-flow">
+					<div class="flex-col-start-start flexAuto">
+						<div class="flex-col-start-start destinations">
+							选择你的完美假期：
+							<div class="imitate-dropdown">
+								<a href="#dropdown-box" class="dropdown-switcher">全部目的地</a>
+								<div id="dropdown-box" class="dropdown-box">
+									<a href="##" class="close-dropdown"></a>
+									<div class="dropdown">
+										<ul>
+											<li>全部目的地</li>
+											<li>英国</li>
+											<li>法国</li>
+											<li>德国</li>
+											<li>瑞士</li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="flex-row-start-start flex-flow">
+							<div class="checkbox checked">
+								历史遗迹
+							</div>
+							<div class="checkbox">
+								艺术人文
+							</div>
+							<div class="checkbox">
+								自然风光
+							</div>
+							<div class="checkbox">
+								海景沙滩
+							</div>
+							<div class="checkbox">
+								浪漫蜜月
+							</div>
+							<div class="checkbox">
+								亲子家庭
+							</div>
+							<div class="checkbox">
+								北欧风情
+							</div>
+							<div class="checkbox">
+								美食美酒
 							</div>
 						</div>
 					</div>
+					<button class="blueRBtn search">搜索</button>
+				</div>
+			</div>
+		</div>
+		<!-- Edit Finished -->
+		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" data-offset-top="0" style="display:none;">
+			<div class="site">
+				<div class="flex-row-center-between">
+					<div class="flex-row-center-start filterConditions">
+						<div>法国</div>
+						<div>艺术人文</div>
+						<div>历史遗迹</div>
+						<div>家庭亲子</div>
+					</div>
+					<button class="blueRBtn edit">编辑</button>
 				</div>
 			</div>
 		</div>
@@ -358,5 +404,23 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
+		<script>
+			$('.checkbox').click(function(){
+				if($(this).hasClass('checked')){
+					$(this).removeClass('checked');
+				}
+				else {
+					$(this).addClass('checked');
+				}
+			});
+			$('.edit').click(function(){
+				$('.filterResult').hide();
+				$('.editModel').show();
+			});
+			$('.search').click(function(){
+				$('.filterResult').show();
+				$('.editModel').hide();
+			})
+		</script>
 	</body>
 </html>

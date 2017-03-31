@@ -85,11 +85,11 @@
 	display:block;
 	width:185px;
 	height:48px;
-	margin:10px 0 10px 100px;
+	line-height: 45px;
+	margin:20px 0 10px 100px;
 	border:1px solid #fff;
 	color:inherit;
 	font-size:16px;
-	margin-top:20px;
 }
 .recommand .borderBtn i.fa {padding-left:30px;}
 footer {
