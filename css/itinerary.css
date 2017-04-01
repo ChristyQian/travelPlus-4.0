@@ -615,7 +615,7 @@
 }
 @media screen and (max-width: 420px) {	
 	.header .com_dialog,
-	.header .dialogWrap {
+	.header .dialogWrap, {
 		display:none;
 	}
 	.imagesWrap {

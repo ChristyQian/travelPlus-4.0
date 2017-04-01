@@ -62,9 +62,6 @@
 	.features {
 		width:400px;
 	}
-	.trips .flex-row-start-between {
-		flex-flow:row wrap;
-	}
 	.header-nav.affix .head-fix-right {
 		display:none;
 	}
@@ -164,9 +161,6 @@
 	}
 	.home-trip-box {
 		width:90%;
-	}
-	.trips .flex-row-start-between {
-		flex-direction: column;
 	}
 	.quoInfo form {
 		padding-top:0;

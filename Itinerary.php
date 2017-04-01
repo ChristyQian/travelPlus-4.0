@@ -861,7 +861,8 @@
 		</div>
 		
 		<!-- Get a personalized quotation -->
-		<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
+		<?php include 'quotationForm.php' ;?>
+		<!--<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
 				<h4>查询实时价格</h4>
 				<div class="quotationBg"></div>
@@ -881,7 +882,7 @@
 								 ￥16,100
 								 <span>起</span>
 							</div>
-							<div class="quoItem errorStyle">
+							<div class="quoItem">
 								<label>起飞地点：</label>
 								<select name="where">
 									<option value="HK">香港</option>
@@ -889,9 +890,6 @@
 									<option value="BJ">北京</option>
 									<option value="SH">上海</option>
 								</select>
-								<div class="form-error-msg">
-									<i class="fa fa-warning"></i>必填
-								</div>
 							</div>
 							<div class="quoItem">
 								<label>旅行时间：</label>
@@ -902,12 +900,9 @@
 									<option>十一国庆</option>
 								</select>
 							</div>
-							<div class="quoItem errorStyle">
+							<div class="quoItem">
 								<label>您的名字：</label>
 								<textarea></textarea>
-								<div class="form-error-msg">
-									<i class="fa fa-warning"></i>请输入姓名
-								</div>
 							</div>
 							<div class="quoItem">
 								<label>电话：</label>
@@ -942,7 +937,7 @@
 						</div>
 				</div>
 			</div>
-		</div>
+		</div>-->
 		<!-- More trips like this -->
 		<div class="site">
 			<!-- trips -->

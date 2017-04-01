@@ -71,6 +71,16 @@ i {
 	font-style: normal;
 	cursor: pointer;
 }
+.errorStyle select,
+.errorStyle input,
+.errorStyle textarea {
+	outline:1px solid #ff0000;
+}
+.form-error-msg {
+	color:#ff0000;
+	margin-top:-10px;
+}
+.form-error-msg i {margin-right:5px;}
 /*****************************************/
 /*                Flex Display           */
 /*****************************************/
