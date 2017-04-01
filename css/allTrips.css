@@ -61,6 +61,19 @@ a.close-dropdown {
 #dropdown-box:target .close-dropdown {
     display: block;
 }
+.dropdownArrow {
+	position:absolute;
+	z-index:2;
+	right:15px;
+	top:21px;
+	display:block;
+	width:0;
+	height:0;
+	border-top:6px solid #fff;
+	border-left:6px solid transparent;
+	border-right:6px solid transparent;
+	
+}
 .filterWrap {
 	flex-flow:row wrap;
 }

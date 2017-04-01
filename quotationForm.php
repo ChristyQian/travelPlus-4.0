@@ -1,6 +1,6 @@
 <?php
 echo '
-<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
+		<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
 				<h4>查询实时价格</h4>
 				<div class="quotationBg"></div>
@@ -20,7 +20,7 @@ echo '
 								 ￥16,100
 								 <span>起</span>
 							</div>
-							<div class="quoItem">
+							<div class="quoItem errorStyle">
 								<label>起飞地点：</label>
 								<select name="where">
 									<option value="HK">香港</option>
@@ -28,6 +28,9 @@ echo '
 									<option value="BJ">北京</option>
 									<option value="SH">上海</option>
 								</select>
+								<div class="form-error-msg">
+									<i class="fa fa-warning"></i>必填
+								</div>
 							</div>
 							<div class="quoItem">
 								<label>旅行时间：</label>
@@ -38,9 +41,12 @@ echo '
 									<option>十一国庆</option>
 								</select>
 							</div>
-							<div class="quoItem">
+							<div class="quoItem errorStyle">
 								<label>您的名字：</label>
 								<textarea></textarea>
+								<div class="form-error-msg">
+									<i class="fa fa-warning"></i>请输入姓名
+								</div>
 							</div>
 							<div class="quoItem">
 								<label>电话：</label>
