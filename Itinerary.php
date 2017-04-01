@@ -943,7 +943,7 @@
 			<!-- trips -->
 			<div class="section trips">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-between">
+				<div class="flex-row-start-between flex-flow">
 					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
@@ -1042,7 +1042,7 @@
 				博客
 				<button class="blueBorderBtn">全部</button>
 			</h4>
-			<div class="flex-row-start-around flex-wrap">
+			<div class="flex-row-start-around flex-flow">
 				<div class="flex1 flex-row-center-between">
 					<div class="image">
 						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg"  />
