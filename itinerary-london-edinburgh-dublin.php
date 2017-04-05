@@ -101,7 +101,7 @@
 		<!-- nav -->
 		<div class="header-nav" data-spy="affix" id="travelPlusNav" data-offset-top="">
 			<div class="site flex-row-center-between">
-				<div class="com_dialog">
+				<div class="com_dialog" style="display:none;">
 					<div class="dialogWrap">
 						<i class="closeIcon">&times;</i>
 						<div class="dialog">
@@ -147,7 +147,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">热卖</div>						
-						<div class="tourName">阿尔卑斯山环游之旅</div>
+						<div class="tourName">恋恋翡翠岛，“英爱”而行</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -175,23 +175,19 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">13天</div>
+						<div class="days">9天</div>
 						<div class="flex-row-start-between">
-							<div>瑞士</div>
+							<div>英国</div>
 							<i class="grayArrow"></i>
-							<div>法国</div>
+							<div>苏格兰</div>
 							<i class="grayArrow"></i>
-							<div>意大利</div>
-							<i class="grayArrow"></i>
-							<div>奥地利</div>
-							<i class="grayArrow"></i>
-							<div>德国</div>
+							<div>爱尔兰</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥16,100
+							￥22,000
 							<span>起</span>
 						</div>
 						<div>
@@ -215,12 +211,11 @@
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							壮丽的高山美景<br/>
-							瑞士巧克力、法式糕点和德国啤酒<br/>
-							美丽的阿尔卑斯山湖畔村庄景致<br/>
-							圣莫里茨的冬季仙境<br/>
-							因斯布鲁克的神来之笔<br/>
-							感受巴伐利亚州的美食与文化
+							伦敦著名博物馆<br/>
+							爱丁堡的城堡、峭壁和迷人街道<br/>
+							爱尔兰人无与伦比的风趣幽默<br/>
+							尽情沉浸在异国文化之中<br/>
+							当地导游带您领略保存完好的隐秘景点<br/>
 						</p>
 					</div>
 				</div>
@@ -321,7 +316,7 @@
 						<div class="imgWrap">
 							<img src="img/page-2.svg" />
 						</div>
-						 9晚精选酒店住宿
+						 7晚精选酒店住宿
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -333,7 +328,7 @@
 						<div class="imgWrap">
 							<img src="img/page-4.svg" />
 						</div>
-						 4顿三道式晚餐，供应啤酒或葡萄酒
+						 3顿三道式晚餐，供应啤酒或葡萄酒
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -374,159 +369,101 @@
 			<div class="itineraryIntro section">
 				<!--<div class="initialScreenLinear"></div>-->
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/jewels-of-alpine-europe.jpg"  />
+					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/london-edinburgh-dublin.jpg"  />
 				</div>
-					<div class="initialScreen">	
-						
+					<div class="initialScreen">							
 						<div class="com_itinerary_summary">
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第1天</label><span>出发</span>
-									</div>
-									<div class="itinerary_daily_detail">
-										
-										<ul>
-											<li>启程并抵达苏黎世 </li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第1天</label><span>出发</span>
+								</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>启程并抵达伦敦</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第2天</label><span>卢塞恩观光游 </span>
-									</div>
-									<div class="itinerary_daily_detail">
-										<ul>
-											<li>探索卢塞恩的老城区</li>
-											<li>观看狮子雕像</li>
-											<li>漫步卡佩尔桥</li>
-											<li>在欢迎晚宴上与同行伙伴见面</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第2天</label><span>伦敦观光游</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>穿过宏伟的特拉法加广场和位于卢德门山上的巴洛克式圣保罗大教堂</li>
+										<li>参观威斯敏斯特教堂</li>
+										<li>参观大本钟、伦敦眼、塔桥和伦敦塔等标志性建筑</li>
+										<li>驻足白金汉宫</li>
+										<li>在欢迎晚宴上与同行伙伴见面</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第3天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第3天</label><span>伦敦自由行</span> 
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第4天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第4天</label><span>前往爱丁堡</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>搭乘火车一览英格兰田园风光以及苏格兰的湖泊和丘陵，随后抵达苏格兰首府。</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第5天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第5天</label><span>爱丁堡观光游</span> 
+								</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>参观典雅的格鲁吉亚新城和皇家一英里</li>
+										<li>途经沃尔特·司各特纪念碑</li>
+										<li>进入爱丁堡城堡，欣赏苏格兰御宝和斯昆石</li>
+										<li>下午自由活动</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第6天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第6天</label><span>前往都柏林</span> 
+								</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>上午前往都柏林，晚上自由活动</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第7天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第7天</label><span>都柏林观光游</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>途经圣斯蒂芬绿地，欣赏梅瑞恩广场上的格鲁吉亚风格建筑</li>
+										<li>漫步格拉夫顿街，参观莫利·马隆雕像和圣三一学院</li>
+										<li>步入圣帕特里克大教堂</li>
+										<li>下午在都柏林自由活动，晚上参加告别晚宴</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第8天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第8天</label><span>返程</span> 
 								</div>
-							</div>
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第9天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
-							</div>
-							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第10天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>前往机场搭乘返程航班</li>
+									</ul>
 								</div>
 							</div>
 						</div>						

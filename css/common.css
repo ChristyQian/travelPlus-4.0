@@ -226,6 +226,7 @@ i {
 }
 .header .com_dialog .dialogWrap,
 .header-nav.affix .com_dialog .dialogWrap,
+.header-nav.affix-top .com_dialog .dialogWrap,
 .fixCAT .com_dialog .dialogWrap  {
 	background-color:#fff;
 	color:#333;

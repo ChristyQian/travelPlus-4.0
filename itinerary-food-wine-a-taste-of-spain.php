@@ -101,7 +101,7 @@
 		<!-- nav -->
 		<div class="header-nav" data-spy="affix" id="travelPlusNav" data-offset-top="">
 			<div class="site flex-row-center-between">
-				<div class="com_dialog">
+				<div class="com_dialog" style="display:none;">
 					<div class="dialogWrap">
 						<i class="closeIcon">&times;</i>
 						<div class="dialog">
@@ -147,7 +147,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">热卖</div>						
-						<div class="tourName">阿尔卑斯山环游之旅</div>
+						<div class="tourName">食在西班牙：爱在唇齿留香间</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -175,23 +175,15 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">13天</div>
+						<div class="days">11天</div>
 						<div class="flex-row-start-between">
-							<div>瑞士</div>
-							<i class="grayArrow"></i>
-							<div>法国</div>
-							<i class="grayArrow"></i>
-							<div>意大利</div>
-							<i class="grayArrow"></i>
-							<div>奥地利</div>
-							<i class="grayArrow"></i>
-							<div>德国</div>
+							<div>西班牙</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥16,100
+							￥23,600
 							<span>起</span>
 						</div>
 						<div>
@@ -215,12 +207,12 @@
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							壮丽的高山美景<br/>
-							瑞士巧克力、法式糕点和德国啤酒<br/>
-							美丽的阿尔卑斯山湖畔村庄景致<br/>
-							圣莫里茨的冬季仙境<br/>
-							因斯布鲁克的神来之笔<br/>
-							感受巴伐利亚州的美食与文化
+							领略圣卡特纳市场的多彩风味<br/>
+							巴塞罗那和马德里的美味小吃<br/>
+							卡瓦酒：西班牙起泡白葡萄酒<br/>
+							新美食之都——圣塞瓦斯蒂安的串烧小吃<br/>
+							拉里奥哈和斗罗河岸诱人的丹魄葡萄酒<br/>
+							西班牙葡萄园和乡村美景<br/>
 						</p>
 					</div>
 				</div>
@@ -333,7 +325,7 @@
 						<div class="imgWrap">
 							<img src="img/page-4.svg" />
 						</div>
-						 4顿三道式晚餐，供应啤酒或葡萄酒
+						 2顿午餐，4顿晚餐（含三道菜），供应啤酒或葡萄酒，4次葡萄酒品鉴，1节烹饪课
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -374,159 +366,143 @@
 			<div class="itineraryIntro section">
 				<!--<div class="initialScreenLinear"></div>-->
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/jewels-of-alpine-europe.jpg"  />
+					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/food-wine-a-taste-of-spain.jpg"  />
 				</div>
-					<div class="initialScreen">	
-						
+					<div class="initialScreen">							
 						<div class="com_itinerary_summary">
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第1天</label><span>出发</span>
-									</div>
-									<div class="itinerary_daily_detail">
-										
-										<ul>
-											<li>启程并抵达苏黎世 </li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第1天</label><span>出发</span>
+								</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>启程并抵达巴塞罗那</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第2天</label><span>卢塞恩观光游 </span>
-									</div>
-									<div class="itinerary_daily_detail">
-										<ul>
-											<li>探索卢塞恩的老城区</li>
-											<li>观看狮子雕像</li>
-											<li>漫步卡佩尔桥</li>
-											<li>在欢迎晚宴上与同行伙伴见面</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第2天</label><span>巴塞罗那观光游</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>游览圣卡特纳市场</li>
+										<li>前往烹饪学校，驻足橄榄油商店，品尝西班牙油条配巧克力</li>
+										<li>在烹饪课上亲手制作地道西班牙美食</li>
+										<li>参观了解加泰罗尼亚首府</li>
+										<li>步入圣家堂</li>
+										<li>经过高迪设计的“骨之屋”</li>
+										<li>驻足蒙特惠奇</li>
+										<li>经过西班牙广场和哥伦布纪念碑</li>
+										<li>在欢迎晚宴上与同行伙伴见面</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第3天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第3天</label><span>途经卡瓦酒产区前往圣塞瓦斯蒂安</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>前往卡瓦酒产区，在酒厂驻足，品尝午餐和起泡葡萄酒</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第4天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第4天</label><span>圣塞瓦斯蒂安观光游</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>经过贝壳海滩，前往老城区</li>
+										<li>参观宪法广场</li>
+										<li>在鱼市走进巴斯克文化</li>
+										<li>在酒吧品尝巴斯克风味小吃，搭配当地白葡萄酒</li>
+										<li>晚上自由活动</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第5天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第5天</label><span>途经潘普洛纳，前往拉里奥哈地区</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>在潘普洛纳驻足停留</li>
+										<li>	参观潘普洛纳大教堂和潘普洛纳市政厅
+										<li>	抵达以红葡萄酒闻名的拉里奥哈
+										<li>	享用晚餐，品尝当地特色美食</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第6天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第6天</label><span>拉里奥哈村庄和葡萄酒品鉴</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>参观布里奥内斯毕万科葡萄酒文化博物馆</li>
+										<li>经过埃布罗河谷，欣赏葡萄园和沿途美景</li>
+										<li>在拉里奥哈葡萄酒产区尽情游览并品尝葡萄酒</li>
+										<li>参观瑞格尔侯爵酒庄</li>
+										<li>品尝拉里奥哈的丹魄葡萄酒和传统西班牙小吃</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第7天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第7天</label><span>参观杜埃罗河岸葡萄酒产区，并品尝阿兰达葡萄酒</span> 
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第8天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第8天</label><span>前往马德里</span> 
 								</div>
-							</div>
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第9天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>下午在马德里自由活动</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第10天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第9天</label><span>马德里观光游</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>参观普拉多博物馆</li>
+										<li>经过马德里皇宫、马约尔广场</li>
+										<li>途经西贝莱斯广场、海神喷泉和西班牙广场</li>
+										<li>途经德波神庙</li>
+										<li>在圣米盖尔市场品尝葡萄酒和美食</li>
+										<li>当晚享用卡斯蒂利亚风味晚宴，与同行伙伴告别</li>
+									</ul>
+								</div>
+							</div>
+							<div class="itinerary_daily_item">
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第10天</label><span>返程</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>前往机场搭乘返程航班</li>
+									</ul>
+								</div>
+							</div>
+							<div class="itinerary_daily_item">
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第11天</label><span>抵达中国</span>
 								</div>
 							</div>
 						</div>						

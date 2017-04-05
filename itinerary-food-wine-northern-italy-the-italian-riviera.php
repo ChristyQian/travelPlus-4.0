@@ -101,7 +101,7 @@
 		<!-- nav -->
 		<div class="header-nav" data-spy="affix" id="travelPlusNav" data-offset-top="">
 			<div class="site flex-row-center-between">
-				<div class="com_dialog">
+				<div class="com_dialog" style="display:none;">
 					<div class="dialogWrap">
 						<i class="closeIcon">&times;</i>
 						<div class="dialog">
@@ -147,7 +147,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">热卖</div>						
-						<div class="tourName">阿尔卑斯山环游之旅</div>
+						<div class="tourName">食在意大利：食物与酒的美学</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -175,23 +175,21 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">13天</div>
+						<div class="days">12天</div>
 						<div class="flex-row-start-between">
-							<div>瑞士</div>
+							<div>都灵</div>
 							<i class="grayArrow"></i>
-							<div>法国</div>
+							<div>意属里维耶拉</div>
 							<i class="grayArrow"></i>
-							<div>意大利</div>
+							<div>博洛尼亚</div>
 							<i class="grayArrow"></i>
-							<div>奥地利</div>
-							<i class="grayArrow"></i>
-							<div>德国</div>
+							<div>米兰</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥16,100
+							￥20,800
 							<span>起</span>
 						</div>
 						<div>
@@ -215,12 +213,12 @@
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							壮丽的高山美景<br/>
-							瑞士巧克力、法式糕点和德国啤酒<br/>
-							美丽的阿尔卑斯山湖畔村庄景致<br/>
-							圣莫里茨的冬季仙境<br/>
-							因斯布鲁克的神来之笔<br/>
-							感受巴伐利亚州的美食与文化
+							和意大利厨师一起烹制新鲜意大利面<br/>
+							品尝新鲜意式美食<br/>
+							拜访名扬世界的葡萄酒故乡<br/>
+							探索帕马森干酪的秘密<br/>
+							漫步阳光明媚的里维埃拉海岸<br/>
+							感受前卫摩登的米兰都市<br/>
 						</p>
 					</div>
 				</div>
@@ -321,7 +319,7 @@
 						<div class="imgWrap">
 							<img src="img/page-2.svg" />
 						</div>
-						 9晚精选酒店住宿
+						10晚精选酒店住宿
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -333,7 +331,7 @@
 						<div class="imgWrap">
 							<img src="img/page-4.svg" />
 						</div>
-						 4顿三道式晚餐，供应啤酒或葡萄酒
+						3顿午餐；4顿晚餐（含三道菜），供应啤酒或葡萄酒；2次葡萄酒品酒会；1节烹饪课
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -374,163 +372,140 @@
 			<div class="itineraryIntro section">
 				<!--<div class="initialScreenLinear"></div>-->
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/jewels-of-alpine-europe.jpg"  />
+					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/food-wine-northern-italy-the-italian-riviera.jpg"  />
 				</div>
-					<div class="initialScreen">	
-						
-						<div class="com_itinerary_summary">
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第1天</label><span>出发</span>
-									</div>
-									<div class="itinerary_daily_detail">
-										
-										<ul>
-											<li>启程并抵达苏黎世 </li>
-										</ul>
-									</div>
-								</div>
+				<div class="initialScreen">							
+					<div class="com_itinerary_summary">
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第1天</label><span>出发</span>
 							</div>
-							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第2天</label><span>卢塞恩观光游 </span>
-									</div>
-									<div class="itinerary_daily_detail">
-										<ul>
-											<li>探索卢塞恩的老城区</li>
-											<li>观看狮子雕像</li>
-											<li>漫步卡佩尔桥</li>
-											<li>在欢迎晚宴上与同行伙伴见面</li>
-										</ul>
-									</div>
-								</div>
+							<div class="itinerary_daily_detail">										
+								<ul>
+									<li>启程并抵达都灵</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第3天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第2天</label><span>都灵观光游</span>
 							</div>
-							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第4天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>途经卡斯特罗广场、夫人宫和卡里尼亚诺宫</li>
+									<li>进入皇家圣洛伦索教堂参观</li>
+									<li>在欢迎晚宴上与同行伙伴见面</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第5天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第3天</label><span>都灵自由行</span> 
 							</div>
-							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第6天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第4天</label><span>途经巴罗洛前往意属里维埃拉</span> 
 							</div>
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第7天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>在巴罗洛稍作停留，享用午餐，参加品酒会，然后前往意属里维埃拉</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第8天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第5天</label><span>里维耶拉自由行</span> 
 							</div>
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第9天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第6天</label><span>前往博洛尼亚</span> 
 							</div>
-							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第10天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
-								</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>品尝当地美食</li>
+									<li>参观当地的帕马森干酪作坊，品尝干酪</li>
+									<li>参观香醋园，享用午餐，品尝当地摩德纳传统香醋</li>
+								</ul>
 							</div>
-						</div>						
-					</div>				
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第7天</label><span>博洛尼亚观光游</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>参观博洛尼亚大学</li>
+									<li>走进当地鱼菜市场，参观博洛尼亚主广场</li>
+									<li>下午在博洛尼亚自由活动</li>
+									<li>晚餐享用自制意式千层面</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第8天</label><span>博洛尼亚自由行</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>晚上参加博洛尼亚烹饪体验课并享用晚餐</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第9天</label><span>途经瓦尔波利切拉，前往米兰</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>在瓦尔波利塞拉享用午餐，品尝经典红酒</li>
+									<li>前往时尚之都米兰</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第10天</label><span>米兰观光游</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>参观斯福尔扎古堡建筑和博物馆</li>
+									<li>穿越布雷拉老城区，途经斯卡拉剧院和广场</li>
+									<li>进入米兰大教堂</li>
+									<li>参加告别晚宴</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第11天</label><span>返程</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>前往机场搭乘返程航班</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第12天</label><span>抵达中国</span>
+							</div>
+						</div>
+					</div>						
+				</div>				
 			</div>
 			<button class="borderBtn allItinerary">全部行程</button>
 		</div>

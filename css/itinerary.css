@@ -36,6 +36,11 @@
 	padding:2em 4em 3em 5.2em;
 	
 }
+.tourInfo .tourName+.flex-row-start-between {
+	position:absolute;
+	bottom:20px;
+	width:70%;
+}
 .tourInfo .transparentTxt .yellowTxt,
 .tourInfo .transparentTxt .pinkTxt {
 	font-size:1.6em;
@@ -43,7 +48,7 @@
 
 .tourName {
 	font-size:3.6em;
-	line-height:3.6em;
+	line-height:1.5em;
 }
 .itineraryInfo {
 	margin:0 auto;
@@ -272,6 +277,7 @@
 .initialScreen.expand {
 	overflow:visible;
 	height:auto;
+	margin-bottom:0;
 }
 .com_itinerary_summary {
 	border-left:1px dashed #94c5db;
@@ -306,7 +312,7 @@
 	background-color:#94c5db;
 	left:-53px;
 }
-.itinarary_daily_detail {
+.itinerary_daily_detail {
 	font-size:1.4em;
 	/*font-weight:lighter;*/
 	line-height:2em;

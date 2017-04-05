@@ -101,7 +101,7 @@
 		<!-- nav -->
 		<div class="header-nav" data-spy="affix" id="travelPlusNav" data-offset-top="">
 			<div class="site flex-row-center-between">
-				<div class="com_dialog">
+				<div class="com_dialog" style="display:none;">
 					<div class="dialogWrap">
 						<i class="closeIcon">&times;</i>
 						<div class="dialog">
@@ -147,7 +147,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">热卖</div>						
-						<div class="tourName">阿尔卑斯山环游之旅</div>
+						<div class="tourName">瑞士、阿尔萨斯和黑森林之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -175,15 +175,11 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">13天</div>
+						<div class="days">12天</div>
 						<div class="flex-row-start-between">
 							<div>瑞士</div>
 							<i class="grayArrow"></i>
 							<div>法国</div>
-							<i class="grayArrow"></i>
-							<div>意大利</div>
-							<i class="grayArrow"></i>
-							<div>奥地利</div>
 							<i class="grayArrow"></i>
 							<div>德国</div>
 							<i class="grayArrow"></i>
@@ -191,7 +187,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥16,100
+							￥24,900
 							<span>起</span>
 						</div>
 						<div>
@@ -215,12 +211,12 @@
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							壮丽的高山美景<br/>
-							瑞士巧克力、法式糕点和德国啤酒<br/>
-							美丽的阿尔卑斯山湖畔村庄景致<br/>
-							圣莫里茨的冬季仙境<br/>
-							因斯布鲁克的神来之笔<br/>
-							感受巴伐利亚州的美食与文化
+							卢塞恩和因特拉肯的高山湖泊<br/>
+							搭乘著名的冰河快车欣赏壮美风光<br/>
+							瑞士标志性高峰——马特峰<br/>
+							“欧洲屋脊”少女峰蔚为壮观的美景<br/>
+							中世纪斯特拉斯堡和科尔马的迷人广场与蜿蜒小巷<br/>
+							德国充满传奇色彩的黑森林<br/>
 						</p>
 					</div>
 				</div>
@@ -321,7 +317,7 @@
 						<div class="imgWrap">
 							<img src="img/page-2.svg" />
 						</div>
-						 9晚精选酒店住宿
+						 10晚精选酒店住宿
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -374,159 +370,151 @@
 			<div class="itineraryIntro section">
 				<!--<div class="initialScreenLinear"></div>-->
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/jewels-of-alpine-europe.jpg"  />
+					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/switzerland-alsace-the-black-forest.jpg"  />
 				</div>
-					<div class="initialScreen">	
-						
+					<div class="initialScreen">							
 						<div class="com_itinerary_summary">
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第1天</label><span>出发</span>
-									</div>
-									<div class="itinerary_daily_detail">
-										
-										<ul>
-											<li>启程并抵达苏黎世 </li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第1天</label><span>出发</span>
+								</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>启程并抵达卢塞恩</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第2天</label><span>卢塞恩观光游 </span>
-									</div>
-									<div class="itinerary_daily_detail">
-										<ul>
-											<li>探索卢塞恩的老城区</li>
-											<li>观看狮子雕像</li>
-											<li>漫步卡佩尔桥</li>
-											<li>在欢迎晚宴上与同行伙伴见面</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第2天</label><span>卢塞恩观光游</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>游览旧城区鹅卵石街道沿路的手绘建筑墙面</li>
+										<li>参观狮子纪念碑</li>
+										<li>参观巴洛克建筑耶稣会教堂</li>
+										<li>参观卡佩尔桥</li>
+										<li>在欢迎晚宴上与同行伙伴见面</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第3天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第3天</label><span>前往蒙特勒</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>参观西庸古堡</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第4天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第4天</label><span>马特峰地区观光游</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>搭乘欧洲露天齿轨铁路前往峰顶</li>
+										<li>马特峰壮美风景一览无余</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第5天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第5天</label><span>搭乘冰河快车前往安德马特</span> 
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第6天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第6天</label><span>少女峰观光游</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>搭乘列车登顶11000英尺的少女峰</li>
+										<li>参观山顶冰宫及展品</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第7天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第7天</label><span>途经伯尔尼和巴塞尔前往斯特拉斯堡</span> 
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>穿过阿勒河，前往伯尔尼棕熊之家</li>
+										<li>漫步旧城区，途经伯尔尼大教堂</li>
+										<li>前往巴塞尔自由观光</li>
+										<li>出发前往斯特拉斯堡</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第8天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第8天</label><span>斯特拉斯堡观光游</span> 
 								</div>
-							</div>
-							<div class="itinerary_daily_item">						
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第9天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_detail">										
+									<ul>
+										<li>途经大岛周边地区，经过谷登堡广场、 圣母院和罗昂宫</li>
+										<li>乘船欣赏沃邦拦河坝和廊桥风光</li>
+										<li>下午在斯特拉斯堡自由活动</li>
+									</ul>
 								</div>
 							</div>
 							<div class="itinerary_daily_item">
-								<div>
-									<div class="itinerary_daily_title">
-										<div class="itemCircle"></div>
-										<label>第10天</label><span>取道伯尔尼前往安纳西</span> 
-									</div>
-									<div class="itinerary_daily_detail">										
-										<ul>
-											<li>欣赏阿尔卑斯山美景</li>
-											<li>途经伯尔尼老城，步行经过哥特式大教堂</li>
-											<li>途经洛桑和日内瓦湖的葡萄园，前往安纳西</li>
-										</ul>
-									</div>
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第9天</label><span>途经科尔马前往弗莱堡</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>探索以运河闻名的科尔马</li>
+										<li>参观普菲斯特宅第和圣马丁教堂</li>
+										<li>步入巴特勒迪博物馆</li>
+										<li>游览黑森林入口——德国小镇弗莱堡</li>
+										<li>步入哥特式弗莱堡大教堂</li>
+										<li>途经古代商贸会馆楼、市政厅和马丁门</li>
+									</ul>
+								</div>
+							</div>
+							<div class="itinerary_daily_item">
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第10天</label><span>黑森林地区观光游</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>前往沃尔法镇，参观黑森林露天博物馆</li>
+										<li>前往特里贝格品尝黑森林蛋糕</li>
+										<li>参观森林博物馆</li>
+										<li>参观世界著名咕咕钟，欣赏特里贝格瀑布</li>
+										<li>返回弗莱堡途中，在蒂蒂湖畔驻足闲逛</li>
+										<li>当晚与同行伙伴共享欢送晚宴</li>
+									</ul>
+								</div>
+							</div>
+							<div class="itinerary_daily_item">
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第11天</label><span>返程</span>
+								</div>
+								<div class="itinerary_daily_detail">
+									<ul>
+										<li>前往机场搭乘返程航班</li>
+									</ul>
+								</div>
+							</div>
+							<div class="itinerary_daily_item">
+								<div class="itinerary_daily_title">
+									<div class="itemCircle"></div>
+									<label>第12天</label><span>抵达中国</span>
 								</div>
 							</div>
 						</div>						
