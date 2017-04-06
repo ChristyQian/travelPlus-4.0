@@ -17,7 +17,7 @@
 				</div>
 				<ul>
 					<li>
-						<a href="allTrips.html">行程</a>
+						<a href="allTrips.php">行程</a>
 					</li>
 					<li>
 						<a href="why-us.html">特色</a>

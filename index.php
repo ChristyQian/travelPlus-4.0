@@ -264,7 +264,7 @@
 					</div>
 				</div>
 				<div class="">
-					<a class="yellowBtn" href="allTrips.html">全部行程<i class="whiteArrow"></i></a>
+					<a class="yellowBtn" href="allTrips.php">全部行程<i class="whiteArrow"></i></a>
 				</div>
 			</div>					
 		</div>
