@@ -593,6 +593,11 @@ filter: gray;
 	position: relative;
 	flex: 0 1 380px;	
 	background-color: #fff;	
+	margin-bottom:30px;
+	margin-right:28px;
+}
+.home-trip-box:nth-child(3n) {
+	margin-right:0;
 }
 .imgWrap {
 	width:100%;

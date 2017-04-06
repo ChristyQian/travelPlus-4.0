@@ -33,6 +33,10 @@
 	.home-trip-box {
 		flex:0 0 300px;
 		margin:10px 0;
+		margin-right:40px;
+	}
+	.home-trip-box:nth-child(3n) {
+		margin-right:0;
 	}
 	.quotationBg,
 	.quotationWrap {
@@ -65,6 +69,18 @@
 	.header-nav.affix .head-fix-right {
 		display:none;
 	}
+	.home-trip-box {
+		flex:0 0 300px;
+		margin:10px 0;
+		margin-right:80px;
+	}
+	.home-trip-box:nth-child(3n) {
+		margin-right:80px;
+	}
+	.home-trip-box:nth-child(2n) {
+		margin-right:0;
+	}
+
 }
 /* min - iphone6p */
 @media screen and (max-width: 420px) {
@@ -155,6 +171,14 @@
 	.itineraryMap {
 		float:none;
 		width:100%;
+	}
+	.flex-row-start-start {
+		justify-content:center;
+	}
+	.home-trip-box,
+	.home-trip-box:nth-child(2n),
+	.home-trip-box:nth-child(3n) {
+		margin-right: 0;
 	}
 	.home-trip-box.earlyBird .hotSale .flex-row-start-between {
 		flex-direction: row;
