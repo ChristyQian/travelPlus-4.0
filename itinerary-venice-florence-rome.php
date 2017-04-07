@@ -228,7 +228,9 @@
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg1"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/1.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -245,7 +247,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg2"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/2.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -262,7 +266,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg3"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/3.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -279,7 +285,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg4"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/4.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -576,8 +584,9 @@
 					<select>
 						<option>北京</option>
 						<option>上海</option>
-						<option>深圳</option>
+						<option>广州</option>
 						<option>香港</option>
+						<option>成都</option>
 					</select>
 				</div>
 			</h4>

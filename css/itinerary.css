@@ -163,7 +163,12 @@
 	height:652px;
 	overflow:hidden;
 }
-.bg1 {
+.itineraryPhoto .swiper-slide .slideBg img {
+	width:100%;
+	height:inherit;
+	
+}
+/*.bg1 {
 	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/4.jpg') center center no-repeat;
 	background-size:cover;
 }
@@ -178,7 +183,7 @@
 .bg4 {
 	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg') center center no-repeat;
 	background-size:cover;
-}
+}*/
 .bgIntro,
 .hotelIntro {
 	position:absolute;
@@ -456,7 +461,7 @@
 }
 .flight .ibWrap div {
 	display:inline-block;
-	margin-right:20px;
+	margin-right:10px;
 }
 .flight .ibWrap div:after {
 	content: " ";
@@ -466,7 +471,7 @@
 	vertical-align:middle;
 	border-radius:2px;
 	background-color:#fff;
-	margin-left:20px;
+	margin-left:10px;
 }
 .flight .ibWrap div:last-child:after {
 	display:none;

@@ -228,7 +228,9 @@
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg1"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/1.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -245,7 +247,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg2"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/2.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -262,7 +266,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg3"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/3.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -279,7 +285,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg4"></div>
+							<div class="slideBg">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/4.jpg" />
+							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
@@ -580,8 +588,9 @@
 					<select>
 						<option>北京</option>
 						<option>上海</option>
-						<option>深圳</option>
+						<option>广州</option>
 						<option>香港</option>
+						<option>成都</option>
 					</select>
 				</div>
 			</h4>
@@ -592,25 +601,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">芬兰航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海浦东</span>06:15</div>
-									<div class="airport"><span>巴塞罗那</span>22:45</div>
+									<div class="airport"><span>上海</span>09:20</div>
+									<div class="airport"><span>赫尔辛基</span>14:20</div>
+									<div class="airport"><span>赫尔辛基</span>17:00</div>
+									<div class="airport"><span>伦敦</span>18:05</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">芬兰航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>佛罗伦萨</span>06:45</div>
-									<div class="airport"><span>上海浦东</span>22:15</div>								
+									<div class="airport"><span>阿姆斯特丹</span>11:55</div>
+									<div class="airport"><span>赫尔辛基</span>15:15</div>
+									<div class="airport"><span>赫尔辛基</span>17:20</div>
+									<div class="airport"><span>上海</span>07:10+1</div>								
 								</div>
 							</div>
 						</div>
@@ -620,52 +633,92 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">芬兰航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海浦东</span>06:15</div>
-									<div class="airport"><span>巴塞罗那</span>22:45</div>
+									<div class="airport"><span>北京</span>10:55</div>
+									<div class="airport"><span>赫尔辛基</span>14:15</div>
+									<div class="airport"><span>赫尔辛基</span>17:00</div>
+									<div class="airport"><span>伦敦</span>18:05</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">芬兰航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>佛罗伦萨</span>06:45</div>
-									<div class="airport"><span>上海浦东</span>22:15</div>								
+									<div class="airport"><span>阿姆斯特丹</span>11:55</div>
+									<div class="airport"><span>赫尔辛基</span>15:15</div>
+									<div class="airport"><span>赫尔辛基</span>18:20</div>
+									<div class="airport"><span>北京</span>06:55+1 </div>								
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="swiper-slide">
-						<div class="com_flightInfo">
-							<div class="voyage">启程</div>
-							<div class="ibWrap">
-								<div class="">荷兰航空</div>
-								<div class="">16小时</div>
-								<div class="">直飞</div>
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">荷兰皇家航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>香港</span>12:20</div>
+									<div class="airport"><span>阿姆斯特丹</span>18:20</div>
+									<div class="airport"><span>阿姆斯特丹</span>20:30</div>
+									<div class="airport"><span>伦敦</span>20:55</div>
+								</div>
 							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>上海浦东</span>06:15</div>
-								<div class="airport"><span>巴塞罗那</span>22:45</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">荷兰皇家航空</div>
+									<div class="">小时</div>
+									<div class="">直飞</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>阿姆斯特丹</span>17:20</div>
+									<div class="airport"><span>香港</span>10:20+1</div>								
+								</div>
 							</div>
 						</div>
-						<div class="com_flightInfo">
-							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">荷兰航空</div>
-								<div class="flex1">16小时</div>
-								<div class="flex1">直飞</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">阿提哈德航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>成都</span>21:00</div>
+									<div class="airport"><span>阿布扎比</span>01:00+1</div>
+									<div class="airport"><span>阿布扎比</span>02:35</div>
+									<div class="airport"><span>伦敦</span>07:35</div>
+								</div>
 							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>佛罗伦萨</span>06:45</div>
-								<div class="airport"><span>上海浦东</span>22:15</div>								
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">阿提哈德航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>阿姆斯特丹</span>21:25</div>
+									<div class="airport"><span>阿布扎比</span>06:20+1</div>
+									<div class="airport"><span>阿布扎比</span>08:10</div>
+									<div class="airport"><span>成都</span>19:40</div>								
+								</div>
 							</div>
 						</div>
 					</div>
@@ -906,7 +959,7 @@
 			<!-- trips -->
 			<div class="section trips">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-between flex-flow">
+				<div class="flex-row-start-between">
 					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
@@ -1165,8 +1218,8 @@
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
-		        slidesOffsetBefore : -280,
-		        slidesOffsetAfter : 280,
+//		        slidesOffsetBefore : -280,
+//		        slidesOffsetAfter : 280,
 		        breakpoints: { 
 		        		//当宽度小于等于1024
 		        		1024:{
