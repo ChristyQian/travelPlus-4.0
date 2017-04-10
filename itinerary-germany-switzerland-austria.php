@@ -992,7 +992,7 @@
 			<!-- trips -->
 			<div class="section trips">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-between flex-flow">
+				<div class="flex-row-start-between">
 					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
@@ -1251,8 +1251,10 @@
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
-//		        slidesOffsetBefore : -280,
-//		        slidesOffsetAfter : 280,
+		        loop:true,
+		        loopedSlides :5,
+		        slidesOffsetBefore : -280,
+		        slidesOffsetAfter : 280,
 		        breakpoints: { 
 		        		//当宽度小于等于1024
 		        		1024:{
