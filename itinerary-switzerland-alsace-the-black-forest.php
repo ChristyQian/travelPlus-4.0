@@ -676,10 +676,10 @@
 								<div class="">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>成都</span>1435</div>
-								<div class="airport"><span>阿姆斯特丹</span>1900</div>
-								<div class="airport"><span>阿姆斯特丹</span>2100</div>
-								<div class="airport"><span>苏黎世</span>2225</div>
+								<div class="airport"><span>成都</span>14:35</div>
+								<div class="airport"><span>阿姆斯特丹</span>19:00</div>
+								<div class="airport"><span>阿姆斯特丹</span>21:00</div>
+								<div class="airport"><span>苏黎世</span>22:25</div>
 							</div>
 						</div>
 						<div class="com_flightInfo">
@@ -690,10 +690,10 @@
 								<div class="flex1">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>苏黎世</span>1735</div>
-								<div class="airport"><span>阿姆斯特丹</span>1915</div>
-								<div class="airport"><span>阿姆斯特丹</span>2105</div>
-								<div class="airport"><span>成都</span>1250+1</div>								
+								<div class="airport"><span>苏黎世</span>17:35</div>
+								<div class="airport"><span>阿姆斯特丹</span>19:15</div>
+								<div class="airport"><span>阿姆斯特丹</span>21:05</div>
+								<div class="airport"><span>成都</span>12:50+1</div>								
 							</div>
 						</div>
 					</div>
@@ -1152,7 +1152,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopSlides:2,
+		        loopedSlides:2,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
@@ -1195,8 +1195,10 @@
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
-//		        slidesOffsetBefore : -280,
-//		        slidesOffsetAfter : 280,
+		        loop:true,
+		        loopedSlides:4,
+		        slidesOffsetBefore : -280,
+		        slidesOffsetAfter : 280,
 		        breakpoints: { 
 		        		//当宽度小于等于1024
 		        		1024:{

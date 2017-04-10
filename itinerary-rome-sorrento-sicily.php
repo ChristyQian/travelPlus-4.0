@@ -1234,7 +1234,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopSlides:7,
+		        loopedSlides:7,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
@@ -1277,8 +1277,10 @@
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
-//		        slidesOffsetBefore : -280,
-//		        slidesOffsetAfter : 280,
+		        loop:true,
+		        loopedSlides:5,
+		        slidesOffsetBefore : -280,
+		        slidesOffsetAfter : 280,
 		        breakpoints: { 
 		        		//当宽度小于等于1024
 		        		1024:{

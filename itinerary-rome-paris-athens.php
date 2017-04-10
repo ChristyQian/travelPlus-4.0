@@ -1121,7 +1121,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopSlides:6,
+		        loopedSlides:6,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
@@ -1164,6 +1164,8 @@
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
+		        loop:true,
+		        loopedSlides:3,
 		        slidesOffsetBefore : -280,
 		        slidesOffsetAfter : 280,
 		        breakpoints: { 
