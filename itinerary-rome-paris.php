@@ -456,7 +456,9 @@
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg1"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_dining.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -466,7 +468,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg2"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_room.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -476,7 +480,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg3"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_gym.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -485,8 +491,10 @@
 						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
 					</div>
 					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg bg2"></div>
+						<div class="swiperBgWrap">							
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _dining.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -496,7 +504,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg3"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _room.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -506,7 +516,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg1"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _gym.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -1074,6 +1086,8 @@
 		    		autoplay: 5000,
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
+		        loop:true,
+		        loopedSlides :6,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
@@ -1116,6 +1130,8 @@
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
+		        loop:true,
+		        loopedSlides :4,
 		        slidesOffsetBefore : -280,
 		        slidesOffsetAfter : 280,
 		        breakpoints: { 

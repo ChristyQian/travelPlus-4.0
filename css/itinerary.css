@@ -357,21 +357,9 @@
 	height:379px;
 	overflow: hidden;
 }
-.hotels .swiper-slide .slideBg.bg1 {
-	background:#efefef url('http://q-cc.bstatic.com/images/hotel/max1024x768/588/58883677.jpg') center center no-repeat;
-	background-size:cover;
-}
-.hotels .swiper-slide .slideBg.bg2 {
-	background:#efefef url('http://r-cc.bstatic.com/images/hotel/max1024x768/232/23227460.jpg') center center no-repeat;
-	background-size:cover;
-}
-.hotels .swiper-slide .slideBg.bg3 {
-	background:#efefef url('http://q-cc.bstatic.com/images/hotel/max1024x768/277/27790285.jpg') center center no-repeat;
-	background-size:cover;
-}
-.hotels .swiper-slide .slideBg.bg4 {
-	background:#efefef url('http://q-cc.bstatic.com/images/hotel/max1024x768/277/27790228.jpg') center center no-repeat;
-	background-size:cover;
+.hotels .swiper-slide .slideBg img {
+	width:100%;
+	height:100%;
 }
 .hotels .swiperBgWrap {
 	width:inherit;

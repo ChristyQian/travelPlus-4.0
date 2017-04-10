@@ -536,7 +536,9 @@
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg1"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Ameron Hotel Flora/Ameron Hotel Flora_dining.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -546,7 +548,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg2"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Ameron Hotel Flora/Ameron Hotel Flora_room.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -556,7 +560,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg3"></div>
+							<div class="slideBg">
+								<img src="img/hotel/Hotel Ramada Hotel Innsbruck/Hotel Innsbruck_dining.jpg" />
+							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -566,27 +572,9 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
-							<div class="slideBg bg2"></div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+							<div class="slideBg">
+								<img src="img/hotel/Hotel Ramada Hotel Innsbruck/Hotel Innsbruck_room.jpg" />
 							</div>
-						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg bg3"></div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
-							</div>
-						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg bg1"></div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Marina Bay Sands</div>
@@ -1170,6 +1158,8 @@
 		    		autoplay: 5000,
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
+		        loop:true,
+		        loopedSlides :4,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
