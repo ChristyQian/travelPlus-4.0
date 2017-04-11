@@ -495,10 +495,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -507,10 +507,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -519,10 +519,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">酒店附近的景点有：蒙帕纳斯大楼、充满历史故事的街道Rue de la Gaite、在蒙帕纳斯火车站顶部的大西洋花园、布爾代勒美術館、蒙帕纳斯墓地。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">							
@@ -531,10 +531,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -543,10 +543,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">从酒店步行不远就可以参观到罗马的一些最有趣的景点，例如戴克利先浴场，罗马博物馆，圣玛丽亚大教堂，还有开满商店的威尼托街和民族街以及展览宫。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -555,10 +555,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -903,7 +903,7 @@
 			<!-- trips -->
 			<div class="section trips">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-between flex-flow">
+				<div class="flex-row-start-between">
 					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />

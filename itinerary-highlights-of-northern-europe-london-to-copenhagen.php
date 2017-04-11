@@ -538,7 +538,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
@@ -550,7 +550,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
@@ -562,10 +562,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">位于伦敦市中心，肯辛顿和切尔西区域，离海德公园和骑士桥只是几分钟的步行距离。靠近格罗斯特路和南肯辛顿地铁站。自然历史博物馆，维多利亚和阿尔伯特博物馆，科学博物馆和海德公园和肯辛顿花园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -574,10 +574,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">The Queen's Gate Hotel阿巴伦敦皇后大门酒店距离皇家阿尔伯特音乐厅只有5分钟路程。骑士桥是世界上最负盛名的购物区之一，著名的哈洛德百货距离酒店只有10分钟的路程。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -586,10 +586,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Nh Hamburg Altona汉堡阿尔托那NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">阿尔托那NH酒店位于汉堡的阿尔托那区， 提供国际美食和健身设施，酒店周围有许多餐馆和酒吧。离时尚的，开满商店，餐馆和画廊的奥腾森区只有几分钟的步行距离。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -598,10 +598,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Nh Hamburg Altona汉堡阿尔托那NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店距离汉堡市中心20分钟车程，靠近汉堡体育场和禾克斯公园球场，汉堡足球俱乐部,交通便利，巴士站就在酒店外面，靠近A7高速公路。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -610,10 +610,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Copenhagen Island哥本哈根岛酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">哥本哈根岛酒店是一家现代化的时尚酒店，拥有326间客房，位于时尚的韦斯特伯区。 酒店位于海滨，享有哥本哈根港口以及城市建筑的丰富景色。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -622,10 +622,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Copenhagen Island哥本哈根岛酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店非常靠近哥本哈根购物中心，步行不到10分钟就是国家博物馆。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -634,10 +634,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Copenhagen Island哥本哈根岛酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">哥本哈根岛酒店是一家现代化的时尚酒店，拥有326间客房，位于时尚的韦斯特伯区。 酒店位于海滨，享有哥本哈根港口以及城市建筑的丰富景色。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -646,10 +646,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Copenhagen Island哥本哈根岛酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店非常靠近哥本哈根购物中心，步行不到10分钟就是国家博物馆。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

@@ -540,10 +540,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">NH Eixample巴塞罗那埃克萨潘区NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">巴塞罗那埃克萨潘区NH酒店位于埃克萨潘区，是对建筑，食物和购物感兴趣的旅客的绝佳选择。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -552,10 +552,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">NH Eixample巴塞罗那埃克萨潘区NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店提供带有免费无线网络和卫星电视的宽敞客房的酒店。客房装潢简约实用，硬木地板，迷你吧，各种枕头的选择，备有吹风机和洗浴用品的大理石浴室。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -564,10 +564,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">NH Eixample巴塞罗那埃克萨潘区NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">NH Barcelona Eixample酒店距离格拉西亚大道和加泰罗尼亚广场15分钟步行路程。巴塞罗那Sants火车站距离酒店有2站地铁路程,高迪的圣家大教堂距离酒店3站路.</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -576,10 +576,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Athenaeum阿西娜酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">阿西娜酒店是一家豪华的4星级酒店，提供60间高品质的客房，高级餐厅，酒吧，会议设施，健身室以及台球室。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -588,10 +588,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Athenaeum阿西娜酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">从酒店步行10分钟可以到达：佛罗伦萨大教堂和乔托钟楼、佛罗伦萨学院美术馆（大卫像）、巴杰罗美术馆、世界上最古老的药妆店之一“圣塔玛利亚诺维拉”。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -600,10 +600,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Athenaeum阿西娜酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">阿西娜酒店是一家豪华的4星级酒店，提供60间高品质的客房，高级餐厅，酒吧，会议设施，健身室以及台球室。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -612,10 +612,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Athenaeum</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">从酒店步行10分钟可以到达：佛罗伦萨大教堂和乔托钟楼、佛罗伦萨学院美术馆（大卫像）、巴杰罗美术馆、世界上最古老的药妆店之一“圣塔玛利亚诺维拉”。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

@@ -558,10 +558,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">坐落于卢塞恩市中心，可以步行到达所有景点，餐厅和购物地点。 离火车站只有5分钟步行距离。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -570,10 +570,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店附近的景点有：卢塞恩湖，卡贝尔桥，老镇，狮子纪念碑。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -582,10 +582,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">酒店因斯布鲁克酒店因斯布鲁克市中心，步行即可到达所有景点和地标。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -594,10 +594,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">乘坐巴士5分钟可以到达因斯布鲁克市中心。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -606,10 +606,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">贝斯特韦斯特菲兰其酒店是一家位于新门大道的优雅酒店，可以步行到达所有最重要的城市地标和旅游景点。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -618,10 +618,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">竞技场、朱丽叶的故居和墓碑、罗马剧场、维罗纳老城堡等景点都离酒店不远。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -630,10 +630,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">贝斯特韦斯特菲兰其酒店是一家位于新门大道的优雅酒店，可以步行到达所有最重要的城市地标和旅游景点。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

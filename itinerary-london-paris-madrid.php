@@ -514,7 +514,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
@@ -526,10 +526,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">自然历史博物馆，维多利亚和阿尔伯特博物馆，科学博物馆和海德公园和肯辛顿花园都在附近。 酒店距离皇家阿尔伯特音乐厅只有5分钟路程。 骑士桥是世界上最负盛名的购物区之一，著名的哈洛德百货距离酒店只有10分钟的路程。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -538,7 +538,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
@@ -550,10 +550,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">自然历史博物馆，维多利亚和阿尔伯特博物馆，科学博物馆和海德公园和肯辛顿花园都在附近。 酒店距离皇家阿尔伯特音乐厅只有5分钟路程。 骑士桥是世界上最负盛名的购物区之一，著名的哈洛德百货距离酒店只有10分钟的路程。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -562,10 +562,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -574,10 +574,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -586,10 +586,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店附近景点：蒙帕纳斯大楼、充满历史故事的街道Rue de la Gaite、在蒙帕纳斯火车站顶部的大西洋花园、布爾代勒美術館、蒙帕纳斯墓地。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

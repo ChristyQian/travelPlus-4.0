@@ -515,10 +515,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Grand Hotel Cesare Augusto切萨雷奥古斯托大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">酒店坐落在索伦托的心脏，几步塔索广场了。 酒店拥有一家古老的意大利酒店。 房间都非常相似，宽敞。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -527,10 +527,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Grand Hotel Cesare Augusto切萨雷奥古斯托大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">索伦托，除了本身是一个美丽的城市，也是到访索伦托海岸和著名的阿马尔菲海岸的起点。乘坐轮船20分钟可以到达卡普里。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -539,10 +539,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Grand Hotel Cesare Augusto切萨雷奥古斯托大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">酒店坐落在索伦托的心脏，几步塔索广场了。 酒店拥有一家古老的意大利酒店。 房间都非常相似，宽敞。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -551,10 +551,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Grand Hotel Cesare Augusto切萨雷奥古斯托大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">索伦托，除了本身是一个美丽的城市，也是到访索伦托海岸和著名的阿马尔菲海岸的起点。乘坐轮船20分钟可以到达卡普里。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -563,10 +563,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -575,10 +575,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">从酒店步行不远就可以参观到罗马的一些最有趣的景点，例如戴克利先浴场，罗马博物馆，圣玛丽亚大教堂，还有开满商店的威尼托街和民族街以及展览宫。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -587,10 +587,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

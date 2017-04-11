@@ -531,10 +531,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">NH Lingotto灵格托都灵国会NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">灵格托都灵国会NH酒店是都灵市灵格托地区的老菲亚特工厂的一部分。它连接着会议中心、购物中心和电影院，距离很多意大利餐馆仅有几步之遥。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -543,10 +543,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">NH Lingotto灵格托都灵国会NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">乘坐地铁10分钟即可到达都灵市中心，步行可达展示超过200辆汽车的汽车博物馆</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -555,10 +555,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">NH Lingotto灵格托都灵国会NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">带有食品市场和多家意大利餐厅的Eataly美食中心就在对面。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

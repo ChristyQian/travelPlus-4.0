@@ -503,16 +503,52 @@
 			<div class="swiper-container">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
+						<div class="swiperBgWrap">							
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _dining.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">从酒店步行不远就可以参观到罗马的一些最有趣的景点，例如戴克利先浴场，罗马博物馆，圣玛丽亚大教堂，还有开满商店的威尼托街和民族街以及展览宫。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _gym.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
+					</div>
+					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
 								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_dining.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -521,10 +557,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -533,10 +569,58 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">酒店附近的景点有：蒙帕纳斯大楼、充满历史故事的街道Rue de la Gaite、在蒙帕纳斯火车站顶部的大西洋花园、布爾代勒美術館、蒙帕纳斯墓地。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/The Queen's Gate Hotel/The Queen's Gate Hotel_ent.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">位于伦敦市中心，肯辛顿和切尔西区域，离海德公园和骑士桥只是几分钟的步行距离。 靠近格罗斯特路和南肯辛顿地铁站。自然历史博物馆，维多利亚和阿尔伯特博物馆，科学博物馆和海德公园和肯辛顿花园都在附近。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/The Queen's Gate Hotel/Queen's Gate Hotel_dining.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店距离皇家阿尔伯特音乐厅只有5分钟路程。 骑士桥是世界上最负盛名的购物区之一，著名的哈洛德百货距离酒店只有10分钟的路程。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/The Queen's Gate Hotel/Queen's Gate Hotel_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">位于伦敦市中心，肯辛顿和切尔西区域，离海德公园和骑士桥只是几分钟的步行距离。 靠近格罗斯特路和南肯辛顿地铁站。自然历史博物馆，维多利亚和阿尔伯特博物馆，科学博物馆和海德公园和肯辛顿花园都在附近。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/The Queen's Gate Hotel/Queen's Gate Hotel_gym.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店距离皇家阿尔伯特音乐厅只有5分钟路程。 骑士桥是世界上最负盛名的购物区之一，著名的哈洛德百货距离酒店只有10分钟的路程。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -1133,7 +1217,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopedSlides:3,
+		        loopedSlides:10,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,

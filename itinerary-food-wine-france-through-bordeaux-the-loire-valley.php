@@ -524,10 +524,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Mercure Bordeaux Centre波尔多中心美居酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">波尔多中心美居酒店位于波尔多市中心，距离玛丽亚德克商业区和旧城区仅有10分钟的路程。酒店前面还有一个购物商场。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -536,10 +536,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Mercure Bordeaux Centre波尔多中心美居酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">圣安德烈教堂、佩贝朗塔、圣凯瑟琳大街购物大街、市立美术馆等景点都离酒店不远。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

@@ -541,10 +541,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">坐落于卢塞恩市中心，可以步行到达所有景点，餐厅和购物地点。 离火车站只有5分钟步行距离。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -553,10 +553,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店附近的景点有：卢塞恩湖，卡贝尔桥，老镇，狮子纪念碑。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -565,10 +565,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">酒店因斯布鲁克酒店因斯布鲁克市中心，步行即可到达所有景点和地标。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -577,10 +577,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">乘坐巴士5分钟可以到达因斯布鲁克市中心。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -643,6 +643,38 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
+									<div class="">阿联酋航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>北京</span>07:25</div>
+									<div class="airport"><span>迪拜</span>11:35</div>
+									<div class="airport"><span>迪拜</span>15:35</div>
+									<div class="airport"><span>苏黎世</span>20:20</div>
+								</div>
+							</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">阿联酋航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>慕尼黑</span>22:35</div>
+									<div class="airport"><span>迪拜</span>06:30+1</div>
+									<div class="airport"><span>迪拜</span>10:50</div>
+									<div class="airport"><span>北京</span>22:20</div>								
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
 									<div class="">南方航空</div>
 									<div class="">荷兰航空</div>
 									<div class="">小时</div>
@@ -668,6 +700,38 @@
 									<div class="airport"><span>巴黎</span>08:55</div>
 									<div class="airport"><span>巴黎</span>12:25</div>
 									<div class="airport"><span>广州</span>06:00+1</div>								
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">阿提哈德航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>香港</span>18:55</div>
+									<div class="airport"><span>阿布扎比</span>23:40</div>
+									<div class="airport"><span>阿布扎比</span>02:20</div>
+									<div class="airport"><span>苏黎世</span>06:55</div>
+								</div>
+							</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">阿提哈德航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>慕尼黑</span>12:10</div>
+									<div class="airport"><span>阿布扎比</span>20:25</div>
+									<div class="airport"><span>阿布扎比</span>21:50</div>
+									<div class="airport"><span>香港</span>10:05+1</div>								
 								</div>
 							</div>
 						</div>

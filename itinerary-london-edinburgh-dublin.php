@@ -493,10 +493,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">位于伦敦市中心，肯辛顿和切尔西区域，离海德公园和骑士桥只是几分钟的步行距离。 靠近格罗斯特路和南肯辛顿地铁站。自然历史博物馆，维多利亚和阿尔伯特博物馆，科学博物馆和海德公园和肯辛顿花园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -505,10 +505,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店距离皇家阿尔伯特音乐厅只有5分钟路程。 骑士桥是世界上最负盛名的购物区之一，著名的哈洛德百货距离酒店只有10分钟的路程。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -517,10 +517,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">位于伦敦市中心，肯辛顿和切尔西区域，离海德公园和骑士桥只是几分钟的步行距离。 靠近格罗斯特路和南肯辛顿地铁站。自然历史博物馆，维多利亚和阿尔伯特博物馆，科学博物馆和海德公园和肯辛顿花园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -529,10 +529,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">The Queen's Gate Hotel阿巴伦敦皇后大门酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店距离皇家阿尔伯特音乐厅只有5分钟路程。 骑士桥是世界上最负盛名的购物区之一，著名的哈洛德百货距离酒店只有10分钟的路程。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -541,10 +541,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Cassidys Hotel卡斯蒂斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">卡斯蒂斯酒店位于都柏林市中心，在上奥康奈尔街著名的大门剧院对面，靠近所有旅游景点。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -553,10 +553,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Cassidys Hotel卡斯蒂斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">从酒店步行10分钟可以到达：圣三一学院、尊美醇威士忌酿造厂、都柏林城堡、圣殿酒吧区、爱尔兰国家剧院。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -565,10 +565,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Cassidys Hotel卡斯蒂斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">卡斯蒂斯酒店位于都柏林市中心，在上奥康奈尔街著名的大门剧院对面，靠近所有旅游景点。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -577,10 +577,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Cassidys Hotel卡斯蒂斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Munich Airport Marriott Hotel酒店方便客人轻松前往探索大教堂城镇弗赖辛或者探索周围宁静的巴伐利亚乡间。</div>
+						<div class="hotelDes">从酒店步行10分钟可以到达：圣三一学院、尊美醇威士忌酿造厂、都柏林城堡、圣殿酒吧区、爱尔兰国家剧院。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

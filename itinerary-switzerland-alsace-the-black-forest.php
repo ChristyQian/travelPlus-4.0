@@ -544,10 +544,10 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代化的酒店位于巴伐利亚城镇弗赖辛（Freising），距离慕尼黑机场（Munich Airport）仅有15分钟车程，供应传统区域佳肴。</div>
+						<div class="hotelDes">坐落于卢塞恩市中心，可以步行到达所有景点，餐厅和购物地点。 离火车站只有5分钟步行距离。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -556,10 +556,94 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Marina Bay Sands</div>
+								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">客人可以在Molkerei早餐室开始新的一天，在传统的Stubn餐厅享用全天供应的巴伐利亚特色菜肴，还可以在Loden Bar & Lounge酒吧及酒廊享用美味的鸡尾酒和国际小吃。</div>
+						<div class="hotelDes">酒店附近的景点有：卢塞恩湖，卡贝尔桥，老镇，狮子纪念碑。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Hotel Europa/Hotel Europa_ext.png" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Hotel Europa 欧洲酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">从酒店可以看到皮拉图斯山美丽的景色，琉森湖就在马路对面。 距离市中心只有10分钟的步行距离。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Hotel Europa/Hotel Europa_dining.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Hotel Europa 欧洲酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店附近的景点有：卢塞恩湖，卡贝尔桥，老镇，狮子纪念碑。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Hotel Europa/Hotel Europa_dining.png" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Hotel Europa 欧洲酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">从酒店可以看到皮拉图斯山美丽的景色，琉森湖就在马路对面。 距离市中心只有10分钟的步行距离。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Hotel Europa/Hotel Europa_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Hotel Europa 欧洲酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店附近的景点有：卢塞恩湖，卡贝尔桥，老镇，狮子纪念碑。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Hôtel de France/Best Western Hôtel de France   _dining.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Best Western Hôtel de France法国贝斯特韦斯特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">贝斯特韦斯特酒店位于斯特拉斯堡的中心，距离斯特拉斯堡火车站仅600米。它位于1988年被列入世界遗产名录，有“小威尼斯”之称的历史区域 - 小法兰西区。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Hôtel de France/Best Western Hôtel de France  _room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Best Western Hôtel de France法国贝斯特韦斯特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店附近景点有：斯特拉斯堡圣母院大教堂、卡莫泽尔之屋、罗昂宫。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Best Western Hôtel de France/Best Western Hôtel de France   _gym.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Best Western Hôtel de France法国贝斯特韦斯特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">贝斯特韦斯特酒店位于斯特拉斯堡的中心，距离斯特拉斯堡火车站仅600米。它位于1988年被列入世界遗产名录，有“小威尼斯”之称的历史区域 - 小法兰西区。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -1152,7 +1236,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopedSlides:2,
+		        loopedSlides:9,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
