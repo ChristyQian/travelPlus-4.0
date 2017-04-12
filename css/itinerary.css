@@ -223,6 +223,10 @@
 .swiper-slide .photoBy .imgWrap {
 	margin-right: 10px;
 }
+.bgIntro,
+.swiper-slide .photoBy {
+	display:none; /* No content temporarily */
+}
 /*****************************************/
 /*             What's included           */
 /*****************************************/
