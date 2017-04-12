@@ -147,7 +147,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">热卖</div>						
-						<div class="tourName">城市生活与艺术之旅</div>
+						<div class="tourName">MOET酩悦香槟法国微醺之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -175,19 +175,19 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">11天</div>
+						<div class="days">9天</div>
 						<div class="flex-row-start-between">
 							<div>巴黎</div>
 							<i class="grayArrow"></i>
-							<div>罗马</div>
+							<div>香槟区埃佩尔奈</div>
 							<i class="grayArrow"></i>
-							<div>雅典</div>
+							<div>香槟区兰斯</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥24,600
+							￥20,800
 							<span>起</span>
 						</div>
 						<div>
@@ -211,12 +211,11 @@
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							充分的自由时间让你随心探索<br/>
-							从当地人的角度欣赏巴黎、罗马和雅典<br/>
-							从文艺复兴、印象派到现代艺术，感受多重艺术<br/>
-							体验巴黎的市场和咖啡馆<br/>
-							新鲜可口的意大利面，薄饼及冰淇淋<br/>
-							参观从宫殿到历史遗迹等各种宏伟的建筑<br/>
+							从埃菲尔铁塔到巴黎圣母院一览巴黎建筑<br/>
+							参观以香槟著称的法国小镇和城市兰斯<br/>
+							参观法国的Moet酒庄<br/>
+							品尝纯正的高级香槟及法国料理<br/>
+							丰富的额外自由时间活动安排(另收费)<br/>
 						</p>
 					</div>
 				</div>
@@ -229,7 +228,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-athens/1.jpg" />
+								<img src="img/itinerary/moet-paris-reim.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -248,7 +247,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-athens/2.jpg" />
+								<img src="img/itinerary/moet-paris-reim-3.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -267,7 +266,26 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-athens/3.jpg" />
+								<img src="img/itinerary/moet-paris-reim-2.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/moet-paris-reim-4.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -306,19 +324,13 @@
 						<div class="imgWrap">
 							<img src="img/page-2.svg" />
 						</div>
-						9晚精选酒店住宿
+						7晚精选酒店住宿
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-3.svg" />
 						</div>
-						 每日早餐
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-4.svg" />
-						</div>
-						2顿三道式晚餐，供应啤酒或葡萄酒
+						每日早餐和2顿晚餐
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -359,7 +371,7 @@
 			<div class="itineraryIntro section">
 				<!--<div class="initialScreenLinear"></div>-->
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/rome-paris-athens.jpg"  />
+					<img src="img/itinerary/map/moet-paris-reims.jpg"  />
 				</div>
 				<div class="initialScreen">							
 					<div class="com_itinerary_summary">
@@ -377,15 +389,16 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>巴黎观光游</span>
+								<label>第2天</label><span>巴黎观光游及美食行</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>顺着香榭丽舍大街驱车而下，参观凯旋门</li>
-									<li>途经新桥和巴黎圣母院</li>
+									<li>途经巴黎圣母院</li>
 									<li>参观埃菲尔铁塔、巴黎歌剧院和协和广场</li>
 									<li>欣赏巴黎地标建筑卢浮宫和荣军院</li>
-									<li>在欢迎晚宴上认识同行团友</li>
+									<li>在不同商店品尝法国点心、巧克力、马卡 龙等(圣日耳曼德佩教堂或玛黑区)</li>
+									<li>参加欢迎晚宴</li>
 								</ul>
 							</div>
 						</div>
@@ -394,75 +407,64 @@
 								<div class="itemCircle"></div>
 								<label>第3天</label><span>巴黎自由行</span> 
 							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第4天</label><span>启程前往罗马</span> 
-							</div>
-							<div class="itinerary_daily_detail">										
+							<div class="itinerary_daily_detail">
 								<ul>
-									<li>乘坐飞机前往罗马，到达后自由活动</li>
+									<li>可自由选择参加【在埃菲尔铁塔上午餐】</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>罗马观光游</span> 
+								<label>第4天</label><span>Moet酒庄香槟之旅</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>途经市中心图拉真圆柱和威尼斯广场</li>
-									<li>在罗马广场遗址稍作停留</li>
-									<li>参观君士坦丁凯旋门、提图斯凯旋门以及维纳斯和罗马神庙</li>
-									<li>进入罗马竞技场参观</li>
-									<li>下午在罗马自由活动</li>
+									<li>前往香槟小镇埃佩尔奈</li>
+									<li>参观Moet酩悦香槟酒庄</li>
+									<li>在古老酒窖享用香槟午餐</li>
+									<li>前往香槟产区兰斯，并进行观光游</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>罗马自由行</span> 
+								<label>第5天</label><span>兰斯Clicquot酒庄香槟之旅</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>参观Clicquot酒庄</li>
+									<li>前往巴黎</li>
+								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>前往雅典</span> 
+								<label>第6天</label><span>巴黎自由行</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>乘坐飞机前往雅典，到达后自由活动</li>
+									<li>在巴黎享受自在的一天，可选择参加【凡 尔赛宫和花园参观】和【塞纳河游船晚 餐】</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第8天</label><span>雅典观光游</span> 
+								<label>第7天</label><span>巴黎自由行</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>游览古老的卫城</li>
-									<li>游览宙斯神庙</li>
-									<li>参观希腊议会所在地</li>
-									<li>途经宪法广场，参观无名冢</li>
-									<li>下午在雅典自由活动</li>
+									<li>在蒙帕纳斯大楼俯瞰美景，享用告别晚餐</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第9天</label><span>雅典自由行</span>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第10天</label><span>返程</span>
+								<label>第8天</label><span>返程</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -473,7 +475,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第11天</label><span>抵达中国</span>
+								<label>第9天</label><span>抵达中国</span>
 							</div>
 						</div>
 					</div>						
@@ -491,122 +493,38 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_dining.jpg" />
+								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_dining.jpg"  />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。</div>
+						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。 酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_room.jpg" />
+								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_room.jpg"  />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
+						<div class="hotelDes">酒店附近的景点有：蒙帕纳斯大楼、充满历史故事的街道Rue de la Gaite、在蒙帕纳斯火车站顶部的大西洋花园、布爾代勒美術館、蒙帕纳斯墓地。（它包含超过40,000个坟墓，是在巴黎的第二大公墓，这里种植了超过750棵树和灌木，是巴黎最多绿植的空间之一。）</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_gym.jpg" />
+								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_gym.jpg"  />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店附近的景点有：蒙帕纳斯大楼、充满历史故事的街道Rue de la Gaite、在蒙帕纳斯火车站顶部的大西洋花园、布爾代勒美術館、蒙帕纳斯墓地。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">							
-							<div class="slideBg">
-								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _dining.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _room.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">从酒店步行不远就可以参观到罗马的一些最有趣的景点，例如戴克利先浴场，罗马博物馆，圣玛丽亚大教堂，还有开满商店的威尼托街和民族街以及展览宫。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Best Western Premier Hotel Royal Santina/Best Western Premier Hotel Royal Santina _gym.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Premier Hotel Royal Santina贝斯特韦斯特皇家圣缇纳大酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_dining.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">雅典大都会酒店以其独特的国际化氛围,位置位于结合传统的热情好客和奢华的雅典市中心。翻新后的大都会酒店在Faleron奥林匹克沿海公园的理想位置，可以看到雅典卫城和爱琴海,是休闲和商务旅行者的绝佳选择。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_room.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">雅典大都会酒店在雅典市中心，距离宪法广场只有10分钟,它是雅典和比雷埃夫斯港口的中心。Faleron奥林匹克沿海公园长期举办展览、会议和活动。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_gym.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">大都会酒店以其独特的国际化氛围,位置位于结合传统的热情好客和奢华的雅典市中心。翻新后的大都会酒店在Faleron奥林匹克沿海公园的理想位置，可以看到雅典卫城和爱琴海,是休闲和商务旅行者的绝佳选择。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_swimming pool.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">这栋豪华酒店在雅典市中心，距离宪法广场只有10分钟,它是雅典和比雷埃夫斯港口的中心。Faleron奥林匹克沿海公园长期举办展览、会议和活动。</div>
+						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。 酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -637,29 +555,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">法国航空</div>
+									<div class="">阿联酋航空</div>
 									<div class="">小时</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海</span>23:20</div>
-									<div class="airport"><span>巴黎</span>05:40+1</div>
-									<div class="airport"><span>巴黎</span>07:15</div>
-									<div class="airport"><span>罗马</span>09:20</div>
+									<div class="airport"><span>上海</span>07:15</div>
+									<div class="airport"><span>迪拜</span>12:05</div>
+									<div class="airport"><span>迪拜</span>14:50</div>
+									<div class="airport"><span>巴黎</span>20:05</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
+									<div class="">阿联酋航空</div>
 									<div class="">小时</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>雅典</span>17:15</div>
-									<div class="airport"><span>阿姆斯特丹</span>19:50</div>	
-									<div class="airport"><span>阿姆斯特丹</span>21:30</div>
-									<div class="airport"><span>上海</span>14:10+1</div>							
+									<div class="airport"><span>巴黎</span>21:50</div>
+									<div class="airport"><span>迪拜</span>06:30+1</div>
+									<div class="airport"><span>迪拜</span>09:40</div>
+									<div class="airport"><span>上海</span>22:20</div>
 								</div>
 							</div>
 						</div>
@@ -671,13 +589,11 @@
 								<div class="ibWrap">
 									<div class="">法国航空</div>
 									<div class="">小时</div>
-									<div class="">1次中转</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>北京</span>09:00</div>
 									<div class="airport"><span>巴黎</span>13:50</div>
-									<div class="airport"><span>巴黎</span>15:25</div>
-									<div class="airport"><span>罗马</span>17:30</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
@@ -685,110 +601,98 @@
 								<div class="ibWrap">
 									<div class="">法国航空</div>
 									<div class="">小时</div>
-									<div class="">1次中转</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>雅典</span>19:55</div>
-									<div class="airport"><span>巴黎</span>22:20</div>
-									<div class="airport"><span>巴黎</span>23:20</div>
-									<div class="airport"><span>北京</span>15:20+1</div>									
+									<div class="airport"><span>巴黎</span>13:55</div>
+									<div class="airport"><span>北京</span>05:55+1</div>								
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="swiper-slide">
-						<div class="autoWrapper">
-							<div class="com_flightInfo">
-								<div class="voyage">启程</div>
-								<div class="ibWrap">
-									<div class="">法国航空</div>
-									<div class="">小时</div>
-									<div class="">1次中转</div>
-								</div>
-								<div class="flex-row-start-between">
-									<div class="airport"><span>广州</span>23:05</div>
-									<div class="airport"><span>巴黎</span>05:55+1</div>
-									<div class="airport"><span>巴黎</span>07:15</div>
-									<div class="airport"><span>罗马</span>09:20</div>
-								</div>
+						<div class="com_flightInfo">
+							<div class="voyage">启程</div>
+							<div class="ibWrap">
+								<div class="">阿联酋航空</div>
+								<div class="">小时</div>
+								<div class="">1次中转</div>
 							</div>
-							<div class="com_flightInfo">
-								<div class="voyage">回程</div>
-								<div class="ibWrap">
-									<div class="">法国航空</div>
-									<div class="">小时</div>
-									<div class="">1次中转</div>
-								</div>
-								<div class="flex-row-start-between">
-									<div class="airport"><span>雅典</span>18:05</div>
-									<div class="airport"><span>巴黎</span>20:30</div>
-									<div class="airport"><span>巴黎</span>23:20</div>
-									<div class="airport"><span>广州</span>17:10+1</div>									
-								</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>广州</span>00:15</div>
+								<div class="airport"><span>迪拜</span>03:50</div>
+								<div class="airport"><span>迪拜</span>08:20</div>
+								<div class="airport"><span>巴黎</span>13:30</div>
+							</div>
+						</div>
+						<div class="com_flightInfo">
+							<div class="voyage">回程</div>
+							<div class="ibWrap">
+								<div class="flex1">阿联酋航空</div>
+								<div class="flex1">小时</div>
+								<div class="flex1">1次中转</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>巴黎</span>21:50</div>
+								<div class="airport"><span>迪拜</span>06:30+1</div>
+								<div class="airport"><span>迪拜</span>10:20</div>
+								<div class="airport"><span>广州</span>22:05</div>								
 							</div>
 						</div>
 					</div>
 					<div class="swiper-slide">
-						<div class="autoWrapper">
-							<div class="com_flightInfo">
-								<div class="voyage">启程</div>
-								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">小时</div>
-									<div class="">1次中转</div>
-								</div>
-								<div class="flex-row-start-between">
-									<div class="airport"><span>香港</span>12:20</div>
-									<div class="airport"><span>阿姆斯特丹</span>18:20</div>
-									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-									<div class="airport"><span>罗马</span>22:45</div>
-								</div>
+						<div class="com_flightInfo">
+							<div class="voyage">启程</div>
+							<div class="ibWrap">
+								<div class="">荷兰航空</div>
+								<div class="">小时</div>
+								<div class="">1次中转</div>
 							</div>
-							<div class="com_flightInfo">
-								<div class="voyage">回程</div>
-								<div class="ibWrap">
-									<div class="">法国航空</div>
-									<div class="">小时</div>
-									<div class="">1次中转</div>
-								</div>
-								<div class="flex-row-start-between">
-									<div class="airport"><span>雅典</span>19:55</div>
-									<div class="airport"><span>巴黎</span>22:20</div>
-									<div class="airport"><span>巴黎</span>23:35</div>
-									<div class="airport"><span>香港</span>17:35+1</div>									
-								</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>香港</span>12:20</div>
+								<div class="airport"><span>阿姆斯特丹</span>18:20</div>
+								<div class="airport"><span>阿姆斯特丹</span>20:30</div>
+								<div class="airport"><span>巴黎</span>21:45</div>
+							</div>
+						</div>
+						<div class="com_flightInfo">
+							<div class="voyage">回程</div>
+							<div class="ibWrap">
+								<div class="flex1">荷兰航空</div>
+								<div class="flex1">小时</div>
+								<div class="flex1">1次中转</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>巴黎</span>14:30</div>
+								<div class="airport"><span>阿姆斯特丹</span>15:50</div>
+								<div class="airport"><span>阿姆斯特丹</span>17:20</div>
+								<div class="airport"><span>香港</span>10:20+1</div>								
 							</div>
 						</div>
 					</div>
 					<div class="swiper-slide">
-						<div class="autoWrapper">
-							<div class="com_flightInfo">
-								<div class="voyage">启程</div>
-								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">小时</div>
-									<div class="">1次中转</div>
-								</div>
-								<div class="flex-row-start-between">
-									<div class="airport"><span>成都</span>14:35</div>
-									<div class="airport"><span>阿姆斯特丹</span>19:05</div>
-									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-									<div class="airport"><span>罗马</span>22:45</div>
-								</div>
+						<div class="com_flightInfo">
+							<div class="voyage">启程</div>
+							<div class="ibWrap">
+								<div class="">中国航空</div>
+								<div class="">小时</div>
+								<div class="">直飞</div>
 							</div>
-							<div class="com_flightInfo">
-								<div class="voyage">回程</div>
-								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">小时</div>
-									<div class="">1次中转</div>
-								</div>
-								<div class="flex-row-start-between">
-									<div class="airport"><span>雅典</span>17:15</div>
-									<div class="airport"><span>阿姆斯特丹</span>19:50</div>
-									<div class="airport"><span>阿姆斯特丹</span>21:15</div>
-									<div class="airport"><span>成都</span>12:50+1</div>									
-								</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>成都</span>01:50</div>
+								<div class="airport"><span>巴黎</span>07:20</div>
+							</div>
+						</div>
+						<div class="com_flightInfo">
+							<div class="voyage">回程</div>
+							<div class="ibWrap">
+								<div class="flex1">中国航空</div>
+								<div class="flex1">小时</div>
+								<div class="flex1">直飞</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>巴黎</span>13:10</div>
+								<div class="airport"><span>成都</span>05:55+1</div>								
 							</div>
 						</div>
 					</div>
@@ -1103,7 +1007,7 @@
 						<div class="agendaWrap">
 							<p>
 								食在意大利 <br/>
-								里维埃拉 - 博洛尼亚- 维罗纳
+								里维耶拉 - 博洛尼亚- 维罗纳
 							</p>
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -1247,7 +1151,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopedSlides:10,
+		        loopedSlides :3,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
@@ -1293,7 +1197,7 @@
 		        slidePreview:3,
 		        spaceBetween: 38,
 		        loop:true,
-		        loopedSlides:3,
+		        loopedSlides :5,
 		        slidesOffsetBefore : -280,
 		        slidesOffsetAfter : 280,
 		        breakpoints: { 
