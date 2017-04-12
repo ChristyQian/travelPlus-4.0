@@ -599,6 +599,7 @@
 	.itineraryPhoto .swiper-container {
 		width:100%;
 		height:560px;
+		height:510px;/* no content */
 		padding:0;
 	}
 	.itineraryPhoto .swiper-slide .slideBg,
@@ -665,6 +666,7 @@
 	.itineraryPhoto .swiper-container {
 		width:100%;
 		height:360px;
+		height:310px;/* no content */
 		padding:0;
 	}
 	.itineraryPhoto .swiper-slide .slideBg,
