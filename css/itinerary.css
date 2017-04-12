@@ -433,6 +433,9 @@
 	vertical-align: sub;
 	margin-right:5px;
 }
+.flight .flex-row-end-between {
+	display:none;/* No function, so hidden */
+}
 .flight .swiper-pagination {
 	bottom:0;
 }
