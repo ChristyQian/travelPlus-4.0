@@ -137,7 +137,242 @@
 			<!-- trips -->
 			<div class="section">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-start flex-flow">					
+				<div class="flex-row-start-start flex-flow">	
+					<div class="home-trip-box">
+						<a href="itinerary-moet-paris-reims.php">	
+							<div class="imgWrap">
+								<img src="img/itinerary/moet-paris-reim.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">美食美酒</div>
+										<div class="pinkTxt">仅剩6席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									MOET酩悦香槟法国微醺之旅 <br/>
+									巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥19,100<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>				
+										
+					<div class="home-trip-box">
+						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">暑期档</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									西法意城市狂想 <br/>
+									巴塞罗那 - 南法 - 里维耶拉
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥18,300<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    
+				    <div class="home-trip-box">
+						<a href="itinerary-jewels-of-alpine-europe.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/jewels-of-alpine-europe/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">暑期档</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									阿尔卑斯山环游之旅 <br/>
+									瑞士 - 法国 - 意大利 - 奥地利 - 德国
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									13天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥21,400<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    
+				    <div class="home-trip-box">
+						<a href="itinerary-london-paris-amsterdam.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">暑期档</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									邂逅惬意欧洲之旅 <br/>
+									伦敦 - 巴黎 - 阿姆斯特丹
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥21,300<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div class="home-trip-box">
+						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">暑期档</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									食在意大利：食物与酒的美学 <br/>
+									意大利
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥20,800<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div class="home-trip-box">
+						<a href="itinerary-grand-tour-of-spain.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-spain/4.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">暑期档</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									西班牙全景深度游 <br/>
+									西班牙
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥20,000<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				</div>
+			</div>
+			<!--<div class="section">
+				<h4>早鸟优惠</h4>
+				<div class="flex-row-start-between flex-flow">
+					<div class="home-trip-box earlyBird">
+						<div class="earlyBirdDiscount serif">5月1号前报名减5%早鸟优惠</div>
+						<div class="imgWrap">
+							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
+							<div class="hotSale">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">
+									<div class="yellowTxt">亲子团</div>
+									<p>
+										城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
+									</p>
+									<div class="flex-row-start-between">
+										<div class="rate">
+											<i class="fa fa-star active" aria-hidden="true"></i>
+											<i class="fa fa-star active" aria-hidden="true"></i>
+											<i class="fa fa-star active" aria-hidden="true"></i>
+											<i class="fa fa-star active" aria-hidden="true"></i>
+											<i class="fa fa-star" aria-hidden="true"></i>
+										</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+									<div>
+										12天
+										<span class="delPrice">￥56600</span>
+										<span class="price">￥25700<span>起</span></span>
+									</div>									
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>-->
+			<div class="section">
+				<h4>全部行程</h4>
+				<div class="flex-row-start-start flex-flow">
 					<div class="home-trip-box">
 						<a href="itinerary-italy-greece.php">	
 							<div class="imgWrap">
@@ -169,11 +404,11 @@
 								</div>
 							</div>
 						</a>
-				    </div>					
+				    </div>
 					<div class="home-trip-box">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
+						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/highlights-of-northern-europe-london-to-copenhagen/1.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -184,8 +419,8 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									西法意城市狂想 <br/>
-									巴塞罗那 - 南法 - 里维耶拉
+									一路向北欧洲之旅 <br/>
+									伦敦 - 阿姆斯特丹 - 哥本哈根
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -195,9 +430,9 @@
 									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div>
-									11天
+									12天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥18,300<span>起</span></span>
+									<span class="price">￥22,900<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -266,206 +501,6 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-jewels-of-alpine-europe.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/jewels-of-alpine-europe/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									阿尔卑斯山环游之旅 <br/>
-									瑞士 - 法国 - 意大利 - 奥地利 - 德国
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									13天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,400<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/highlights-of-northern-europe-london-to-copenhagen/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									一路向北欧洲之旅 <br/>
-									伦敦 - 阿姆斯特丹 - 哥本哈根
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									12天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,900<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-london-paris-amsterdam.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									邂逅惬意欧洲之旅 <br/>
-									伦敦 - 巴黎 - 阿姆斯特丹
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,300<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									食在意大利：食物与酒的美学 <br/>
-									意大利
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,800<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-grand-tour-of-spain.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-spain/4.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									西班牙全景深度游 <br/>
-									西班牙
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,000<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				</div>
-			</div>
-			<!--<div class="section">
-				<h4>早鸟优惠</h4>
-				<div class="flex-row-start-between flex-flow">
-					<div class="home-trip-box earlyBird">
-						<div class="earlyBirdDiscount serif">5月1号前报名减5%早鸟优惠</div>
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">亲子团</div>
-									<p>
-										城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
-									</p>
-									<div class="flex-row-start-between">
-										<div class="rate">
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star" aria-hidden="true"></i>
-										</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-									<div>
-										12天
-										<span class="delPrice">￥56600</span>
-										<span class="price">￥25700<span>起</span></span>
-									</div>									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>-->
-			<div class="section">
-				<h4>全部行程</h4>
-				<div class="flex-row-start-start flex-flow">
 					<div class="home-trip-box">
 						<a href="itinerary-germany-switzerland-austria.php">	
 							<div class="imgWrap">
@@ -526,102 +561,6 @@
 									12天
 									<span class="delPrice">￥19,100</span>
 									<span class="price">￥16,300<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-london-paris-rome.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-rome/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									英法意三都文化经典游 <br/>
-									伦敦 - 巴黎 - 罗马
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,600<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-scandinavia-the-capitals-the-fjords.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/scandinavia-the-capitals-the-fjords/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									北欧航行及多元首都之旅 <br/>
-									斯德哥尔摩 - 卑尔根 - 哥本哈根
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥26,200<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									西法意城市狂想 <br/>
-									巴塞罗那 - 南法 - 里维耶拉
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									12天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥18,300<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -910,6 +849,70 @@
 									15天
 									<span class="delPrice">￥19,100</span>
 									<span class="price">￥20,600<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div class="home-trip-box">
+						<a href="itinerary-london-paris-rome.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-rome/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">暑期档</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									英法意三都文化经典游 <br/>
+									伦敦 - 巴黎 - 罗马
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥20,600<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div class="home-trip-box">
+						<a href="itinerary-scandinavia-the-capitals-the-fjords.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/scandinavia-the-capitals-the-fjords/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">暑期档</div>
+										<div class="pinkTxt">仅剩4席</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									北欧航行及多元首都之旅 <br/>
+									斯德哥尔摩 - 卑尔根 - 哥本哈根
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥26,200<span>起</span></span>
 								</div>
 							</div>
 						</a>
