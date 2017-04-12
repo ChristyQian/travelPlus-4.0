@@ -253,6 +253,12 @@ i {
 	border-left:10px solid transparent;
 	border-right:10px solid transparent;
 }
+.header-nav .head-fix-right {
+	display:none;
+}
+.header-nav.affix .head-fix-right {
+	display:flex;
+}
 .fixCAT .com_dialog .dialogBelongTo {
 	border-top:10px solid #fff;
 	bottom:-10px;

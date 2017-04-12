@@ -1002,7 +1002,7 @@
 			<!-- trips -->
 			<div class="section trips">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-start">
+				<div class="flex-row-start-start flex-flow">
 					<div class="home-trip-box">
 						<div class="imgWrap">
 							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
@@ -1190,7 +1190,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-		<script>      
+		<script> 
 		    var swiper1 = new Swiper('.itineraryPhoto .swiper-container', {
 		    		autoplay: 5000,
 		    		width:1160,
@@ -1243,6 +1243,8 @@
 		    		autoplay: 5000,
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
+		        loop:true,
+		        loopedSlides :6,
 		        width:360,
 		        slidePreview:3,
 		        spaceBetween: 40,
