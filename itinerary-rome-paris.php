@@ -555,25 +555,25 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
+									<div class="">东方航空</div>
+									<div class="">小时</div>
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海浦东</span>06:15</div>
-									<div class="airport"><span>巴塞罗那</span>22:45</div>
+									<div class="airport"><span>上海</span>12:35</div>
+									<div class="airport"><span>罗马</span>19:10</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
+									<div class="">东方航空</div>
 									<div class="">16小时</div>
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>佛罗伦萨</span>06:45</div>
-									<div class="airport"><span>上海浦东</span>22:15</div>								
+									<div class="airport"><span>巴黎</span>13:25</div>
+									<div class="airport"><span>上海</span>06:45+1</div>								
 								</div>
 							</div>
 						</div>
@@ -583,25 +583,25 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
+									<div class="">中国航空</div>
+									<div class="">小时</div>
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海浦东</span>06:15</div>
-									<div class="airport"><span>巴塞罗那</span>22:45</div>
+									<div class="airport"><span>北京</span>13:40</div>
+									<div class="airport"><span>罗马</span>18:55</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
+									<div class="">中国航空</div>
 									<div class="">16小时</div>
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>佛罗伦萨</span>06:45</div>
-									<div class="airport"><span>上海浦东</span>22:15</div>								
+									<div class="airport"><span>巴黎</span>12:15</div>
+									<div class="airport"><span>北京</span>05:35+1</div>								
 								</div>
 							</div>
 						</div>
@@ -610,25 +610,91 @@
 						<div class="com_flightInfo">
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
-								<div class="">荷兰航空</div>
-								<div class="">16小时</div>
-								<div class="">直飞</div>
+								<div class="">上海航空</div>
+								<div class="">东方航空</div>
+								<div class="">小时</div>
+								<div class="">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>上海浦东</span>06:15</div>
-								<div class="airport"><span>巴塞罗那</span>22:45</div>
+								<div class="airport"><span>广州</span>07:30</div>
+								<div class="airport"><span>上海</span>09:50</div>
+								<div class="airport"><span>上海</span>12:35</div>
+								<div class="airport"><span>罗马</span>19:10</div>
 							</div>
 						</div>
 						<div class="com_flightInfo">
 							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">荷兰航空</div>
-								<div class="flex1">16小时</div>
-								<div class="flex1">直飞</div>
+							<div class="ibWrap">								
+								<div class="">东方航空</div>
+								<div class="">上海航空</div>
+								<div class="flex1">小时</div>
+								<div class="flex1">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>佛罗伦萨</span>06:45</div>
-								<div class="airport"><span>上海浦东</span>22:15</div>								
+								<div class="airport"><span>巴黎</span>13:25</div>
+								<div class="airport"><span>上海</span>06:45+1</div>
+								<div class="airport"><span>上海</span>08:55</div>
+								<div class="airport"><span>广州</span>11:35</div>								
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="com_flightInfo">
+							<div class="voyage">启程</div>
+							<div class="ibWrap">
+								<div class="">北欧航空</div>
+								<div class="">小时</div>
+								<div class="">1次中转</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>香港</span>09:20</div>
+								<div class="airport"><span>斯德哥尔摩</span>14:40</div>
+								<div class="airport"><span>斯德哥尔摩</span>16:20</div>
+								<div class="airport"><span>罗马</span>19:30</div>
+							</div>
+						</div>
+						<div class="com_flightInfo">
+							<div class="voyage">回程</div>
+							<div class="ibWrap">								
+								<div class="">北欧航空</div>
+								<div class="flex1">小时</div>
+								<div class="flex1">1次中转</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>巴黎</span>10:40</div>
+								<div class="airport"><span>斯德哥尔摩</span>13:05</div>
+								<div class="airport"><span>斯德哥尔摩</span>15:00</div>
+								<div class="airport"><span>香港</span>07:20+1</div>								
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="com_flightInfo">
+							<div class="voyage">启程</div>
+							<div class="ibWrap">
+								<div class="">中国航空</div>
+								<div class="">小时</div>
+								<div class="">1次中转</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>成都</span>09:00</div>
+								<div class="airport"><span>北京</span>11:45</div>
+								<div class="airport"><span>北京</span>13:40</div>
+								<div class="airport"><span>罗马</span>18:55</div>
+							</div>
+						</div>
+						<div class="com_flightInfo">
+							<div class="voyage">回程</div>
+							<div class="ibWrap">								
+								<div class="">中国航空</div>
+								<div class="flex1">小时</div>
+								<div class="flex1">1次中转</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>巴黎</span>12:15</div>
+								<div class="airport"><span>北京</span>05:35+1</div>
+								<div class="airport"><span>北京</span>07:40</div>
+								<div class="airport"><span>成都</span>11:00</div>								
 							</div>
 						</div>
 					</div>
@@ -1133,7 +1199,7 @@
 		        slidePreview:3,
 		        spaceBetween: 38,
 		        loop:true,
-		        loopedSlides :4,
+		        loopedSlides :5,
 		        slidesOffsetBefore : -280,
 		        slidesOffsetAfter : 280,
 		        breakpoints: { 

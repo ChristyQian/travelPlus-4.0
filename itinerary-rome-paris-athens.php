@@ -560,6 +560,54 @@
 						</div>
 						<div class="hotelDes">贝斯特韦斯特皇家圣缇纳大酒店酒店靠近中央火车站，紧邻市中心，地理位置优越，方便您享受美好的罗马假期。</div>
 					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_dining.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">大都会酒店以其独特的国际化氛围,位置位于结合传统的热情好客和奢华的雅典市中心。翻新后的大都会酒店在Faleron奥林匹克沿海公园的理想位置，可以看到雅典卫城和爱琴海,是休闲和商务旅行者的绝佳选择。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">这栋豪华酒店在雅典市中心，距离宪法广场只有10分钟,它是雅典和比雷埃夫斯港口的中心。Faleron奥林匹克沿海公园长期举办展览、会议和活动。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_gym.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">大都会酒店以其独特的国际化氛围,位置位于结合传统的热情好客和奢华的雅典市中心。翻新后的大都会酒店在Faleron奥林匹克沿海公园的理想位置，可以看到雅典卫城和爱琴海,是休闲和商务旅行者的绝佳选择。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Metropolitan Hotel Athens/Metropolitan Hotel Athens_swimming pool.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Metropolitan Hotel Athens雅典大都会酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">这栋豪华酒店在雅典市中心，距离宪法广场只有10分钟,它是雅典和比雷埃夫斯港口的中心。Faleron奥林匹克沿海公园长期举办展览、会议和活动。</div>
+					</div>
 				</div>
 				<!-- 如果需要分页器 -->
 			    <div class="swiper-pagination">
@@ -589,25 +637,93 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">法国航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海浦东</span>06:15</div>
-									<div class="airport"><span>巴塞罗那</span>22:45</div>
+									<div class="airport"><span>上海</span>23:20</div>
+									<div class="airport"><span>巴黎</span>05:40+1</div>
+									<div class="airport"><span>巴黎</span>07:15</div>
+									<div class="airport"><span>罗马</span>09:20</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
 									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>佛罗伦萨</span>06:45</div>
-									<div class="airport"><span>上海浦东</span>22:15</div>								
+									<div class="airport"><span>雅典</span>17:15</div>
+									<div class="airport"><span>阿姆斯特丹</span>19:50</div>	
+									<div class="airport"><span>阿姆斯特丹</span>21:30</div>
+									<div class="airport"><span>上海</span>14:10+1</div>							
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>北京</span>09:00</div>
+									<div class="airport"><span>巴黎</span>13:50</div>
+									<div class="airport"><span>巴黎</span>15:25</div>
+									<div class="airport"><span>罗马</span>17:30</div>
+								</div>
+							</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>雅典</span>19:55</div>
+									<div class="airport"><span>巴黎</span>22:20</div>
+									<div class="airport"><span>巴黎</span>23:20</div>
+									<div class="airport"><span>北京</span>15:20+1</div>									
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>广州</span>23:05</div>
+									<div class="airport"><span>巴黎</span>05:55+1</div>
+									<div class="airport"><span>巴黎</span>07:15</div>
+									<div class="airport"><span>罗马</span>09:20</div>
+								</div>
+							</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>雅典</span>18:05</div>
+									<div class="airport"><span>巴黎</span>20:30</div>
+									<div class="airport"><span>巴黎</span>23:20</div>
+									<div class="airport"><span>广州</span>17:10+1</div>									
 								</div>
 							</div>
 						</div>
@@ -618,51 +734,61 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海浦东</span>06:15</div>
-									<div class="airport"><span>巴塞罗那</span>22:45</div>
+									<div class="airport"><span>香港</span>12:20</div>
+									<div class="airport"><span>阿姆斯特丹</span>18:20</div>
+									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
+									<div class="airport"><span>罗马</span>22:45</div>
+								</div>
+							</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>雅典</span>19:55</div>
+									<div class="airport"><span>巴黎</span>22:20</div>
+									<div class="airport"><span>巴黎</span>23:35</div>
+									<div class="airport"><span>香港</span>17:35+1</div>									
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">荷兰航空</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>成都</span>14:35</div>
+									<div class="airport"><span>阿姆斯特丹</span>19:05</div>
+									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
+									<div class="airport"><span>罗马</span>22:45</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
 									<div class="">荷兰航空</div>
-									<div class="">16小时</div>
-									<div class="">直飞</div>
+									<div class="">小时</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>佛罗伦萨</span>06:45</div>
-									<div class="airport"><span>上海浦东</span>22:15</div>								
+									<div class="airport"><span>雅典</span>17:15</div>
+									<div class="airport"><span>阿姆斯特丹</span>19:50</div>
+									<div class="airport"><span>阿姆斯特丹</span>21:15</div>
+									<div class="airport"><span>成都</span>12:50+1</div>									
 								</div>
-							</div>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="com_flightInfo">
-							<div class="voyage">启程</div>
-							<div class="ibWrap">
-								<div class="">荷兰航空</div>
-								<div class="">16小时</div>
-								<div class="">直飞</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>上海浦东</span>06:15</div>
-								<div class="airport"><span>巴塞罗那</span>22:45</div>
-							</div>
-						</div>
-						<div class="com_flightInfo">
-							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">荷兰航空</div>
-								<div class="flex1">16小时</div>
-								<div class="flex1">直飞</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>佛罗伦萨</span>06:45</div>
-								<div class="airport"><span>上海浦东</span>22:15</div>								
 							</div>
 						</div>
 					</div>
@@ -1121,7 +1247,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopedSlides:6,
+		        loopedSlides:10,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,

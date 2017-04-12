@@ -217,7 +217,7 @@
 							品尝新鲜意式美食<br/>
 							拜访名扬世界的葡萄酒故乡<br/>
 							探索帕马森干酪的秘密<br/>
-							漫步阳光明媚的里维埃拉海岸<br/>
+							漫步阳光明媚的里维耶拉海岸<br/>
 							感受前卫摩登的米兰都市<br/>
 						</p>
 					</div>
@@ -380,7 +380,7 @@
 			<div class="itineraryIntro section">
 				<!--<div class="initialScreenLinear"></div>-->
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/food-wine-northern-italy-the-italian-riviera.jpg"  />
+					<img src="img/itinerary/map/food-wine-northern-italy-the-italian-riviera.jpg"  />
 				</div>
 				<div class="initialScreen">							
 					<div class="com_itinerary_summary">
@@ -417,11 +417,11 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>途经巴罗洛前往意属里维埃拉</span> 
+								<label>第4天</label><span>途经巴罗洛前往意属里维耶拉</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在巴罗洛稍作停留，享用午餐，参加品酒会，然后前往意属里维埃拉</li>
+									<li>在巴罗洛稍作停留，享用午餐，参加品酒会，然后前往意属里维耶拉</li>
 								</ul>
 							</div>
 						</div>
@@ -476,7 +476,7 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在瓦尔波利塞拉享用午餐，品尝经典红酒</li>
+									<li>在瓦尔波利切拉享用午餐，品尝经典红酒</li>
 									<li>前往时尚之都米兰</li>
 								</ul>
 							</div>
@@ -1045,7 +1045,7 @@
 						<div class="agendaWrap">
 							<p>
 								食在意大利 <br/>
-								里维埃拉 - 博洛尼亚- 维罗纳
+								里维耶拉 - 博洛尼亚- 维罗纳
 							</p>
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
