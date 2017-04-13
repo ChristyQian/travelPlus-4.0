@@ -141,12 +141,12 @@
 					<div class="home-trip-box">
 						<a href="itinerary-moet-paris-reims.php">	
 							<div class="imgWrap">
-								<img src="img/itinerary/moet-paris-reim.jpg" alt="" />
+								<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">美食美酒</div>
-										<div class="pinkTxt">仅剩6席</div>
+										<div class="pinkTxt">早鸟减5%</div>
 									</div>
 								</div>
 							</div>
@@ -169,8 +169,39 @@
 								</div>
 							</div>
 						</a>
-				    </div>				
-										
+				    </div>
+				    <div class="home-trip-box">
+						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									食在意大利：食物与酒的美学 <br/>
+									意大利
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥20,800<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>													
 					<div class="home-trip-box">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
 							<div class="imgWrap">
@@ -178,8 +209,8 @@
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
 									</div>
 								</div>
 							</div>
@@ -202,8 +233,7 @@
 								</div>
 							</div>
 						</a>
-				    </div>
-				    
+				    </div>				    
 				    <div class="home-trip-box">
 						<a href="itinerary-jewels-of-alpine-europe.php">	
 							<div class="imgWrap">
@@ -211,8 +241,8 @@
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
 									</div>
 								</div>
 							</div>
@@ -235,8 +265,7 @@
 								</div>
 							</div>
 						</a>
-				    </div>
-				    
+				    </div>				    
 				    <div class="home-trip-box">
 						<a href="itinerary-london-paris-amsterdam.php">	
 							<div class="imgWrap">
@@ -244,8 +273,8 @@
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
 									</div>
 								</div>
 							</div>
@@ -270,46 +299,14 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									食在意大利：食物与酒的美学 <br/>
-									意大利
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,800<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div class="home-trip-box">
 						<a href="itinerary-grand-tour-of-spain.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-spain/4.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
 									</div>
 								</div>
 							</div>
@@ -377,7 +374,7 @@
 						<a href="itinerary-italy-greece.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -409,7 +406,7 @@
 						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/highlights-of-northern-europe-london-to-copenhagen/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -441,7 +438,7 @@
 						<a href="itinerary-rome-paris.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris/3.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -473,7 +470,7 @@
 						<a href="itinerary-rome-paris-athens.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-athens/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -505,7 +502,7 @@
 						<a href="itinerary-germany-switzerland-austria.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/germany-switzerland-austria/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -537,7 +534,7 @@
 						<a href="itinerary-venice-florence-rome.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -569,7 +566,7 @@
 						<a href="itinerary-food-wine-a-taste-of-spain.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -601,7 +598,7 @@
 						<a href="itinerary-london-edinburgh-dublin.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-edinburgh-dublin/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -633,7 +630,7 @@
 						<a href="itinerary-london-paris-madrid.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-madrid/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -665,7 +662,7 @@
 						<a href="itinerary-rome-paris-london.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -697,7 +694,7 @@
 						<a href="itinerary-paris-the-riviera-tuscany.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/paris-the-riviera-tuscany/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -729,7 +726,7 @@
 						<a href="itinerary-switzerland-alsace-the-black-forest.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/switzerland-alsace-the-black-forest/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -761,7 +758,7 @@
 						<a href="itinerary-food-wine-france-through-bordeaux-the-loire-valley.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-france-through-bordeaux-the-loire-valley/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -793,7 +790,7 @@
 						<a href="itinerary-rome-sorrento-sicily.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-sorrento-sicily/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -825,7 +822,7 @@
 						<a href="itinerary-grand-tour-of-italy.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -857,7 +854,7 @@
 						<a href="itinerary-london-paris-rome.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-rome/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>
@@ -889,7 +886,7 @@
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/scandinavia-the-capitals-the-fjords/1.jpg" alt="" />
-								<div class="hotSale">
+								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">暑期档</div>

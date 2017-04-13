@@ -126,6 +126,9 @@
 	padding:1.5em 0;
 	line-height:1.5em;
 }
+.itineraryHighLights .tourGuide .serif {
+	font-size:0.7em;
+}
 .tourGuide {
 	color:#fff;
 }
@@ -433,7 +436,7 @@
 	vertical-align: sub;
 	margin-right:5px;
 }
-.flight .flex-row-end-between {
+.flight .flex-row-end-between div {
 	display:none;/* No function, so hidden */
 }
 .flight .swiper-pagination {

@@ -146,7 +146,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">热卖</div>						
+						<div class="yellowTxt">国庆档</div>						
 						<div class="tourName">邂逅惬意欧洲之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -154,18 +154,18 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">火爆热卖</div>
+							<div class="pinkTxt">早鸟减5%</div>
 						</div>
 					</div>
 				</div>
 				<div class="discount">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<p>节省20%</p>
-						2月28日<br />
-						之前预定
+						<p>早鸟减5%</p>
+						5月31号<br />
+						前预定
 					</div>					
 				</div>
 			</div>
@@ -197,7 +197,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">我们会做帮你制定计划,你可以享受一个有山、有蓝天,还有绿色的牧场以及巧克力的诞生地的世界。</p>
+						<p class="serif">欢迎来到这三个典型的欧洲城市，置身伦敦的博物馆美术馆，穿越回巴黎的黄金时代，到达无乐不作的阿姆斯特丹，不管你是第几次来欧洲，这趟旅程依然会让你流连忘返。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
@@ -626,7 +626,7 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">芬兰航空</div>
-									<div class="">小时</div>
+									<div class="">15h45m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -640,7 +640,7 @@
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
 									<div class="">芬兰航空</div>
-									<div class="">小时</div>
+									<div class="">13h15m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -658,7 +658,7 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">芬兰航空</div>
-									<div class="">小时</div>
+									<div class="">14h10m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -672,7 +672,7 @@
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
 									<div class="">芬兰航空</div>
-									<div class="">小时</div>
+									<div class="">13h0m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -690,7 +690,7 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">荷兰皇家航空</div>
-									<div class="">小时</div>
+									<div class="">15h35m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -704,7 +704,7 @@
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
 									<div class="">荷兰皇家航空</div>
-									<div class="">小时</div>
+									<div class="">11h0m</div>
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -720,7 +720,7 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">阿提哈德航空</div>
-									<div class="">小时</div>
+									<div class="">17h35m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -734,7 +734,7 @@
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
 									<div class="">阿提哈德航空</div>
-									<div class="">小时</div>
+									<div class="">16h15m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -985,94 +985,101 @@
 				<h4>当季精选</h4>
 				<div class="flex-row-start-between flex-flow">
 					<div class="home-trip-box">
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">暑期档</div>
-									<div class="pinkTxt">仅剩4席</div>
+						<a href="itinerary-moet-paris-reims.php">	
+							<div class="imgWrap">
+								<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">美食美酒</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								一路向北欧洲之旅 <br/>
-								伦敦 - 阿姆斯特丹 - 哥本哈根
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+							<div class="agendaWrap">
+								<p>
+									MOET酩悦香槟法国微醺之旅 <br/>
+									巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥19,100<span>起</span></span>
+								</div>
 							</div>
-							<div>
-								12天
-								<span class="delPrice">￥56600</span>
-								<span class="price">￥25700<span>起</span></span>
-							</div>
-						</div>
-					</div>
+						</a>
+				    </div>
 					<div class="home-trip-box">
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">亲子团</div>
-									<div class="pinkTxt">仅剩4席</div>
+						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+							<div class="agendaWrap">
+								<p>
+									食在意大利：食物与酒的美学 <br/>
+									意大利
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥20,800<span>起</span></span>
+								</div>
 							</div>
-							<div>
-								12天
-								<span class="delPrice">￥56600</span>
-								<span class="price">￥25700<span>起</span></span>
-							</div>
-						</div>
-					</div>
+						</a>
+				    </div>
 					<div class="home-trip-box">
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/3.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">美食美酒</div>
-									<div class="pinkTxt">仅剩4席</div>
+						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								食在意大利 <br/>
-								里维埃拉 - 博洛尼亚- 维罗纳
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+							<div class="agendaWrap">
+								<p>
+									西法意城市狂想 <br/>
+									巴塞罗那 - 南法 - 里维耶拉
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥18,300<span>起</span></span>
+								</div>
 							</div>
-							<div>
-								11天
-								<span class="delPrice">￥56600</span>
-								<span class="price">￥22800<span>起</span></span>
-							</div>
-						</div>
-					</div>
+						</a>
+				    </div>
 				</div>
 			</div>				
 		</div>

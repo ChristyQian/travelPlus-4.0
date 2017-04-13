@@ -584,6 +584,7 @@ filter: gray;
 	font-weight:lighter;
 	line-height: 1.5em;
 	text-align:center;
+	padding:20px 10px;
 }
 .quoBg .discount .transparentTxt {
 	padding-top:35px;
