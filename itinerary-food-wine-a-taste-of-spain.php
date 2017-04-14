@@ -231,7 +231,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/1.jpg" />
+								<img src="img/itinerary/food-wine-a-taste-of-spain-1.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -250,7 +250,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/2.jpg" />
+								<img src="img/itinerary/food-wine-a-taste-of-spain-2.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -269,7 +269,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/3.jpg" />
+								<img src="img/itinerary/food-wine-a-taste-of-spain-4.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -288,7 +288,26 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/4.jpg" />
+								<img src="img/itinerary/food-wine-a-taste-of-spain-5.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/food-wine-a-taste-of-spain-6.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>

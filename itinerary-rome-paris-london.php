@@ -235,7 +235,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/1.jpg" />
+								<img src="img/itinerary/rome-paris-london-4.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -254,7 +254,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/2.jpg" />
+								<img src="img/itinerary/rome-paris-london-3.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -273,7 +273,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/3.jpg" />
+								<img src="img/itinerary/rome-paris-london-2.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -292,7 +292,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/4.jpg" />
+								<img src="img/itinerary/rome-paris-london-1.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>

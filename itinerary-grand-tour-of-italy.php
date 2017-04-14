@@ -231,7 +231,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/1.jpg" />
+								<img src="img/itinerary/grand-tour-of-italy-1.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -250,7 +250,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/2.jpg" />
+								<img src="img/itinerary/grand-tour-of-italy-2.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -269,7 +269,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/3.jpg" />
+								<img src="img/itinerary/grand-tour-of-italy-3.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -288,7 +288,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/4.jpg" />
+								<img src="img/itinerary/grand-tour-of-italy-4.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
