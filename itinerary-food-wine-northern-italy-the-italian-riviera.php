@@ -208,10 +208,10 @@
 						<p class="serif">对于爱好美食的你来说，意大利得天独厚的美味料理定会让你不虚此行。在里维耶拉欣赏美景、品尝葡萄酒，在博洛尼亚品尝当地纯正的干酪和香醋，此外你还将亲自动手烹饪美食，探寻舌尖上的意大利。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Fabrice-Tomlin,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

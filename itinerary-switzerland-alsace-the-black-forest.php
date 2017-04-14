@@ -206,10 +206,10 @@
 						<p class="serif">从瑞士的风景山区到德国神秘的黑森林，在这趟行程中，令人惊叹的景致无处不在。让我们共同见证标志性的马特洪峰，穿越过阿尔萨斯的科尔地区，品尝美味的黑森林蛋糕，驶入旧时的童话世界吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Rosa.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Rosa,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

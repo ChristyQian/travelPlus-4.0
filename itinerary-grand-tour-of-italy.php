@@ -202,10 +202,10 @@
 						<p class="serif">在意大利最难回答的问题其实是“哪里不值得去？”，这个融合了历史、人文美景的国度，为旅行增添了无限的可能性。在这趟意大利的深度游览旅程中，你将来到传奇的威尼斯、佛罗伦萨和罗马，也会来到小而美的城镇阿西西和费拉拉。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Fabrice-Tomlin,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

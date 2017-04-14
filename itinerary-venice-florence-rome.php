@@ -206,10 +206,10 @@
 						<p class="serif">在威尼斯感受不紧不慢的浪漫生活，在佛罗伦萨与数之不尽的教堂建筑亲密接触，在罗马重温古时文明，从食物到生活方式，一起来全方位感受意大利的活力和文艺复兴的传奇往事吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Rosa.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Rosa,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

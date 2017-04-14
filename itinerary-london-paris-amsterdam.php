@@ -206,10 +206,10 @@
 						<p class="serif">欢迎来到这三个典型的欧洲城市，置身伦敦的博物馆美术馆，穿越回巴黎的黄金时代，到达无乐不作的阿姆斯特丹，不管你是第几次来欧洲，这趟旅程依然会让你流连忘返。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Fortuna Gallo,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

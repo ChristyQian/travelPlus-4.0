@@ -202,10 +202,10 @@
 						<p class="serif">法国是美食和葡萄酒爱好者的天堂，在这趟旅程中你将品尝到温润的波尔多红酒，源于多尔多涅河河谷地区匠人制作的鹅肝酱、干酪，产自卢瓦尔河谷的白兰地和起泡酒，同时中世纪的古堡也近在身边。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Constantin.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Constantin,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

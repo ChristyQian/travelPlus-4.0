@@ -204,10 +204,10 @@
 						<p class="serif">浓厚的历史，神奇的博物馆，迷人风景和难忘美味，这些都是我们热爱法国和意大利的理由。这趟旅程我们将从巴黎来到普罗旺斯，然后继续沿着意属里维埃拉前往托斯卡纳，感受文化天堂的活力！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Gattazzo,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

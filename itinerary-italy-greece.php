@@ -204,10 +204,10 @@
 						<p class="serif">当穿梭在意大利和希腊的标志性城市时，古代神话的面纱也渐渐被你揭开。花上一个假期，坐下来静静享受索伦托和卡普里岛的悠闲地中海生活，细细品味罗马和雅典的悠久历史吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Fortuna Gallo,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

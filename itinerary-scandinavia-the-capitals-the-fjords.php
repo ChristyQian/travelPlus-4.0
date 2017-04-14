@@ -206,10 +206,10 @@
 						<p class="serif">若不是亲眼所见，你很难想象北欧的峡湾是如何蜿蜒壮美。这次的旅程将带你领略斯堪的纳维亚的神奇，从挪威到丹麦以及斯德哥尔摩，让我们一起在世界闻名的宜居城市探索海上故事和现代建筑吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Rosa.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Rosa,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

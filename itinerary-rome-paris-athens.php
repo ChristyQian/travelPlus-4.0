@@ -206,10 +206,10 @@
 						<p class="serif">几个世纪以来，艺术家们纷纷涌入了巴黎和罗马，现在轮到你了！在这趟旅程中，你将会有足够的时间去探索这两座欧洲著名城市，古老的希腊神话也会让你爱上雅典。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Rosa.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Rosa,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

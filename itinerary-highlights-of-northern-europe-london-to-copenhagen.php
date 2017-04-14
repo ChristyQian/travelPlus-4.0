@@ -206,10 +206,10 @@
 						<p class="serif">在这趟精选的欧洲行程中，你会来到曾经的北欧经贸中心。充满活力的伦敦和安特卫普，独特的阿姆斯特丹运河，珍贵的汉堡遗迹，乐趣无限的哥本哈根，融入这些城市的历史和生活之中吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Fabrice-Tomlin,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

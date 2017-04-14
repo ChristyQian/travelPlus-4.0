@@ -204,10 +204,10 @@
 						<p class="serif">“如果运气好，年轻时就要到过巴黎”，“在罗马。入乡随俗”，关于巴黎和罗马这两座城市，你一定已经听过了这些著名俗语，是时候和我们一起，亲自去体验它们的美妙了！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Rosa.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Rosa,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

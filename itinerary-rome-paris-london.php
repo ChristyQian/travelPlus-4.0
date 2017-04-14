@@ -206,10 +206,10 @@
 						<p class="serif">从南到北游历欧洲，在世界闻名的三个城市停留，在这趟旅程中，从古老的罗马到浪漫巴黎、优雅而迷离的伦敦，你将看到令人惊叹的建筑，现代的杰作和引人入胜的历史足迹。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Rosa.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Rosa,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

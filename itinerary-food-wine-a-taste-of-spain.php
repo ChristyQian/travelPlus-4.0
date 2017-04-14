@@ -202,10 +202,10 @@
 						<p class="serif">从加泰罗尼亚的Cava起泡酒到巴斯林的Tapas，西班牙的美食正在呼唤你！品味地道美食，融入巴塞罗那和马德里的文化，尽情享受圣塞巴斯蒂安著名的食物，在拉里奥哈品尝丹魂葡萄酒。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Constantin.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Constantin,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

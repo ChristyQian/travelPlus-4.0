@@ -210,10 +210,10 @@
 						<p class="serif">加入我们吧，一起从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列车敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Fortuna Gallo,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

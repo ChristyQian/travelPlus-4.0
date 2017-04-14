@@ -206,10 +206,10 @@
 						<p class="serif">漫步在罗马的古遗迹，躺在地中海阳光海岸边晒太阳，这趟意大利南部之旅将完成你对完美旅行的想象。从索伦托峭壁到西西里的宁静桔园，甜蜜慢生活由此开始。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Rosa.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Rosa,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

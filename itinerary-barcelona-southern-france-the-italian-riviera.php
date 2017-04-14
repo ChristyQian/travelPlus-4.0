@@ -206,10 +206,10 @@
 						<p class="serif">一趟旅程，就能体验到三种截然不同地中海风情，是不是很超值？充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村，我期待与你一起发现更多不可错过的旅行乐趣！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Constantin.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Constantin,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>

@@ -206,10 +206,10 @@
 						<p class="serif">在这趟旅行中，你将会和有趣的朋友们一起见识与众不同的异国文化，处处充满活力和新鲜感的魅力伦敦，由连绵山脉和优雅古堡组成的爱丁堡，还有与音乐风笛密不可分的都柏林，让我们一起出发吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/11.jpg" />
+								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Jax Oddo,</span>
+								<span class="name">Fortuna Gallo,</span>
 								<span class="position">Tour Director</span>
 							</div>
 						</div>
