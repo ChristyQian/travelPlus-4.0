@@ -139,7 +139,7 @@
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">	
 					<div class="home-trip-box">
-						<a href="itinerary-moet-paris-reims.php">	
+						<a href="itinerary-moet-paris-reims.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
 								<div class="hotSale">
@@ -171,7 +171,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
+						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
 								<div class="hotSale">
@@ -203,7 +203,7 @@
 						</a>
 				    </div>													
 					<div class="home-trip-box">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
+						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
 								<div class="hotSale">
@@ -235,7 +235,7 @@
 						</a>
 				    </div>				    
 				    <div class="home-trip-box">
-						<a href="itinerary-jewels-of-alpine-europe.php">	
+						<a href="itinerary-jewels-of-alpine-europe.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/jewels-of-alpine-europe/1.jpg" alt="" />
 								<div class="hotSale">
@@ -267,7 +267,7 @@
 						</a>
 				    </div>				    
 				    <div class="home-trip-box">
-						<a href="itinerary-london-paris-amsterdam.php">	
+						<a href="itinerary-london-paris-amsterdam.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/1.jpg" alt="" />
 								<div class="hotSale">
@@ -299,7 +299,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-grand-tour-of-spain.php">	
+						<a href="itinerary-grand-tour-of-spain.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-spain/4.jpg" alt="" />
 								<div class="hotSale">
@@ -371,7 +371,7 @@
 				<h4>全部行程</h4>
 				<div class="flex-row-start-start flex-flow">
 					<div class="home-trip-box">
-						<a href="itinerary-italy-greece.php">	
+						<a href="itinerary-italy-greece.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -403,7 +403,7 @@
 						</a>
 				    </div>
 					<div class="home-trip-box">
-						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php">	
+						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/highlights-of-northern-europe-london-to-copenhagen/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -435,7 +435,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-rome-paris.php">	
+						<a href="itinerary-rome-paris.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris/3.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -448,7 +448,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									城市生活与艺术之旅-亲子团<br/>
+									城市生活与艺术之旅(8天)-亲子团<br/>
 									巴黎 - 罗马
 								</p>
 								<div class="rate">
@@ -467,7 +467,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-rome-paris-athens.php">	
+						<a href="itinerary-rome-paris-athens.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-athens/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -480,7 +480,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									城市生活与艺术之旅-亲子团 <br/>
+									城市生活与艺术之旅(11天)-亲子团 <br/>
 									巴黎 - 罗马 - 雅典
 								</p>
 								<div class="rate">
@@ -499,7 +499,7 @@
 						</a>
 				    </div>
 					<div class="home-trip-box">
-						<a href="itinerary-germany-switzerland-austria.php">	
+						<a href="itinerary-germany-switzerland-austria.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/germany-switzerland-austria/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -531,7 +531,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-venice-florence-rome.php">	
+						<a href="itinerary-venice-florence-rome.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -563,7 +563,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-food-wine-a-taste-of-spain.php">	
+						<a href="itinerary-food-wine-a-taste-of-spain.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -595,7 +595,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-london-edinburgh-dublin.php">	
+						<a href="itinerary-london-edinburgh-dublin.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-edinburgh-dublin/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -627,7 +627,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-london-paris-madrid.php">	
+						<a href="itinerary-london-paris-madrid.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-madrid/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -659,7 +659,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-rome-paris-london.php">	
+						<a href="itinerary-rome-paris-london.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -691,7 +691,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-paris-the-riviera-tuscany.php">	
+						<a href="itinerary-paris-the-riviera-tuscany.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/paris-the-riviera-tuscany/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -723,7 +723,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-switzerland-alsace-the-black-forest.php">	
+						<a href="itinerary-switzerland-alsace-the-black-forest.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/switzerland-alsace-the-black-forest/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -755,7 +755,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-food-wine-france-through-bordeaux-the-loire-valley.php">	
+						<a href="itinerary-food-wine-france-through-bordeaux-the-loire-valley.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-france-through-bordeaux-the-loire-valley/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -787,7 +787,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-rome-sorrento-sicily.php">	
+						<a href="itinerary-rome-sorrento-sicily.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-sorrento-sicily/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -819,7 +819,7 @@
 						</a>
 				    </div>
 					<div class="home-trip-box">
-						<a href="itinerary-grand-tour-of-italy.php">	
+						<a href="itinerary-grand-tour-of-italy.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -851,7 +851,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-london-paris-rome.php">	
+						<a href="itinerary-london-paris-rome.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-rome/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
@@ -883,7 +883,7 @@
 						</a>
 				    </div>
 				    <div class="home-trip-box">
-						<a href="itinerary-scandinavia-the-capitals-the-fjords.php">	
+						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/scandinavia-the-capitals-the-fjords/1.jpg" alt="" />
 								<div class="hotSale" style="display:none;">

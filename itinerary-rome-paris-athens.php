@@ -18,6 +18,11 @@
 		<meta name="title" content="欧洲旅游新选择_EF英孚旅游_一站式旅游专家" />
 		<meta name="keywords" content="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行 " />
 		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
+		<style>
+			.imagesWrap {
+				background:url(img/itinerary/billboard/Rome-Paris-Greece.jpg) no-repeat;
+			}
+		</style>
 	</head>
 	<body data-spy="scroll" data-target="#travelPlusNav">
 		<div class="fixCAT">
@@ -146,8 +151,8 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">热卖</div>						
-						<div class="tourName">城市生活与艺术之旅</div>
+						<div class="yellowTxt" style="visibility: hidden;">热卖</div>						
+						<div class="tourName">城市生活与艺术之旅(11天)</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -156,11 +161,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">火爆热卖</div>
+							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
 						</div>
 					</div>
 				</div>
-				<div class="discount">
+				<div class="discount" style="visibility: hidden;">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<p>节省20%</p>
