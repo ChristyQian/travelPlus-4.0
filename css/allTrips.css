@@ -125,7 +125,10 @@ a.close-dropdown {
 		margin-top:10px;
 	}
 }
-@media screen and (max-width:425px) {	
+@media screen and (max-width:425px) {
+	.filter .flex-row-start-start {
+	    justify-content: flex-start;
+	}	
 	.section.filter {
 		padding-top:20px;
 	}

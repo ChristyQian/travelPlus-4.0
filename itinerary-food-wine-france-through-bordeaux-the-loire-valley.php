@@ -20,7 +20,8 @@
 		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
 		<style>
 			.imagesWrap {
-				background:url(img/itinerary/billboard/Food-&-Wine_France-through-Bordeaux-&-the-Loire-Valley.jpg) no-repeat;
+				background:url(img/itinerary/billboard/Food-&-Wine_France-through-Bordeaux-&-the-Loire-Valley.jpg)  center center no-repeat;
+				background-size:cover;
 			}
 		</style>
 	</head>
@@ -1122,7 +1123,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-		<script>      
+		<script>
 		    var swiper1 = new Swiper('.itineraryPhoto .swiper-container', {
 		    		autoplay: 5000,
 		    		width:1160,

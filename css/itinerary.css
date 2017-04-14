@@ -631,7 +631,7 @@
 		margin-right:0;
 	}
 }
-@media screen and (max-width: 420px) {	
+@media screen and (max-width: 425px) {	
 	.header .com_dialog,
 	.header .dialogWrap, {
 		display:none;
@@ -691,6 +691,8 @@
 	.hotelDes {
 		padding:10px;
 		font-size: 12px;
+		height:100px;
+		overflow-y:scroll;
 	}
 	.flight .swiper-slide {
 		padding:10px;

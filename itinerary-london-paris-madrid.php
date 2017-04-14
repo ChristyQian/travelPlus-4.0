@@ -20,7 +20,8 @@
 		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
 		<style>
 			.imagesWrap {
-				background:url(img/itinerary/billboard/London-Paris-Madrid.jpg) no-repeat;
+				background:url(img/itinerary/billboard/London-Paris-Madrid.jpg)  center center no-repeat;
+				background-size:cover;
 			}
 		</style>
 	</head>
