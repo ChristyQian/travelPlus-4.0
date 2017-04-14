@@ -22,6 +22,7 @@
   .section h4 {
   	padding-left:20px;
   	padding-right:20px;
+  	margin-top:40px;
   }
   	.header {
 		width:inherit;
@@ -83,7 +84,7 @@
 
 }
 /* min - iphone6p */
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 425px) {
 	.fixCAT .hotline span {
 		display:none;
 	}
@@ -100,12 +101,12 @@
 	.header .Oval-5  {
 		margin-right:0.2em;
 	}
-	.swiper-slide .sliderBg {
-		width:100%;
-	}
 	.discount {
 		right:21px;
 		top:21px;
+	}
+	.section {
+		padding-top:0;
 	}
   	.section h4,
   	.site h4 {

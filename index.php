@@ -28,13 +28,15 @@
 			<div class="swiper-container">
 			    <div class="swiper-wrapper">
 			        <div class="swiper-slide">
-			        	<div class="sliderBg bg1"></div>
-						<div class="discount">
+			        	<div class="sliderBg">
+			        		<img src="img/itinerary/billboard/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" />
+			        	</div>
+						<div class="discount" style="visibility: hidden;">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>节省20%</p>
-								2月28日<br />
-								之前预定
+								<p>最后召集</p>
+								仅剩2席<br />
+								2017.5.27出发
 							</div>
 						</div>
 						<div class="event">
@@ -43,98 +45,154 @@
 						</div>
 						<div class="recommand">
 							<p>
-								阿尔卑斯山环游之旅13天<br/>
-								7月6日出发
+								花样妈妈团：西法意城市狂想<br/>
+								2017.5.27出发
 							</p>
-							<a class="borderBtn" href="Itinerary.html" target="_blank">查看行程<i class="whiteArrow"></i></a>
+							<a class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera-mama.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
-			        	<div class="sliderBg bg2"></div>
+			        	<div class="sliderBg">
+			        		<img src="img/itinerary/home-moet-paris-reim.jpg"  />
+			        	</div>
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>节省20%</p>
-								2月28日<br />
+								<p>节省5%</p>
+								5月31日<br />
 								之前预定
 							</div>
 						</div>
 						<div class="event">
 							<div class="transparentBg"></div>
-							<div class="transparentTxt">母亲节特别活动</div>
+							<div class="transparentTxt">国庆档</div>
 						</div>
 						<div class="recommand">
 							<p>
-								阿尔卑斯山环游之旅13天<br/>
-								7月6日出发
+								MOET酩悦香槟法国微醺之旅<br/>
+								2017.9.30出发
 							</p>
-							<a class="borderBtn" href="Itinerary.html" target="_blank">查看行程<i class="whiteArrow"></i></a>
+							<a class="borderBtn" href="itinerary-moet-paris-reims.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
-			        	<div class="sliderBg bg3"></div>
+			        	<div class="sliderBg">
+			        		<img src="img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg"  />
+			        	</div>
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>节省20%</p>
-								2月28日<br />
+								<p>节省5%</p>
+								5月31日<br />
 								之前预定
 							</div>
 						</div>
 						<div class="event">
 							<div class="transparentBg"></div>
-							<div class="transparentTxt">母亲节特别活动</div>
+							<div class="transparentTxt">国庆档</div>
 						</div>
 						<div class="recommand">
 							<p>
-								阿尔卑斯山环游之旅13天<br/>
-								7月6日出发
+								食在意大利：食物与酒的美学<br/>
+								2017.9.29出发
 							</p>
-							<a class="borderBtn" href="Itinerary.html" target="_blank">查看行程<i class="whiteArrow"></i></a>
+							<a class="borderBtn" href="itinerary-food-wine-northern-italy-the-italian-riviera.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
-			        	<div class="sliderBg bg4"></div>
+				        	<div class="sliderBg">
+				        		<img src="img/itinerary/home-barcelona-southern-france-the-italian-riviera.jpg" />
+				        	</div>
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>节省20%</p>
-								2月28日<br />
+								<p>节省5%</p>
+								5月31日<br />
 								之前预定
 							</div>
 						</div>
 						<div class="event">
 							<div class="transparentBg"></div>
-							<div class="transparentTxt">母亲节特别活动</div>
+							<div class="transparentTxt">国庆档</div>
 						</div>
 						<div class="recommand">
 							<p>
-								阿尔卑斯山环游之旅13天<br/>
-								7月6日出发
+								西法意城市狂想<br/>
+								2017.9.29出发
 							</p>
-							<a class="borderBtn" href="Itinerary.html" target="_blank">查看行程<i class="whiteArrow"></i></a>
+							<a class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
-			        	<div class="sliderBg bg5"></div>
+				        	<div class="sliderBg">
+				        		<img src="img/itinerary/home-germany-switzerland-austria.jpg"  />
+				        	</div>
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>节省20%</p>
-								2月28日<br />
+								<p>节省5%</p>
+								5月31日<br />
 								之前预定
 							</div>
 						</div>
 						<div class="event">
 							<div class="transparentBg"></div>
-							<div class="transparentTxt">母亲节特别活动</div>
+							<div class="transparentTxt">国庆档</div>
 						</div>
 						<div class="recommand">
 							<p>
 								阿尔卑斯山环游之旅13天<br/>
-								7月6日出发
+								2017.9.30出发
 							</p>
-							<a class="borderBtn" href="Itinerary.html" target="_blank">查看行程<i class="whiteArrow"></i></a>
+							<a class="borderBtn" href="itinerary-germany-switzerland-austria.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
+						</div>
+			        </div>
+			        <div class="swiper-slide">
+				        	<div class="sliderBg">
+				        		<img src="img/itinerary/home-london-paris-amsterdam.jpg"  />
+				        	</div>
+						<div class="discount">
+							<div class="transparentBg"></div>
+							<div class="transparentTxt">
+								<p>节省5%</p>
+								5月31日<br />
+								之前预定
+							</div>
+						</div>
+						<div class="event">
+							<div class="transparentBg"></div>
+							<div class="transparentTxt">国庆档</div>
+						</div>
+						<div class="recommand">
+							<p>
+								邂逅惬意欧洲之旅<br/>
+								2017.9.29出发
+							</p>
+							<a class="borderBtn" href="itinerary-germany-switzerland-austria.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
+						</div>
+			        </div>
+			        <div class="swiper-slide">
+				        	<div class="sliderBg">
+				        		<img src="img/itinerary/home-grand-tour-of-spain.jpg"  />
+				        	</div>
+						<div class="discount">
+							<div class="transparentBg"></div>
+							<div class="transparentTxt">
+								<p>节省5%</p>
+								5月31日<br />
+								之前预定
+							</div>
+						</div>
+						<div class="event">
+							<div class="transparentBg"></div>
+							<div class="transparentTxt">国庆档</div>
+						</div>
+						<div class="recommand">
+							<p>
+								西班牙全景深度游<br/>
+								2017.9.30出发
+							</p>
+							<a class="borderBtn" href="itinerary-germany-switzerland-austria.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			    </div>
@@ -172,96 +230,103 @@
 			<!-- trips -->
 			<div class="section trips">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-start flex-flow">
+				<div class="flex-row-start-between flex-flow">
 					<div class="home-trip-box">
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">暑期档</div>
-									<div class="pinkTxt">仅剩4席</div>
+						<a href="itinerary-moet-paris-reims.php">	
+							<div class="imgWrap">
+								<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">美食美酒</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								一路向北欧洲之旅 <br/>
-								伦敦 - 阿姆斯特丹 - 哥本哈根
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-							</div>
-							<div>
-								12天
-								<span class="delPrice">￥56600</span>
-								<span class="price">￥25700<span>起</span></span>
-							</div>
-						</div>
-					</div>
-					<div class="home-trip-box">
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">亲子团</div>
-									<div class="pinkTxt">仅剩4席</div>
+							<div class="agendaWrap">
+								<p>
+									MOET酩悦香槟法国微醺之旅 <br/>
+									巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥19,100<span>起</span></span>
 								</div>
 							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
-							</div>
-							<div>
-								12天
-								<span class="delPrice">￥56600</span>
-								<span class="price">￥25700<span>起</span></span>
-							</div>
-						</div>
-					</div>
+						</a>
+				    </div>
 					<div class="home-trip-box">
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/3.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">美食美酒</div>
-									<div class="pinkTxt">仅剩4席</div>
+						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								食在意大利 <br/>
-								里维埃拉 - 博洛尼亚- 维罗纳
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+							<div class="agendaWrap">
+								<p>
+									食在意大利：食物与酒的美学 <br/>
+									意大利
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥20,800<span>起</span></span>
+								</div>
 							</div>
-							<div>
-								11天
-								<span class="delPrice">￥56600</span>
-								<span class="price">￥22800<span>起</span></span>
+						</a>
+				    </div>
+					<div class="home-trip-box">
+						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
+							<div class="imgWrap">
+								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
+								</div>
 							</div>
-						</div>
-					</div>
+							<div class="agendaWrap">
+								<p>
+									西法意城市狂想 <br/>
+									巴塞罗那 - 南法 - 里维耶拉
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥18,300<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
 				</div>
 				<div class="">
 					<a class="yellowBtn" href="allTrips.php">全部行程<i class="whiteArrow"></i></a>

@@ -125,7 +125,10 @@ a.close-dropdown {
 		margin-top:10px;
 	}
 }
-@media screen and (max-width:420px) {	
+@media screen and (max-width:425px) {	
+	.section.filter {
+		padding-top:20px;
+	}
 	.destinations {
 		width:100%;
 	}

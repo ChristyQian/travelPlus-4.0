@@ -18,7 +18,11 @@
 	height:496px;
 	background-size:cover;
 }
-.bg1 {
+.swiper-slide .sliderBg img {
+	width:inherit;
+	height: inherit;
+}
+/*.bg1 {
 	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-1.jpg') center center no-repeat;
 	background-size:cover;
 }
@@ -37,7 +41,7 @@
 .bg5 {
 	background:#efefef url('http://travelplus.ef.com.cn/sp/img/home-slider-5.jpg') center center no-repeat;
 	background-size:cover;
-}
+}*/
 .discount {
 	position:absolute;
 	right:0px;
@@ -155,6 +159,14 @@ footer {
 	}
 }
 @media screen and (max-width:1024px) {
+	.swiper-container	{
+		height:450px;	
+	}
+	.swiper-wrapper,
+	.swiper-slide .sliderBg {
+		width:inherit;
+		height:400px;
+	}
 	.wrap h2 {
 		padding:20px;
 	}
@@ -171,7 +183,19 @@ footer {
 		padding-left:20px;
 	}
 }
-@media screen and (max-width:800px) {			
+@media screen and (max-width:768px) {
+	.swiper-slide .sliderBg	{
+		width:inherit;
+		height:300px;
+	}	
+	.event {
+		bottom:170px;
+		height:56px;
+	}
+	.recommand {
+		height:170px;
+		padding-top:19px;
+	}
 	.discount {
 		right:21px;
 		top:21px;
@@ -182,6 +206,16 @@ footer {
 	}
 }
 @media screen and (max-width: 600px) {
+	.swiper-container {
+		height:400px;
+	}
+	.swiper-wrapper {
+		height:340px;
+	}
+	.swiper-slide .sliderBg	{
+		width:inherit;
+		height:300px;
+	}	
 	.event .transparentTxt {
 		text-align:left;
 		padding-left:20px;
@@ -227,4 +261,17 @@ footer {
 		margin-top:20px;
 	}
 }
+@media screen and (max-width: 425px) {
+	.swiper-container {		
+		height:380px;
+	}
+	.swiper-wrapper {
+		height:320px;
+	}
+	.swiper-slide .sliderBg	{
+		width: inherit;
+		height:150px;
+	}	
+}
+
 
