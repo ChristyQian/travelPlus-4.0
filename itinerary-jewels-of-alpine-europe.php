@@ -116,7 +116,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥21,400
+							￥27,400
 							<span>起</span>
 						</div>
 						<div>
