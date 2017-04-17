@@ -200,7 +200,8 @@ footer .backToTop {
 }
 /* Deal */
 .yellowBg,
-.lightBlueBg {
+.lightBlueBg,
+.lightYellowBg {
 	display:block;
 	color:#fff;
 	padding:10px 20px;
@@ -213,8 +214,10 @@ footer .backToTop {
 	background-color:#94c5db;
 	margin-top:30px;	
 }
-.lightBlueBg+.flex-row-start-start {
+.lightYellowBg {
+	background-color:#f9ca7c;
 	margin-bottom:100px;
+	margin-top:-20px;
 }
 @media screen and (max-width:1024px) {
 	.reasons div {
@@ -226,6 +229,9 @@ footer .backToTop {
 	.yellowBg,
 	.lightBlueBg {
 		margin-bottom:5px;
+	}
+	.lightYellowBg {
+		margin-top:-5px;
 	}
 }
 @media screen and (max-width: 768px) {
