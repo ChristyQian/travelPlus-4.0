@@ -45,7 +45,7 @@
 		<div class="header-nav" id="travelPlusNav">
 			<div class="site flex-row-center-between">
 				<ul class="flex-row-center-between">
-					<li><a href="allTrips.php">行程</a></li>
+					<li class="active"><a href="allTrips.php">行程</a></li>
 					<li><a href="why-us.html">特色</a></li>
 					<li><a href="deals.html">优惠</a></li>
 					<li><a href="review.html">评论</a></li>
@@ -922,7 +922,7 @@
 			<div class="site">
 				<a href="#top" class="backToTop">回到顶部<i class="upturnedArrow"></i></a>
 				<ul>
-					<li>
+					<li class="active">
 						<a href="allTrips.php">行程</a>
 					</li>
 					<li>

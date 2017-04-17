@@ -80,6 +80,7 @@ a.close-dropdown {
 .checkbox {
 	display:inline-block;
 	padding:5px 20px;
+	text-align:center;
 	border-radius:30px;
 	background-color:transparent;
 	border:1px solid #fff;
@@ -126,6 +127,12 @@ a.close-dropdown {
 	}
 }
 @media screen and (max-width:425px) {
+	.filter {
+		font-size:1.2em;
+	}
+	.dropdown-switcher {
+		line-height:30px;
+	}
 	.filter .flex-row-start-start {
 	    justify-content: flex-start;
 	}	
@@ -141,5 +148,7 @@ a.close-dropdown {
 	.filterConditions {
 		flex-flow:row wrap;
 	}
-
+	.checkbox {
+		flex:0 0 100px;
+	}
 }

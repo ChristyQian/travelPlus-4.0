@@ -43,7 +43,10 @@
 	.quotationWrap {
 		height:500px;
 	}
-	
+	.imgWrap {
+		width:100%;
+		height:196px;
+	}
 }
 /* iphone6p - ipad horizontal */
 @media screen and (max-width: 768px) {
@@ -81,7 +84,6 @@
 	.home-trip-box:nth-child(2n) {
 		margin-right:0;
 	}
-
 }
 /* min - iphone6p */
 @media screen and (max-width: 425px) {
@@ -192,6 +194,9 @@
 	}
 	.quoItem label {
 		font-size:1.2em;
+	}
+	.yellowBtn {
+		width:280px;
 	}
 	/*****************************************/
 	/*                Popup                  */

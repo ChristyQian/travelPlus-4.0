@@ -233,7 +233,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Italy & Greece-1.jpg" />
+								<img src="img/itinerary/Italy-Greece-1.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -252,7 +252,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Italy & Greece-2.jpg" />
+								<img src="img/itinerary/Italy-Greece-2.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -271,7 +271,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Italy & Greece-3.jpg" />
+								<img src="img/itinerary/Italy-Greece-3.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -290,7 +290,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Italy & Greece-4.jpg" />
+								<img src="img/itinerary/Italy-Greece-4.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -309,7 +309,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Italy & Greece-5.jpg" />
+								<img src="img/itinerary/Italy-Greece-5.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -328,7 +328,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Italy & Greece-6.jpg" />
+								<img src="img/itinerary/Italy-Greece-6.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -418,7 +418,7 @@
 		<div class="site">
 			<h4>行程安排</h4>
 			<div class="itineraryIntro section">
-				<!--<div class="initialScreenLinear"></div>-->
+				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
 					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/italy-greece.jpg"  />
 				</div>
@@ -578,18 +578,6 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Grand Hotel Cesare Augusto/Grand Hotel Cesare Augusto_room.jpg" />							
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Grand Hotel Cesare Augusto切萨雷奥古斯托大酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">酒店坐落在索伦托的心脏，几步塔索广场了。 酒店拥有一家古老的意大利酒店。 房间都非常相似，宽敞。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
 								<img src="img/hotel/Grand Hotel Cesare Augusto/Grand Hotel Cesare Augusto_swimming pool.jpg" />							
 							</div>
 							<div class="hotelIntro">
@@ -597,7 +585,7 @@
 								<div class="transparentTxt">Grand Hotel Cesare Augusto切萨雷奥古斯托大酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">索伦托，除了本身是一个美丽的城市，也是到访索伦托海岸和著名的阿马尔菲海岸的起点。乘坐轮船20分钟可以到达卡普里。</div>
+						<div class="hotelDes">酒店坐落在索伦托的心脏，几步塔索广场了。 酒店拥有一家古老的意大利酒店。 房间都非常相似，宽敞。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -660,6 +648,7 @@
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
+						<div class="departure">上海出发</div>
 						<div class="autoWrapper">
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
@@ -692,6 +681,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide">
+						<div class="departure">北京出发</div>
 						<div class="autoWrapper">
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
@@ -724,6 +714,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide">
+						<div class="departure">广州出发</div>
 						<div class="autoWrapper">
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
@@ -756,6 +747,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide">
+						<div class="departure">香港出发</div>
 						<div class="autoWrapper">
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
@@ -788,6 +780,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide">
+						<div class="departure">成都出发</div>
 						<div class="com_flightInfo">
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
@@ -1162,7 +1155,7 @@
 		<div class="site blog">
 			<h4 class="flex-row-end-between">
 				博客
-				<button class="blueBorderBtn">全部</button>
+				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
 			</h4>
 			<div class="flex-row-start-around flex-flow">
 				<div class="flex1 flex-row-center-between">

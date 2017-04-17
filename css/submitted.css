@@ -34,7 +34,10 @@
 		top:200px;
 	}
 }
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 425px) {
+	.quoBg {
+		margin:0 auto;
+	}
 	.site.submitted {
 		padding:20px;
 	}

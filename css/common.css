@@ -319,6 +319,11 @@ footer ul li {
 	font-size:1.8em;
 	margin-right:4.83em;
 }
+.header-nav li.active,
+.header-nav.affix li.active,
+footer ul li.active {
+	color:#999;
+}
 .header-nav.affix-top .head-fix-right {
 	display:none;
 }
@@ -441,10 +446,16 @@ button {
 	font-size:2em; 
 }
 .blueBorderBtn {
+	display:inline-block;
 	width:74px;
 	height:32px;
+	line-height:32px;
+	text-align:center;
 	border:1px solid #94c5db;
 	border-radius:100px;
+}
+a.blueBorderBtn:hover {
+	text-decoration: none;
 }
 .grayBorderBtn {
 	padding:5px 25px;
@@ -481,7 +492,7 @@ button {
 /*****************************************/
 .header-nav,
 footer ul {
-	font-weight:bold;
+	/*font-weight:bold;*/
 }
 h4 {
 	font-size:2.4em;
@@ -616,16 +627,18 @@ filter: gray;
 }
 .imgWrap img {
 	width: 100%;
-	height: 248px;
+	height: inherit;
 	background-position: center center !important;
 	background-repeat: no-repeat !important;
 	background-size: cover !important;
 }
 .hotSale {
+	position:absolute;
+	bottom:0;
 	width:100%;
 	height:56px;
 }
-	.hotSale .transparentBg {
+	.transparentBg {
 		width: inherit;
 		height: inherit;
 		background-color: #94c5db;

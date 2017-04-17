@@ -127,7 +127,7 @@
 					</div>
 				</div>
 				<ul class="flex-row-center-between">
-					<li><a href="allTrips.html">行程</a></li>
+					<li><a href="allTrips.php">行程</a></li>
 					<li><a href="why-us.html">特色</a></li>
 					<li><a href="deals.html">优惠</a></li>
 					<li><a href="review.html">评论</a></li>
@@ -381,7 +381,7 @@
 		<div class="site">
 			<h4>行程安排</h4>
 			<div class="itineraryIntro section">
-				<!--<div class="initialScreenLinear"></div>-->
+				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
 					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/barcelona-southern-france-the-italian-riviera.jpg"  />
 				</div>
@@ -648,6 +648,7 @@
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
+						<div class="departure">上海出发</div>
 						<div class="autoWrapper">
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
@@ -680,6 +681,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide">
+						<div class="departure">北京出发</div>
 						<div class="autoWrapper">
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
@@ -712,6 +714,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide">
+						<div class="departure">香港出发</div>
 						<div class="com_flightInfo">
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
@@ -742,6 +745,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide">
+						<div class="departure">成都出发</div>
 						<div class="com_flightInfo">
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
@@ -1112,7 +1116,7 @@
 		<div class="site blog">
 			<h4 class="flex-row-end-between">
 				博客
-				<button class="blueBorderBtn">全部</button>
+				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
 			</h4>
 			<div class="flex-row-start-around flex-flow">
 				<div class="flex1 flex-row-center-between">
