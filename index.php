@@ -334,7 +334,7 @@
 			</div>					
 		</div>
 		<!-- footer -->
-		<?php include 'common-footer.php' ;?>
+		<?php include 'common-footer2.php' ;?>
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script>      
 	    var swiper = new Swiper('.swiper-container', {

@@ -3,6 +3,18 @@
 		<footer>
 			<div class="site">
 				<a href="#top" class="backToTop">回到顶部<i class="upturnedArrow"></i></a>
+				<div class="flex-row-center-between defaultFooter">
+					<div class="flex-row-center-center">
+						<div class="icon Oval grayImg"><i class="call"></i></div>
+						<div class="hotline">
+				        		<p>来电咨询</p>
+				        		<span>400-018-7518</span>
+				        	</div>
+			        	</div>
+					<div>
+						<a href="#" class="grayBorderBtn">最新特惠</a>
+					</div>
+				</div>
 				<ul>
 					<li>
 						<a href="allTrips.php">行程</a>

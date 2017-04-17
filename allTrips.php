@@ -21,49 +21,7 @@
 		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
 	</head>
 	<body data-spy="scroll" data-target="#tripsFilter">
-	<div class="header">
-			<div class="site flex-row-center-between">
-				<div class="header-logo">
-		            <a href="index.php">
-		            	<img src="img/logo.png">
-		            </a>
-		        </div>
-		        <div class="head-fix-right flex-row-center-between">
-			        	<div class="icon Oval-5"><i class="fa fa-wechat"></i></div>
-			        	<div class="icon Oval"><i class="call"></i></div>
-			        	<div class="hotline">
-			        		<p>来电咨询</p>
-			        		<span>400-018-7518</span>
-			        	</div>
-			        	<button class="borderBtn">
-			        		更多优惠
-			        	</button>
-		        </div>
-	        </div>
-		</div>
-		<!-- nav -->
-		<div class="header-nav" id="travelPlusNav">
-			<div class="site flex-row-center-between">
-				<ul class="flex-row-center-between">
-					<li class="active"><a href="allTrips.php">行程</a></li>
-					<li><a href="why-us.php">特色</a></li>
-					<li><a href="deals.php">优惠</a></li>
-					<li><a href="review.php">评论</a></li>
-					<li><a href="http://travelplus.ef.com.cn/blog/">博客</a></li>
-				</ul>
-				<!--<div class="head-fix-right flex-row-center-between">
-			        	<div class="flex-no-grow-no-shrink-auto icon Oval-5"><i class="fa fa-wechat"></i></div>
-			        	<div class="flex-no-grow-no-shrink-auto icon Oval"><i class="call"></i></div>
-			        	<div class="flex-no-grow-no-shrink-auto hotline">
-			        		<p>来电咨询</p>
-			        		<span>400-018-7518</span>
-			        	</div>
-			        	<button class="flex-no-grow-no-shrink-auto borderBtn">
-			        		更多优惠
-			        	</button>
-		        </div>-->
-	       </div>
-		</div>
+		<?php include 'common-header2.php';?>	
 		<!-- If Edit Model -->
 		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="0" style="display:block;">
 			<div class="site">
@@ -918,44 +876,7 @@
 			</div>
 		</div>
 		<!-- footer -->
-		<footer>
-			<div class="site">
-				<a href="#top" class="backToTop">回到顶部<i class="upturnedArrow"></i></a>
-				<ul>
-					<li class="active">
-						<a href="allTrips.php">行程</a>
-					</li>
-					<li>
-						<a href="why-us.php">特色</a>
-					</li>
-					<li>
-						<a href="deals.php">优惠</a>
-					</li>
-					<li>
-						<a href="review.php">评论</a>
-					</li>
-					<li>
-						<a href="http://travelplus.ef.com.cn/blog/">博客</a>
-					</li>
-				</ul>
-				<div class="flex-row-center-start">
-					<div class="">
-						<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
-					</div>
-					<div class="flexAuto">
-						<p>
-							扫码关注@EFTravelPlus微信服务号<br />
-							发现实用旅行灵感和产品
-						</p>
-					</div>
-				</div>
-			</div>
-			<div class="icp flex-col-center-center">
-				<p>ICP 沪B2-20070075 上海英培商务咨询有限公司</p>				
-				<p>ICP 粵B2-20060734 广州英培商务咨询有限公司</p>
-				<p>&copy;Signum International S.a r.l Luxembourg Luzern Branch, EF英孚教育旗下公司，版权所有。</p>
-			</div>
-		</footer>
+		<?php include 'common-footer2.php' ;?>
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
