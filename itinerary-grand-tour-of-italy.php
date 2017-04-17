@@ -128,9 +128,9 @@
 				</div>
 				<ul class="flex-row-center-between">
 					<li><a href="allTrips.php">行程</a></li>
-					<li><a href="why-us.html">特色</a></li>
-					<li><a href="deals.html">优惠</a></li>
-					<li><a href="review.html">评论</a></li>
+					<li><a href="why-us.php">特色</a></li>
+					<li><a href="deals.php">优惠</a></li>
+					<li><a href="review.php">评论</a></li>
 					<li><a href="http://travelplus.ef.com.cn/blog/">博客</a></li>
 				</ul>
 				<div class="head-fix-right flex-row-center-between">
@@ -992,7 +992,7 @@
 								<label>电话：</label>
 								<textarea></textarea>
 							</div>
-							<a href="submitted.html" class="orangeBtn" >询价<i class="whiteArrow"></i></a>
+							<a href="submitted.php" class="orangeBtn" >询价<i class="whiteArrow"></i></a>
 						</form>
 					</div>
 				</div>
@@ -1172,13 +1172,13 @@
 						<a href="allTrips.php">行程</a>
 					</li>
 					<li>
-						<a href="why-us.html">特色</a>
+						<a href="why-us.php">特色</a>
 					</li>
 					<li>
-						<a href="deals.html">优惠</a>
+						<a href="deals.php">优惠</a>
 					</li>
 					<li>
-						<a href="review.html">评论</a>
+						<a href="review.php">评论</a>
 					</li>
 					<li>
 						<a href="http://travelplus.ef.com.cn/blog/">博客</a>

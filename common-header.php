@@ -26,9 +26,9 @@
 			<div class="site flex-row-center-between">
 				<ul class="flex-row-center-between">
 					<li><a href="allTrips.php">行程</a></li>
-					<li><a href="why-us.html">特色</a></li>
-					<li><a href="deals.html">优惠</a></li>
-					<li><a href="review.html">评论</a></li>
+					<li><a href="why-us.php">特色</a></li>
+					<li><a href="deals.php">优惠</a></li>
+					<li><a href="review.php">评论</a></li>
 					<li><a href="http://travelplus.ef.com.cn/blog/">博客</a></li>
 				</ul>
 	       </div>
