@@ -5,7 +5,7 @@
 	
 		<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
-				<h4>查询实时价格</h4>
+				<h4>获取实时价格</h4>
 				<div class="quotationBg"></div>
 				<div class="quotationWrap">
 					<div class="discount">

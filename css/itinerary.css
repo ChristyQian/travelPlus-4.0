@@ -286,6 +286,7 @@
 /*	position:relative;*/
 }
 .initialScreenLinear {
+	display:none;
 	position:absolute;
 	z-index:2;
 	width:100%;
@@ -336,6 +337,12 @@
 	font-size:1.4em;
 	/*font-weight:lighter;*/
 	line-height:2em;
+}
+.itinerary_daily_detail ul {
+	padding-left:30px;
+}
+.itinerary_daily_detail ul li {
+	list-style: disc;
 }
 .itineraryMap {
 	float:right;

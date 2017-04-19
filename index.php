@@ -340,6 +340,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script>      
 	    var swiper = new Swiper('.swiper-container', {
+	    		autoplay: 3000,
 	        pagination: '.swiper-pagination',
 	        paginationClickable: true
 	    });       

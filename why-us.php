@@ -23,14 +23,14 @@
 	<body>
 	<?php include 'common-header2.php';?>	
 		<div class="site">
-			 <h4>Why Us</h4>
+			 <h4>什么是 EF TravelPlus 自由团？</h4>
 		</div>
 		<div class="grayBg">
 			<div class="container">
 				<div class="whyUsBg grayImg"></div>
 				<div class="site">
 					<div class="serif">
-						说走就走的便利, <br/>独自旅行的自由和灵活性。
+						省去出行前繁重的准备工作，一站式服务覆盖行程中优选机票、品质酒店、国外交通和线路设计等各个角落,<br/>行程中拥有30-50%真正自由时间，度过属于自己的完美假期；同时，外籍导游和中方领队全程提供协助。
 					</div>
 					<div class="flex-row-center-start whyUsTxt">
 						<div class="transparentBg">
@@ -38,9 +38,9 @@
 							<div class="Oval-7"></div>
 						</div>					
 						<div class="flex-wrap flex-row-center-between transparentTxt">
-							<div>跟团游</div>
-							<div>TravelPlus</div>
-							<div>自由行</div>
+							<div>跟团游<br/>的省心和便利</div>
+							<div>自由团</div>
+							<div style="text-align:right;">自由行<br/>的舒心和自在</div>
 						</div>
 					</div>
 				</div>

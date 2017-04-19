@@ -155,6 +155,7 @@
 	.features.flex-row-start-around {
 		flex-direction:column;
 		text-align:left;
+		width:auto;
 	}
 	.localGuide, 
 	.like-minded, 

@@ -31,6 +31,48 @@
 		<div class="site">
 			 <div class="flex-row-start-start flex-flow">
 				<div class="home-trip-box">
+					<a href="itinerary-barcelona-southern-france-the-italian-riviera-mama.php" target="_blank">	
+						<div class="imgWrap">
+							<img src="img/itinerary/mamaTuan.jpg" alt="" />
+							<div class="hotSale">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">
+									<div class="yellowTxt">最后2席</div>
+									<div class="pinkTxt">2017.5.27出发</div>
+								</div>
+							</div>
+						</div>
+						<div class="agendaWrap">
+							<p>
+								花样妈妈团:西法意城市狂想 <br/>
+								巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
+							</p>
+							<div class="rate">
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+							</div>
+							<div>
+								12天
+								<span class="delPrice">￥19,100</span>
+								<span class="price">￥21,100<span>起</span></span>
+							</div>
+						</div>
+					</a>
+			    </div>
+			</div>
+		</div>
+		<div class="lightBlueBg">
+			<div class="site">
+		 		<h5>限时优惠</h5>
+		 		<div class="serif">凡5月31日(含)前，报名国庆指定行程，即享95折优惠！</div>
+		 	</div>
+	 	</div>
+	 	<div class="site">
+			<div class="flex-row-start-start flex-flow">
+				<div class="home-trip-box">
 					<a href="itinerary-moet-paris-reims.php" target="_blank">	
 						<div class="imgWrap">
 							<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
@@ -62,16 +104,6 @@
 						</div>
 					</a>
 			    </div>
-			</div>
-		</div>
-		<div class="lightBlueBg">
-			<div class="site">
-		 		<h5>限时优惠</h5>
-		 		<div class="serif">凡5月31日(含)前，报名国庆指定行程，即享95折优惠！</div>
-		 	</div>
-	 	</div>
-	 	<div class="site">
-			<div class="flex-row-start-start flex-flow">
 			    <div class="home-trip-box">
 					<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" target="_blank">	
 						<div class="imgWrap">

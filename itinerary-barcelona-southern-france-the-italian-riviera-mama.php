@@ -48,7 +48,7 @@
 					</div>
 				</div>
 				<div class="flex-row-center-between">
-			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>来撩</div>
+			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>微信咨询</div>
 			        	<div class="flex-row-center-end">
 				        	<div class="hotline flex-row-center-end">
 				        		<div class="flex-no-grow-no-shrink-auto icon Oval"><a class="call" href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
@@ -58,7 +58,7 @@
 				        		</div>
 				        	</div>
 				        	<a class="orangeBtn" href="#getPersonalizedPrice">
-				        		查询实时价格
+				        		获取价格
 				        	</a> 
 			        	</div>
 		        </div>
@@ -118,7 +118,7 @@
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">查询实时价格</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
 						</div>
 					</div>
 				</div>
@@ -131,7 +131,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Constantin,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -448,6 +448,7 @@
 								<label>第12天</label><span>抵达中国</span>
 							</div>
 						</div>
+						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
 					</div>						
 				</div>				
 			</div>
@@ -725,7 +726,7 @@
 						</div>
 						<div class="userInfo">
 							<span class="name">Jax Oddo,</span>
-							<span class="position">Tour Director</span>
+							<span class="position">外籍导游</span>
 						</div>
 					</div>
 					<div class="swiper-slide">
@@ -747,7 +748,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -770,7 +771,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -793,7 +794,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -816,7 +817,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -839,7 +840,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -854,7 +855,7 @@
 		<?php include 'quotationForm.php' ;?>
 		<!--<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
-				<h4>查询实时价格</h4>
+				<h4>获取实时价格</h4>
 				<div class="quotationBg"></div>
 				<div class="quotationWrap">
 					<div class="discount">
@@ -923,7 +924,7 @@
 								</div>
 							</div>
 							<span class="name">Jax Oddo,</span>
-							<span class="position">Tour Director</span>
+							<span class="position">外籍导游</span>
 						</div>
 				</div>
 			</div>

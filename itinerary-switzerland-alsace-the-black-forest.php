@@ -48,7 +48,7 @@
 					</div>
 				</div>
 				<div class="flex-row-center-between">
-			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>来撩</div>
+			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>微信咨询</div>
 			        	<div class="flex-row-center-end">
 				        	<div class="hotline flex-row-center-end">
 				        		<div class="flex-no-grow-no-shrink-auto icon Oval"><a class="call" href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
@@ -58,7 +58,7 @@
 				        		</div>
 				        	</div>
 				        	<a class="orangeBtn" href="#getPersonalizedPrice">
-				        		查询实时价格
+				        		获取实时价格
 				        	</a> 
 			        	</div>
 		        </div>
@@ -116,7 +116,7 @@
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">查询实时价格</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
 						</div>
 					</div>
 				</div>
@@ -129,7 +129,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Rosa,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -362,153 +362,154 @@
 				<div class="itineraryMap">
 					<img src="img/itinerary/map/switzerland-alsace-the-black-forest.jpg"  />
 				</div>
-					<div class="initialScreen">							
-						<div class="com_itinerary_summary">
-							<div class="itinerary_daily_item">						
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第1天</label><span>出发</span>
-								</div>
-								<div class="itinerary_daily_detail">										
-									<ul>
-										<li>启程并抵达卢塞恩</li>
-									</ul>
-								</div>
+				<div class="initialScreen">							
+					<div class="com_itinerary_summary">
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第1天</label><span>出发</span>
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第2天</label><span>卢塞恩观光游</span>
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>游览旧城区鹅卵石街道沿路的手绘建筑墙面</li>
-										<li>参观狮子纪念碑</li>
-										<li>参观巴洛克建筑耶稣会教堂</li>
-										<li>参观卡佩尔桥</li>
-										<li>在欢迎晚宴上与同行伙伴见面</li>
-									</ul>
-								</div>
+							<div class="itinerary_daily_detail">										
+								<ul>
+									<li>启程并抵达卢塞恩</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">						
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第3天</label><span>前往蒙特勒</span> 
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>参观西庸古堡</li>
-									</ul>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第2天</label><span>卢塞恩观光游</span>
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第4天</label><span>马特峰地区观光游</span> 
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>搭乘欧洲露天齿轨铁路前往峰顶</li>
-										<li>马特峰壮美风景一览无余</li>
-									</ul>
-								</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>游览旧城区鹅卵石街道沿路的手绘建筑墙面</li>
+									<li>参观狮子纪念碑</li>
+									<li>参观巴洛克建筑耶稣会教堂</li>
+									<li>参观卡佩尔桥</li>
+									<li>在欢迎晚宴上与同行伙伴见面</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">						
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第5天</label><span>搭乘冰河快车前往安德马特</span> 
-								</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第3天</label><span>前往蒙特勒</span> 
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第6天</label><span>少女峰观光游</span> 
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>搭乘列车登顶11000英尺的少女峰</li>
-										<li>参观山顶冰宫及展品</li>
-									</ul>
-								</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>参观西庸古堡</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">						
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第7天</label><span>途经伯尔尼和巴塞尔前往斯特拉斯堡</span> 
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>穿过阿勒河，前往伯尔尼棕熊之家</li>
-										<li>漫步旧城区，途经伯尔尼大教堂</li>
-										<li>前往巴塞尔自由观光</li>
-										<li>出发前往斯特拉斯堡</li>
-									</ul>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第4天</label><span>马特峰地区观光游</span> 
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第8天</label><span>斯特拉斯堡观光游</span> 
-								</div>
-								<div class="itinerary_daily_detail">										
-									<ul>
-										<li>途经大岛周边地区，经过谷登堡广场、 圣母院和罗昂宫</li>
-										<li>乘船欣赏沃邦拦河坝和廊桥风光</li>
-										<li>下午在斯特拉斯堡自由活动</li>
-									</ul>
-								</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>搭乘欧洲露天齿轨铁路前往峰顶</li>
+									<li>马特峰壮美风景一览无余</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第9天</label><span>途经科尔马前往弗莱堡</span>
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>探索以运河闻名的科尔马</li>
-										<li>参观普菲斯特宅第和圣马丁教堂</li>
-										<li>步入巴特勒迪博物馆</li>
-										<li>游览黑森林入口——德国小镇弗莱堡</li>
-										<li>步入哥特式弗莱堡大教堂</li>
-										<li>途经古代商贸会馆楼、市政厅和马丁门</li>
-									</ul>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第5天</label><span>搭乘冰河快车前往安德马特</span> 
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第10天</label><span>黑森林地区观光游</span>
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>前往沃尔法镇，参观黑森林露天博物馆</li>
-										<li>前往特里贝格品尝黑森林蛋糕</li>
-										<li>参观森林博物馆</li>
-										<li>参观世界著名咕咕钟，欣赏特里贝格瀑布</li>
-										<li>返回弗莱堡途中，在蒂蒂湖畔驻足闲逛</li>
-										<li>当晚与同行伙伴共享欢送晚宴</li>
-									</ul>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第6天</label><span>少女峰观光游</span> 
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第11天</label><span>返程</span>
-								</div>
-								<div class="itinerary_daily_detail">
-									<ul>
-										<li>前往机场搭乘返程航班</li>
-									</ul>
-								</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>搭乘列车登顶11000英尺的少女峰</li>
+									<li>参观山顶冰宫及展品</li>
+								</ul>
 							</div>
-							<div class="itinerary_daily_item">
-								<div class="itinerary_daily_title">
-									<div class="itemCircle"></div>
-									<label>第12天</label><span>抵达中国</span>
-								</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第7天</label><span>途经伯尔尼和巴塞尔前往斯特拉斯堡</span> 
 							</div>
-						</div>						
-					</div>				
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>穿过阿勒河，前往伯尔尼棕熊之家</li>
+									<li>漫步旧城区，途经伯尔尼大教堂</li>
+									<li>前往巴塞尔自由观光</li>
+									<li>出发前往斯特拉斯堡</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第8天</label><span>斯特拉斯堡观光游</span> 
+							</div>
+							<div class="itinerary_daily_detail">										
+								<ul>
+									<li>途经大岛周边地区，经过谷登堡广场、 圣母院和罗昂宫</li>
+									<li>乘船欣赏沃邦拦河坝和廊桥风光</li>
+									<li>下午在斯特拉斯堡自由活动</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第9天</label><span>途经科尔马前往弗莱堡</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>探索以运河闻名的科尔马</li>
+									<li>参观普菲斯特宅第和圣马丁教堂</li>
+									<li>步入巴特勒迪博物馆</li>
+									<li>游览黑森林入口——德国小镇弗莱堡</li>
+									<li>步入哥特式弗莱堡大教堂</li>
+									<li>途经古代商贸会馆楼、市政厅和马丁门</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第10天</label><span>黑森林地区观光游</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>前往沃尔法镇，参观黑森林露天博物馆</li>
+									<li>前往特里贝格品尝黑森林蛋糕</li>
+									<li>参观森林博物馆</li>
+									<li>参观世界著名咕咕钟，欣赏特里贝格瀑布</li>
+									<li>返回弗莱堡途中，在蒂蒂湖畔驻足闲逛</li>
+									<li>当晚与同行伙伴共享欢送晚宴</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第11天</label><span>返程</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>前往机场搭乘返程航班</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第12天</label><span>抵达中国</span>
+							</div>
+						</div>
+						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
+					</div>											
+				</div>				
 			</div>
 			<button class="borderBtn allItinerary">全部行程</button>
 		</div>
@@ -796,7 +797,7 @@
 						</div>
 						<div class="userInfo">
 							<span class="name">Jax Oddo,</span>
-							<span class="position">Tour Director</span>
+							<span class="position">外籍导游</span>
 						</div>
 					</div>
 					<div class="swiper-slide">
@@ -818,7 +819,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -841,7 +842,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -864,7 +865,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -887,7 +888,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -910,7 +911,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -925,7 +926,7 @@
 		<?php include 'quotationForm.php' ;?>
 		<!--<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
-				<h4>查询实时价格</h4>
+				<h4>获取实时价格</h4>
 				<div class="quotationBg"></div>
 				<div class="quotationWrap">
 					<div class="discount">
@@ -994,7 +995,7 @@
 								</div>
 							</div>
 							<span class="name">Jax Oddo,</span>
-							<span class="position">Tour Director</span>
+							<span class="position">外籍导游</span>
 						</div>
 				</div>
 			</div>

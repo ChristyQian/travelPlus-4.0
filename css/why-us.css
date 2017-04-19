@@ -21,7 +21,7 @@ h4 {
 	background-size:cover;
 }
 .grayBg .serif {
-	font-size:3em;
+	font-size:2em;
 	line-height:1.5em;
 }
 .Oval-6,
@@ -43,7 +43,7 @@ h4 {
 .whyUsTxt {
 	position:relative;
 	height:216px;
-	margin:60px 0;
+	margin:150px 0;
 }
 /*.transparentBg {
 	position:absolute;
@@ -62,7 +62,7 @@ h4 {
 	height:inherit;
 	color:#fff;
 	display:inline-flex;
-	padding:20px;
+	padding:10px;
 	font-size:1.6em;
 }
 .blueBg {
@@ -180,6 +180,7 @@ footer .backToTop {
 }
 .home-trip-box .com_dialog .dialogWrap .dialog {
 	margin:5px 0 20px;
+	font-size:14px;
 }
 .dialogBelongTo {
 	bottom:-10px;
@@ -220,6 +221,15 @@ footer .backToTop {
 	background-color:#f9ca7c;
 	margin-bottom:100px;
 	margin-top:-20px;
+	padding:30px;
+}
+.yellowBg .serif,
+.lightBlueBg .serif {
+	font-size:14px;
+}
+.lightYellowBg h5 {
+	font-weight:normal;
+	line-height:1.5em;
 }
 @media screen and (max-width:1024px) {
 	.reasons div {
@@ -243,6 +253,9 @@ footer .backToTop {
 	footer .backToTop {
 		display:block;
 	}
+	.whyUsTxt {
+		margin:90px 0;
+	}
 }
 @media screen and (max-width: 425px) {
 	.container {
@@ -264,6 +277,7 @@ footer .backToTop {
 	}
 	.whyUsTxt {
 		justify-content: center;
+		margin:30px 0;
 	}
 	.Oval-6,
 	.Oval-7 {
@@ -297,5 +311,12 @@ footer .backToTop {
 @media screen and (max-width: 320px) { 
 	.advantage .flex-col-center-center {
 		flex:1 0 110px;
+	}
+	.container {
+		height:600px;
+	}
+	.whyUsTxt {
+		justify-content: center;
+		margin:75px 0;
 	}
 }

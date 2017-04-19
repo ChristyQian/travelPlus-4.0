@@ -861,7 +861,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									北欧航行及多元首都之旅 <br/>
+									北欧多元首都之旅 <br/>
 									斯德哥尔摩 - 卑尔根 - 哥本哈根
 								</p>
 								<div class="rate">

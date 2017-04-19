@@ -48,7 +48,7 @@
 					</div>
 				</div>
 				<div class="flex-row-center-between">
-			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>来撩</div>
+			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>微信咨询</div>
 			        	<div class="flex-row-center-end">
 				        	<div class="hotline flex-row-center-end">
 				        		<div class="flex-no-grow-no-shrink-auto icon Oval"><a class="call" href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
@@ -58,7 +58,7 @@
 				        		</div>
 				        	</div>
 				        	<a class="orangeBtn" href="#getPersonalizedPrice">
-				        		查询实时价格
+				        		获取价格
 				        	</a> 
 			        	</div>
 		        </div>
@@ -116,20 +116,20 @@
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">查询实时价格</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
 						</div>
 					</div>
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">只有在法国香槟产区所酿造的起泡酒，才拥有香槟这一美誉。在这趟旅程中，你将来到两大著名香槟产区埃佩尔奈和兰斯，追溯从葡萄果实到香槟的诞生故事，品尝Moet酩悦等奢华香槟，学习香槟的品鉴知识，同时领略巴黎的城市氛围。</p>
+						<p class="serif">只有在法国香槟产区所酿造的起泡酒，才拥有香槟这一美誉。在这趟旅程中，你将来到两大著名香槟产区埃佩尔奈和兰斯，追溯从葡萄果实到香槟的诞生故事，品尝Moët酩悦等奢华香槟，学习香槟的品鉴知识，同时领略巴黎的城市氛围。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="name">Gattazzo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -138,7 +138,7 @@
 						<p>
 							从埃菲尔铁塔到巴黎圣母院一览巴黎建筑<br/>
 							参观以香槟著称的法国小镇和城市兰斯<br/>
-							参观法国的Moet酒庄<br/>
+							参观法国的Moët酒庄<br/>
 							品尝纯正的高级香槟及法国料理<br/>
 							丰富的额外自由时间活动安排(另收费)<br/>
 						</p>
@@ -360,12 +360,12 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>Moet酒庄香槟之旅</span> 
+								<label>第4天</label><span>Moët & Chandon酒庄香槟之旅</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>前往香槟小镇埃佩尔奈</li>
-									<li>参观Moet酩悦香槟酒庄</li>
+									<li>参观Moët酩悦香槟酒庄</li>
 									<li>在古老酒窖享用香槟午餐</li>
 									<li>前往香槟产区兰斯，并进行观光游</li>
 								</ul>
@@ -374,11 +374,11 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>兰斯Clicquot酒庄香槟之旅</span> 
+								<label>第5天</label><span>兰斯Veuve Clicquot酒庄香槟之旅</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>参观Clicquot酒庄</li>
+									<li>参观Veuve Clicquot酒庄</li>
 									<li>前往巴黎</li>
 								</ul>
 							</div>
@@ -422,6 +422,7 @@
 								<label>第9天</label><span>抵达中国</span>
 							</div>
 						</div>
+						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
 					</div>						
 				</div>				
 			</div>
@@ -674,7 +675,7 @@
 						</div>
 						<div class="userInfo">
 							<span class="name">Jax Oddo,</span>
-							<span class="position">Tour Director</span>
+							<span class="position">外籍导游</span>
 						</div>
 					</div>
 					<div class="swiper-slide">
@@ -696,7 +697,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -719,7 +720,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -742,7 +743,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -765,7 +766,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -788,7 +789,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
-								<span class="position">Tour Director</span>
+								<span class="position">外籍导游</span>
 							</div>
 						</div>
 					</div>
@@ -803,7 +804,7 @@
 		<?php include 'quotationForm.php' ;?>
 		<!--<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
-				<h4>查询实时价格</h4>
+				<h4>获取实时价格</h4>
 				<div class="quotationBg"></div>
 				<div class="quotationWrap">
 					<div class="discount">
@@ -872,7 +873,7 @@
 								</div>
 							</div>
 							<span class="name">Jax Oddo,</span>
-							<span class="position">Tour Director</span>
+							<span class="position">外籍导游</span>
 						</div>
 				</div>
 			</div>
