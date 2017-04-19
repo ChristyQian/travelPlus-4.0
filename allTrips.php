@@ -884,9 +884,11 @@
 			$('.checkbox').click(function(){
 				if($(this).hasClass('checked')){
 					$(this).removeClass('checked');
+					event.stopPropagation();
 				}
 				else {
 					$(this).addClass('checked');
+					event.stopPropagation();
 				}
 			});
 			$('.edit').click(function(){
@@ -896,6 +898,12 @@
 			$('.search').click(function(){
 				$('.filterResult').show();
 				$('.editModel').hide();
+			});
+			$('.dropdown-switcher').click(function(){
+				$('.dropdown').show();
+			});
+			$('.dropdown ul li').click(function(){
+				$('.dropdown').hide();
 			})
 		</script>
 	</body>

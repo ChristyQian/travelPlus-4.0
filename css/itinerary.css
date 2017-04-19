@@ -390,6 +390,7 @@
 }
 .blog {
 	padding-bottom:135px;
+	display:none;
 }
 .blog h4 {
 	padding-bottom:20px;
@@ -512,6 +513,8 @@
 }
 .quoBg .orangeBtn {
 	position: relative;
+	display:block;
+	width:84%;
 }
 .quoBg .orangeBtn .whiteArrow {
 	position:absolute;

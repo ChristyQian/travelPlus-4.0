@@ -443,7 +443,7 @@ button {
 	border-radius:100px;
 	background-color: #eb6c04;
 	color:#fff;
-	margin:20px 0;
+	margin:20px auto;
 	font-size:2em; 
 }
 .blueBorderBtn {
