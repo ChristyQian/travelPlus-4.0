@@ -12,9 +12,9 @@
 			        		<p>来电咨询</p>
 			        		<span>400-018-7518</span>
 			        	</div>
-			        	<button class="borderBtn">
+			        	<a class="borderBtn" href="deals.php">
 			        		更多优惠
-			        	</button>
+			        	</a>
 		        </div>
 	        </div>
 		</div>
