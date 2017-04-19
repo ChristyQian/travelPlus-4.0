@@ -68,7 +68,10 @@
 		display:none;
 	}	
 	.features {
-		width:400px;
+		width:380px;
+	}
+	.features .flex1 {
+		margin:0 4px;
 	}
 	.header-nav.affix .head-fix-right {
 		display:none;

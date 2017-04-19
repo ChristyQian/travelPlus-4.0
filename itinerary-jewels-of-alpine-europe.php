@@ -307,7 +307,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/jewels-of-alpine-europe.jpg"  />
+					<img src="img/itinerary/map/jewels-of-alpine-europe.jpg"  />
 				</div>
 				<div class="initialScreen">							
 					<div class="com_itinerary_summary">
@@ -371,7 +371,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>科莫和卡洛塔庄园</span> 
+								<label>第6天</label><span>科莫湖和卡洛塔庄园</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>

@@ -79,6 +79,7 @@ i {
 .form-error-msg {
 	color:#ff0000;
 	margin-top:-10px;
+	display: none;
 }
 .form-error-msg i {margin-right:5px;}
 /*****************************************/

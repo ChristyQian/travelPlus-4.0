@@ -21,49 +21,7 @@
 		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
 	</head>
 	<body>
-	<div class="header">
-			<div class="site flex-row-center-between">
-				<div class="header-logo">
-		            <a href="index.php">
-		            	<img src="img/logo.png">
-		            </a>
-		        </div>
-		        <div class="head-fix-right flex-row-center-between">
-			        	<div class="icon Oval-5"><i class="fa fa-wechat"></i></div>
-			        	<div class="icon Oval"><i class="call"></i></div>
-			        	<div class="hotline">
-			        		<p>来电咨询</p>
-			        		<span>400-018-7518</span>
-			        	</div>
-			        	<button class="borderBtn">
-			        		更多优惠
-			        	</button>
-		        </div>
-	        </div>
-		</div>
-		<!-- nav -->
-		<div class="header-nav" data-spy="affix" id="travelPlusNav" data-offset-top="">
-			<div class="site flex-row-center-between">
-				<ul class="flex-row-center-between">
-					<li><a href="allTrips.php">行程</a></li>
-					<li><a href="why-us.php">特色</a></li>
-					<li class="active"><a href="deals.php">优惠</a></li>
-					<li><a href="review.php">评论</a></li>
-					<li><a href="http://travelplus.ef.com.cn/blog/">博客</a></li>
-				</ul>
-				<!--<div class="head-fix-right flex-row-center-between">
-			        	<div class="flex-no-grow-no-shrink-auto icon Oval-5"><i class="fa fa-wechat"></i></div>
-			        	<div class="flex-no-grow-no-shrink-auto icon Oval"><i class="call"></i></div>
-			        	<div class="flex-no-grow-no-shrink-auto hotline">
-			        		<p>来电咨询</p>
-			        		<span>400-018-7518</span>
-			        	</div>
-			        	<button class="flex-no-grow-no-shrink-auto borderBtn">
-			        		更多优惠
-			        	</button>
-		        </div>-->
-	       </div>
-		</div>
+		<?php include 'common-header2.php';?>
 		<div class="yellowBg">
 			<div class="site">
 		 		<h5>最后召集</h5>
@@ -99,7 +57,7 @@
 							<div>
 								9天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥19,100<span>起</span></span>
+								<span class="price">￥<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -139,9 +97,9 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
-								11天
+								12天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥20,800<span>起</span></span>
+								<span class="price">￥22,800<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -171,9 +129,9 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
-								11天
+								12天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥18,300<span>起</span></span>
+								<span class="price">￥21,100<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -205,7 +163,7 @@
 							<div>
 								13天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥21,400<span>起</span></span>
+								<span class="price">￥27,400<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -237,7 +195,7 @@
 							<div>
 								11天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥21,300<span>起</span></span>
+								<span class="price">￥23,900<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -267,9 +225,9 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
-								11天
+								14天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥20,000<span>起</span></span>
+								<span class="price">￥22,000<span>起</span></span>
 							</div>
 						</div>
 					</a>

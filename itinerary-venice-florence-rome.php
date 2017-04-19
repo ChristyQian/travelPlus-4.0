@@ -284,7 +284,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/venice-florence-rome.jpg"  />
+					<img src="img/itinerary/map/venice-florence-rome.jpg"  />
 				</div>
 				<div class="initialScreen">							
 					<div class="com_itinerary_summary">

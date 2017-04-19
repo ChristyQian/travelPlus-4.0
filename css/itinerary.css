@@ -339,12 +339,14 @@
 }
 .itineraryMap {
 	float:right;
-	width: 580px;
+	width: 600px;
+	overflow:hidden;
 }
 .itineraryMap img {
 	display: block;
 	width:inherit;
-	padding:20px;
+	padding:30px 20px;
+	transform: scale(1.2,1.2);
 }
 .borderBtn.allItinerary {
 	display: block;

@@ -336,7 +336,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/map/grand-tour-of-spain.jpg"  />
+					<img src="img/itinerary/map/grand-tour-of-spain.jpg"  />
 				</div>
 				<div class="initialScreen">							
 					<div class="com_itinerary_summary">
@@ -431,7 +431,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第9天</label><span>取道瓜迪斯前往巴伦西亚</span>
+								<label>第9天</label><span>取道瓜迪斯前往瓦伦西亚</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>

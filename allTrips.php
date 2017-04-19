@@ -122,8 +122,8 @@
 								</div>
 								<div>
 									9天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥19,100<span>起</span></span>
+									<span class="delPrice">￥</span>
+									<span class="price">￥<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -153,9 +153,9 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,800<span>起</span></span>
+									12天
+									<span class="delPrice">￥22,800</span>
+									<span class="price">￥22,800<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -185,9 +185,9 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥18,300<span>起</span></span>
+									12天
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥21,100<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -219,7 +219,7 @@
 								<div>
 									13天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,400<span>起</span></span>
+									<span class="price">￥27,400<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -251,7 +251,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,300<span>起</span></span>
+									<span class="price">￥23,900<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -281,9 +281,9 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
-									11天
+									14天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,000<span>起</span></span>
+									<span class="price">￥22,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -355,7 +355,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥19,100<span>起</span></span>
+									<span class="price">￥22,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -387,12 +387,12 @@
 								<div>
 									12天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,900<span>起</span></span>
+									<span class="price">￥25,700<span>起</span></span>
 								</div>
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <!--<div class="home-trip-box">
 						<a href="itinerary-rome-paris.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris/3.jpg" alt="" />
@@ -419,11 +419,11 @@
 								<div>
 									8天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,200<span>起</span></span>
+									<span class="price">￥<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div>
+				    </div>-->
 				    <div class="home-trip-box">
 						<a href="itinerary-rome-paris-athens.php" target="_blank">	
 							<div class="imgWrap">
@@ -451,7 +451,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥24,600<span>起</span></span>
+									<span class="price">￥25,800<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -483,7 +483,7 @@
 								<div>
 									14天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,000<span>起</span></span>
+									<span class="price">￥23,300<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -515,7 +515,7 @@
 								<div>
 									12天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥16,300<span>起</span></span>
+									<span class="price">￥18,600<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -547,7 +547,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,600<span>起</span></span>
+									<span class="price">￥23,700<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -579,7 +579,7 @@
 								<div>
 									9天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,000<span>起</span></span>
+									<span class="price">￥23,900<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -611,7 +611,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,600<span>起</span></span>
+									<span class="price">￥23,500<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -643,7 +643,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,600<span>起</span></span>
+									<span class="price">￥21,800<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -675,7 +675,7 @@
 								<div>
 									14天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥24,900<span>起</span></span>
+									<span class="price">￥25,700<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -707,7 +707,7 @@
 								<div>
 									12天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥24,400<span>起</span></span>
+									<span class="price">￥27,400<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -739,7 +739,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,400<span>起</span></span>
+									<span class="price">￥23,600<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -771,7 +771,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥18,200<span>起</span></span>
+									<span class="price">￥21,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -803,7 +803,7 @@
 								<div>
 									15天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,600<span>起</span></span>
+									<span class="price">￥23,200<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -835,7 +835,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,600<span>起</span></span>
+									<span class="price">￥22,800<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -867,7 +867,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥26,200<span>起</span></span>
+									<span class="price">￥27,300<span>起</span></span>
 								</div>
 							</div>
 						</a>
