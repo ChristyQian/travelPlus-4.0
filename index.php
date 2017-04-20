@@ -229,121 +229,56 @@
 			</div>
 			<div class="site">
 				<!-- trips -->
-				<div class="section">
-					<h4>当季精选</h4>
-					<div class="flex-row-start-start flex-flow">
-						<div class="home-trip-box">
-							<a href="itinerary-moet-paris-reims.php">	
-								<div class="imgWrap">
-									<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
-									<div class="hotSale">
-										<div class="transparentBg"></div>
-										<div class="transparentTxt">
-											<div class="yellowTxt">美食美酒</div>
-											<div class="pinkTxt">早鸟减5%</div>
-										</div>
-									</div>
-								</div>
-								<div class="agendaWrap">
-									<p>
-										MOET酩悦香槟法国微醺之旅 <br/>
-										巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
-									</p>
-									<div class="rate">
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-									</div>
-									<div>
-										9天
-										<span class="delPrice">￥19,100</span>
-										<span class="price">￥19,100<span>起</span></span>
-									</div>
-								</div>
-							</a>
-					    </div>
-						<div class="home-trip-box">
-							<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
-								<div class="imgWrap">
-									<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
-									<div class="hotSale">
-										<div class="transparentBg"></div>
-										<div class="transparentTxt">
-											<div class="yellowTxt">国庆档</div>
-											<div class="pinkTxt">早鸟减5%</div>
-										</div>
-									</div>
-								</div>
-								<div class="agendaWrap">
-									<p>
-										食在意大利：食物与酒的美学 <br/>
-										意大利
-									</p>
-									<div class="rate">
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-									</div>
-									<div>
-										11天
-										<span class="delPrice">￥19,100</span>
-										<span class="price">￥20,800<span>起</span></span>
-									</div>
-								</div>
-							</a>
-					    </div>
-						<div class="home-trip-box">
-							<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
-								<div class="imgWrap">
-									<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
-									<div class="hotSale">
-										<div class="transparentBg"></div>
-										<div class="transparentTxt">
-											<div class="yellowTxt">国庆档</div>
-											<div class="pinkTxt">早鸟减5%</div>
-										</div>
-									</div>
-								</div>
-								<div class="agendaWrap">
-									<p>
-										西法意城市狂想 <br/>
-										巴塞罗那 - 南法 - 里维耶拉
-									</p>
-									<div class="rate">
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-									</div>
-									<div>
-										11天
-										<span class="delPrice">￥19,100</span>
-										<span class="price">￥18,300<span>起</span></span>
-									</div>
-								</div>
-							</a>
-					    </div>
-					</div>
-					<div class="">
-						<a class="yellowBtn" href="allTrips.php">全部行程<i class="whiteArrow"></i></a>
-					</div>
-				</div>
+				<?php include 'recommend.php' ;?>	
 			</div>					
 		</div>
 		<!-- footer -->
 		<?php include 'common-footer2.php' ;?>
+		<div class="popup wechat">
+			<i class="closePopup">&times;</i>
+			<div class="mask"></div>
+			<div class="popupContainer">		
+				<div class="flex-col-center-center flex-wrap">
+					<div class="">
+						<p>
+							扫码关注@EFTravelPlus微信服务号<br />
+							发现实用旅行灵感和产品
+						</p>
+					</div>
+					<div class="wechatImg">
+						<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" />
+					</div>
+				</div>
+			</div>
+		</div>
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script>      
 	    var swiper = new Swiper('.swiper-container', {
 	    		autoplay: 3000,
 	        pagination: '.swiper-pagination',
 	        paginationClickable: true
-	    });       
+	    }); 
+	    
+    		$('.closeIcon').click(function(){
+			$(this).parentsUntil('.com_dialog').hide();
+		});
+		$('.header .Oval-5').click(function(){
+			if(jQuery(window).width() >=768){
+				$('.header .dialogWrap').show();
+				$('.header .com_dialog').show();
+			}
+			else if(jQuery(window).width() <768){
+				$('.wechat.popup').show();	
+				$('.popup .mask').show();
+				$('.popupContainer').show();	
+			}
+		});
+		
+		$(".wechat.popup .closePopup").click(function(){
+			$('.popup').hide();	
+			$('.popup .mask').hide();
+			$('.popupContainer').hide();	
+		});      
 		</script>
 	</body>
 </html>

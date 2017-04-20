@@ -40,101 +40,7 @@
 			</div>
 		</div>
 		<div class="site">
-		<!--	<div class="section trips">
-				<h4>早鸟优惠</h4>
-				<div class="flex-row-start-between flex-flow">
-					<div class="home-trip-box earlyBird">
-						<div class="earlyBirdDiscount serif">5月1号前报名减5%早鸟优惠</div>
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">亲子团</div>
-									<p>
-										城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
-									</p>
-									<div class="flex-row-start-between">
-										<div class="rate">
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star" aria-hidden="true"></i>
-										</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-									<div>
-										12天
-										<span class="delPrice">￥56600</span>
-										<span class="price">￥25700<span>起</span></span>
-									</div>									
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="home-trip-box earlyBird">
-						<div class="earlyBirdDiscount serif">5月1号前报名减5%早鸟优惠</div>
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">亲子团</div>
-									<p>
-										城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
-									</p>
-									<div class="flex-row-start-between">
-										<div class="rate">
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star" aria-hidden="true"></i>
-										</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-									<div>
-										12天
-										<span class="delPrice">￥56600</span>
-										<span class="price">￥25700<span>起</span></span>
-									</div>									
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="home-trip-box earlyBird">
-						<div class="earlyBirdDiscount serif">5月1号前报名减5%早鸟优惠</div>
-						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">亲子团</div>
-									<p>
-										城市生活与艺术之旅<br/>巴黎 - 罗马 - 雅典
-									</p>
-									<div class="flex-row-start-between">
-										<div class="rate">
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star active" aria-hidden="true"></i>
-											<i class="fa fa-star" aria-hidden="true"></i>
-										</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-									<div>
-										12天
-										<span class="delPrice">￥56600</span>
-										<span class="price">￥25700<span>起</span></span>
-									</div>									
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>	-->
+			<!-- trips -->
 			<div class="section">
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">	
@@ -152,7 +58,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									MOET酩悦香槟法国微醺之旅 <br/>
+									Moët酩悦香槟法国微醺之旅 <br/>
 									巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
 								</p>
 								<div class="rate">
@@ -164,8 +70,8 @@
 								</div>
 								<div>
 									9天
-									<span class="delPrice">￥</span>
-									<span class="price">￥<span>起</span></span>
+									<span class="delPrice">￥24,600</span>
+									<span class="price">￥24,600<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -197,7 +103,7 @@
 								<div>
 									12天
 									<span class="delPrice">￥22,800</span>
-									<span class="price">￥22,800<span>起</span></span>
+									<span class="price">￥21,500<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -229,7 +135,7 @@
 								<div>
 									12天
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥21,100<span>起</span></span>
+									<span class="price">￥21,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -261,7 +167,7 @@
 								<div>
 									13天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥27,400<span>起</span></span>
+									<span class="price">￥23,400<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -293,7 +199,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,900<span>起</span></span>
+									<span class="price">￥22,500<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -325,7 +231,7 @@
 								<div>
 									14天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,000<span>起</span></span>
+									<span class="price">￥21,800<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -362,7 +268,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,000<span>起</span></span>
+									<span class="price">￥21,900<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -394,43 +300,11 @@
 								<div>
 									12天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥25,700<span>起</span></span>
+									<span class="price">￥24,600<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div>
-				    <!--<div class="home-trip-box">
-						<a href="itinerary-rome-paris.php" target="_blank">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris/3.jpg" alt="" />
-								<div class="hotSale" style="display:none;">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									城市生活与艺术之旅(8天)-亲子团<br/>
-									巴黎 - 罗马
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									8天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>-->
+				   </div>
 				    <div class="home-trip-box">
 						<a href="itinerary-rome-paris-athens.php" target="_blank">	
 							<div class="imgWrap">
@@ -458,7 +332,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥25,800<span>起</span></span>
+									<span class="price">￥25,600<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -490,7 +364,7 @@
 								<div>
 									14天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,300<span>起</span></span>
+									<span class="price">￥22,700<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -522,7 +396,7 @@
 								<div>
 									12天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥18,600<span>起</span></span>
+									<span class="price">￥18,500<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -554,7 +428,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,700<span>起</span></span>
+									<span class="price">￥23,400<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -586,7 +460,7 @@
 								<div>
 									9天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,900<span>起</span></span>
+									<span class="price">￥23,200<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -618,7 +492,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,500<span>起</span></span>
+									<span class="price">￥22,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -650,7 +524,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,800<span>起</span></span>
+									<span class="price">￥21,300<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -682,7 +556,7 @@
 								<div>
 									14天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥25,700<span>起</span></span>
+									<span class="price">￥25,500<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -714,7 +588,7 @@
 								<div>
 									12天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥27,400<span>起</span></span>
+									<span class="price">￥26,300<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -746,7 +620,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,600<span>起</span></span>
+									<span class="price">￥22,700<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -810,7 +684,7 @@
 								<div>
 									15天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,200<span>起</span></span>
+									<span class="price">￥22,600<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -842,7 +716,7 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,800<span>起</span></span>
+									<span class="price">￥22,300<span>起</span></span>
 								</div>
 							</div>
 						</a>

@@ -4,12 +4,15 @@
 .destinations {
 	width:430px;
 }
+select,
 .destinations .imitate-dropdown {
 	width:430px;
 	height:48px;
 	position:relative;
 	margin:10px 0;
 }
+
+select,
 .dropdown-switcher {
 	display:inline-block;
 	width: inherit;
@@ -18,9 +21,14 @@
 	background-color: #2f7899;
 	color:#fff;
 }
+select {
+	border-radius:0;
+	font-size:14px;
+}
 .dropdown-box {
 	margin-top:-5px;
 }
+
 .dropdown-box ul li {
 	line-height:28px;
 	padding:10px;
@@ -94,7 +102,8 @@ a.close-dropdown {
 	cursor: pointer;
 }
 .checkbox {
-	flex:0 0 106px;
+	/*flex:0 0 106px;*/
+	font-size:14px;
 }
 .checkbox.checked {
 	background-color:#2f7899;
@@ -154,6 +163,6 @@ a.close-dropdown {
 		flex-flow:row wrap;
 	}
 	.checkbox {
-		flex:0 0 100px;
+		/*flex:0 0 100px;*/
 	}
 }

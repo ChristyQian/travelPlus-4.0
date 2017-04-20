@@ -339,6 +339,9 @@ footer ul li.active {
 	text-align:center;
 	font-size:20px;
 }
+.icon.grayImg {
+	line-height:45px;
+}
 .Oval-5 {
   background-color: #94c5db;
   color:#fff;

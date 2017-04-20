@@ -70,10 +70,10 @@
 							<div class="dialogWrap">
 								<i class="closeIcon">&times;</i>
 								<div class="dialog">
-									<h5>微信上向我咨询</h5>
+									<h5>对这条线路有点心动？</h5>
 									<div class="flex-row-start-around">			
-										<p>告诉我你想要的旅游类型，我会在这里帮你找到任何你想要的！</p>
-										<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
+										<p>也可以通过微信，向我咨询哦！</p>
+										<img src="img/sSqrcode.jpg" width="80" height="80" />
 									</div>
 								</div>
 								<div class="dialogBelongTo"></div>

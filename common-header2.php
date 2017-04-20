@@ -1,13 +1,32 @@
-<div class="header">
-			<div class="site flex-row-center-between">
+		<div class="header">
+	 		<div class="site flex-row-center-between">
+	 			<div class="com_dialog">
+					<div class="dialogWrap">
+						<i class="closeIcon">&times;</i>
+						<div class="dialog">
+							<div class="flex-row-center-start">
+								<div class="wechatImg">
+									<img src="img/sSqrcode.jpg" width="80" height="80" />
+								</div>
+								<div class="flexAuto">
+									<p>
+										有问题要问？<br />
+										不如一键添加旅游顾问：EF小家，他能解答你的任何问题
+									</p>
+								</div>
+							</div>
+						</div>
+						<div class="dialogBelongTo"></div>
+					</div>
+				</div>
 				<div class="header-logo">
 		            <a href="index.php">
-		            	<img src="img/logo.png">
+		            		<img src="img/logo.png">
 		            </a>
 		        </div>
 		        <div class="head-fix-right flex-row-center-between">
 			        	<div class="icon Oval-5"><i class="fa fa-wechat"></i></div>
-			        	<div class="icon Oval"><i class="call"></i></div>
+			        	<div class="icon Oval"><a class="call"href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
 			        	<div class="hotline">
 			        		<p>来电咨询</p>
 			        		<span>400-018-7518</span>
@@ -25,7 +44,7 @@
 					<li><a href="allTrips.php">行程</a></li>
 					<li><a href="why-us.php">特色</a></li>
 					<li><a href="deals.php">优惠</a></li>
-					<li class="active"><a href="review.php">评论</a></li>
+					<li><a href="review.php">评论</a></li>
 					<li><a href="http://travelplus.ef.com.cn/blog/">博客</a></li>
 				</ul>
 				<!--<div class="head-fix-right flex-row-center-between">

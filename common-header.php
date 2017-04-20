@@ -9,12 +9,12 @@
 						<div class="dialog">
 							<div class="flex-row-center-start">
 								<div class="wechatImg">
-									<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
+									<img src="img/sSqrcode.jpg" width="80" height="80" />
 								</div>
 								<div class="flexAuto">
 									<p>
-										扫码关注@EFTravelPlus微信服务号<br />
-										发现实用旅行灵感和产品
+										有问题要问？<br />
+										不如一键添加旅游顾问：EF小家，他能解答你的任何问题
 									</p>
 								</div>
 							</div>
@@ -34,9 +34,9 @@
 			        		<p>来电咨询</p>
 			        		<span>400-018-7518</span>
 			        	</div>
-			        	<button class="borderBtn">
+			        	<a href="deals.php" class="borderBtn">
 			        		更多优惠
-			        	</button>
+			        	</a>
 		        </div>
 	        </div>
 		</div>
@@ -49,12 +49,12 @@
 						<div class="dialog">
 							<div class="flex-row-center-start">
 								<div class="wechatImg">
-									<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
+									<img src="img/sSqrcode.jpg" width="80" height="80" />
 								</div>
 								<div class="flexAuto">
 									<p>
-										扫码关注@EFTravelPlus微信服务号<br />
-										发现实用旅行灵感和产品
+										有问题要问？<br />
+										不如一键添加旅游顾问：EF小家，他能解答你的任何问题
 									</p>
 								</div>
 							</div>
@@ -76,9 +76,9 @@
 			        		<p>来电咨询</p>
 			        		<span>400-018-7518</span>
 			        	</div>
-			        	<button class="flex-no-grow-no-shrink-auto borderBtn">
+			        	<a href="deals.php" class="flex-no-grow-no-shrink-auto borderBtn">
 			        		更多优惠
-			        	</button>
+			        	</a>
 		        </div>
 	       </div>
 		</div>

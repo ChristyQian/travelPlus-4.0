@@ -29,9 +29,10 @@
 			<div class="container">
 				<div class="whyUsBg grayImg"></div>
 				<div class="site">
-					<div class="serif">
-						省去出行前繁重的准备工作，一站式服务覆盖行程中优选机票、品质酒店、国外交通和线路设计等各个角落,<br/>行程中拥有30-50%真正自由时间，度过属于自己的完美假期；同时，外籍导游和中方领队全程提供协助。
-					</div>
+					<ul class="serif">
+						<li>省去出行前繁重的准备工作，一站式服务覆盖行程中优选机票、品质酒店、国外交通和线路设计等各个角落</li>
+						<li>行程中拥有30-50%真正自由时间，度过属于自己的完美假期；同时，外籍导游和中方领队全程提供协助</li>
+					</ul>
 					<div class="flex-row-center-start whyUsTxt">
 						<div class="transparentBg">
 							<div class="Oval-6"></div>

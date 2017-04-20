@@ -10,7 +10,7 @@ h4 {
 }
 .container {
 	position:relative;
-	height:840px;
+	height:800px;
 }
 .whyUsBg {
 	position:absolute;
@@ -21,8 +21,12 @@ h4 {
 	background-size:cover;
 }
 .grayBg .serif {
-	font-size:2em;
+	font-size:1.5em;
 	line-height:1.5em;
+}
+.grayBg .serif li {
+	list-style:disc;
+	margin-bottom:20px;
 }
 .Oval-6,
 .Oval-7 {
@@ -43,7 +47,7 @@ h4 {
 .whyUsTxt {
 	position:relative;
 	height:216px;
-	margin:150px 0;
+	margin:60px 0;
 }
 /*.transparentBg {
 	position:absolute;
@@ -152,7 +156,7 @@ footer .backToTop {
 .reviewBg {
 	width:100%;
 	height:533px;
-	background:url(../img/itinerary/Italy-Greece-6.jpg) center center no-repeat;
+	background:url(../img/itinerary/banner-reviews.jpg) center center no-repeat;
 	background-size:cover;
 	padding-top:4em;
 	margin-bottom:50px;
@@ -225,7 +229,7 @@ footer .backToTop {
 }
 .yellowBg .serif,
 .lightBlueBg .serif {
-	font-size:14px;
+	font-size:16px;
 }
 .lightYellowBg h5 {
 	font-weight:normal;
@@ -233,7 +237,7 @@ footer .backToTop {
 }
 @media screen and (max-width:1024px) {
 	.reasons div {
-		flex:1 0 230px;
+		flex:0 1 160px;
 	}
 	.advantage .flex-col-center-center {
 		flex:1 0 250px;
@@ -245,6 +249,12 @@ footer .backToTop {
 	.lightYellowBg {
 		margin-top:-5px;
 	}
+	.reviewBg {
+		height:450px;
+	}
+	.grayBg .serif {
+		padding:0 20px 0 30px;
+	}
 }
 @media screen and (max-width: 768px) {
 	.advantage .flex-col-center-center {
@@ -253,8 +263,8 @@ footer .backToTop {
 	footer .backToTop {
 		display:block;
 	}
-	.whyUsTxt {
-		margin:90px 0;
+	.reasons div {
+		flex:0 1 138px;
 	}
 }
 @media screen and (max-width: 425px) {
@@ -266,18 +276,22 @@ footer .backToTop {
 	}
 	.reviewBg {
 		margin-bottom:0;
+		height:270px;
 	}
 	.section,
 	.blueBg {
 		padding:20px;
 	}
-	.grayBg .serif,
+	.grayBg .serif {
+		padding:0 20px 0 50px;
+	}
 	.reviewBg .site .serif {
 		padding:0 20px;
 	}
 	.whyUsTxt {
 		justify-content: center;
 		margin:30px 0;
+		width:100%;
 	}
 	.Oval-6,
 	.Oval-7 {
@@ -307,16 +321,24 @@ footer .backToTop {
 	.lightBlueBg {
 		margin-bottom:0px;
 	}
+	.yellowBg .serif,
+	.lightBlueBg .serif {
+	font-size:12px;
+}
+}
+@media screen and (max-width: 375px) {
+	.reasons div {
+		flex:0 1 166px;
+	}
 }
 @media screen and (max-width: 320px) { 
+	.reasons div {
+		flex:0 1 138px;
+	}
 	.advantage .flex-col-center-center {
 		flex:1 0 110px;
 	}
-	.container {
-		height:600px;
-	}
 	.whyUsTxt {
 		justify-content: center;
-		margin:75px 0;
 	}
 }

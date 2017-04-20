@@ -12,7 +12,7 @@
 				        	</div>
 			        	</div>
 					<div>
-						<a href="#" class="grayBorderBtn">最新特惠</a>
+						<a href="deals.php" class="grayBorderBtn">最新特惠</a>
 					</div>
 				</div>
 				<ul>
@@ -20,13 +20,13 @@
 						<a href="allTrips.php">行程</a>
 					</li>
 					<li>
-						<a href="why-us.html">特色</a>
+						<a href="why-us.php">特色</a>
 					</li>
 					<li>
-						<a href="deals.html">优惠</a>
+						<a href="deals.php">优惠</a>
 					</li>
 					<li>
-						<a href="review.html">评论</a>
+						<a href="review.php">评论</a>
 					</li>
 					<li>
 						<a href="http://travelplus.ef.com.cn/blog/">博客</a>
@@ -38,7 +38,7 @@
 					</div>
 					<div class="flexAuto">
 						<p>
-							扫码关注@EFTravelPlus微信服务号<br />
+							扫码关注@EFTravelPlus微信服务号<br/>
 							发现实用旅行灵感和产品
 						</p>
 					</div>

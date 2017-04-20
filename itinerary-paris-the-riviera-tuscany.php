@@ -110,7 +110,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥25,700
+							￥25,500
 							<span>起</span>
 						</div>
 						<div>
@@ -126,8 +126,8 @@
 								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 							</div>
 							<div class="userInfo">
-								<span class="name">Gattazzo,</span>
 								<span class="position">外籍导游</span>
+								<span class="name">Gattazzo</span>
 							</div>
 						</div>
 					</div>
@@ -602,6 +602,35 @@
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
+						<div class="departure">成都出发</div>
+						<div class="com_flightInfo">
+							<div class="voyage">启程</div>
+							<div class="ibWrap">
+								<div class="">中国航空</div>
+								<div class="">11h30m</div>
+								<div class="">直飞</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>成都</span>01:50</div>
+								<div class="airport"><span>巴黎</span>07:20</div>
+							</div>
+						</div>
+						<div class="com_flightInfo">
+							<div class="voyage">回程</div>
+							<div class="ibWrap">
+								<div class="flex1">中国航空</div>
+								<div class="flex1">14h50m</div>
+								<div class="flex1">1次中转</div>
+							</div>
+							<div class="flex-row-start-between">
+								<div class="airport"><span>罗马</span>20:55</div>
+								<div class="airport"><span>北京</span>13:10+1</div>
+								<div class="airport"><span>北京</span>15:00</div>
+								<div class="airport"><span>成都</span>17:45</div>								
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
 						<div class="departure">上海出发</div>
 						<div class="autoWrapper">
 							<div class="com_flightInfo">
@@ -690,35 +719,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="swiper-slide">
-						<div class="departure">成都出发</div>
-						<div class="com_flightInfo">
-							<div class="voyage">启程</div>
-							<div class="ibWrap">
-								<div class="">中国航空</div>
-								<div class="">11h30m</div>
-								<div class="">直飞</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>成都</span>01:50</div>
-								<div class="airport"><span>巴黎</span>07:20</div>
-							</div>
-						</div>
-						<div class="com_flightInfo">
-							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">中国航空</div>
-								<div class="flex1">15h10m</div>
-								<div class="flex1">1次中转</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>罗马</span>20:55</div>
-								<div class="airport"><span>北京</span>13:10+1</div>
-								<div class="airport"><span>北京</span>15:00</div>
-								<div class="airport"><span>成都</span>17:45</div>								
-							</div>
-						</div>
-					</div>
+					
 				</div>
 				<!-- 如果需要分页器 -->
 			    <div class="swiper-pagination">
@@ -954,107 +955,7 @@
 		<!-- More trips like this -->
 		<div class="site">
 			<!-- trips -->
-			<div class="section trips">
-				<h4>当季精选</h4>
-				<div class="flex-row-start-between flex-flow">
-					<div class="home-trip-box">
-						<a href="itinerary-moet-paris-reims.php">	
-							<div class="imgWrap">
-								<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">美食美酒</div>
-										<div class="pinkTxt">早鸟减5%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									MOET酩悦香槟法国微醺之旅 <br/>
-									巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									9天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥19,100<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-					<div class="home-trip-box">
-						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									食在意大利：食物与酒的美学 <br/>
-									意大利
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥20,800<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-					<div class="home-trip-box">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
-							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									西法意城市狂想 <br/>
-									巴塞罗那 - 南法 - 里维耶拉
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥18,300<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				</div>
-			</div>				
+			<?php include 'recommend.php' ;?>					
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
@@ -1101,12 +1002,12 @@
 				<div class="flex-col-center-center flex-wrap">
 					<div class="">
 						<p>
-							扫码关注@EFTravelPlus微信服务号<br />
-							发现实用旅行灵感和产品
+							有问题要问？<br />
+							不如一键添加旅游顾问：EF小家，他能解答你的任何问题
 						</p>
 					</div>
 					<div class="wechatImg">
-						<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" />
+						<img src="img/sSqrcode.jpg" />
 					</div>
 				</div>
 			</div>

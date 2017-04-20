@@ -57,7 +57,7 @@
 							<div>
 								12天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥21,100<span>起</span></span>
+								<span class="price">￥21,000<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -86,7 +86,7 @@
 						</div>
 						<div class="agendaWrap">
 							<p>
-								MOET酩悦香槟法国微醺之旅 <br/>
+								Moët酩悦香槟法国微醺之旅 <br/>
 								巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
 							</p>
 							<div class="rate">
@@ -99,7 +99,7 @@
 							<div>
 								9天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥<span>起</span></span>
+								<span class="price">￥24,600<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -131,7 +131,7 @@
 							<div>
 								12天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥22,800<span>起</span></span>
+								<span class="price">￥21,500<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -163,7 +163,7 @@
 							<div>
 								12天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥21,100<span>起</span></span>
+								<span class="price">￥21,000<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -195,7 +195,7 @@
 							<div>
 								13天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥27,400<span>起</span></span>
+								<span class="price">￥23,400<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -227,7 +227,7 @@
 							<div>
 								11天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥23,900<span>起</span></span>
+								<span class="price">￥22,500<span>起</span></span>
 							</div>
 						</div>
 					</a>
@@ -259,7 +259,7 @@
 							<div>
 								14天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥22,000<span>起</span></span>
+								<span class="price">￥21,800<span>起</span></span>
 							</div>
 						</div>
 					</a>
