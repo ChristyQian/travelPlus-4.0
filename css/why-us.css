@@ -290,13 +290,17 @@ footer .backToTop {
 	}
 	.whyUsTxt {
 		justify-content: center;
-		margin:30px 0;
-		width:100%;
+		margin:30px auto;
+		width:295px;
+		display:block;
 	}
 	.Oval-6,
 	.Oval-7 {
 		width:200px;
 		height:200px;
+	}
+	.whyUsTxt {
+		
 	}
 	.whyUsTxt .transparentBg,
 	.whyUsTxt .transparentTxt {

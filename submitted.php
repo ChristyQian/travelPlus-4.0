@@ -1,26 +1,18 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-		<link href="img/ef.ico" rel="icon" type="image/x-icon">
-		<link href="img/ef.ico" rel="shortcut icon" type="image/x-icon">
-		<link type="text/css" rel="stylesheet" href="css/fontawesome.css">
-		<link type="text/css" rel="stylesheet" href="css/common.css">
-		<link type="text/css" rel="stylesheet" href="css/submitted.css">
-		<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
-		<!--<script src="https://unpkg.com/vue/dist/vue.js"></script>-->
-		<script src="js/swiper.min.js"></script>
-		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
-		<!-- flexbox fix for IE js -->
-		<script src="js/flexibility-master/flexibility.min.js"></script>
-		<title>提交成功 - EF TravelPlus | 英孚旅游+</title>		
-		<meta name="title" content="欧洲旅游新选择_EF英孚旅游_一站式旅游专家" />
-		<meta name="keywords" content="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行 " />
-		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
-	</head>
+<?php 
+	$pageName="submitted";
+	$tagTitle="提交成功 - EF TravelPlus | 英孚旅游+";
+	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
+	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
+	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
+
+    include_once("common-head.php"); 
+?>
 	<body>
-	<?php include 'common-header2.php';?>	
+<?php 
+	include_once('common-header2.php');
+?>	
 		<div class="quoBg">
 			<div class="site submitted">
 				<div class="flex-col-start-between">
@@ -757,11 +749,31 @@
 			</div>
 		</div>
 		<!-- footer -->
-		<?php include 'common-footer2.php' ;?>
+<?php 
+	include_once('common-footer2.php');
+?>
 		<script src="js/jquery-1.7.1.min.js"></script>
 		<!--<script src="js/jquery.lettering-0.6.1.min.js"></script>-->
-		<script>      
-	    		$(".filter").stick_in_parent();     
+	    <script>
+			$('.closeIcon').click(function(){
+				$(this).parentsUntil('.com_dialog').hide();
+			});						
+			$('.header .Oval-5').click(function(){
+				if(jQuery(window).width() >=768){
+					$('.header .dialogWrap').show();
+					$('.header .com_dialog').show();
+				}
+				else if(jQuery(window).width() <768){
+					$('.wechat.popup').show();	
+					$('.popup .mask').show();
+					$('.popupContainer').show();	
+				}
+			});
+			$(".wechat.popup .closePopup").click(function(){
+				$('.popup').hide();	
+				$('.popup .mask').hide();
+				$('.popupContainer').hide();	
+			});    
 		</script>
 	</body>
 </html>

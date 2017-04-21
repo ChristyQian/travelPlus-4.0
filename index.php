@@ -1,28 +1,22 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-		<link href="img/ef.ico" rel="icon" type="image/x-icon">
-		<link href="img/ef.ico" rel="shortcut icon" type="image/x-icon">
-		<link type="text/css" rel="stylesheet" href="css/fontawesome.css">
-		<link type="text/css" rel="stylesheet" href="css/swiper-3.4.1.min.css">
-		<link type="text/css" rel="stylesheet" href="css/common.css">
-		<link type="text/css" rel="stylesheet" href="css/home.css">
-		<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
-		<!--<script src="https://unpkg.com/vue/dist/vue.js"></script>-->
-		<script src="js/swiper.min.js"></script>
-		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
-		<!-- flexbox fix for IE js -->
-		<script src="js/flexibility-master/flexibility.min.js"></script>
-		<title>首页 - EF TravelPlus | 英孚旅游+</title>		
-		<meta name="title" content="欧洲旅游新选择_EF英孚旅游_一站式旅游专家" />
-		<meta name="keywords" content="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行 " />
-		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
-	</head>
+
+<?php 
+	$pageName="index";
+	$tagTitle="首页 - EF TravelPlus | 英孚旅游+";
+	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
+	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
+	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
+
+    include_once("home-head.php"); 
+?>
 	<body>
-		<div class="grayBg"></div>			
-		<?php include 'common-header.php';?>	
+		<div class="grayBg"></div>
+
+<?php 
+	include_once("common-header.php");
+?>	
+		
 		<div class="site">
 			<!-- slider -->
 			<div class="swiper-container">
@@ -229,11 +223,16 @@
 			</div>
 			<div class="site">
 				<!-- trips -->
-				<?php include 'recommend.php' ;?>	
+<?php 
+	include_once("recommend.php");
+?>	
 			</div>					
 		</div>
 		<!-- footer -->
-		<?php include 'common-footer2.php' ;?>
+<?php 
+	include_once ("common-footer2.php");
+?>
+
 		<div class="popup wechat">
 			<i class="closePopup">&times;</i>
 			<div class="mask"></div>

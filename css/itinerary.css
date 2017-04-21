@@ -543,6 +543,11 @@
 	.quoInfo form h4 {
 		margin:0;
 		margin-left:-0.7em;
+		width:240px;
+		line-height:1.2em;
+	}
+	.quoInfo form .priceWG {
+		margin:10px 0;
 	}
 	.priceWG+.quoItem {
 		margin-top:10px;
@@ -765,7 +770,7 @@
 		padding:0;
 	}
 	.includedItems div {
-		flex:0 1 120px;
+		flex:0 1 100px;
 		font-size:12px;
 	}
 	.borderBtn.allItinerary {
@@ -800,6 +805,10 @@
 	}
 	.fixCAT .orangeBtn {
 		font-size:12px;
+	}
+	.quoInfo form h4 {
+		width:180px;
+		line-height:1.3em;
 	}
 }
 @media screen and (max-width: 320px) {	

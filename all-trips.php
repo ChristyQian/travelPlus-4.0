@@ -1,29 +1,23 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-		<link href="img/ef.ico" rel="icon" type="image/x-icon">
-		<link href="img/ef.ico" rel="shortcut icon" type="image/x-icon">
-		<link type="text/css" rel="stylesheet" href="css/fontawesome.css">
-		<link type="text/css" rel="stylesheet" href="css/swiper-3.4.1.min.css">
-		<link type="text/css" rel="stylesheet" href="css/common.css">
-		<link type="text/css" rel="stylesheet" href="css/allTrips.css">
-		<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
-		<!--<script src="https://unpkg.com/vue/dist/vue.js"></script>-->
-		<script src="js/swiper.min.js"></script>
-		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
-		<!-- flexbox fix for IE js -->
-		<script src="js/flexibility-master/flexibility.min.js"></script>
-		<title>全部行程 - EF TravelPlus | 英孚旅游+</title>		
-		<meta name="title" content="欧洲旅游新选择_EF英孚旅游_一站式旅游专家" />
-		<meta name="keywords" content="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行 " />
-		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
-	</head>
+<?php 
+	$pageName="all-trips";
+	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
+	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
+	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
+	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
+
+    include_once("all-trips-head.php"); 
+?>
 	<body data-spy="scroll" data-target="#tripsFilter">
-		<?php include 'common-header2.php';?>	
+
+	<script type="text/javascript" src='js/func.js'></script>
+	
+<?php 
+	include_once('common-header2.php');
+?>	
 		<!-- If Edit Model -->
-		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="192" style="display:block;">
+		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="192" >
 			<div class="site">
 				<div class="flex-row-end-between flex-flow">
 					<div class="flex-col-start-start flexAuto">
@@ -45,47 +39,52 @@
 								</div>
 								<div class="dropdownArrow"></div>
 							</div>-->
-							<select>
-								<option>全部目的地</option>
-								<option>英国</option>
-								<option>法国</option>
-								<option>德国</option>
-								<option>英国</option>
+							<select id="destination" onchange="Trip_Filter();">
+								<option value="all">全部目的地</option>
+								<option value="uk">英国</option>
+								<option value="fr">法国</option>
+								<option value="ge">德国</option>
+								<option value="it">意大利</option>
+								<option value="nz">荷兰</option>
+								<option value="sw">瑞士</option>
+								<option value="gr">希腊</option>
+								<option value="dm">丹麦</option>
+								<option value="nw">挪威</option>
+								<option value="au">奥地利</option>
 							</select>
 						</div>
 						<div class="flex-row-start-start flex-flow">
-							<div class="checkbox checked">
+							<div data-tag="history" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								历史遗迹
 							</div>
-							<div class="checkbox">
+							<div data-tag="art" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								艺术人文
 							</div>
-							<div class="checkbox">
+							<div data-tag="nature" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								自然风光
 							</div>
-							<div class="checkbox">
+							<div data-tag="seaview" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								海景沙滩
 							</div>
-							<div class="checkbox">
+							<div data-tag="honeymoon" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								浪漫蜜月
 							</div>
-							<div class="checkbox">
+							<div data-tag="family" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								亲子家庭
 							</div>
-							<div class="checkbox">
+							<div data-tag="northeuro" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								北欧风情
 							</div>
-							<div class="checkbox">
+							<div data-tag="food" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
 								美食美酒
 							</div>
 						</div>
 					</div>
-					<button class="blueRBtn search">搜索</button>
 				</div>
 			</div>
 		</div>
-		<!-- Edit Finished -->
-		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" data-offset-top="192" style="display:none;">
+		<!-- 
+		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" data-offset-top="200" style="display:none;">
 			<div class="site">
 				<div class="flex-row-center-between">
 					<div class="flex-row-center-start filterConditions">
@@ -98,12 +97,13 @@
 				</div>
 			</div>
 		</div>
+		Edit Finished -->
 		<div class="site">
 			<!-- trips -->
 			<div class="section">
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">	
-					<div class="home-trip-box">
+					<div id="moet-paris-reims" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="food">
 						<a href="itinerary-moet-paris-reims.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
@@ -135,7 +135,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
@@ -167,7 +167,7 @@
 							</div>
 						</a>
 				    </div>													
-					<div class="home-trip-box">
+					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
@@ -199,7 +199,7 @@
 							</div>
 						</a>
 				    </div>				    
-				    <div class="home-trip-box">
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/jewels-of-alpine-europe/1.jpg" alt="" />
@@ -231,7 +231,7 @@
 							</div>
 						</a>
 				    </div>				    
-				    <div class="home-trip-box">
+				    <div id="london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-london-paris-amsterdam.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/1.jpg" alt="" />
@@ -263,7 +263,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				   <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="art,nature,seaview,honeymoon">
 						<a href="itinerary-grand-tour-of-spain.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-spain/4.jpg" alt="" />
@@ -300,7 +300,7 @@
 			<div class="section">
 				<h4>全部行程</h4>
 				<div class="flex-row-start-start flex-flow">
-					<div class="home-trip-box">
+					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
@@ -332,7 +332,7 @@
 							</div>
 						</a>
 				    </div>
-					<div class="home-trip-box">
+					<div id="highlights-of-northern-europe-london-to-copenhagen" name="home-trip-box" class="home-trip-box" data-dest="uk,nz,dm" data-tag="history,nature,honeymoon">
 						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/highlights-of-northern-europe-london-to-copenhagen/1.jpg" alt="" />
@@ -364,7 +364,7 @@
 							</div>
 						</a>
 				   </div>
-				    <div class="home-trip-box">
+				   <div id="rome-paris-athens" name="home-trip-box" class="home-trip-box" data-dest="fr,it,gr" data-tag="history,art,family">
 						<a href="itinerary-rome-paris-athens.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-athens/1.jpg" alt="" />
@@ -396,7 +396,7 @@
 							</div>
 						</a>
 				    </div>
-					<div class="home-trip-box">
+					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,sw,au" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/germany-switzerland-austria/1.jpg" alt="" />
@@ -428,7 +428,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="venice-florence-rome" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,honeymoon">
 						<a href="itinerary-venice-florence-rome.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/1.jpg" alt="" />
@@ -460,7 +460,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon">
 						<a href="itinerary-food-wine-a-taste-of-spain.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/1.jpg" alt="" />
@@ -492,7 +492,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="london-edinburgh-dublin" name="home-trip-box" class="home-trip-box" data-dest="uk" data-tag="history,art,nature,honeymoon">
 						<a href="itinerary-london-edinburgh-dublin.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-edinburgh-dublin/1.jpg" alt="" />
@@ -524,7 +524,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="london-paris-madrid" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,sp" data-tag="art,honeymoon">
 						<a href="itinerary-london-paris-madrid.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-madrid/1.jpg" alt="" />
@@ -556,7 +556,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="rome-paris-london" name="home-trip-box" class="home-trip-box" data-dest="it,fr,uk" data-tag="history,art">
 						<a href="itinerary-rome-paris-london.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/1.jpg" alt="" />
@@ -588,7 +588,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="paris-the-riviera-tuscany" name="home-trip-box" class="home-trip-box" data-dest="it,fr" data-tag="art,nature,seawiew,honeymoon,food">
 						<a href="itinerary-paris-the-riviera-tuscany.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/paris-the-riviera-tuscany/1.jpg" alt="" />
@@ -620,7 +620,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="sw,fr,ge" data-tag="art,nature">
 						<a href="itinerary-switzerland-alsace-the-black-forest.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/switzerland-alsace-the-black-forest/1.jpg" alt="" />
@@ -652,7 +652,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="food-wine-france-through-bordeaux-the-loire-valley" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="nature,honeymoon,food">
 						<a href="itinerary-food-wine-france-through-bordeaux-the-loire-valley.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-france-through-bordeaux-the-loire-valley/1.jpg" alt="" />
@@ -684,7 +684,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="rome-sorrento-sicily" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,seaview">
 						<a href="itinerary-rome-sorrento-sicily.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-sorrento-sicily/1.jpg" alt="" />
@@ -716,7 +716,7 @@
 							</div>
 						</a>
 				    </div>
-					<div class="home-trip-box">
+					<div id="grand-tour-of-italy" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,seaview,honeymoon">
 						<a href="itinerary-grand-tour-of-italy.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/1.jpg" alt="" />
@@ -748,7 +748,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="london-paris-rome" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,it" data-tag="history,art">
 						<a href="itinerary-london-paris-rome.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-rome/1.jpg" alt="" />
@@ -780,7 +780,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div class="home-trip-box">
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="dm,nw,sw" data-tag="history,art,seaview,northeuro">
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" target="_blank">	
 							<div class="imgWrap">
 								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/scandinavia-the-capitals-the-fjords/1.jpg" alt="" />
@@ -816,7 +816,10 @@
 			</div>
 		</div>
 		<!-- footer -->
-		<?php include 'common-footer2.php' ;?>
+<?php 
+	include_once('common-footer2.php')
+?>
+
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>

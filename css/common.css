@@ -861,6 +861,7 @@ filter: gray;
 .quoItem select {
 	margin:10px 0;
 	color:#fff;
+	width:100%;
 }
 .quoItem select option {
 	padding:5px;

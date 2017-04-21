@@ -1,72 +1,23 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="UTF-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
-		<link href="img/ef.ico" rel="icon" type="image/x-icon">
-		<link href="img/ef.ico" rel="shortcut icon" type="image/x-icon">
-		<link type="text/css" rel="stylesheet" href="css/fontawesome.css">
-		<link type="text/css" rel="stylesheet" href="css/swiper-3.4.1.min.css">
-		<link type="text/css" rel="stylesheet" href="css/common.css">
-		<link type="text/css" rel="stylesheet" href="css/itinerary.css">
-		<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
-		<script src="js/swiper.min.js"></script>
-		<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
-		<!-- flexbox fix for IE js -->
-		<script src="js/flexibility-master/flexibility.min.js"></script>
-		<title>行程 - EF TravelPlus | 英孚旅游+</title>		
-		<meta name="title" content="欧洲旅游新选择_EF英孚旅游_一站式旅游专家" />
-		<meta name="keywords" content="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行 " />
-		<meta name="description" content="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。" />
-		<style>
-			.imagesWrap {
-				background:url(img/itinerary/billboard/Food-&-Wine_A-Taste-of-Spain.jpg)  center center no-repeat;
-				background-size:cover;
-			}
-		</style>
-	</head>
+<?php 
+	$pageName="itinerary-food-wine-a-taste-of-spain";
+	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
+	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
+	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
+	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
+
+	$itineraryName="食在西班牙：爱在唇齿留香间";
+	$itineraryPrice="￥23,400起";
+
+    include_once("common-head.php"); 
+?>
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<div class="fixCAT">
-			<div class="site">
-				<div class="com_dialog">
-					<div class="dialogWrap">
-						<i class="closeIcon">&times;</i>
-						<div class="dialog">
-							<div class="flex-row-center-start">
-								<div class="wechatImg">
-									<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" width="80" height="80" />
-								</div>
-								<div class="flexAuto">
-									<p>
-										扫码关注@EFTravelPlus微信服务号<br />
-										发现实用旅行灵感和产品
-									</p>
-								</div>
-							</div>
-						</div>
-						<div class="dialogBelongTo"></div>
-					</div>
-				</div>
-				<div class="flex-row-center-between">
-			        <div class="flex-row-center-start"><div class="icon Oval-5"><i class="fa fa-wechat"></i></div>微信咨询</div>
-			        	<div class="flex-row-center-end">
-				        	<div class="hotline flex-row-center-end">
-				        		<div class="flex-no-grow-no-shrink-auto icon Oval"><a class="call" href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
-				        		<div class="flex-no-grow-no-shrink-auto">
-					        		<p>来电咨询</p>
-					        		<span>400-018-7518</span>
-				        		</div>
-				        	</div>
-				        	<a class="orangeBtn" href="#getPersonalizedPrice">
-				        		获取价格
-				        	</a> 
-			        	</div>
-		        </div>
-			</div>
-		</div>			
-		<?php include 'common-header.php';?>	
+		<?php include_once('fix-cta.php');?>			
+		<?php include_once('common-header.php');?>	
 		<!-- Image -->
-		<div class="imagesWrap">
+		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Food-&-Wine_A-Taste-of-Spain.jpg)  center center no-repeat;
+				background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
@@ -872,7 +823,7 @@
 		</div>
 		
 		<!-- Get a personalized quotation -->
-		<?php include 'quotationForm.php' ;?>
+		<?php include_once('quotation-form.php') ;?>
 		<!--<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
 				<h4>获取实时价格</h4>
@@ -952,7 +903,7 @@
 		<!-- More trips like this -->
 		<div class="site">
 			<!-- trips -->
-			<?php include 'recommend.php' ;?>					
+			<?php include_once('recommend.php') ;?>					
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
@@ -991,24 +942,8 @@
 			</div>
 		</div>
 		<!-- footer -->
-		<?php include 'common-footer.php' ;?>
-		<div class="popup wechat">
-			<i class="closePopup">&times;</i>
-			<div class="mask"></div>
-			<div class="popupContainer">		
-				<div class="flex-col-center-center flex-wrap">
-					<div class="">
-						<p>
-							有问题要问？<br />
-							不如一键添加旅游顾问：EF小家，他能解答你的任何问题
-						</p>
-					</div>
-					<div class="wechatImg">
-						<img src="img/sSqrcode.jpg" />
-					</div>
-				</div>
-			</div>
-		</div>
+		<?php include_once('common-footer.php') ;?>
+		<?php include_once('popup.php') ;?>
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
