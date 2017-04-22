@@ -54,28 +54,28 @@
 							</select>
 						</div>
 						<div class="flex-row-start-start flex-flow">
-							<div data-tag="history" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="history" name="tag-selector" class="checkbox">
 								历史遗迹
 							</div>
-							<div data-tag="art" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="art" name="tag-selector" class="checkbox">
 								艺术人文
 							</div>
-							<div data-tag="nature" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="nature" name="tag-selector" class="checkbox">
 								自然风光
 							</div>
-							<div data-tag="seaview" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="seaview" name="tag-selector" class="checkbox">
 								海景沙滩
 							</div>
-							<div data-tag="honeymoon" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="honeymoon" name="tag-selector" class="checkbox">
 								浪漫蜜月
 							</div>
-							<div data-tag="family" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="family" name="tag-selector" class="checkbox">
 								亲子家庭
 							</div>
-							<div data-tag="northeuro" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="northeuro" name="tag-selector" class="checkbox">
 								北欧风情
 							</div>
-							<div data-tag="food" name="tag-selector" class="checkbox" onclick="Trip_Filter();">
+							<div data-tag="food" name="tag-selector" class="checkbox">
 								美食美酒
 							</div>
 						</div>
@@ -819,7 +819,7 @@
 <?php 
 	include_once('common-footer2.php')
 ?>
-
+<?php include 'popup.php' ;?>
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
@@ -836,6 +836,8 @@
 					$(this).addClass('checked');
 					event.stopPropagation();
 				}
+				
+				Trip_Filter();
 			});
 			$('.edit').click(function(){
 				$('.filterResult').hide();

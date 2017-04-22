@@ -33,15 +33,19 @@
 	}
 	.home-trip-box {
 		flex:0 0 300px;
-		margin:10px 0;
-		margin-right:40px;
+		/*margin:10px 0;
+		margin-right:40px;*/
+		margin:10px;
 	}
-	.home-trip-box:nth-child(3n) {
+	/*.home-trip-box:nth-child(3n) {
 		margin-right:0;
-	}
+	}*/
 	.quotationBg,
 	.quotationWrap {
 		height:500px;
+	}
+	.quoInfo form h4 {
+		margin-bottom:20px;
 	}
 	.imgWrap {
 		width:100%;
@@ -78,15 +82,16 @@
 	}
 	.home-trip-box {
 		flex:0 0 300px;
-		margin:10px 0;
-		margin-right:80px;
+		/*margin:10px 0;
+		margin-right:80px;*/
+		margin:10px;
 	}
-	.home-trip-box:nth-child(3n) {
+	/*.home-trip-box:nth-child(3n) {
 		margin-right:80px;
 	}
 	.home-trip-box:nth-child(2n) {
 		margin-right:0;
-	}
+	}*/
 }
 /* min - iphone6p */
 @media screen and (max-width: 425px) {
@@ -182,10 +187,13 @@
 	.flex-row-start-start {
 		justify-content:center;
 	}
-	.home-trip-box,
+	/*.home-trip-box,
 	.home-trip-box:nth-child(2n),
 	.home-trip-box:nth-child(3n) {
 		margin-right: 0;
+	}*/
+	.home-trip-box {
+		margin-right:0;
 	}
 	.home-trip-box.earlyBird .hotSale .flex-row-start-between {
 		flex-direction: row;

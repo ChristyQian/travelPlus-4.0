@@ -10,7 +10,7 @@
 	$itineraryName="食在法国：美食与葡萄酒之旅";
 	$itineraryPrice="￥22,700起";
 
-    include_once("common-head.php"); 
+    include_once("itinerary-head.php"); 
 ?>
 	<body data-spy="scroll" data-target="#travelPlusNav">
 		<?php include_once('fix-cta.php');?>			
@@ -759,7 +759,25 @@
 		</div>
 		
 		<!-- Get a personalized quotation -->
-		<?php include_once('quotation-form.php') ;?>
+		<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
+
+			<div class="quotation">
+
+				<h4>获取实时价格</h4>
+
+				<div class="quotationBg"></div>
+
+				<div class="quotationWrap"> 
+
+					<?php include_once('quotation-form.php') ;?> 
+
+				</div>
+
+				<?php include_once('sales-wrap.php') ;?> 
+
+			</div>
+
+		</div>
 		<!--<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 			<div class="quotation">
 				<h4>获取实时价格</h4>
