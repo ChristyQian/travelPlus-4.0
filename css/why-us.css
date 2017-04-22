@@ -42,7 +42,7 @@ h4 {
 .Oval-7 {
 	mix-blend-mode: multiply;
   background-color: #f7b84f;
-  margin-left:-108px;
+  margin-left:-80px;
 }
 .whyUsTxt {
 	position:relative;
@@ -68,6 +68,10 @@ h4 {
 	display:inline-flex;
 	padding:10px;
 	font-size:1.6em;
+}
+.whyUsTxt .transparentBg,
+.whyUsTxt .transparentTxt {
+	left:0;
 }
 .blueBg {
 	margin:0;
@@ -291,7 +295,7 @@ footer .backToTop {
 	.whyUsTxt {
 		justify-content: center;
 		margin:30px auto;
-		width:300px;
+		width:324px;
 	}
 	.Oval-6,
 	.Oval-7 {

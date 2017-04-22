@@ -12,7 +12,7 @@
 
 									<div class="flex-row-start-around">			
 
-										<p>也可以通过微信，向我咨询哦！</p>
+										<p>也可以通过微信，<br/>向我咨询哦！</p>
 
 										<img src="img/sSqrcode.jpg" width="80" height="80" />
 
