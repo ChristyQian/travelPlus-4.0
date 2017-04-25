@@ -40,65 +40,64 @@
 								</div>
 								<div class="dropdownArrow"></div>
 							</div>-->
-							<select id="destination" onchange="Trip_Filter();">
-								<option value="all">全部目的地</option>
-								<option value="uk">英国</option>
-								<option value="fr">法国</option>
-								<option value="ge">德国</option>
-								<option value="it">意大利</option>
-								<option value="nz">荷兰</option>
-								<option value="sw">瑞士</option>
-								<option value="gr">希腊</option>
-								<option value="dm">丹麦</option>
-								<option value="nw">挪威</option>
-								<option value="au">奥地利</option>
+							<select id="destination">
+								<option value="all" data-display="全部目的地">全部目的地</option>
+								<option value="uk" data-display="英国">英国</option>
+								<option value="fr" data-display="法国">法国</option>
+								<option value="ge" data-display="德国">德国</option>
+								<option value="it" data-display="意大利">意大利</option>
+								<option value="nz" data-display="荷兰">荷兰</option>
+								<option value="sw" data-display="瑞士">瑞士</option>
+								<option value="gr" data-display="希腊">希腊</option>
+								<option value="dm" data-display="丹麦">丹麦</option>
+								<option value="nw" data-display="挪威">挪威</option>
+								<option value="au" data-display="奥地利">奥地利</option>
 							</select>
 						</div>
 						<div class="flex-row-start-start flex-flow">
-							<div data-tag="history" name="tag-selector" class="checkbox">
+							<div data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
 								历史遗迹
 							</div>
-							<div data-tag="art" name="tag-selector" class="checkbox">
+							<div data-tag="art" data-display="艺术人文" name="tag-selector" class="checkbox">
 								艺术人文
 							</div>
-							<div data-tag="nature" name="tag-selector" class="checkbox">
+							<div data-tag="nature" data-display="自然风光" name="tag-selector" class="checkbox">
 								自然风光
 							</div>
-							<div data-tag="seaview" name="tag-selector" class="checkbox">
+							<div data-tag="seaview" data-display="海景沙滩" name="tag-selector" class="checkbox">
 								海景沙滩
 							</div>
-							<div data-tag="honeymoon" name="tag-selector" class="checkbox">
+							<div data-tag="honeymoon" data-display="浪漫蜜月" name="tag-selector" class="checkbox">
 								浪漫蜜月
 							</div>
-							<div data-tag="family" name="tag-selector" class="checkbox">
+							<div data-tag="family" data-display="亲子家庭" name="tag-selector" class="checkbox">
 								亲子家庭
 							</div>
-							<div data-tag="northeuro" name="tag-selector" class="checkbox">
+							<div data-tag="northeuro" data-display="北欧风情" name="tag-selector" class="checkbox">
 								北欧风情
 							</div>
-							<div data-tag="food" name="tag-selector" class="checkbox">
+							<div data-tag="food" data-display="美食美酒" name="tag-selector" class="checkbox">
 								美食美酒
 							</div>
 						</div>
 					</div>
+					<button class="blueRBtn search"  onclick="Trip_Filter();">搜索</button>
 				</div>
 			</div>
 		</div>
-		<!-- 
+		
 		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" data-offset-top="200" style="display:none;">
 			<div class="site">
 				<div class="flex-row-center-between">
-					<div class="flex-row-center-start filterConditions">
-						<div>法国</div>
-						<div>艺术人文</div>
-						<div>历史遗迹</div>
-						<div>家庭亲子</div>
+					<div id="filter-selected" class="flex-row-center-start filterConditions">
 					</div>
+					
 					<button class="blueRBtn edit">编辑</button>
+					
 				</div>
 			</div>
 		</div>
-		Edit Finished -->
+		
 		<div class="site">
 			<!-- trips -->
 			<div class="section">
@@ -842,8 +841,6 @@
 					$(this).addClass('checked');
 					event.stopPropagation();
 				}
-				
-				Trip_Filter();
 			});
 			$('.edit').click(function(){
 				$('.filterResult').hide();

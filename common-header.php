@@ -1,3 +1,5 @@
+<?php include_once("../track/analyticstracking.php") ?>
+
 <div class="header" name="top">
 	<div class="site flex-row-center-between">
 		<div class="com_dialog">

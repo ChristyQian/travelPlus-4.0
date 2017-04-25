@@ -77,13 +77,43 @@ function Hide_Error_Msg (formname)
 
 function Trip_Filter () 
 {
-	Trip_Destination_Filter();
+	document.getElementById("filter-selected").innerText = '';
+	
+	Trip_Hide_All();
+	
 	Trip_Tag_Filter();	
+	Trip_Destination_Filter();
+}
+
+function Trip_Hide_All()
+{
+	var boxes = document.getElementsByName('home-trip-box');
+	
+	for (var i=0, l=boxes.length; i<l; i++)
+	{
+		var box = boxes[i];
+		box.style.display = "none";
+	}	
+}
+
+function Trip_Show_All()
+{
+	var boxes = document.getElementsByName('home-trip-box');
+	
+	for (var i=0, l=boxes.length; i<l; i++)
+	{
+		var box = boxes[i];
+		box.style.display = "inline";
+	}	
 }
 
 function Trip_Destination_Filter()
 {
 	var dest = document.getElementById('destination').options[document.getElementById('destination').selectedIndex].value;
+	
+	var destName = document.getElementById('destination').options[document.getElementById('destination').selectedIndex].getAttribute("data-display");
+	
+	document.getElementById("filter-selected").innerHTML += '<div>' + destName + '</div>';
 
 	var boxes = document.getElementsByName('home-trip-box');
 	
@@ -92,14 +122,18 @@ function Trip_Destination_Filter()
 		var box = boxes[i];
 
 		if (dest=="all") {
-			box.style.display = "inline";
+			//box.style.display = "inline";
 		} else {
 			var tripDest = box.getAttribute("data-dest");
 			
 			if (tripDest != null && tripDest.indexOf(dest) >= 0) 
-				box.style.display = "inline";
+			{
+				
+			}
 			else
+			{
 				box.style.display = "none";
+			}
 		}
 	}
 }
@@ -109,29 +143,36 @@ function Trip_Tag_Filter ()
 	var tags = document.getElementsByName('tag-selector');
 	var boxes = document.getElementsByName('home-trip-box');
 	
+	var hasTag=0;
+	
 	for (var i=0, l=tags.length; i<l; i++) {
 		if (tags[i].className.indexOf('checked') >= 0)
-		{
+		{			
+			hasTag = 1;
+			
 			var tag = tags[i].getAttribute("data-tag");
 			
-			for (var i=0, l=boxes.length; i<l; i++)
+			var tagName = tags[i].getAttribute("data-display");
+			
+			for (var n=0, m=boxes.length; n<m; n++)
 			{
-				var box = boxes[i];
-				if (box.style.display == "inline")
-				{
-					var tripTag = box.getAttribute("data-tag");
+				var box = boxes[n];
 				
-					if (tripTag != null && tripTag.indexOf(tag) >= 0)
-					{
-						box.style.display = "inline";
-					} 
-					else 
-					{
-						box.style.display = "none";
-					}
-				}				
+				var tripTag = box.getAttribute("data-tag");
+				
+				if (tripTag != null && tripTag.indexOf(tag) >= 0)
+				{
+					box.style.display = "inline";
+				}
+								
 			}
+			
+			document.getElementById("filter-selected").innerHTML += '<div>' + tagName + '</div>';
 		}
+	}
+	
+	if (hasTag == 0) {
+		Trip_Show_All();
 	}
 }
 
