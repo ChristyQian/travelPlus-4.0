@@ -26,13 +26,17 @@
 
 								<select id="city" name="city" title="城市" param="city">
 
-									<option value="HK">香港</option>
+									<option value="Beijing">北京</option>
 
-									<option value="TW">台湾</option>
-
-									<option value="BJ">北京</option>
-
-									<option value="SH">上海</option>
+									<option value="Shanghai">上海</option>
+									
+									<option value="Guangzhou">广州</option>
+									
+									<option value="Chengdu">成都</option>
+									
+									<option value="Hongkong">香港</option>
+									
+									<option value="Others">其他</option>
 
 								</select>
 
@@ -49,15 +53,21 @@
 								<label>旅行时间：</label>
 
 								<select id="age" name="age" title="年龄" param="age">
+								
+									<option value="2017 Labour Day">2017 五一节</option>
+									
+									<option value="2017 Dragon Boat">2017 端午节</option>
+									
+									<option value="2017 Summer Holiday">2017 暑假</option>
+									
+									<option value="2017 National Day">2017 国庆</option>
 
-									<option value="Chinese New Year">新年</option>
-
-									<option value="Dragon Boat">端午节</option>
-
-									<option value="Labour Day">五一劳动节</option>
-
-									<option value="National Day">十一国庆</option>
-
+									<option value="2017 Xmas">2017 圣诞/新年</option>
+									
+									<option value="2018 Chinese New Year">2018 春节</option>
+									
+									<option value="Others">其他</option>
+									
 								</select>
 
 								<div id="age-error-msg" class="form-error-msg">
@@ -94,10 +104,18 @@
 
 								</div>
 
-							</div>							
+							</div>
 
-						</form>
+							<input name="pagename" type="hidden" title="pagename" param="pagename" value="<?php echo $_SERVER['PHP_SELF'] ?>">
+							<input name="etag" type="hidden" title="etag" param="etag" value="<?php echo $_REQUEST['etag']; ?>">
+							<input name="channel" type="hidden" title="channel" param="channel" value="sp">
+							<input id="email" name="email" type="hidden" title="email" param="email" value="fake@email.com">
+							<input name="motivation" type="hidden" title="motivation" param="motivation" value="-">
+							<input name="destination" type="hidden" title="destination" param="destination" value="-">
+							<input name="sfreplication" type="hidden" title="sfreplication" param="sfreplication" value="true">							
 
-						<button onclick="Lead_Validation('sp-form', 'Lead_Insert', 'submitted.php', true)" class="orangeBtn" >询价<i class="whiteArrow"></i></button>
+						</form>					
+
+						<button onclick="Lead_Validation('sp-form', 'Lead_Insert', 'submitted.php', true)" class="orangeBtn" >提交查询<i class="whiteArrow"></i></button>
 
 					</div>

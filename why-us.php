@@ -18,7 +18,7 @@
 			<div class="container">
 				<div class="whyUsBg grayImg"></div>
 				<div class="site">
-					<ul class="serif">
+					<ul>
 						<li>省去出行前繁重的准备工作，一站式服务覆盖行程中优选机票、品质酒店、国外交通和线路设计等各个角落</li>
 						<li>行程中拥有30-50%真正自由时间，度过属于自己的完美假期；同时，外籍导游和中方领队全程提供协助</li>
 					</ul>
@@ -163,7 +163,7 @@
 					<div class="flex-col-center-center">
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-1.jpg" />
+								<img src="img/itinerary/why-us-1.jpg" />
 							</div>
 						</div>
 						<div>旅游顾问</div>
@@ -172,7 +172,7 @@
 					<div class="flex-col-center-center">
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-5.jpg" />
+								<img src="img/itinerary/why-us-2.jpg" />
 							</div>
 						</div>
 						<div>中方领队</div>
@@ -181,7 +181,7 @@
 					<div class="flex-col-center-center">
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg" />
+								<img src="img/itinerary/why-us-3.jpg" />
 							</div>
 						</div>
 						<div>当地通</div>
@@ -190,7 +190,7 @@
 					<div class="flex-col-center-center">
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-4.jpg" />
+								<img src="img/itinerary/why-us-4.jpg" />
 							</div>
 						</div>
 						<div>外籍导游</div>
@@ -199,7 +199,7 @@
 					<div class="flex-col-center-center">
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-2.jpg" />
+								<img src="img/itinerary/why-us-5.jpg" />
 							</div>
 						</div>
 						<div>服务管家</div>
@@ -208,7 +208,7 @@
 					<div class="flex-col-center-center">
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/services/16.jpg" />
+								<img src="img/itinerary/why-us-6.jpg" />
 							</div>
 						</div>
 						<div>行程策划</div>

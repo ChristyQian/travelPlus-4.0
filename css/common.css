@@ -728,7 +728,7 @@ filter: gray;
 	padding:1em 0;
 }
 .userInfo .name {
-	font-weight:bold;
+	/*font-weight:bold;*/
 	padding:2em 0;
 }
 .com_profile .userInfo {
@@ -819,8 +819,8 @@ filter: gray;
 	position:relative;
 }
 .quotationWrap .discount {
-	top:-40px;
-	right:32px;
+	top:-80px;
+	right:2px;
 	z-index:3;
 	mix-blend-mode: multiply;
 	width:129px;

@@ -32,15 +32,15 @@
 
 								<div class="imgWrap">
 
-									<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg">
+									<img src="img/itinerary/tourDirector/Rosa.jpg">
 
 								</div>
 
 							</div>
 
-							<span class="position">外籍导游</span>
+							<span class="position">旅游顾问</span>
 
-							<span class="name">Jax Oddo</span>							
+							<span class="name">EF小家&nbsp;Stephanie</span>							
 
 						</div>
 

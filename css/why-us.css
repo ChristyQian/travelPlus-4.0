@@ -20,11 +20,11 @@ h4 {
 	bottom:0;
 	background-size:cover;
 }
-.grayBg .serif {
+.grayBg ul {
 	font-size:1.5em;
 	line-height:1.5em;
 }
-.grayBg .serif li {
+.grayBg ul li {
 	list-style:disc;
 	margin-bottom:20px;
 }
@@ -62,7 +62,7 @@ h4 {
 .whyUsTxt .transparentTxt {
 	position:absolute;
 	z-index:3;
-	width:324px;
+	width:355px;
 	height:inherit;
 	color:#fff;
 	display:inline-flex;
@@ -209,6 +209,10 @@ footer .backToTop {
 	padding-top:20px;
 	font-size:1.4em;	
 }
+.reviewBg+.site .flex-flow {
+	padding-bottom:80px;
+}
+
 /* Deal */
 .yellowBg,
 .lightBlueBg,
@@ -234,6 +238,13 @@ footer .backToTop {
 .yellowBg .serif,
 .lightBlueBg .serif {
 	font-size:16px;
+}
+.yellowBg h5,
+.lightBlueBg h5 {
+	margin-bottom:5px;
+}
+.site+.yellowBg {
+	margin-top:30px;
 }
 .lightYellowBg h5 {
 	font-weight:normal;
@@ -302,10 +313,10 @@ footer .backToTop {
 		width:200px;
 		height:200px;
 	}
-	/*.whyUsTxt .transparentBg,
+	
 	.whyUsTxt .transparentTxt {
-		width:295px;
-	}*/
+		width:324px;
+	}
 	.reasons div {
 		flex:0 1 120px;
 		margin:0;
@@ -327,8 +338,11 @@ footer .backToTop {
 	}
 	.yellowBg .serif,
 	.lightBlueBg .serif {
-	font-size:12px;
-}
+		font-size:12px;
+	}
+	.grayBg ul {
+		padding:10px;
+	}
 }
 @media screen and (max-width: 375px) {
 	.reasons div {
