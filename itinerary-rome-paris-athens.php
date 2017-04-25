@@ -1068,7 +1068,7 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
-		<script>
+		<!--<script>
 			
 			var swiper2 = new Swiper('.hotels .swiper-container', {
 				loopedSlides: 10
@@ -1077,7 +1077,7 @@
 			var swiper4 = new Swiper('.flight .swiper-container', {
 				loopedSlides: 3
 			});
-		</script>
+		</script>-->
 	</body>
 
 </html>

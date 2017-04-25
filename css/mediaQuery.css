@@ -99,6 +99,9 @@
 }
 /* min - iphone6p */
 @media screen and (max-width: 425px) {
+	.expandIcon {
+		display:block;
+	}
 	.fixCAT .hotline span {
 		display:none;
 	}
@@ -127,6 +130,9 @@
   		font-size:20px;
   		padding:20px;
   		margin:0;
+  	}
+  	.aboutUs .section h4 {
+  		padding:10px 0;
   	}
     .header-nav.affix {
     		padding:10px;
@@ -205,9 +211,9 @@
 	.home-trip-box {
 		width:90%;
 	}
-	.home-trip-box .imgWrap {
+	/*.home-trip-box .imgWrap {
 		width:90%;
-	}
+	}*/
 	.quoInfo form {
 		padding-top:0;
 	}

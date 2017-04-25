@@ -1,4 +1,4 @@
-<div class="section trips">
+<div class="section trips recommend">
 	<h4>当季精选</h4>
 	<div class="flex-row-start-between flex-flow">
 		<div class="home-trip-box">

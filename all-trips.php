@@ -824,14 +824,17 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script>
-			$('.section.filter.editModel .site .expandIcon .fa-chevron-down').click(function(){
-				$('.section.filter.editModel.affix').addClass('.expand');
-				$(this).removeClass('fa-chevron-down').addClass('fa-chevron-up');
+			$('.section.filter.editModel .site .expandIcon').click(function(){
+				if($(this).children('i').hasClass('fa-chevron-down')){
+					$('.section.filter.editModel.affix').addClass('expand');
+					$(this).children('i').removeClass('fa-chevron-down').addClass('fa-chevron-up');
+				}
+				else {
+					$('.section.filter.editModel.affix').removeClass('expand');
+					$(this).children('i').removeClass('fa-chevron-up').addClass('fa-chevron-down');
+				}
 			});
-			$('.section.filter.editModel .site .expandIcon .fa-chevron-up').click(function(){
-				$('.section.filter.editModel.affix').removeClass('.expand');
-				$(this).removeClass('fa-chevron-up').addClass('fa-chevron-down');
-			});
+
 			$('.checkbox').click(function(){
 				if($(this).hasClass('checked')){
 					$(this).removeClass('checked');

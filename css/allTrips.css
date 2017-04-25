@@ -141,6 +141,9 @@ a.close-dropdown {
 .filterConditions div:last-child:after {
 	display:none;
 }
+.section.filter.editModel.affix-top .expandIcon {
+	display:none;
+}
 @media screen and (max-width:1024px) { 
 	.filter .blueRBtn {
 		margin-top:10px;
@@ -161,7 +164,7 @@ a.close-dropdown {
 	}
 	.section.filter.editModel .site .expandIcon {
 		position:absolute;
-		top:18px;
+		/*top:18px;*/
 		right:20px;
 	}
 	.section.filter.editModel.affix {
@@ -171,9 +174,6 @@ a.close-dropdown {
 	.section.filter.editModel.affix.expand {
 		height:auto;
 		overflow:visible;
-	}
-	.section.filter.editModel.affix-top .expandIcon {
-		display:none;
 	}
 	.section.filter.filterResult {
 		padding:10px;

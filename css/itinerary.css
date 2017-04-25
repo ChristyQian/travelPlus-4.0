@@ -4,6 +4,9 @@
 .home-trip-box {
 	flex:0 1 368px;/*because the width smaller than other page*/
 }
+.recommend .home-trip-box .imgWrap {
+	width:368px;
+}
 .imagesWrap {
 	width:100%;
 	height:600px;
