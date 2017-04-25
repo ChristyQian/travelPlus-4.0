@@ -1,6 +1,9 @@
 .filter.affix {
 	top:0;
 }
+.section.filter.editModel.affix-top {
+	height:auto;
+}
 .destinations {
 	width:430px;
 }
@@ -118,6 +121,9 @@ a.close-dropdown {
 	padding:0;
 	margin:0;
 }
+.filter.filterResult .blueRBtn {
+	margin-top:0;
+}
 .filterConditions div {
 	margin:5px;
 	
@@ -139,20 +145,45 @@ a.close-dropdown {
 	.filter .blueRBtn {
 		margin-top:10px;
 	}
+	.filter.filterResult .blueRBtn {
+		margin-top:0;
+	}
 }
 @media screen and (max-width:425px) {
 	.filter {
 		font-size:1.2em;
+	}
+	.section.filter.editModel {
+		padding-top:15px;		
+	}
+	.section.filter.editModel .site {
+		position:relative;
+	}
+	.section.filter.editModel .site .expandIcon {
+		position:absolute;
+		top:18px;
+		right:20px;
+	}
+	.section.filter.editModel.affix {
+		height:49px;
+		overflow:hidden;
+	}
+	.section.filter.editModel.affix.expand {
+		height:auto;
+		overflow:visible;
+	}
+	.section.filter.editModel.affix-top .expandIcon {
+		display:none;
+	}
+	.section.filter.filterResult {
+		padding:10px;
 	}
 	.dropdown-switcher {
 		line-height:30px;
 	}
 	.filter .flex-row-start-start {
 	    justify-content: flex-start;
-	}	
-	.section.filter {
-		padding-top:20px;
-	}
+	}		
 	.destinations {
 		width:100%;
 	}

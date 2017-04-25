@@ -283,6 +283,9 @@ footer .backToTop {
 	}
 }
 @media screen and (max-width: 425px) {
+	.section h4 {
+		padding:10px 0;
+	}
 	.container {
 		height:500px;
 	}
@@ -305,7 +308,7 @@ footer .backToTop {
 	}
 	.whyUsTxt {
 		justify-content: center;
-		margin:30px auto;
+		margin:20px auto;
 		width:324px;
 	}
 	.Oval-6,
@@ -341,7 +344,7 @@ footer .backToTop {
 		font-size:12px;
 	}
 	.grayBg ul {
-		padding:10px;
+		padding:10px 10px 10px 30px;
 	}
 }
 @media screen and (max-width: 375px) {

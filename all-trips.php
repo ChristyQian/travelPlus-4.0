@@ -19,6 +19,7 @@
 		<!-- If Edit Model -->
 		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="192" >
 			<div class="site">
+				<div class="expandIcon"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 				<div class="flex-row-end-between flex-flow">
 					<div class="flex-col-start-start flexAuto">
 						<div class="flex-col-start-start destinations">
@@ -106,7 +107,7 @@
 					<div id="moet-paris-reims" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="food">
 						<a href="itinerary-moet-paris-reims.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/moet-paris-reim-6.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -138,7 +139,7 @@
 				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/food-wine-northern-italy-the-italian-riviera.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -170,7 +171,7 @@
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -202,7 +203,7 @@
 				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/jewels-of-alpine-europe/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -234,7 +235,7 @@
 				    <div id="london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-london-paris-amsterdam.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/london-paris-amsterdam.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -266,7 +267,7 @@
 				   <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="art,nature,seaview,honeymoon">
 						<a href="itinerary-grand-tour-of-spain.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-spain/4.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -303,7 +304,7 @@
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/italy-greece.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -335,7 +336,7 @@
 					<div id="highlights-of-northern-europe-london-to-copenhagen" name="home-trip-box" class="home-trip-box" data-dest="uk,nz,dm" data-tag="history,nature,honeymoon">
 						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/highlights-of-northern-europe-london-to-copenhagen/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/highlights-of-northern-europe-london-to-copenhagen.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -367,7 +368,7 @@
 				   <div id="rome-paris-athens" name="home-trip-box" class="home-trip-box" data-dest="fr,it,gr" data-tag="history,art,family">
 						<a href="itinerary-rome-paris-athens.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-athens/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/rome-paris-athens.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -399,7 +400,7 @@
 					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,sw,au" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/germany-switzerland-austria/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -431,7 +432,7 @@
 				    <div id="venice-florence-rome" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,honeymoon">
 						<a href="itinerary-venice-florence-rome.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/venice-florence-rome/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/venice-florence-rome.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -463,7 +464,7 @@
 				    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon">
 						<a href="itinerary-food-wine-a-taste-of-spain.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-a-taste-of-spain/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/food-wine-a-taste-of-spain.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -495,7 +496,7 @@
 				    <div id="london-edinburgh-dublin" name="home-trip-box" class="home-trip-box" data-dest="uk" data-tag="history,art,nature,honeymoon">
 						<a href="itinerary-london-edinburgh-dublin.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-edinburgh-dublin/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/london-edinburgh-dublin.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -527,7 +528,7 @@
 				    <div id="london-paris-madrid" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,sp" data-tag="art,honeymoon">
 						<a href="itinerary-london-paris-madrid.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-madrid/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/london-paris-madrid.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -559,7 +560,7 @@
 				    <div id="rome-paris-london" name="home-trip-box" class="home-trip-box" data-dest="it,fr,uk" data-tag="history,art">
 						<a href="itinerary-rome-paris-london.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-paris-london/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/rome-paris-london.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -591,7 +592,7 @@
 				    <div id="paris-the-riviera-tuscany" name="home-trip-box" class="home-trip-box" data-dest="it,fr" data-tag="art,nature,seawiew,honeymoon,food">
 						<a href="itinerary-paris-the-riviera-tuscany.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/paris-the-riviera-tuscany/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/paris-the-riviera-tuscany.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -623,7 +624,7 @@
 				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="sw,fr,ge" data-tag="art,nature">
 						<a href="itinerary-switzerland-alsace-the-black-forest.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/switzerland-alsace-the-black-forest/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/switzerland-alsace-the-black-forest.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -655,7 +656,7 @@
 				    <div id="food-wine-france-through-bordeaux-the-loire-valley" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="nature,honeymoon,food">
 						<a href="itinerary-food-wine-france-through-bordeaux-the-loire-valley.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-france-through-bordeaux-the-loire-valley/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/food-wine-france-through-bordeaux-the-loire-valley.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -687,7 +688,7 @@
 				    <div id="rome-sorrento-sicily" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,seaview">
 						<a href="itinerary-rome-sorrento-sicily.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/rome-sorrento-sicily/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/rome-sorrento-sicily.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -719,7 +720,7 @@
 					<div id="grand-tour-of-italy" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,seaview,honeymoon">
 						<a href="itinerary-grand-tour-of-italy.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-italy/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/grand-tour-of-italy.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -751,7 +752,7 @@
 				    <div id="london-paris-rome" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,it" data-tag="history,art">
 						<a href="itinerary-london-paris-rome.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-rome/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/london-paris-rome.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -783,7 +784,7 @@
 				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="dm,nw,sw" data-tag="history,art,seaview,northeuro">
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" target="_blank">	
 							<div class="imgWrap">
-								<img src="http://travelplus.ef.com.cn/sp/img/itinerary/scandinavia-the-capitals-the-fjords/1.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -824,8 +825,13 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script>
-			$('selct').click(function(){
-				event.stopPropagation();			
+			$('.section.filter.editModel .site .expandIcon .fa-chevron-down').click(function(){
+				$('.section.filter.editModel.affix').addClass('.expand');
+				$(this).removeClass('fa-chevron-down').addClass('fa-chevron-up');
+			});
+			$('.section.filter.editModel .site .expandIcon .fa-chevron-up').click(function(){
+				$('.section.filter.editModel.affix').removeClass('.expand');
+				$(this).removeClass('fa-chevron-up').addClass('fa-chevron-down');
 			});
 			$('.checkbox').click(function(){
 				if($(this).hasClass('checked')){

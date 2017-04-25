@@ -2,7 +2,7 @@
 <html>
 <?php 
 	$pageName="why-us";
-	$tagTitle="六大理由 - EF TravelPlus | 英孚旅游+";
+	$tagTitle="什么是自由团 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";

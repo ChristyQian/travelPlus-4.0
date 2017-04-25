@@ -634,7 +634,7 @@
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海浦东</span>06:15</div>
+									<div class="airport"><span>成都</span>06:15</div>
 									<div class="airport"><span>巴塞罗那</span>22:45</div>
 								</div>
 							</div>
@@ -647,7 +647,7 @@
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>佛罗伦萨</span>06:45</div>
-									<div class="airport"><span>上海浦东</span>22:15</div>								
+									<div class="airport"><span>成都</span>22:15</div>								
 								</div>
 							</div>
 						</div>
@@ -689,7 +689,7 @@
 								<div class="">直飞</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>上海浦东</span>06:15</div>
+								<div class="airport"><span>香港</span>06:15</div>
 								<div class="airport"><span>巴塞罗那</span>22:45</div>
 							</div>
 						</div>
@@ -702,7 +702,7 @@
 							</div>
 							<div class="flex-row-start-between">
 								<div class="airport"><span>佛罗伦萨</span>06:45</div>
-								<div class="airport"><span>上海浦东</span>22:15</div>								
+								<div class="airport"><span>香港</span>22:15</div>								
 							</div>
 						</div>
 					</div>
@@ -1138,7 +1138,8 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-		<script>      
+		<script src="js/itinerary.js"></script>
+		<!--<script>      
 		    var swiper1 = new Swiper('.itineraryPhoto .swiper-container', {
 		    		autoplay: 5000,
 		    		width:1160,
@@ -1160,8 +1161,6 @@
 				      spaceBetweenSlides: 10
 				    }
 				},
-//		        prevButton:'.swiper-button-prev',
-//				nextButton:'.swiper-button-next'
 		    });  
 		    var swiper2 = new Swiper('.hotels .swiper-container', {
 		    		autoplay: 5000,
@@ -1206,6 +1205,7 @@
 		    		autoplay: 5000,
 		    		pagination: '.swiper-pagination',
 		        paginationClickable: true,
+		        loop:true,
 		        width:560,
 		        slidePreview:3,
 		        spaceBetween: 38,
@@ -1214,16 +1214,43 @@
 		        breakpoints: { 
 		        		//当宽度小于等于1024
 		        		1024:{
-		        			width:460
-		        			
+		        			width:460,
+				      	slidesPerView: 1,
+				      	spaceBetweenSlides: 10,
+				      	slidesOffsetBefore : -250,
+		        		  	slidesOffsetAfter : 250		        			
 		        		},
+		        		//当宽度小于等于420
+				    768: {
+				    	  width:460,
+				      slidesPerView: 1,
+				      spaceBetweenSlides: 10,
+				      slidesOffsetBefore : -380,
+		        		  slidesOffsetAfter : 380
+				    },
 				    //当宽度小于等于420
 				    420: {
 				    	  width:300,
 				      slidesPerView: 1,
 				      spaceBetweenSlides: 10,
-				      slidesOffsetBefore : 10,
-		        		  slidesOffsetAfter : 0
+				      slidesOffsetBefore : -280,
+		        		  slidesOffsetAfter : 280
+				    },
+				    //当宽度小于等于375-Iphone6
+				    375: {
+				    	  width:300,
+				      slidesPerView: 1,
+				      spaceBetweenSlides: 10,
+				      slidesOffsetBefore : -300,
+		        		  slidesOffsetAfter : 300
+				    },
+				    //当宽度小于等于320-Iphone5
+				    320: {
+				    	  width:300,
+				      slidesPerView: 1,
+				      spaceBetweenSlides: 10,
+				      slidesOffsetBefore : -328,
+		        		  slidesOffsetAfter : 328
 				    }
 				  }
 		    });
@@ -1259,10 +1286,6 @@
 					$('.header .com_dialog').show();
 				}
 				else if(jQuery(window).width() <768){
-//					$(body).bind("touchmove",function(e){
-//						e.preventDefault();
-//					});
-//					$('body').css('height',(jQuery(window).Height())).css('position','fixed').attr('scroll','no');
 					$('.wechat.popup').show();	
 					$('.popup .mask').show();
 					$('.popupContainer').show();	
@@ -1292,6 +1315,6 @@
 				$('.header-nav.affix .com_dialog').show();
 				$('.header-nav.affix .dialogWrap').show();
 			});
-		</script>
+		</script>-->
 	</body>
 </html>

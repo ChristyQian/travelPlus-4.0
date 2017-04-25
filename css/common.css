@@ -564,7 +564,7 @@ filter: gray;
 .filter {
 	width:100%;
 	height:auto;
-	padding:20px;
+	padding:15px;
 	background-color:#94c5db;
 	font-size:1.6em;
 }
@@ -625,12 +625,12 @@ filter: gray;
 .home-trip-box a:hover {
 	text-decoration: none;
 }
-.imgWrap {
-	width:100%;
+.home-trip-box .imgWrap {
+	width:380px;
 	height:248px;
 	position:relative;
 }
-.imgWrap img {
+.home-trip-box .imgWrap img {
 	width: 100%;
 	height: inherit;
 	background-position: center center !important;

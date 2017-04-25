@@ -135,7 +135,7 @@
 						</div>
 						<div class="recommand">
 							<p>
-								阿尔卑斯山环游之旅13天<br/>
+								阿尔卑斯山环游之旅<br/>
 								2017.9.30出发
 							</p>
 							<a class="borderBtn" href="itinerary-jewels-of-alpine-europe.php" target="_blank">查看行程<i class="whiteArrow"></i></a>
