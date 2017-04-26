@@ -48,10 +48,9 @@
 	.quoInfo form h4 {
 		margin-bottom:20px;
 	}
-	/*.imgWrap {
-		width:100%;
-		height:196px;
-	}*/
+	.recommend .home-trip-box .imgWrap {
+	    width: 100%;
+	}
 }
 /* iphone6p - ipad horizontal */
 @media screen and (max-width: 768px) {

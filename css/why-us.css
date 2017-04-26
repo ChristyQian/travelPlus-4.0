@@ -47,7 +47,7 @@ h4 {
 .whyUsTxt {
 	position:relative;
 	height:216px;
-	margin:60px 0;
+	margin:70px 0;
 }
 /*.transparentBg {
 	position:absolute;
@@ -281,6 +281,9 @@ footer .backToTop {
 	.reasons div {
 		flex:0 1 138px;
 	}
+	.whyUsTxt {
+		margin:50px 0;
+	}
 }
 @media screen and (max-width: 425px) {
 	.section h4 {
@@ -308,7 +311,7 @@ footer .backToTop {
 	}
 	.whyUsTxt {
 		justify-content: center;
-		margin:20px auto;
+		margin:30px auto;
 		width:324px;
 	}
 	.Oval-6,
@@ -350,6 +353,11 @@ footer .backToTop {
 @media screen and (max-width: 375px) {
 	.reasons div {
 		flex:0 1 166px;
+	}
+	.whyUsTxt {
+		justify-content: center;
+		margin:-10px auto;
+		width:324px;
 	}
 }
 @media screen and (max-width: 320px) { 
