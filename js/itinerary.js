@@ -25,7 +25,7 @@
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true,
 		        loop:true,
-		        loopedSlides :7,
+//		        loopedSlides :7,
 		        width:560,
 		        slidePreview:2,
 		        spaceBetween: 20,
@@ -71,49 +71,49 @@
 		        slidePreview:3,
 		        spaceBetween: 38,
 		        loop:true,
-		        loopedSlides :4,
+//		        loopedSlides :4,
 		        slidesOffsetBefore : -280,
-		        slidesOffsetAfter : 280,
+//		        slidesOffsetAfter : 280,
 		        breakpoints: { 
 		        		//当宽度小于等于1024
 		        		1024:{
 		        			width:460,
 				      	slidesPerView: 1,
 				      	spaceBetweenSlides: 10,
-				      	slidesOffsetBefore : -250,
-		        		  	slidesOffsetAfter : 250		        			
+				      	slidesOffsetBefore : -250
+//		        		  	slidesOffsetAfter : 250		        			
 		        		},
 		        		//当宽度小于等于420
 				    768: {
 				    	  width:460,
 				      slidesPerView: 1,
 				      spaceBetweenSlides: 10,
-				      slidesOffsetBefore : -380,
-		        		  slidesOffsetAfter : 380
+				      slidesOffsetBefore : -380
+//		        		  slidesOffsetAfter : 380
 				    },
 				    //当宽度小于等于420
 				    420: {
 				    	  width:300,
 				      slidesPerView: 1,
 				      spaceBetweenSlides: 10,
-				      slidesOffsetBefore : -280,
-		        		  slidesOffsetAfter : 280
+				      slidesOffsetBefore : -280
+//		        		  slidesOffsetAfter : 280
 				    },
 				    //当宽度小于等于375-Iphone6
 				    375: {
 				    	  width:300,
 				      slidesPerView: 1,
 				      spaceBetweenSlides: 10,
-				      slidesOffsetBefore : -300,
-		        		  slidesOffsetAfter : 300
+				      slidesOffsetBefore : -300
+//		        		  slidesOffsetAfter : 300
 				    },
 				    //当宽度小于等于320-Iphone5
 				    320: {
 				    	  width:300,
 				      slidesPerView: 1,
 				      spaceBetweenSlides: 10,
-				      slidesOffsetBefore : -328,
-		        		  slidesOffsetAfter : 328
+				      slidesOffsetBefore : -328
+//		        		  slidesOffsetAfter : 328
 				    }
 				  }
 		    });

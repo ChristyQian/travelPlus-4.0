@@ -49,7 +49,8 @@
 		margin-bottom:20px;
 	}
 	.recommend .home-trip-box .imgWrap {
-	    width: 300px;
+		width:100%;
+	    -moz-width: 300px;
 	}
 }
 /* iphone6p - ipad horizontal */

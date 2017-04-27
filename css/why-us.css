@@ -72,6 +72,7 @@ h4 {
 .whyUsTxt .transparentBg,
 .whyUsTxt .transparentTxt {
 	left:0;
+	bottom:0;
 }
 .blueBg {
 	margin:0;
