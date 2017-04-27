@@ -87,11 +87,11 @@
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							从埃菲尔铁塔到巴黎圣母院一览巴黎建筑<br/> 参观以香槟著称的法国小镇和城市兰斯
-							<br/> 参观法国的Moët酒庄
-							<br/> 品尝纯正的高级香槟及法国料理
-							<br/> 丰富的额外自由时间活动安排(另收费)
-							<br/>
+							从埃菲尔铁塔到巴黎圣母院一览巴黎建筑<br/> 
+							参观法国香槟小镇埃佩尔奈和兰斯<br/>
+							参观酩悦轩尼诗旗下的香槟品牌：Moët & Chandon和Veuve Clicquot酒庄<br/>
+							品尝纯正的高级香槟及法国料理<br/>
+							充分的自由时间，深度探索巴黎<br/>					
 						</p>
 					</div>
 				</div>
@@ -225,7 +225,7 @@
 						<div class="imgWrap">
 							<img src="img/page-3.svg" />
 						</div>
-						每日早餐和2顿晚餐
+						每日早餐、2顿晚餐、香槟配对午餐和品酒会
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -292,7 +292,7 @@
 									<li>途经巴黎圣母院</li>
 									<li>参观埃菲尔铁塔、巴黎歌剧院和协和广场</li>
 									<li>欣赏巴黎地标建筑卢浮宫和荣军院</li>
-									<li>在不同商店品尝法国点心、巧克力、马卡 龙等(圣日耳曼德佩教堂或玛黑区)</li>
+									<li>在不同商店品尝法国点心、巧克力、马卡龙等(圣日耳曼德佩教堂或玛黑区)</li>
 									<li>参加欢迎晚宴</li>
 								</ul>
 							</div>
@@ -302,23 +302,18 @@
 								<div class="itemCircle"></div>
 								<label>第3天</label><span>巴黎自由行</span>
 							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>可自由选择参加【在埃菲尔铁塔上午餐】</li>
-								</ul>
-							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>Moët & Chandon酒庄香槟之旅</span>
+								<label>第4天</label><span>Moët酒庄香槟之旅</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>前往香槟小镇埃佩尔奈</li>
 									<li>参观Moët酩悦香槟酒庄</li>
-									<li>在古老酒窖享用香槟午餐</li>
-									<li>前往香槟产区兰斯，并进行观光游</li>
+									<li>在古老酒窖享用香槟配对午餐</li>
+									<li>而后前往香槟产区兰斯，并进行观光游</li>
 								</ul>
 							</div>
 						</div>
@@ -338,11 +333,6 @@
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
 								<label>第6天</label><span>巴黎自由行</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>在巴黎享受自在的一天，可选择参加【凡 尔赛宫和花园参观】和【塞纳河游船晚 餐】</li>
-								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">

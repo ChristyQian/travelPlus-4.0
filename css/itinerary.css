@@ -571,9 +571,6 @@
     		border-bottom: 10px solid #fff;
     		top: -10px;
 	}
-	.recommend .home-trip-box .imgWrap {
-		width:100%;
-	}
 }
 @media screen and (max-width: 768px) {
 	.header .com_dialog .dialogBelongTo {
