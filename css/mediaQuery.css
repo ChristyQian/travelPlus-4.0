@@ -49,8 +49,7 @@
 		margin-bottom:20px;
 	}
 	.recommend .home-trip-box .imgWrap {
-		width:100%;
-	    -moz-width: 300px;
+		width:300px;
 	}
 }
 /* iphone6p - ipad horizontal */
@@ -89,7 +88,6 @@
 	}
 	.home-trip-box .imgWrap,
 	.recommend .home-trip-box .imgWrap {
-		-webkit-width:100%;
 	    width: 300px;
 	}
 	/*.home-trip-box:nth-child(3n) {
@@ -212,10 +210,11 @@
 	}
 	.home-trip-box {
 		width:90%;
+		margin:10px 0;
 	}
-	/*.home-trip-box .imgWrap {
-		width:90%;
-	}*/
+	.recommend .home-trip-box .imgWrap {
+	    width: 370px;
+	}
 	.quoInfo form {
 		padding-top:0;
 	}
@@ -272,14 +271,16 @@
 	.popupContainer .flex-wrap .wechatImg {
 		margin-top:2em;
 	}
+}
+/* iphone6 plus */
+@media screen and (max-width: 414px) {
 	.recommend .home-trip-box .imgWrap {
-		-webkit-width:100%;
-	    width: 373px;
+	    width: 370px;
 	}
 }
+/* iphone6 */
 @media screen and (max-width: 375px) {
 	.recommend .home-trip-box .imgWrap {
-		-webkit-width:100%;
 	    width: 337.5px;
 	}
 }
@@ -295,7 +296,6 @@
 		width:160px;
 	}
 	.recommend .home-trip-box .imgWrap {
-		-webkit-width:100%;
 	    width: 288px;
 	}
 }
