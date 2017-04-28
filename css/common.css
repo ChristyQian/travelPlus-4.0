@@ -592,6 +592,7 @@ filter: gray;
 	/*filter:alpha(opacity=50);
 	opacity:0.5;*/
 	mix-blend-mode: multiply;
+	background-color:#b80217; /* compatibility for IE */
 }
 .discount .transparentTxt {
 	font-size:10px;
@@ -648,6 +649,9 @@ filter: gray;
 		height: inherit;
 		background-color: #94c5db;
 		mix-blend-mode: multiply;
+		background-color:#00618d;/* compatibility for IE */
+		opacity:0.3;
+		filter:(opacity=30);
 		bottom:0;
 	}
 	.hotSale .transparentTxt {
@@ -814,6 +818,7 @@ filter: gray;
 	filter:alpha(opacity=30);
 	opacity:0.3;
 	mix-blend-mode: multiply;
+	background-color:#f48b01;/* compatibility for IE */
 }
 .quotationWrap {
 	position:relative;

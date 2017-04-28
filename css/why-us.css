@@ -38,11 +38,15 @@ h4 {
 .Oval-6 {
 	mix-blend-mode: multiply;
   background-color: #94c5db;
+  background-color: #0076a2;/* compatibility for IE */
+  opacity:0.5;
+  filter:alpha(opacity=50);
 }
 .Oval-7 {
 	mix-blend-mode: multiply;
   background-color: #f7b84f;
   margin-left:-80px;
+  background-color:#efb14a;/* compatibility for IE */
 }
 .whyUsTxt {
 	position:relative;

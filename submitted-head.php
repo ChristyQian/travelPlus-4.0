@@ -7,11 +7,11 @@
 	<link type="text/css" rel="stylesheet" href="css/common.css">				
 	<link type="text/css" rel="stylesheet" href="css/submitted.css">	
 	<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
-	<!--<script src="https://unpkg.com/vue/dist/vue.js"></script>-->
 	<script src="js/swiper.min.js"></script>
 	<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>
 	<!-- flexbox fix for IE js -->
-	<script src="js/flexibility-master/flexibility.min.js"></script>
+	<!--<script src="js/flexibility-master/flexibility.min.js"></script>-->
+	<script src="js/prefixfree.min.js"></script>
 	<title><?php echo $tagTitle; ?></title>		
 	<meta name="title" content="<?php echo $metaTitle; ?>" />
 	<meta name="keywords" content="<?php echo $metaKeywords; ?>" />
