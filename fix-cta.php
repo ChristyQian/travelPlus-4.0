@@ -6,7 +6,7 @@
 						<div class="dialog">
 							<div class="flex-row-center-start">
 								<div class="wechatImg">
-									<img src="img/sSqrcode.png" width="80" height="80" />
+									<img src="img/sSqrcode.jpg" width="80" height="80" />
 								</div>
 								<div class="flexAuto">
 									<p>

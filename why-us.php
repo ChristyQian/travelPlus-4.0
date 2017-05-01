@@ -258,6 +258,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<!--<script src="js/jquery.lettering-0.6.1.min.js"></script>-->
 		<script>
+			//flexibility(document.documentElement);
 			$('.closeIcon').click(function(){
 				$(this).parentsUntil('.com_dialog').hide();
 			});						

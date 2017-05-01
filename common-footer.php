@@ -3,7 +3,7 @@
 		<a href="#top" class="backToTop">回到顶部<i class="upturnedArrow"></i></a>
 		<ul>
 			<li>
-				<a href="allTrips.php">行程</a>
+				<a href="all-trips.php">行程</a>
 			</li>
 			<li>
 				<a href="why-us.php">特色</a>
