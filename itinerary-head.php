@@ -11,8 +11,6 @@
 	<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
 	<script src="js/swiper.min.js"></script>
 	<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>	
-	<!-- <script src="js/prefixfree.min.js"></script> -->
-	<!-- flexbox fix for IE js -->
 	<!--[if IE 8]>
 		<link rel="stylesheet" type="text/css" href="css/ie-flex.css" />
 		<script src="js/flexibility-master/flexibility.min.js"></script>
@@ -22,7 +20,6 @@
 		<link rel="stylesheet" type="text/css" href="css/ie-flex.css" />
 		<script src="js/flexibility-master/flexibility.min.js"></script>
 	<![endif]-->
-	
 	<title>
 		<?php echo $tagTitle; ?>
 	</title>
