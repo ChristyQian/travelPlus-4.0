@@ -8,10 +8,11 @@
 	<link type="text/css" rel="stylesheet" href="css/why-us.css">
 	<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
 	<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>	
-	<!--[if IE 8]>
+	<!--[if gte 8]>
 		<link rel="stylesheet" type="text/css" href="css/ie-flex.css" />
 		<script src="js/flexibility-master/flexibility.min.js"></script>
 	<![endif]-->	
+	
 	<!--[if IE 9]>
 		<link rel="stylesheet" type="text/css" href="css/ie-flex.css" />
 		<script src="js/flexibility-master/flexibility.min.js"></script>

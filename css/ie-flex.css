@@ -157,3 +157,30 @@ footer .flex-row-center-start div {
 .popup.wechat {
 	display:none;
 }
+/* fix mix-blend-mod */
+.Oval-6 {
+  background-color: #0076a2;/* compatibility for IE */
+  opacity:0.5;
+  filter:alpha(opacity=50);
+}
+.Oval-7 {
+  margin-left:-80px;
+  background-color:#efb14a;/* compatibility for IE */
+}
+.discount .transparentBg {
+	background-color:#b80217; /* compatibility for IE */
+}
+.transparentBg {
+	background-color:#00618d;/* compatibility for IE */
+	opacity:0.3;
+	filter:(opacity=30);
+	bottom:0;
+}
+.quotationBg {
+	background-color:#f48b01;/* compatibility for IE */
+}
+.tourInfo .transparentBg {
+	background-color:#00618d;/* compatibility for IE */
+	opacity:0.3;
+	filter:(opacity=30);
+}

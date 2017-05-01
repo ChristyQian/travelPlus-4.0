@@ -36,9 +36,6 @@
 	filter:alpha(opacity=80);
 	opacity: 1.0;
 	mix-blend-mode: multiply;
-	background-color:#00618d;/* compatibility for IE */
-	opacity:0.3;
-	filter:(opacity=30);
 }
 .tourInfo .transparentTxt {
 	text-align:left;
@@ -121,6 +118,7 @@
 	font-size:0.8em;
 }
 .itineraryHighLights .flex1 {
+	-js-display: flex;
 	align-self: baseline;
 	font-weight:lighter;
 }
@@ -454,7 +452,7 @@
 	vertical-align: sub;
 	margin-right:5px;
 }
-.flight .flex-row-end-between div {
+.flight h4 div {
 	display:none;/* No function, so hidden */
 }
 .flight .swiper-pagination {
