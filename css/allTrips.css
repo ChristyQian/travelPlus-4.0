@@ -41,7 +41,9 @@ select {
 }
 .dropdown {
     opacity: 0;
-    transform:scale(0, 0);
+    -webkit-transform:scale(0, 0);
+            transform:scale(0, 0);
+    -webkit-transition:all 0.3s ease;
     transition:all 0.3s ease;
     overflow: hidden;
     z-index: 100;
@@ -65,9 +67,11 @@ a.close-dropdown {
     background: transparent;
 }
 #dropdown-box:target .dropdown {
-    transform:scale(1, 1);
+    -webkit-transform:scale(1, 1);
+            transform:scale(1, 1);
     opacity: 1;
     z-index: 9999;
+    -webkit-transition:all 0.3s ease;
     transition:all 0.3s ease;
     position:fixed;
     /*display:block;*/
@@ -91,7 +95,8 @@ a.close-dropdown {
 	
 }
 .filterWrap {
-	flex-flow:row wrap;
+	-ms-flex-flow:row wrap;
+	    flex-flow:row wrap;
 }
 .checkbox {
 	display:inline-block;
@@ -186,7 +191,9 @@ a.close-dropdown {
 		line-height:30px;
 	}
 	.filter .flex-row-start-start {
-	    justify-content: flex-start;
+	    -webkit-box-pack: start;
+	        -ms-flex-pack: start;
+	            justify-content: flex-start;
 	}		
 	.destinations {
 		width:100%;
@@ -195,7 +202,8 @@ a.close-dropdown {
 		width:100%;
 	}
 	.filterConditions {
-		flex-flow:row wrap;
+		-ms-flex-flow:row wrap;
+		    flex-flow:row wrap;
 	}
 	.checkbox {
 		/*flex:0 0 100px;*/

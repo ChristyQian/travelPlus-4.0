@@ -173,7 +173,8 @@ footer .flex-row-center-start div {
 .transparentBg {
 	background-color:#00618d;/* compatibility for IE */
 	opacity:0.3;
-	filter:(opacity=30);
+	-webkit-filter:(opacity=30);
+	        filter:(opacity=30);
 	bottom:0;
 }
 .quotationBg {
@@ -182,5 +183,6 @@ footer .flex-row-center-start div {
 .tourInfo .transparentBg {
 	background-color:#00618d;/* compatibility for IE */
 	opacity:0.3;
-	filter:(opacity=30);
+	-webkit-filter:(opacity=30);
+	        filter:(opacity=30);
 }

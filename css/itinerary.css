@@ -2,7 +2,9 @@
 	width:1160px;
 }
 .home-trip-box {
-	flex:0 1 368px;/*because the width smaller than other page*/
+	-webkit-box-flex:0;
+	    -ms-flex:0 1 368px;
+	        flex:0 1 368px;/*because the width smaller than other page*/
 }
 .recommend .home-trip-box .imgWrap {
 	width:368px;
@@ -69,7 +71,8 @@
 	border-bottom:1px solid rgba(255,255,255,0.5);
 }
 .itineraryInfo .flex1 {
-	align-self: flex-end;
+	-ms-flex-item-align: end;
+	    align-self: flex-end;
 	font-size:2.4em;
 }
 .itineraryInfo .flex1:first-child {
@@ -88,10 +91,12 @@
 	font-size:16px;
 }
 .itineraryLine .flex-row-start-between div {
-	align-self:flex-end;
+	-ms-flex-item-align:end;
+	    align-self:flex-end;
 }
 .itineraryLine .flex-row-start-between i {
 	-ms-grid-row-align: center;
+	    -ms-flex-item-align: center;
 	    align-self: center;
 	color:#231f20;
 	filter:alpha(opacity=50);
@@ -101,7 +106,8 @@
 	display: none;
 }
 .itineraryLine+.flex-row-start-between div{
-	align-self: flex-end;
+	-ms-flex-item-align: end;
+	    align-self: flex-end;
 }
 .priceWG {
 	color:#fff;
@@ -120,7 +126,8 @@
 }
 .itineraryHighLights .flex1 {
 	-js-display: flex;
-	align-self: baseline;
+	-ms-flex-item-align: baseline;
+	    align-self: baseline;
 	font-weight:lighter;
 }
 .itineraryHighLights .flex1.hightLight {
@@ -223,8 +230,12 @@
 	white-space: nowrap;
 }
 .swiper-slide .photoBy {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
-	align-items: center;
+	-webkit-box-align: center;
+	    -ms-flex-align: center;
+	        align-items: center;
 	padding:10px;
 }
 .swiper-slide .photoBy .imgWrap {
@@ -250,17 +261,24 @@
 	font-weight: lighter;	
 }*/
 .includedItems {
-	flex-flow: row wrap;
+	-ms-flex-flow: row wrap;
+	    flex-flow: row wrap;
 }
 .includedItems div {
-	flex:0 1 160px;
+	-webkit-box-flex:0;
+	    -ms-flex:0 1 160px;
+	        flex:0 1 160px;
 	text-align: center;
-	align-items: baseline;
+	-webkit-box-align: baseline;
+	    -ms-flex-align: baseline;
+	        align-items: baseline;
 	font-size: 1.6em;
 	font-weight: lighter;
 	margin:0 10px;
 }
 .includedItems div .imgWrap {
+	display: -webkit-box;
+	display: -ms-flexbox;
 	display: flex;
 	margin:20px auto;
 	width: 50px;
@@ -296,6 +314,7 @@
 	width:100%;
 	height:116px;
 	bottom:0;
+	background-image: -webkit-linear-gradient(bottom, #ffffff, rgba(255, 255, 255, 0));
 	background-image: linear-gradient(to top, #ffffff, rgba(255, 255, 255, 0));
 }
 .initialScreen.expand {
@@ -357,7 +376,8 @@
 	display: block;
 	width:inherit;
 	padding:30px 20px;
-	transform: scale(1.2,1.2);
+	-webkit-transform: scale(1.2,1.2);
+	        transform: scale(1.2,1.2);
 }
 .borderBtn.allItinerary {
 	display: block;
@@ -593,17 +613,24 @@
 		border-bottom:none;
 	}
 	.itineraryInfo .flex-row-start-around.itineraryBasicInfo {
-		flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
 	}
 	.flex-row-start-around.itineraryHighLights,
 	.itineraryInfo .flex-row-start-around.itineraryBasicInfo .flex-row-start-between {
-		flex-direction: row;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
 	}
 	.itineraryInfo .flex1:first-child {
 		padding-right:0;
 	}
 	.itineraryInfo .flex1.itineraryLine {
 		-ms-grid-row-align: stretch;
+		    -ms-flex-item-align: stretch;
 		    align-self: stretch;
 		margin-bottom:10px;
 		border-bottom:1px solid rgba(255,255,255,0.5);
@@ -611,6 +638,7 @@
 	}
 	.itineraryInfo .flex1.itineraryLine+.flex-row-start-between {
 		-ms-grid-row-align: stretch;
+		    -ms-flex-item-align: stretch;
 		    align-self: stretch;
 	}
 	.itineraryInfo .flex1:last-child {
@@ -623,7 +651,9 @@
 		margin-bottom:0;
 	}
 	.includedItems div {
-		flex:0 1 200px;
+		-webkit-box-flex:0;
+		    -ms-flex:0 1 200px;
+		        flex:0 1 200px;
 	}
 	.blueRBtn {
 		width:144px;
@@ -665,9 +695,16 @@
 		padding:10px 0;
 	}
 	.blog .flex-row-center-between {
-		flex-direction: column;
-		flex:0 1 137px;
-		align-items:flex-start;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
+		-webkit-box-flex:0;
+		    -ms-flex:0 1 137px;
+		        flex:0 1 137px;
+		-webkit-box-align:start;
+		    -ms-flex-align:start;
+		        align-items:flex-start;
 		margin:0 5px;
 	}
 	.blog .image {
@@ -695,7 +732,10 @@
 	}
 	
 	.tourInfo .flex-row-start-between {
-		flex-direction: row;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
 		margin-top:30px;
 	}
 	.tourName {
@@ -707,7 +747,10 @@
 		display:none;
 	}
 	.flex-row-start-around.itineraryHighLights {
-		flex-direction: column;
+		-webkit-box-orient: vertical;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: column;
+		        flex-direction: column;
 	}
 	.itineraryHighLights .flex1.hightLight {
 		padding-left:0;
@@ -752,7 +795,10 @@
 		font-size:inherit;
 	}
 	.flight .flex-row-start-between {
-		flex-direction: row;
+		-webkit-box-orient: horizontal;
+		-webkit-box-direction: normal;
+		    -ms-flex-direction: row;
+		        flex-direction: row;
 	}
 	.quotation {
 		width:90%;
@@ -784,7 +830,9 @@
 		padding:0;
 	}
 	.includedItems div {
-		flex:0 1 120px;
+		-webkit-box-flex:0;
+		    -ms-flex:0 1 120px;
+		        flex:0 1 120px;
 		font-size:12px;
 	}
 	.borderBtn.allItinerary {

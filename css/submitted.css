@@ -49,7 +49,9 @@
 	.submitted .serif+.flex-row-start-between {
 		font-size:1em;
 		top:80px;
-		align-items:flex-start;
+		-webkit-box-align:start;
+		    -ms-flex-align:start;
+		        align-items:flex-start;
 		width:100%;
 	}
 	.wechatImg {
