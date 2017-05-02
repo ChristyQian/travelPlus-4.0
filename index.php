@@ -42,7 +42,7 @@
 								花样妈妈团：西法意城市狂想<br/>
 								2017.5.27出发
 							</p>
-							<a class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera-mama.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="slide-1" class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera-mama.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -66,7 +66,7 @@
 								MOET酩悦香槟法国微醺之旅<br/>
 								2017.9.30出发
 							</p>
-							<a class="borderBtn" href="itinerary-moet-paris-reims.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="slide-2" class="borderBtn" href="itinerary-moet-paris-reims.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -90,7 +90,7 @@
 								食在意大利：食物与酒的美学<br/>
 								2017.9.29出发
 							</p>
-							<a class="borderBtn" href="itinerary-food-wine-northern-italy-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="slide-3" class="borderBtn" href="itinerary-food-wine-northern-italy-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -114,7 +114,7 @@
 								西法意城市狂想<br/>
 								2017.9.29出发
 							</p>
-							<a class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="slide-4" class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -138,7 +138,7 @@
 								阿尔卑斯山环游之旅<br/>
 								2017.9.30出发
 							</p>
-							<a class="borderBtn" href="itinerary-jewels-of-alpine-europe.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="slide-5" class="borderBtn" href="itinerary-jewels-of-alpine-europe.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -162,7 +162,7 @@
 								邂逅惬意欧洲之旅<br/>
 								2017.9.29出发
 							</p>
-							<a class="borderBtn" href="itinerary-london-paris-amsterdam.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="slide-6" class="borderBtn" href="itinerary-london-paris-amsterdam.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -186,7 +186,7 @@
 								西班牙全景深度游<br/>
 								2017.9.30出发
 							</p>
-							<a class="borderBtn" href="itinerary-grand-tour-of-spain.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="slide-7" class="borderBtn" href="itinerary-grand-tour-of-spain.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			    </div>

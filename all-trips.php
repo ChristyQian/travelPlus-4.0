@@ -54,7 +54,7 @@
 								<option value="au" data-display="奥地利">奥地利</option>
 							</select>
 						</div>
-						<div class="flex-row-start-start flex-flow">
+						<div id="trip-tag" class="flex-row-start-start flex-flow">
 							<div data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
 								历史遗迹
 							</div>
