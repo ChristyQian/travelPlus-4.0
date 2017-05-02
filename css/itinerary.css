@@ -91,7 +91,8 @@
 	align-self:flex-end;
 }
 .itineraryLine .flex-row-start-between i {
-	align-self: center;
+	-ms-grid-row-align: center;
+	    align-self: center;
 	color:#231f20;
 	filter:alpha(opacity=50);
 	opacity: 0.5;
@@ -602,13 +603,15 @@
 		padding-right:0;
 	}
 	.itineraryInfo .flex1.itineraryLine {
-		align-self: stretch;
+		-ms-grid-row-align: stretch;
+		    align-self: stretch;
 		margin-bottom:10px;
 		border-bottom:1px solid rgba(255,255,255,0.5);
 		padding-bottom:10px;
 	}
 	.itineraryInfo .flex1.itineraryLine+.flex-row-start-between {
-		align-self: stretch;
+		-ms-grid-row-align: stretch;
+		    align-self: stretch;
 	}
 	.itineraryInfo .flex1:last-child {
 		padding-left:0;
