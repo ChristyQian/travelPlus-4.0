@@ -30,6 +30,7 @@
 .fixCAT .flex-row-center-end .hotline {
 	display:inline-block;
 	float:left;
+	width:145px;
 }
 .fixCAT .flex-row-center-end a.orangeBtn {
 	display:inline-block;

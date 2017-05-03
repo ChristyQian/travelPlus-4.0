@@ -9,15 +9,9 @@
 	<link type="text/css" rel="stylesheet" href="css/home.css">
 	<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
 	<script src="js/swiper.min.js"></script>
-	<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>	
-	<!--[if gte IE 8]>
+	<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>		
+	<!--[if IE]>
 		<link rel="stylesheet" type="text/css" href="css/ie-flex.css" />
-		<script src="js/flexibility-master/flexibility.min.js"></script>
-	<![endif]-->
-	
-	<!--[if IE 9]>
-		<link rel="stylesheet" type="text/css" href="css/ie-flex.css" />
-		<script src="js/flexibility-master/flexibility.min.js"></script>
 	<![endif]-->
 	<title><?php echo $tagTitle; ?></title>		
 	<meta name="title" content="<?php echo $metaTitle; ?>" />
