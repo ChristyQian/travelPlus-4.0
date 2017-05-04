@@ -170,10 +170,15 @@ footer .flex-row-center-start div {
 }
 .discount .transparentBg {
 	background-color:#b80217; /* compatibility for IE */
+	opacity: 0.8;
+	filter:alpha(opacity=80);
+	-webkit-filter:(opacity=80);
+	        filter:(opacity=80);
 }
 .transparentBg {
 	background-color:#00618d;/* compatibility for IE */
 	opacity:0.3;
+	filter:alpha(opacity=30);
 	-webkit-filter:(opacity=30);
 	        filter:(opacity=30);
 	bottom:0;
@@ -184,6 +189,16 @@ footer .flex-row-center-start div {
 .tourInfo .transparentBg {
 	background-color:#00618d;/* compatibility for IE */
 	opacity:0.3;
+	filter:alpha(opacity=30);
 	-webkit-filter:(opacity=30);
 	        filter:(opacity=30);
+}
+/* fix transform */
+.itineraryMap {
+	width:720px;
+	height:576px;
+}
+.itineraryMap img {
+	padding:0;
+	transform: scale(0,0);
 }

@@ -45,6 +45,7 @@
 									<i class="fa fa-warning"></i>请输入起飞地点
 
 								</div>
+								<div class="dropdownArrow"></div>
 
 							</div>
 
@@ -75,6 +76,7 @@
 									<i class="fa fa-warning"></i>请输入旅行时间
 
 								</div>
+								<div class="dropdownArrow"></div>
 
 							</div>
 

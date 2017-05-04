@@ -392,7 +392,7 @@
 /*****************************************/
 .hotels .swiper-container {
 	width:inherit;
-	height:580px;
+	height:640px;
 	overflow:hidden;
 }
 .hotels .swiper-slide {
@@ -418,6 +418,7 @@
 	font-size:1.6em;
 	font-weight:lighter;
 	padding:2.6rem;
+	background-color: #f0f2f4;
 }
 .blog {
 	padding-bottom:135px;
