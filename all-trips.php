@@ -43,14 +43,19 @@
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
 								<option value="uk" data-display="英国">英国</option>
+								<option value="sc" data-display="苏格兰">苏格兰</option>
+								<option value="ir" data-display="爱尔兰">爱尔兰</option>
 								<option value="fr" data-display="法国">法国</option>
 								<option value="ge" data-display="德国">德国</option>
 								<option value="it" data-display="意大利">意大利</option>
+								<option value="sp" data-display="西班牙">西班牙</option>
 								<option value="nz" data-display="荷兰">荷兰</option>
 								<option value="sw" data-display="瑞士">瑞士</option>
 								<option value="gr" data-display="希腊">希腊</option>
 								<option value="dm" data-display="丹麦">丹麦</option>
 								<option value="nw" data-display="挪威">挪威</option>
+								<option value="fl" data-display="芬兰">芬兰</option>
+								<option value="bg" data-display="比利时">比利时</option>
 								<option value="au" data-display="奥地利">奥地利</option>
 							</select>
 						</div>
@@ -103,7 +108,7 @@
 			<div class="section">
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">	
-					<div id="moet-paris-reims" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="food">
+					<div id="moet-paris-reims" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="history,art,nature,honeymoon,food">
 						<a href="itinerary-moet-paris-reims.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/moet-paris-reim.jpg" alt="" />
@@ -263,7 +268,7 @@
 							</div>
 						</a>
 				    </div>
-				   <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="art,nature,seaview,honeymoon">
+				   <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
 						<a href="itinerary-grand-tour-of-spain.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
@@ -332,7 +337,7 @@
 							</div>
 						</a>
 				    </div>
-					<div id="highlights-of-northern-europe-london-to-copenhagen" name="home-trip-box" class="home-trip-box" data-dest="uk,nz,dm" data-tag="history,nature,honeymoon">
+					<div id="highlights-of-northern-europe-london-to-copenhagen" name="home-trip-box" class="home-trip-box" data-dest="uk,ge,dm,nz,bg" data-tag="history,art,honeymoon,northeuro">
 						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/Highlights-of-Northern-Europe--London-to-Copenhagen.jpg" alt="" />
@@ -460,7 +465,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon">
+				    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-a-taste-of-spain.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/Food-&-Wine_A-Taste-of-Spain.jpg" alt="" />
@@ -492,7 +497,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="london-edinburgh-dublin" name="home-trip-box" class="home-trip-box" data-dest="uk" data-tag="history,art,nature,honeymoon">
+				    <div id="london-edinburgh-dublin" name="home-trip-box" class="home-trip-box" data-dest="uk,sc,ir" data-tag="history,art,nature,honeymoon">
 						<a href="itinerary-london-edinburgh-dublin.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/london-edinburgh-dublin.jpg" alt="" />
@@ -780,7 +785,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="dm,nw,sw" data-tag="history,art,seaview,northeuro">
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
