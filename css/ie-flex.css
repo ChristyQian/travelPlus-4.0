@@ -169,29 +169,28 @@ footer .flex-row-center-start div {
   background-color:#efb14a;/* compatibility for IE */
 }
 .discount .transparentBg {
-	background-color:#b80217; /* compatibility for IE */
+	/*background-color:#b80217; 
 	opacity: 0.8;
 	filter:alpha(opacity=80);
 	-webkit-filter:(opacity=80);
-	        filter:(opacity=80);
+	        filter:(opacity=80);*/
+	background-color: #bd0fe1;
+	opacity: 0.9;
+	filter:alpha(opacity=90);
+	-webkit-filter:(opacity=90);
+	        filter:(opacity=90);
 }
 .transparentBg {
-	background-color:#00618d;/* compatibility for IE */
-	opacity:0.3;
-	filter:alpha(opacity=30);
-	-webkit-filter:(opacity=30);
-	        filter:(opacity=30);
+	background-color:#2f7899;
+	opacity:0.8;
+	filter:alpha(opacity=80);
+	-webkit-filter:(opacity=80);
+	        filter:(opacity=80);
 	bottom:0;
 }
 .quotationBg {
-	background-color:#f48b01;/* compatibility for IE */
-}
-.tourInfo .transparentBg {
-	background-color:#00618d;/* compatibility for IE */
-	opacity:0.3;
-	filter:alpha(opacity=30);
-	-webkit-filter:(opacity=30);
-	        filter:(opacity=30);
+	/*background-color:#f48b01;*/
+	background-color:#fc9917;
 }
 /* fix transform */
 .itineraryMap {

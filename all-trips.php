@@ -106,7 +106,7 @@
 					<div id="moet-paris-reims" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="food">
 						<a href="itinerary-moet-paris-reims.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/moet-paris-reim-6.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/moet-paris-reim.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -138,7 +138,7 @@
 				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/food-wine-northern-italy-the-italian-riviera.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -170,7 +170,7 @@
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -335,7 +335,7 @@
 					<div id="highlights-of-northern-europe-london-to-copenhagen" name="home-trip-box" class="home-trip-box" data-dest="uk,nz,dm" data-tag="history,nature,honeymoon">
 						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/highlights-of-northern-europe-london-to-copenhagen.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/Highlights-of-Northern-Europe--London-to-Copenhagen.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -367,7 +367,7 @@
 				   <div id="rome-paris-athens" name="home-trip-box" class="home-trip-box" data-dest="fr,it,gr" data-tag="history,art,family">
 						<a href="itinerary-rome-paris-athens.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/rome-paris-athens.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/Rome-Paris-Greece.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -463,7 +463,7 @@
 				    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon">
 						<a href="itinerary-food-wine-a-taste-of-spain.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/food-wine-a-taste-of-spain.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/Food-&-Wine_A-Taste-of-Spain.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -655,7 +655,7 @@
 				    <div id="food-wine-france-through-bordeaux-the-loire-valley" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="nature,honeymoon,food">
 						<a href="itinerary-food-wine-france-through-bordeaux-the-loire-valley.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/food-wine-france-through-bordeaux-the-loire-valley.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/Food-&-Wine_France-through-Bordeaux-&-the-Loire-Valley.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -687,7 +687,7 @@
 				    <div id="rome-sorrento-sicily" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,seaview">
 						<a href="itinerary-rome-sorrento-sicily.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/rome-sorrento-sicily.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/Sorrento-Rome-Sicily.jpg" alt="" />
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">

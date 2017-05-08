@@ -601,8 +601,8 @@ h4 {
 	height:inherit;
 	border-radius:50%;
 	background-color:#bd0fe1;
-	/*filter:alpha(opacity=50);
-	opacity:0.5;*/
+	filter:alpha(opacity=90);
+	opacity:0.9;
 	mix-blend-mode: multiply;
 }
 .discount .transparentTxt {
@@ -660,8 +660,10 @@ h4 {
 	.transparentBg {
 		width: inherit;
 		height: inherit;
-		background-color: #94c5db;
+		background-color: #2f7899;
 		mix-blend-mode: multiply;
+		opacity: 0.8;
+		filter:alpha(opacity=80);
 		bottom:0;
 	}
 	.hotSale .transparentTxt {
@@ -831,9 +833,11 @@ h4 {
 .quotationBg {
 	position:absolute;
 	z-index: 2;
-	filter:alpha(opacity=30);
+	/*filter:alpha(opacity=30);
 	opacity:0.3;
-	mix-blend-mode: multiply;
+	mix-blend-mode: multiply;*/
+	/*background-color:#f48b01;*/
+	background-color:#fc9917;
 }
 .quotationWrap {
 	position:relative;
@@ -893,7 +897,7 @@ h4 {
 }
 .dropdownArrow {
 	position: absolute;
-    bottom: 20px;
+    bottom: 15px;
     right: 10px;
     width: 0;
     height: 0;

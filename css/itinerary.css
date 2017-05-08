@@ -34,10 +34,10 @@
 .tourInfo .transparentBg {
 	width:inherit;
 	height: inherit;
-	background-color:#94c5db;
+	/*background-color:#94c5db;
 	filter:alpha(opacity=80);
 	opacity: 1.0;
-	mix-blend-mode: multiply;
+	mix-blend-mode: multiply;*/
 }
 .tourInfo .transparentTxt {
 	text-align:left;
@@ -213,10 +213,8 @@
 .hotelIntro .transparentBg {
 	width:inherit;
 	height:inherit;
-	background-color:#2F7899;
 	filter:alpha(opacity=50);
 	opacity:0.5;
-	/*mix-blend-mode: multiply;*/
 }
 .bgIntro .transparentTxt,
 .hotelIntro .transparentTxt {
@@ -385,7 +383,7 @@
 	height: 48px;
 	border-radius:24px;
 	margin:40px auto;
-	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
+	/*box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);*/
 }
 /*****************************************/
 /*           Itinerary Hotel             */

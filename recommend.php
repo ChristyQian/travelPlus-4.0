@@ -4,7 +4,7 @@
 		<div class="home-trip-box">
 			<a href="itinerary-moet-paris-reims.php">	
 				<div class="imgWrap">
-					<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
+					<img src="img/itinerary/allTripsList/moet-paris-reim.jpg" alt="" />
 					<div class="hotSale">
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
@@ -36,7 +36,7 @@
 		<div class="home-trip-box">
 			<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
 				<div class="imgWrap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
+					<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
 					<div class="hotSale">
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
@@ -68,7 +68,7 @@
 		<div class="home-trip-box">
 			<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
 				<div class="imgWrap">
-					<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
+					<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
 					<div class="hotSale">
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">

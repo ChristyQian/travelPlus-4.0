@@ -21,7 +21,7 @@
 			<!-- slider -->
 			<div class="swiper-container">
 			    <div class="swiper-wrapper">
-			        <div class="swiper-slide">
+			        <!-- <div class="swiper-slide">
 			        	<div class="sliderBg">
 			        		<img src="img/itinerary/billboard/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" />
 			        	</div>
@@ -44,7 +44,7 @@
 							</p>
 							<a id="slide-1" class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera-mama.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
-			        </div>
+			        </div> -->
 			        <div class="swiper-slide">
 			        	<div class="sliderBg">
 			        		<img src="img/itinerary/home-moet-paris-reim.jpg"  />

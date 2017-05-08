@@ -14,7 +14,7 @@
 <?php 
 	include_once('common-header2.php');
 ?>
-		<div class="yellowBg">
+<!-- 		<div class="yellowBg">
 			<div class="site">
 		 		<h5>最后召集</h5>
 		 		<div class="serif">只剩2席，就等你啦！</div>				
@@ -55,7 +55,7 @@
 					</a>
 			    </div>
 			</div>
-		</div>
+		</div> -->
 		<div class="lightBlueBg">
 			<div class="site">
 		 		<h5>限时优惠</h5>
@@ -67,7 +67,7 @@
 				<div class="home-trip-box">
 					<a href="itinerary-moet-paris-reims.php">	
 						<div class="imgWrap">
-							<img src="img/itinerary/moet-paris-reim-6.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/moet-paris-reim.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
@@ -99,7 +99,7 @@
 			    <div class="home-trip-box">
 					<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
 						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/food-wine-northern-italy-the-italian-riviera/1.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
@@ -131,7 +131,7 @@
 				<div class="home-trip-box">
 					<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
 						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/barcelona-southern-france-the-italian-riviera/1.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
@@ -163,7 +163,7 @@
 			    <div class="home-trip-box">
 					<a href="itinerary-jewels-of-alpine-europe.php">	
 						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/jewels-of-alpine-europe/1.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
@@ -195,7 +195,7 @@
 			    <div class="home-trip-box">
 					<a href="itinerary-london-paris-amsterdam.php">	
 						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/london-paris-amsterdam/1.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/london-paris-amsterdam.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
@@ -227,7 +227,7 @@
 			    <div class="home-trip-box">
 					<a href="itinerary-grand-tour-of-spain.php">	
 						<div class="imgWrap">
-							<img src="http://travelplus.ef.com.cn/sp/img/itinerary/grand-tour-of-spain/4.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
