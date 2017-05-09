@@ -178,3 +178,63 @@
 				$('.header-nav.affix .com_dialog').show();
 				$('.header-nav.affix .dialogWrap').show();
 			});
+
+/* The sticky-nav will show when scroll up and disappear when scroll down */		
+  var $nav = $('#travelPlusNav');
+  window.onscroll = function(e){
+    scrollFunc();
+    if(scrollDirection == 'down'){
+      $nav.css({
+        display: 'none'
+      });
+    }
+    else if(scrollDirection == 'up'){
+      $nav.css({
+        display: 'block'
+      });
+    }
+  }
+  var scrollAction = { y: 'undefined'}, scrollDirection;
+  function scrollFunc() {
+    var diffY = scrollAction.y - window.pageYOffset;
+     if (diffY < 0) {
+    // Scroll down
+      scrollDirection = 'down';
+    } else if (diffY > 0) {
+    // Scroll up
+      scrollDirection = 'up';
+    } else {
+    // First scroll event
+    }
+    scrollAction.y = window.pageYOffset;
+  }
+  
+  var clientWidth = document.body.clientWidth;
+  window.addEventListener('scroll',function(){
+  	if (clientWidth > 425) {
+  		var rolledHeight = document.body.scrollTop;
+	  	if (rolledHeight < 700) {
+		  	$('.fixCAT').hide();
+		} 
+		else {
+		  	$('.fixCAT').show();
+		  	if (4400 < rolledHeight && rolledHeight < 5700) {
+				$('.fixCAT').hide();
+			}
+		}
+	}
+	else {
+  		var rolledHeight = document.body.scrollTop;
+	  	console.log(rolledHeight);
+	  	if  (rolledHeight < 450) {
+		  	$('.fixCAT').hide();
+		} 
+		else {
+			$('.fixCAT').show();
+			if (3400 < rolledHeight && rolledHeight < 4700) {
+				$('.fixCAT').hide();
+			}
+		}
+	}
+  });
+			

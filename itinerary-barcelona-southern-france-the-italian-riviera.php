@@ -22,7 +22,7 @@
 	include_once('common-header.php');
 ?>	
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg)  center right no-repeat;
+		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg)  center center no-repeat;
 				background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
