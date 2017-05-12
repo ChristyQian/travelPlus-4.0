@@ -30,7 +30,7 @@
 	        	<div id="top-hotline" class="icon Oval"><a class="call" href="tel:400-180-7518" onclick="s_objectID=&quot;tel:400-180-7518_2&quot;;return this.s_oc?this.s_oc(e):true"></a></div>
 	        	<div class="hotline">
 	        		<p>来电咨询</p>
-	        		<span>400-018-7518</span>
+	        		<span>400-180-7518</span>
 	        	</div>
 	        	<a id="top-offer" class="borderBtn" href="deals.php">
 	        		更多优惠

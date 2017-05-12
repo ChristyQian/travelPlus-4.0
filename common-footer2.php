@@ -6,7 +6,7 @@
 				<div class="icon Oval grayImg"><i class="call"></i></div>
 				<div class="hotline">
 		        		<p>来电咨询</p>
-		        		<span>400-018-7518</span>
+		        		<span>400-180-7518</span>
 		        	</div>
 	        	</div>
 			<div>
