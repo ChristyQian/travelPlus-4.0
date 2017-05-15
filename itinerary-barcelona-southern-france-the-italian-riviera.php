@@ -120,7 +120,7 @@
 						<div class="photoBy">
 							<div class="com_profile">
 								<div class="imgWrap">
-									<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg" />
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 								</div>
 							</div>
 							Photo by Anita
@@ -139,7 +139,7 @@
 						<div class="photoBy">
 							<div class="com_profile">
 								<div class="imgWrap">
-									<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg" />
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 								</div>
 							</div>
 							Photo by Anita
@@ -158,7 +158,7 @@
 						<div class="photoBy">
 							<div class="com_profile">
 								<div class="imgWrap">
-									<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg" />
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 								</div>
 							</div>
 							Photo by Anita
@@ -177,7 +177,7 @@
 						<div class="photoBy">
 							<div class="com_profile">
 								<div class="imgWrap">
-									<img src="http://travelplus.ef.com.cn/sp/img/inner-our-team-3.jpg" />
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 								</div>
 							</div>
 							Photo by Anita

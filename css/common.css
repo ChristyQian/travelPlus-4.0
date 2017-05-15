@@ -844,8 +844,8 @@ h4 {
 	position:relative;
 }
 .quotationWrap .discount {
-	top:-80px;
-	right:2px;
+	top:-70px;
+	right:20px;
 	z-index:3;
 	mix-blend-mode: multiply;
 	width:129px;
