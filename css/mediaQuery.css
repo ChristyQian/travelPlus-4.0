@@ -47,10 +47,10 @@
 	}
 	.quotationBg,
 	.quotationWrap {
-		height:500px;
+		height:540px;
 	}
 	.quoInfo form h4 {
-		margin-bottom:20px;
+		margin:10px 0;
 	}
 	.recommend .home-trip-box .imgWrap {
 		width:300px;
@@ -236,8 +236,12 @@
 	.recommend .home-trip-box .imgWrap {
 	    width: 370px;
 	}
+	.quotationBg,
+	.quotationWrap {
+		height:480px;
+	}
 	.quoInfo form {
-		padding-top:0;
+		padding-top:1em;
 	}
 	.quoItem label {
 		font-size:1.2em;

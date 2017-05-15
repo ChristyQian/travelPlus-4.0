@@ -173,7 +173,8 @@ i {
 /*                Fixed                  */
 /*****************************************/
 .fixCAT {
-	display:none;
+	visibility: hidden;
+	opacity: 0;
 	position:fixed;
 	z-index:9999;
 	width:100%;
@@ -182,6 +183,8 @@ i {
 	background-color:#f4af39;
 	color:#fff;
 	font-size:1.6em;
+	-webkit-transition: 300ms ease;
+	transition: 300ms ease;
 }
 .fixCAT .Oval-5 {
 	background-color:#fff;
@@ -323,6 +326,10 @@ i {
 	background-color:#fff;
 	padding:20px;
 	top:0;
+	-webkit-transition:opacity 200ms linear;
+	transition:opacity 200ms linear;
+	-webkit-transition:height 500ms linear;
+	transition:height 500ms linear;
 }
 .header-nav li,
 .header-nav.affix li,
@@ -823,12 +830,12 @@ h4 {
 	font-size:3.2em;
 	color:#fff;
 	padding-left:23px;
-	margin:27px auto;
+	margin:10px auto;
 }
 .quotationBg,
 .quotationWrap {
 	width:inherit;
-	height:640px;
+	height:560px;
 	background-color:#f5a623;	
 }
 .quotationBg {
@@ -864,7 +871,7 @@ h4 {
 	line-height:2em;
 }
 .quoInfo form h4 {
-	margin-left:-0.7em;
+	padding:10px 0;
 	line-height: 1em;
 }
 .quoInfo form .priceWG {

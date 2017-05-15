@@ -189,13 +189,17 @@
 	}
     if(scrollDirection == 'down'){
       $nav.css({
-        display: 'none'
-      });
+			visibility:'hidden',
+			opacity:0,
+			height:0
+		});
     }
     else if (scrollDirection == 'up') {
       $nav.css({
-        display: 'block'
-      });
+			visibility:'visible',
+			opacity:1,
+			height: 'auto'
+		});
     }
   }
 
@@ -216,30 +220,48 @@
   
   var clientWidth = document.body.clientWidth;
   window.addEventListener('scroll',function(){
-  	if (clientWidth > 425) {
+	if (clientWidth > 425) {
   		var rolledHeight = document.body.scrollTop;
 	  	if (rolledHeight < 700) {
-		  	$('.fixCAT').hide();
+		  	$('.fixCAT').css({
+				visibility:'hidden',
+				opacity:0
+			});
 		} 
 		else {
-		  	$('.fixCAT').show();
+		  	$('.fixCAT').css({
+				visibility:'visible',
+				opacity:1
+			});
 		  	if (4000 < rolledHeight && rolledHeight < 5700) {
-				$('.fixCAT').hide();
+				$('.fixCAT').css({
+					visibility:'hidden',
+					opacity:0
+				});
 			}
 		}
 	}
 	else {
-  		var rolledHeight = document.body.scrollTop;
+		var rolledHeight = document.body.scrollTop;
 	  	//console.log(rolledHeight);
 	  	if  (rolledHeight < 500) {
-		  	$('.fixCAT').hide();
+		  	$('.fixCAT').css({
+				visibility:'hidden',
+				opacity:0
+			});
 		} 
 		else {
-			$('.fixCAT').show();
+			$('.fixCAT').css({
+				visibility:'visible',
+				opacity:1
+			});
 			if (3600 < rolledHeight && rolledHeight < 4500) {
-				$('.fixCAT').hide();
+				$('.fixCAT').css({
+					visibility:'hidden',
+					opacity:0
+				});
 			}
 		}
 	}
-  });
+});
 			
