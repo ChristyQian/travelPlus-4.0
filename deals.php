@@ -3,9 +3,9 @@
 <?php 
 	$pageName="deals";	
 	$tagTitle="最新优惠 - EF TravelPlus | 英孚旅游+";
-	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
-	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
-	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
+	$metaTitle="欧洲旅游限时特惠_EF英孚旅游";
+	$metaKeywords="EF英孚旅游，特惠行程，热门行程，限时优惠，早鸟优惠，EFTravelPlus";
+	$metaDescription="根据不同季节、主题推出的限时特惠行程，查看更多行程详情，或拨打400 180 7518咨询";
 
     include_once("why-us-head.php"); 
 ?>

@@ -3,9 +3,9 @@
 <?php 
 	$pageName="review";	
 	$tagTitle="客户评论 - EF TravelPlus | 英孚旅游+";
-	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
-	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
-	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
+	$metaTitle="旅游心得分享_用户体验评价_英孚行程评价";
+	$metaKeywords="团员分享，心得体验、英孚旅游评价，EFTravelPlus";
+	$metaDescription="英孚旅游团队的优质服务，令团员们有个难忘的出境假期，与你分享他们的心得回忆。";
 
     include_once("why-us-head.php"); 
 ?>
