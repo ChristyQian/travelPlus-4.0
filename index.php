@@ -66,7 +66,7 @@
 								MOET酩悦香槟法国微醺之旅<br/>
 								2017.9.30出发
 							</p>
-							<a id="slide-2" class="borderBtn" href="itinerary-moet-paris-reims.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="Slide-moet" class="borderBtn" href="itinerary-moet-paris-reims.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -90,7 +90,7 @@
 								食在意大利：食物与酒的美学<br/>
 								2017.9.29出发
 							</p>
-							<a id="slide-3" class="borderBtn" href="itinerary-food-wine-northern-italy-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="Slide-fwit" class="borderBtn" href="itinerary-food-wine-northern-italy-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -114,7 +114,7 @@
 								西法意城市狂想<br/>
 								2017.9.29出发
 							</p>
-							<a id="slide-4" class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="Slide-spfrit" class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -124,8 +124,9 @@
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>2人同行<br/>1人半价</p>
-								5月31日前
+								<p>节省5%</p>
+								5月31日<br />
+								之前预定
 							</div>
 						</div>
 						<div class="event">
@@ -137,7 +138,7 @@
 								阿尔卑斯山环游之旅<br/>
 								2017.9.30出发
 							</p>
-							<a id="slide-5" class="borderBtn" href="itinerary-jewels-of-alpine-europe.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="Slide-alpine" class="borderBtn" href="itinerary-jewels-of-alpine-europe.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -161,7 +162,7 @@
 								邂逅惬意欧洲之旅<br/>
 								2017.9.29出发
 							</p>
-							<a id="slide-6" class="borderBtn" href="itinerary-london-paris-amsterdam.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="Slide-lpa" class="borderBtn" href="itinerary-london-paris-amsterdam.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			        <div class="swiper-slide">
@@ -171,8 +172,9 @@
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>2人同行<br/>1人半价</p>
-								5月31日前
+								<p>节省5%</p>
+								5月31日<br />
+								之前预定
 							</div>
 						</div>
 						<div class="event">
@@ -184,7 +186,7 @@
 								西班牙全景深度游<br/>
 								2017.9.30出发
 							</p>
-							<a id="slide-7" class="borderBtn" href="itinerary-grand-tour-of-spain.php">查看行程<i class="whiteArrow"></i></a>
+							<a id="Slide-grsp" class="borderBtn" href="itinerary-grand-tour-of-spain.php">查看行程<i class="whiteArrow"></i></a>
 						</div>
 			        </div>
 			    </div>
