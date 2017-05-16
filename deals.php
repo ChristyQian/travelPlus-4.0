@@ -14,30 +14,30 @@
 <?php 
 	include_once('common-header2.php');
 ?>
-<!-- 		<div class="yellowBg">
+		<div class="yellowBg">
 			<div class="site">
-		 		<h5>最后召集</h5>
-		 		<div class="serif">只剩2席，就等你啦！</div>				
+		 		<h5>限时优惠</h5>
+		 		<div class="serif">凡5月31日(含)前，报名国庆指定行程，即享2人同行，1人半价！</div>				
 			</div>
 	 	</div>
 		<div class="site">
 			 <div class="flex-row-start-start flex-flow">
-				<div class="home-trip-box">
-					<a href="itinerary-barcelona-southern-france-the-italian-riviera-mama.php">	
+				 <div class="home-trip-box">
+					<a href="itinerary-jewels-of-alpine-europe.php">	
 						<div class="imgWrap">
-							<img src="img/itinerary/mamaTuan.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
-									<div class="yellowTxt">最后2席</div>
-									<div class="pinkTxt">2017.5.27出发</div>
+									<div class="yellowTxt">国庆档</div>
+									<div class="pinkTxt">2人同行,1人半价</div>
 								</div>
 							</div>
 						</div>
 						<div class="agendaWrap">
 							<p>
-								花样妈妈团:西法意城市狂想 <br/>
-								巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
+								阿尔卑斯山环游之旅 <br/>
+								瑞士 - 法国 - 意大利 - 奥地利 - 德国
 							</p>
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -47,18 +47,50 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
-								12天
+								13天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥21,000<span>起</span></span>
+								<span class="price">￥23,400<span>起</span></span>
 							</div>
 						</div>
 					</a>
 			    </div>
+			     <div class="home-trip-box">
+					<a href="itinerary-grand-tour-of-spain.php">	
+						<div class="imgWrap">
+							<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
+							<div class="hotSale">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">
+									<div class="yellowTxt">国庆档</div>
+									<div class="pinkTxt">2人同行,1人半价</div>
+								</div>
+							</div>
+						</div>
+						<div class="agendaWrap">
+							<p>
+								西班牙全景深度游 <br/>
+								西班牙
+							</p>
+							<div class="rate">
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+							</div>
+							<div>
+								14天
+								<span class="delPrice">￥19,100</span>
+								<span class="price">￥21,800<span>起</span></span>
+							</div>
+						</div>
+					</a>
+			    </div>	
 			</div>
-		</div> -->
+		</div>
 		<div class="lightBlueBg">
 			<div class="site">
-		 		<h5>限时优惠</h5>
+		 		<h5>早鸟优惠</h5>
 		 		<div class="serif">凡5月31日(含)前，报名国庆指定行程，即享95折优惠！</div>
 		 	</div>
 	 	</div>
@@ -160,38 +192,7 @@
 						</div>
 					</a>
 			    </div>				    
-			    <div class="home-trip-box">
-					<a href="itinerary-jewels-of-alpine-europe.php">	
-						<div class="imgWrap">
-							<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">国庆档</div>
-									<div class="pinkTxt">早鸟减5%</div>
-								</div>
-							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								阿尔卑斯山环游之旅 <br/>
-								瑞士 - 法国 - 意大利 - 奥地利 - 德国
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-							</div>
-							<div>
-								13天
-								<span class="delPrice">￥19,100</span>
-								<span class="price">￥23,400<span>起</span></span>
-							</div>
-						</div>
-					</a>
-			    </div>				    
+			   			    
 			    <div class="home-trip-box">
 					<a href="itinerary-london-paris-amsterdam.php">	
 						<div class="imgWrap">
@@ -220,38 +221,6 @@
 								11天
 								<span class="delPrice">￥19,100</span>
 								<span class="price">￥22,500<span>起</span></span>
-							</div>
-						</div>
-					</a>
-			    </div>
-			    <div class="home-trip-box">
-					<a href="itinerary-grand-tour-of-spain.php">	
-						<div class="imgWrap">
-							<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">国庆档</div>
-									<div class="pinkTxt">早鸟减5%</div>
-								</div>
-							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								西班牙全景深度游 <br/>
-								西班牙
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-							</div>
-							<div>
-								14天
-								<span class="delPrice">￥19,100</span>
-								<span class="price">￥21,800<span>起</span></span>
 							</div>
 						</div>
 					</a>

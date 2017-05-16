@@ -60,28 +60,28 @@
 							</select>
 						</div>
 						<div id="trip-tag" class="flex-row-start-start flex-flow">
-							<div data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
+							<div id="tag-history" data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
 								历史遗迹
 							</div>
-							<div data-tag="art" data-display="艺术人文" name="tag-selector" class="checkbox">
+							<div id="tag-art" data-tag="art" data-display="艺术人文" name="tag-selector" class="checkbox">
 								艺术人文
 							</div>
-							<div data-tag="nature" data-display="自然风光" name="tag-selector" class="checkbox">
+							<div id="tag-nature" data-tag="nature" data-display="自然风光" name="tag-selector" class="checkbox">
 								自然风光
 							</div>
-							<div data-tag="seaview" data-display="海景沙滩" name="tag-selector" class="checkbox">
+							<div id="tag-seaview" data-tag="seaview" data-display="海景沙滩" name="tag-selector" class="checkbox">
 								海景沙滩
 							</div>
-							<div data-tag="honeymoon" data-display="浪漫蜜月" name="tag-selector" class="checkbox">
+							<div id="tag-honeymoon" data-tag="honeymoon" data-display="浪漫蜜月" name="tag-selector" class="checkbox">
 								浪漫蜜月
 							</div>
-							<div data-tag="family" data-display="亲子家庭" name="tag-selector" class="checkbox">
+							<div id="tag-family" data-tag="family" data-display="亲子家庭" name="tag-selector" class="checkbox">
 								亲子家庭
 							</div>
-							<div data-tag="northeuro" data-display="北欧风情" name="tag-selector" class="checkbox">
+							<div id="tag-northeuro" data-tag="northeuro" data-display="北欧风情" name="tag-selector" class="checkbox">
 								北欧风情
 							</div>
-							<div data-tag="food" data-display="美食美酒" name="tag-selector" class="checkbox">
+							<div id="tag-food" data-tag="food" data-display="美食美酒" name="tag-selector" class="checkbox">
 								美食美酒
 							</div>
 						</div>
@@ -203,39 +203,7 @@
 								</div>
 							</div>
 						</a>
-				    </div>				    
-				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
-						<a href="itinerary-jewels-of-alpine-europe.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									阿尔卑斯山环游之旅 <br/>
-									瑞士 - 法国 - 意大利 - 奥地利 - 德国
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									13天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,400<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>				    
+				    </div>				    			    
 				    <div id="london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-london-paris-amsterdam.php" >	
 							<div class="imgWrap">
@@ -268,6 +236,38 @@
 							</div>
 						</a>
 				    </div>
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
+						<a href="itinerary-jewels-of-alpine-europe.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">2人同行,1人半价</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									阿尔卑斯山环游之旅 <br/>
+									瑞士 - 法国 - 意大利 - 奥地利 - 德国
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									13天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥23,400<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>	
 				   <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
 						<a href="itinerary-grand-tour-of-spain.php" >	
 							<div class="imgWrap">
@@ -276,7 +276,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="pinkTxt">2人同行,1人半价</div>
 									</div>
 								</div>
 							</div>
@@ -884,6 +884,19 @@
 				$('.popup .mask').hide();
 				$('.popupContainer').hide();	
 			});
+
+			var dest = "<?php echo $_REQUEST['dest']; ?>";
+			if (dest != "")
+				$("#destination").val("<?php echo $_REQUEST['dest']; ?>");
+			var tags = "<?php echo $_REQUEST['tag']; ?>";
+			if (tags != ""){
+				var arr = tags.split(',');
+				for(var i in arr){
+					$("#tag-" + arr[i]).addClass('checked');
+				}
+			}
+				
+			Trip_Filter();
 		</script>
 	</body>
 </html>

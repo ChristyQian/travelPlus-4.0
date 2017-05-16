@@ -124,9 +124,8 @@
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>节省5%</p>
-								5月31日<br />
-								之前预定
+								<p>2人同行<br/>1人半价</p>
+								5月31日前
 							</div>
 						</div>
 						<div class="event">
@@ -172,9 +171,8 @@
 						<div class="discount">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
-								<p>节省5%</p>
-								5月31日<br />
-								之前预定
+								<p>2人同行<br/>1人半价</p>
+								5月31日前
 							</div>
 						</div>
 						<div class="event">

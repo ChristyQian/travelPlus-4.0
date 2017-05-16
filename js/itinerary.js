@@ -117,16 +117,6 @@
 				    }
 				  }
 		    });
-		    $('.allItinerary').click(function(){
-			    	if($('.initialScreen').hasClass('expand')){
-			    		$('.initialScreen').removeClass('expand');
-			    		$('.allItinerary').html('全部行程');
-			    	}
-			    	else{
-				    	$('.initialScreen').addClass('expand');
-				    	$('.allItinerary').html('收起行程');
-			    	}
-		    });
 			
 				if(jQuery(window).width() >=1024){
 					$(".itineraryMap").stick_in_parent();
@@ -218,10 +208,10 @@
     scrollAction.y = window.pageYOffset;
   }
   
-  var clientWidth = document.body.clientWidth;
-  window.addEventListener('scroll',function(){
+var clientWidth = document.body.clientWidth;
+window.addEventListener('scroll',function(){
 	if (clientWidth > 425) {
-  		var rolledHeight = document.body.scrollTop;
+		var rolledHeight = document.body.scrollTop;
 	  	if (rolledHeight < 700) {
 		  	$('.fixCAT').css({
 				visibility:'hidden',
@@ -243,7 +233,6 @@
 	}
 	else {
 		var rolledHeight = document.body.scrollTop;
-	  	//console.log(rolledHeight);
 	  	if  (rolledHeight < 500) {
 		  	$('.fixCAT').css({
 				visibility:'hidden',
@@ -262,6 +251,16 @@
 				});
 			}
 		}
+	}
+});
+$('.allItinerary').click(function(){
+	if($('.initialScreen').hasClass('expand')){
+		$('.initialScreen').removeClass('expand');
+		$('.allItinerary').html('全部行程');
+	}
+	else{
+    	$('.initialScreen').addClass('expand');
+    	$('.allItinerary').html('收起行程');
 	}
 });
 			
