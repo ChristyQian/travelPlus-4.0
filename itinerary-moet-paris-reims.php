@@ -775,7 +775,7 @@
 				博客
 				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
 			</h4>
-			<div class="flex-row-start-around flex-flow">
+			<!-- <div class="flex-row-start-around flex-flow">
 				<div class="flex1 flex-row-center-between">
 					<div class="image">
 						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
@@ -803,7 +803,7 @@
 						<time>02-27-2017</time>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -812,6 +812,68 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
+		<script src="js/jquery.js"></script>
+		<script src="js/jquery.jfeed.pack.js"></script>
+		<script type="text/javascript">
+
+jQuery(function() {
+
+    jQuery.getFeed({
+        // url: 'http://travelplus.ef.com.cn/blog/?tag=london&feed=rss2',
+        url: 'xml/blog.xml',
+        success: function(feed) {
+        
+            // jQuery('.blog').append('<div class="flex-row-start-around flex-flow" >'
+            // // + '<a href="'
+            // // + feed.link
+            // // + '">'
+            // // + feed.title
+            // // + '</a>'
+            // + '</div>');
+            
+            var html = '';
+            
+            for(var i = 0; i < feed.items.length && i < 3; i++) {
+            
+                var item = feed.items[i];
+                
+                html += '<div class="flex1 flex-row-center-between">'
+                + '<div class="image">'
+				+ '<img src="' 
+				+ item.image
+				+ '"/>'
+				+ '</div>'
+                + '<div class="info">'
+                + '<a href="'
+                + item.link
+                + '">'
+                + '<h5>'
+	            + item.title
+	            + '</h5>'
+	            + '<div class="updated">'
+                + item.pubDate
+                + '</div>'
+                + '</a>'
+                + '</div>'
+                + '</div>';
+                
+                // html += '<div class="updated">'
+                // + item.pubDate
+                // + '</div>';
+                
+                // html += '<div>'
+                // + item.description
+                // + '</div>';
+            }
+            
+            jQuery('.blog').append('<div class="flex-row-start-around flex-flow" >'
+            	+ html
+            	+ '</div>');
+        }    
+    });
+});
+
+</script>
 	</body>
 
 </html>
