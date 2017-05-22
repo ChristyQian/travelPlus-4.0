@@ -836,7 +836,17 @@ jQuery(function() {
             for(var i = 0; i < feed.items.length && i < 3; i++) {
             
                 var item = feed.items[i];
-                
+                //var image = $(feed.description).children('div').children('img').attr('src');
+                var formatDate = function (date) {  
+				    var y = date.getFullYear();  
+				    var m = date.getMonth() + 1;  
+				    m = m < 10 ? '0' + m : m;  
+				    var d = date.getDate();  
+				    d = d < 10 ? '0' + d : d;  
+				    return y + '-' + m + '-' + d;  
+				};
+                var time = formatDate(new Date(item.updated));
+
                 html += '<div class="flex1 flex-row-center-between">'
                 + '<div class="image">'
 				+ '<img src="' 
@@ -850,20 +860,12 @@ jQuery(function() {
                 + '<h5>'
 	            + item.title
 	            + '</h5>'
-	            + '<div class="updated">'
-                + item.pubDate
-                + '</div>'
+	            + '<time>'
+                + time
+                + '</time>'
                 + '</a>'
                 + '</div>'
                 + '</div>';
-                
-                // html += '<div class="updated">'
-                // + item.pubDate
-                // + '</div>';
-                
-                // html += '<div>'
-                // + item.description
-                // + '</div>';
             }
             
             jQuery('.blog').append('<div class="flex-row-start-around flex-flow" >'
