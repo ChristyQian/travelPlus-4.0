@@ -17,7 +17,7 @@
 		<div class="yellowBg">
 			<div class="site">
 		 		<h5>限时优惠</h5>
-		 		<div class="serif">凡5月31日(含)前，报名国庆指定行程，即享2人同行，1人半价！</div>				
+		 		<div class="serif">凡6月9日(含)前，报名国庆指定行程，即享2人同行，1人半价！</div>				
 			</div>
 	 	</div>
 		<div class="site">
