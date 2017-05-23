@@ -434,6 +434,7 @@
 					</select>
 				</div>
 			</h4>
+			<p class="notes">以下是参考航班信息，以最终实际预订情况为准。</p>
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
@@ -834,9 +835,12 @@ jQuery(function() {
             var html = '';
             
             for(var i = 0; i < feed.items.length && i < 3; i++) {
-            
+            	/* item */
                 var item = feed.items[i];
-                //var image = $(feed.description).children('div').children('img').attr('src');
+                /* item.image */
+                var re = /<img[^>]+>/g;
+                var image = item.description.match(re);
+                /* item.date */
                 var formatDate = function (date) {  
 				    var y = date.getFullYear();  
 				    var m = date.getMonth() + 1;  
@@ -848,10 +852,8 @@ jQuery(function() {
                 var time = formatDate(new Date(item.updated));
 
                 html += '<div class="flex1 flex-row-center-between">'
-                + '<div class="image">'
-				+ '<img src="' 
-				+ item.image
-				+ '"/>'
+                + '<div class="image">' 
+				+ image
 				+ '</div>'
                 + '<div class="info">'
                 + '<a href="'
@@ -859,11 +861,11 @@ jQuery(function() {
                 + '">'
                 + '<h5>'
 	            + item.title
-	            + '</h5>'
-	            + '<time>'
+	            + '</h5>'	            
+                + '</a>'
+                + '<time>'
                 + time
                 + '</time>'
-                + '</a>'
                 + '</div>'
                 + '</div>';
             }

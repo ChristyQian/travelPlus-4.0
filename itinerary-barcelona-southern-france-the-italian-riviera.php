@@ -522,6 +522,7 @@
 					</select>
 				</div>
 			</h4>
+			<p class="notes">以下是参考航班信息，以最终实际预订情况为准。</p>
 			<div class="swiper-container section">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
