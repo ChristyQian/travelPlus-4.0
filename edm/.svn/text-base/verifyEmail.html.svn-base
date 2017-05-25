@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>企酷 为有资本梦的创业者服务</title>
+</head>
+<body style="background-color: #fff; font-size: 12px; font-family: Microsoft Yahei;">
+<table style="width: 750px; margin: 0 auto; background-color: #E4E5E6; border-radius: 30px; padding: 30px;">
+	<tr>
+	    	<th colspan="2" style="padding-bottom: 20px; padding-left: 30px;">
+	        	<a href="#" target="_blank" style="width: 435px; height: 40px; display: block; background: url(images/logo.png) no-repeat center center; text-indent: -9999px;">企酷 为有资本梦的创业者服务</a>
+        </th>
+    </tr>
+    <tr>
+	    	<td colspan="2" style="background-color: #fff; border-radius: 5px; padding: 30px; font-size: 18px;">
+	        	<p style="margin: 0 0 20px;">叉叉，您好！</p>
+            <p style="margin: 0 0 20px;text-indent:48px;">请根据以下提示任选其一，完成邮件验证！</p>
+            <div style="overflow:hidden;width:435px;margin:10px auto;">
+                <dl style="display:inline-block;float:left;width:192px;text-align:center;">
+                    <dt style="font-size:22px;color:#ff8800;text-align:center;">方法一</dt>
+                    <dd style="background-color:#f7f7f7;width:190px;height:180px;border:1px solid #ccc;margin-left:0;">
+                        <img src="images/qrcode_pic.jpg" width="140" style="margin-top:20px;">
+                    </dd>
+                </dl>
+                <dl style="display:inline-block;float:left;width:192px;text-align:center;margin-left:50px;">
+                    <dt style="font-size:22px;color:#ff8800">方法二</dt>
+                    <dd style="background-color:#f7f7f7;width:190px;height:180px;border:1px solid #ccc;margin-left:0;">
+                        <p style="text-align:center;line-height:30px;">
+                            关注OTC企酷
+                            <br/>
+                            在微信公众号中回复
+                            <span style="display:block;color:#2ba7d3;margin-top:30px;">YZ@3689</span>
+                        </p>
+                    </dd>
+                </dl>
+            </div>
+        </td>
+    </tr>
+    <tr>
+	    	<td width="600" style="text-align:left; padding-left: 30px;">
+	        <p style="clear: both; font-size: 15px; margin: 0; padding: 0; color: #333;margin-bottom:5px;">OTC企酷--国内首家场外市场行情报价信息软件及投资者关系互动平台</p>
+	        <p style="clear: both; font-size: 15px; margin: 0; padding: 0; color: #6D6E71;">版权所有：上海源企金融服务有限公司 沪ICP备15006027号</p>
+	    </td>
+	    <td width="150" style="text-align: right; padding-right: 30px;">
+	        	<p style="margin: 10px 0 5px;"><img src="images/qrcode.png" width="100" height="100" alt=""></p>
+	        <p style=" margin: 0; font-size: 8px;">微信号：OTC-QIKU</p>
+	    </td>
+    </tr>
+</table>
+</body>
+</html>
