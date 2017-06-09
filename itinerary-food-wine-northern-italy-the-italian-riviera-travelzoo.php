@@ -1,30 +1,29 @@
 <!DOCTYPE html>
 <html>
-	<?php 
-	$pageName="itinerary-moet-paris-reims";
+<?php 
+	$pageName="itinerary-barcelona-southern-france-the-italian-riviera";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="Moët酩悦香槟法国微醺之旅";
-	$itineraryPrice="￥24,600";
+	$itineraryName="食在意大利：食物与酒的美学";
+	$itineraryPrice="￥21,500";
 
-    include_once("itinerary-head.php"); 
+    include_once("itinerary-head-d.php"); 
 ?>
-
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta.php') ;?>
-		<?php include_once('common-header.php') ;?>
+		<?php include_once('fix-cta-d.php') ;?>			
+		<?php include_once('common-header.php') ;?>	
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/moet-paris-reim.jpg)  center center no-repeat;
+		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg)  center center no-repeat;
 				background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">美食美酒</div>
-						<div class="tourName">Moët酩悦香槟法国微醺之旅</div>
+						<div class="yellowTxt">国庆档</div>						
+						<div class="tourName">食在意大利：食物与酒的美学</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -33,78 +32,81 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">早鸟减5%</div>
+							<div class="pinkTxt">2人同行,1人半价</div>
 						</div>
 					</div>
 				</div>
 				<div class="discount">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<p>早鸟减5%</p>
-						5月31号<br /> 前预定
-					</div>
+						<p>2人同行<br/>1人半价</p>
+						6月30号前
+					</div>					
 				</div>
 			</div>
 		</div>
-		<!-- Itinerary Info -->
+		<!-- Itinerary Info -->	  
 		<div class="site">
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">9天</div>
+						<div class="days">12天</div>
 						<div class="flex-row-start-between">
-							<div>巴黎</div>
+							<div>都灵</div>
 							<i class="grayArrow"></i>
-							<div>香槟区埃佩尔奈</div>
+							<div>意属里维耶拉</div>
 							<i class="grayArrow"></i>
-							<div>香槟区兰斯</div>
+							<div>博洛尼亚</div>
+							<i class="grayArrow"></i>
+							<div>米兰</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
-						<div class="priceWG">
-							￥24,600
+						<div class="priceWG">							
+							￥21,500
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">一键预订优惠</a>
 						</div>
 					</div>
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">只有在法国香槟产区所酿造的起泡酒，才拥有香槟这一美誉。在这趟旅程中，你将来到两大著名香槟产区埃佩尔奈和兰斯，追溯从葡萄果实到香槟的诞生故事，品尝Moët酩悦等奢华香槟，学习香槟的品鉴知识，同时领略巴黎的城市氛围。</p>
+						<p class="serif">对于爱好美食的你来说，意大利得天独厚的美味料理定会让你不虚此行。在里维耶拉欣赏美景、品尝葡萄酒，在博洛尼亚品尝当地纯正的干酪和香醋，此外你还将亲自动手烹饪美食，探寻舌尖上的意大利。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Gattazzo</span>
+								<span class="name">Fabrice-Tomlin</span>								
 							</div>
 						</div>
 					</div>
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							从埃菲尔铁塔到巴黎圣母院一览巴黎建筑<br/> 
-							参观法国香槟小镇埃佩尔奈和兰斯<br/>
-							参观酩悦轩尼诗旗下的香槟品牌：Moët & Chandon和Veuve Clicquot酒庄<br/>
-							品尝纯正的高级香槟及法国料理<br/>
-							充分的自由时间，深度探索巴黎<br/>					
+							和意大利厨师一起烹制新鲜意大利面<br/>
+							品尝新鲜意式美食<br/>
+							拜访名扬世界的葡萄酒故乡<br/>
+							探索帕马森干酪的秘密<br/>
+							漫步阳光明媚的里维耶拉海岸<br/>
+							感受前卫摩登的米兰都市<br/>
 						</p>
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- Swiper -->
+		<!-- Swiper -->			
 		<div class="site itineraryPhoto">
 			<div class="swiper-container">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/moet-paris-reim-1.jpg" />
+								<img src="img/itinerary/food-wine-northern-italy-1.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -123,7 +125,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/moet-paris-reim-2.jpg" />
+								<img src="img/itinerary/food-wine-northern-italy-2.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -142,7 +144,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/moet-paris-reim-3.jpg" />
+								<img src="img/itinerary/food-wine-northern-italy-3.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -161,7 +163,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/moet-paris-reim-4.jpg" />
+								<img src="img/itinerary/food-wine-northern-italy-4.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -180,7 +182,45 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/moet-paris-reim-5.jpg" />
+								<img src="img/itinerary/food-wine-northern-italy-5.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/food-wine-northern-italy-6.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/food-wine-northern-italy-7.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -200,8 +240,8 @@
 				<!--<div class="swiper-button-prev"></div>
     				<div class="swiper-button-next"></div>-->
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
 		<!-- Include -->
@@ -213,143 +253,184 @@
 						<div class="imgWrap">
 							<img src="img/page-1.svg" />
 						</div>
-						来往机票
+						 来往机票
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-2.svg" />
 						</div>
-						7晚精选酒店住宿
+						10晚精选酒店住宿
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-3.svg" />
 						</div>
-						每日早餐、2顿晚餐、香槟配对午餐和品酒会
+						 每日早餐
+					</div>
+					<div class="">
+						<div class="imgWrap">
+							<img src="img/page-4.svg" />
+						</div>
+						3顿午餐；4顿晚餐（含三道菜），供应啤酒或葡萄酒；2次葡萄酒品酒会；1节烹饪课
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-5.svg" />
 						</div>
-						多语言外籍导游和中方领队
+						 多语言外籍导游和中方领队
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-6.svg" />
 						</div>
-						专用豪华大巴接送
+						 专用豪华大巴接送
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-7.svg" />
 						</div>
-						陪同观光和精选景点门票
+						 陪同观光和精选景点门票
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-8.svg" />
 						</div>
-						除自由时间外涉及的海外服务小费
+						 除自由时间外涉及的海外服务小费
 					</div>
 					<div class="">
 						<div class="imgWrap">
 							<img src="img/page-9.svg" />
 						</div>
-						旅行期间的保险
+						  旅行期间的保险
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- Itinerary -->
+		<!-- Itinerary -->	
 		<div class="site">
 			<h4>行程安排</h4>
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/moet-paris-reims.jpg" />
+					<img src="img/itinerary/map/food-wine-northern-italy-the-italian-riviera.jpg"  />
 				</div>
-				<div class="initialScreen">
+				<div class="initialScreen">							
 					<div class="com_itinerary_summary">
-						<div class="itinerary_daily_item">
+						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
 								<label>第1天</label><span>出发</span>
 							</div>
-							<div class="itinerary_daily_detail">
+							<div class="itinerary_daily_detail">										
 								<ul>
-									<li>启程并抵达巴黎</li>
+									<li>启程并抵达都灵</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>巴黎观光游及美食行</span>
+								<label>第2天</label><span>都灵观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>顺着香榭丽舍大街驱车而下，参观凯旋门</li>
-									<li>途经巴黎圣母院</li>
-									<li>参观埃菲尔铁塔、巴黎歌剧院和协和广场</li>
-									<li>欣赏巴黎地标建筑卢浮宫和荣军院</li>
-									<li>在不同商店品尝法国点心、巧克力、马卡龙等(圣日耳曼德佩教堂或玛黑区)</li>
-									<li>参加欢迎晚宴</li>
+									<li>途经卡斯特罗广场、夫人宫和卡里尼亚诺宫</li>
+									<li>进入皇家圣洛伦索教堂参观</li>
+									<li>在欢迎晚宴上与同行伙伴见面</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第3天</label><span>都灵自由行</span> 
+							</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第4天</label><span>途经巴罗洛前往意属里维耶拉</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>在巴罗洛稍作停留，享用午餐，参加品酒会，然后前往意属里维耶拉</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>巴黎自由行</span>
+								<label>第5天</label><span>里维耶拉自由行</span> 
 							</div>
 						</div>
-						<div class="itinerary_daily_item">
+						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>Moët酒庄香槟之旅</span>
+								<label>第6天</label><span>前往博洛尼亚</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>前往香槟小镇埃佩尔奈</li>
-									<li>参观Moët酩悦香槟酒庄</li>
-									<li>在古老酒窖享用香槟配对午餐</li>
-									<li>而后前往香槟产区兰斯，并进行观光游</li>
+									<li>品尝当地美食</li>
+									<li>参观当地的帕马森干酪作坊，品尝干酪</li>
+									<li>参观香醋园，享用午餐，品尝当地摩德纳传统香醋</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>兰斯Veuve Clicquot酒庄香槟之旅</span>
+								<label>第7天</label><span>博洛尼亚观光游</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>参观Veuve Clicquot酒庄</li>
-									<li>前往巴黎</li>
+									<li>参观博洛尼亚大学</li>
+									<li>走进当地鱼菜市场，参观博洛尼亚主广场</li>
+									<li>下午在博洛尼亚自由活动</li>
+									<li>晚餐享用自制意式千层面</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第8天</label><span>博洛尼亚自由行</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>晚上参加博洛尼亚烹饪体验课并享用晚餐</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>巴黎自由行</span>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第7天</label><span>巴黎自由行</span>
+								<label>第9天</label><span>途经瓦尔波利切拉，前往米兰</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在蒙帕纳斯大楼俯瞰美景，享用告别晚餐</li>
+									<li>在瓦尔波利切拉享用午餐，品尝经典红酒</li>
+									<li>前往时尚之都米兰</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第8天</label><span>返程</span>
+								<label>第10天</label><span>米兰观光游</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>参观斯福尔扎古堡建筑和博物馆</li>
+									<li>穿越布雷拉老城区，途经斯卡拉剧院和广场</li>
+									<li>进入米兰大教堂</li>
+									<li>参加告别晚宴</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第11天</label><span>返程</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -360,17 +441,17 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第9天</label><span>抵达中国</span>
+								<label>第12天</label><span>抵达中国</span>
 							</div>
 						</div>
 						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
-					</div>
-				</div>
+					</div>						
+				</div>				
 			</div>
 			<button class="borderBtn allItinerary">全部行程</button>
 		</div>
-
-		<!-- Hotels -->
+		
+		<!-- Hotels -->	
 		<div class="site hotels">
 			<h4>精选酒店</h4>
 			<p class="notes">以下是我们的备选酒店，入住视具体情况而定。</p>
@@ -379,46 +460,46 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_dining.jpg" />
+								<img src="img/hotel/NH Lingotto/NH Lingotto _dining.jpg"  />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
+								<div class="transparentTxt">NH Lingotto灵格托都灵国会NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。 酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
+						<div class="hotelDes">灵格托都灵国会NH酒店是都灵市灵格托地区的老菲亚特工厂的一部分。它连接着会议中心、购物中心和电影院，距离很多意大利餐馆仅有几步之遥。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_room.jpg" />
+								<img src="img/hotel/NH Lingotto/NH Lingotto _gym.jpg"  />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
+								<div class="transparentTxt">NH Lingotto灵格托都灵国会NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店附近的景点有：蒙帕纳斯大楼、充满历史故事的街道Rue de la Gaite、在蒙帕纳斯火车站顶部的大西洋花园、布爾代勒美術館、蒙帕纳斯墓地。（它包含超过40,000个坟墓，是在巴黎的第二大公墓，这里种植了超过750棵树和灌木，是巴黎最多绿植的空间之一。）</div>
+						<div class="hotelDes">乘坐地铁10分钟即可到达都灵市中心，步行可达展示超过200辆汽车的汽车博物馆</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Pullman Montparnasse/Pullman Montparnasse_gym.jpg" />
+								<img src="img/hotel/NH Lingotto/NH Lingotto _room.jpg"  />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Pullman Montparnasse铂尔曼巴黎蒙帕纳斯酒店</div>
+								<div class="transparentTxt">NH Lingotto灵格托都灵国会NH酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">铂尔曼巴黎蒙帕纳斯酒店是一家位于巴黎市中心的四星级酒店。 靠近蒙帕纳斯火车站，艾菲尔铁塔和圣日耳曼德佩区，距离巴黎的主要景点仅有几分钟的路程。 步行，坐公车或地铁都很方便。 酒店设有酒吧，两家餐厅和一个会议中心，提供48间客房，可容纳多达1200人，非常适合周末或商务旅行。 免费WiFi。</div>
+						<div class="hotelDes">带有食品市场和多家意大利餐厅的Eataly美食中心就在对面。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
-
+		
 		<!-- Flight -->
 		<div class="site flight">
 			<h4 class="flex-row-end-between">
@@ -442,25 +523,29 @@
 						<div class="com_flightInfo">
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
-								<div class="">中国航空</div>
-								<div class="">11h30m</div>
-								<div class="">直飞</div>
+								<div class="">卡塔尔航空</div>
+								<div class="">17h25m</div>
+								<div class="">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>成都</span>01:50</div>
-								<div class="airport"><span>巴黎</span>07:20</div>
+								<div class="airport"><span>成都</span>01:30</div>
+								<div class="airport"><span>多哈</span>04:40</div>
+								<div class="airport"><span>多哈</span>07:25</div>
+								<div class="airport"><span>米兰</span>12:55</div>
 							</div>
 						</div>
 						<div class="com_flightInfo">
 							<div class="voyage">回程</div>
 							<div class="ibWrap">
-								<div class="flex1">中国航空</div>
-								<div class="flex1">10h45m</div>
-								<div class="flex1">直飞</div>
+								<div class="flex1">卡塔尔航空</div>
+								<div class="flex1">16h5m</div>
+								<div class="flex1">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>巴黎</span>13:10</div>
-								<div class="airport"><span>成都</span>05:55+1</div>
+								<div class="airport"><span>米兰</span>16:50</div>
+								<div class="airport"><span>多哈</span>23:45</div>
+								<div class="airport"><span>多哈</span>02:15</div>
+								<div class="airport"><span>成都</span>14:55</div>								
 							</div>
 						</div>
 					</div>
@@ -470,29 +555,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">阿联酋航空</div>
-									<div class="">18h50m</div>
+									<div class="">瑞士航空</div>
+									<div class="">14h45m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海</span>07:15</div>
-									<div class="airport"><span>迪拜</span>12:05</div>
-									<div class="airport"><span>迪拜</span>14:50</div>
-									<div class="airport"><span>巴黎</span>20:05</div>
+									<div class="airport"><span>上海</span>09:30</div>
+									<div class="airport"><span>苏黎世</span>15:50</div>
+									<div class="airport"><span>苏黎世</span>17:20</div>
+									<div class="airport"><span>米兰</span>18:15</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">阿联酋航空</div>
-									<div class="">18h30m</div>
+									<div class="">瑞士航空</div>
+									<div class="">15h0m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>巴黎</span>21:50</div>
-									<div class="airport"><span>迪拜</span>06:30+1</div>
-									<div class="airport"><span>迪拜</span>09:40</div>
-									<div class="airport"><span>上海</span>22:20</div>
+									<div class="airport"><span>米兰</span>10:05</div>
+									<div class="airport"><span>苏黎世</span>11:10</div>
+									<div class="airport"><span>苏黎世</span>13:05</div>
+									<div class="airport"><span>上海</span>07:05+1</div>
 								</div>
 							</div>
 						</div>
@@ -503,25 +588,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">法国航空</div>
-									<div class="">9h50m</div>
-									<div class="">直飞</div>
+									<div class="">汉莎航空</div>
+									<div class="">13h50m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>北京</span>09:00</div>
-									<div class="airport"><span>巴黎</span>13:50</div>
+									<div class="airport"><span>北京</span>1030</div>
+									<div class="airport"><span>法兰克福</span>1445</div>
+									<div class="airport"><span>法兰克福</span>1710</div>
+									<div class="airport"><span>米兰</span>1820</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">法国航空</div>
-									<div class="">10h0m</div>
-									<div class="">直飞</div>
+									<div class="">汉莎航空</div>
+									<div class="">15h30m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>巴黎</span>13:55</div>
-									<div class="airport"><span>北京</span>05:55+1</div>
+									<div class="airport"><span>米兰</span>11:00</div>
+									<div class="airport"><span>法兰克福</span>12:20</div>
+									<div class="airport"><span>法兰克福</span>17:10</div>
+									<div class="airport"><span>北京</span>08:30+1</div>								
 								</div>
 							</div>
 						</div>
@@ -532,28 +621,28 @@
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
 								<div class="">阿联酋航空</div>
-								<div class="">19h15m</div>
+								<div class="">20h5m</div>
 								<div class="">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
 								<div class="airport"><span>广州</span>00:15</div>
 								<div class="airport"><span>迪拜</span>03:50</div>
-								<div class="airport"><span>迪拜</span>08:20</div>
-								<div class="airport"><span>巴黎</span>13:30</div>
+								<div class="airport"><span>迪拜</span>09:45</div>
+								<div class="airport"><span>米兰</span>14:20</div>
 							</div>
 						</div>
 						<div class="com_flightInfo">
 							<div class="voyage">回程</div>
 							<div class="ibWrap">
 								<div class="flex1">阿联酋航空</div>
-								<div class="flex1">18h15m</div>
+								<div class="flex1">17h45m</div>
 								<div class="flex1">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>巴黎</span>21:50</div>
-								<div class="airport"><span>迪拜</span>06:30+1</div>
+								<div class="airport"><span>米兰</span>22:20</div>
+								<div class="airport"><span>迪拜</span>06:25+1</div>
 								<div class="airport"><span>迪拜</span>10:20</div>
-								<div class="airport"><span>广州</span>22:05</div>
+								<div class="airport"><span>广州</span>22:05</div>								
 							</div>
 						</div>
 					</div>
@@ -562,37 +651,33 @@
 						<div class="com_flightInfo">
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
-								<div class="">荷兰航空</div>
-								<div class="">15h25m</div>
-								<div class="">1次中转</div>
+								<div class="">国泰航空</div>
+								<div class="">12h25m</div>
+								<div class="">直飞</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>香港</span>12:20</div>
-								<div class="airport"><span>阿姆斯特丹</span>18:20</div>
-								<div class="airport"><span>阿姆斯特丹</span>20:30</div>
-								<div class="airport"><span>巴黎</span>21:45</div>
+								<div class="airport"><span>香港</span>01:05</div>
+								<div class="airport"><span>米兰</span>07:30</div>
 							</div>
 						</div>
 						<div class="com_flightInfo">
 							<div class="voyage">回程</div>
 							<div class="ibWrap">
-								<div class="flex1">荷兰航空</div>
-								<div class="flex1">13h50m</div>
-								<div class="flex1">1次中转</div>
+								<div class="flex1">国泰航空</div>
+								<div class="flex1">11h30m</div>
+								<div class="flex1">直飞</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>巴黎</span>14:30</div>
-								<div class="airport"><span>阿姆斯特丹</span>15:50</div>
-								<div class="airport"><span>阿姆斯特丹</span>17:20</div>
-								<div class="airport"><span>香港</span>10:20+1</div>
+								<div class="airport"><span>米兰</span>13:05</div>
+								<div class="airport"><span>香港</span>06:35+1</div>								
 							</div>
 						</div>
 					</div>
-
+					
 				</div>
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
 		<!-- Reviews -->
@@ -614,7 +699,7 @@
 									第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 								</div>
 								<div class="dialogBelongTo"></div>
-							</div>
+							</div>							
 						</div>
 						<div class="userInfo">
 							<span class="name">Jax Oddo,</span>
@@ -636,7 +721,7 @@
 										第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 									</div>
 									<div class="dialogBelongTo"></div>
-								</div>
+								</div>								
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
@@ -682,7 +767,7 @@
 										第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 									</div>
 									<div class="dialogBelongTo"></div>
-								</div>
+								</div>							
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
@@ -705,7 +790,7 @@
 										第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 									</div>
 									<div class="dialogBelongTo"></div>
-								</div>
+								</div>								
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
@@ -738,29 +823,30 @@
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
-
+		
 		<!-- Get a personalized quotation -->
 		<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 
 			<div class="quotation">
 
-				<h4>获取实时价格</h4>
+				<h4>一键预订优惠</h4>
+				<span class="declare">*不会产生任何费用</span>
 
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php') ;?>
+					<?php include_once('discount-dz.php') ;?> 
 
-					<?php include_once('quotation-form.php') ;?>
+					<?php include_once('quotation-form-d.php') ;?> 
 
 				</div>
 
-				<?php include_once('sales-wrap.php') ;?>
+				<?php include_once('sales-wrap.php') ;?> 
 
 			</div>
 
@@ -768,7 +854,7 @@
 		<!-- More trips like this -->
 		<div class="site">
 			<!-- trips -->
-			<?php include_once('recommend.php') ;?>
+			<?php include_once('recommend.php') ;?>					
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
@@ -776,10 +862,10 @@
 				博客
 				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
 			</h4>
-			<!-- <div class="flex-row-start-around flex-flow">
+			<div class="flex-row-start-around flex-flow">
 				<div class="flex1 flex-row-center-between">
 					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
+						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg"  />
 					</div>
 					<div class="info">
 						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
@@ -788,7 +874,7 @@
 				</div>
 				<div class="flex1 flex-row-center-between">
 					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
+						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg"  />
 					</div>
 					<div class="info">
 						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
@@ -797,14 +883,14 @@
 				</div>
 				<div class="flex1 flex-row-center-between">
 					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
+						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg"  />
 					</div>
 					<div class="info">
 						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
 						<time>02-27-2017</time>
 					</div>
 				</div>
-			</div> -->
+			</div>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -813,62 +899,5 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
-		<script src="js/jquery.js"></script>
-		<script src="js/jquery.jfeed.pack.js"></script>
-		<script type="text/javascript">
-
-jQuery(function() {
-
-    jQuery.getFeed({
-
-        url: 'xml/blog.xml',
-        success: function(feed) {           
-            var html = '';
-            
-            for(var i = 0; i < feed.items.length && i < 3; i++) {
-            	/* item */
-                var item = feed.items[i];
-                /* item.image */
-                var re = /<img[^>]+>/g;
-                var image = item.description.match(re);
-                /* item.date */
-                var formatDate = function (date) {  
-				    var y = date.getFullYear();  
-				    var m = date.getMonth() + 1;  
-				    m = m < 10 ? '0' + m : m;  
-				    var d = date.getDate();  
-				    d = d < 10 ? '0' + d : d;  
-				    return y + '-' + m + '-' + d;  
-				};
-                var time = formatDate(new Date(item.updated));
-
-                html += '<div class="flex1 flex-row-center-between">'
-                + '<div class="image">' 
-				+ image
-				+ '</div>'
-                + '<div class="info">'
-                + '<a href="'
-                + item.link
-                + '">'
-                + '<h5>'
-	            + item.title
-	            + '</h5>'	            
-                + '</a>'
-                + '<time>'
-                + time
-                + '</time>'
-                + '</div>'
-                + '</div>';
-            }
-            
-            jQuery('.blog').append('<div class="flex-row-start-around flex-flow" >'
-            	+ html
-            	+ '</div>');
-        }    
-    });
-});
-
-</script>
 	</body>
-
 </html>

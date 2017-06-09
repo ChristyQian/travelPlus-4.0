@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+	ul {
+		display:none;
+	}
+</style>
+</head>
+<body>
+	<select id="select1">
+		<option value="sxs">陕西省</option>
+		<option value="jss">江苏省</option>
+	</select>
+	<select id='select2'>
+		
+	</select>
+	<ul id="sxsList">
+		<li>西安市</li>
+		<li>宝鸡市</li>
+	</ul>
+	<ul id="jssList">
+		<li>南京市</li>
+		<li>苏州市</li>
+		<li>泰州市</li>
+	</ul>
+</body>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript">	
+	$('#select1').change(function(val){
+		$('#select2').empty();
+		var name = $("select option:selected").val();
+		//console.log(name);
+		var list = $('body').find($('#'+name+'List')).children('li');
+		//console.log(list.length);
+		for (var i=0;i<list.length;i++) {		
+			var option = $('<option>'+($(list[i]).text())+'</option>');
+            $('#select2').append(option)
+		}
+	});   
+</script>
+
+</script>
+</html>

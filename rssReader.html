@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  
+<html xmlns="http://www.w3.org/1999/xhtml">  
+<head>  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />  
+<title>RSS reader</title>  
+<!-- <link type="text/css" rel="stylesheet" href="css/layout.css" mce_href="css/layout.css" />  --> 
+<script type="text/javascript" src="js/jquery-2.1.1.min.js" mce_src="js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="js/jquery.jfeed.pack.js" mce_src="js/jquery-2.1.1.min.js"></script>
+</head>  
+<body onload="load();">  
+    <div id="Content"></div>  
+</body>  
+</html>  
+<script type="text/javascript"> 
+function read(panel,url){  
+       jQuery.getFeed({  
+        url: url,  
+        success: function(feed) {  
+            jQuery(panel).text('');  
+            jQuery(panel).append('<h2>'  
+            + '<a href="'  
+            + feed.link  
+            + '" mce_href="'  
+            + feed.link  
+            + '">'  
+            + feed.title  
+            + '</a>'  
+            + '</h2>');  
+            var html = '';  
+              
+            for(var i = 0; i < feed.items.length && i < 5; i++) {  
+              
+                var item = feed.items[i];  
+                  
+                html += '<h3>'  
+                + '<a href="'  
+                + item.link  
+                + '" mce_href="'  
+                + item.link  
+                + '">'  
+                + item.title  
+                + '</a>'  
+                + '</h3>';  
+                  
+                html += '<div class="updated">'  
+                + item.updated  
+                + '</div>';  
+                  
+                html += '<div>'  
+                + item.description  
+                + '</div>';  
+            }  
+            jQuery(panel).append(html);  
+        }      
+    });  
+}  
+function load(){  
+    read("#Content","http://travelplus.ef.com.cn/blog/?tag=london&feed=rss2");  
+}  

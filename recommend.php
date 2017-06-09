@@ -58,7 +58,7 @@
 						<i class="fa fa-star active" aria-hidden="true"></i>
 					</div>
 					<div>
-						11天
+						12天
 						<span class="delPrice">￥19,100</span>
 						<span class="price">￥21,500<span>起</span></span>
 					</div>
@@ -90,7 +90,7 @@
 						<i class="fa fa-star active" aria-hidden="true"></i>
 					</div>
 					<div>
-						11天
+						12天
 						<span class="delPrice">￥19,100</span>
 						<span class="price">￥21,000<span>起</span></span>
 					</div>
