@@ -1,7 +1,7 @@
 <div class="section trips recommend">
 	<h4>当季精选</h4>
 	<div class="flex-row-start-between flex-flow">
-		<div class="home-trip-box">
+		<div id="moet-paris-reims" class="home-trip-box">
 			<a href="itinerary-moet-paris-reims.php">	
 				<div class="imgWrap">
 					<img src="img/itinerary/allTripsList/moet-paris-reim.jpg" alt="" />
@@ -33,7 +33,7 @@
 				</div>
 			</a>
 	    </div>
-		<div class="home-trip-box">
+		<div id="food-wine-northern-italy-the-italian-riviera" class="home-trip-box">
 			<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php">	
 				<div class="imgWrap">
 					<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
@@ -65,7 +65,7 @@
 				</div>
 			</a>
 	    </div>
-		<div class="home-trip-box">
+		<div id="barcelona-southern-france-the-italian-riviera" class="home-trip-box">
 			<a href="itinerary-barcelona-southern-france-the-italian-riviera.php">	
 				<div class="imgWrap">
 					<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
