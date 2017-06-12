@@ -41,7 +41,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<p>早鸟减5%</p>
-						5月31号<br /> 前预定
+						6月30号<br /> 前预定
 					</div>
 				</div>
 			</div>

@@ -204,10 +204,10 @@
 							</div>
 						</a>
 				    </div>				    			    
-				    <div id="london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
-						<a href="itinerary-london-paris-amsterdam.php" >	
+				   <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/london-paris-amsterdam.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -218,20 +218,20 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									邂逅惬意欧洲之旅 <br/>
-									伦敦 - 巴黎 - 阿姆斯特丹
+									北欧多元首都之旅 <br/>
+									斯德哥尔摩 - 卑尔根 - 哥本哈根
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,500<span>起</span></span>
+									<span class="price">￥27,300<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -785,34 +785,34 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
-						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
+				     <div id="london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
+						<a href="itinerary-london-paris-amsterdam.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
-								<div class="hotSale" style="display:none;">
+								<img src="img/itinerary/allTripsList/london-paris-amsterdam.jpg" alt="" />
+								<div class="hotSale" style="display: none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
 									</div>
 								</div>
 							</div>
 							<div class="agendaWrap">
 								<p>
-									北欧多元首都之旅 <br/>
-									斯德哥尔摩 - 卑尔根 - 哥本哈根
+									邂逅惬意欧洲之旅 <br/>
+									伦敦 - 巴黎 - 阿姆斯特丹
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥27,300<span>起</span></span>
+									<span class="price">￥22,500<span>起</span></span>
 								</div>
 							</div>
 						</a>

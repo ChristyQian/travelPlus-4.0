@@ -37,12 +37,13 @@
 						</div>
 					</div>
 				</div>
-				<div class="discount" style="visibility: hidden;">
+				<div class="discount">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<p>节省20%</p>
-						2月28日<br /> 之前预定
-					</div>
+						<p>早鸟减5%</p>
+						6月30号<br />
+						前预定
+					</div>					
 				</div>
 			</div>
 		</div>
@@ -854,6 +855,7 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+					<?php include_once('discount.php') ;?> 
 
 					<?php include_once('quotation-form.php') ;?>
 

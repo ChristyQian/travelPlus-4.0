@@ -91,7 +91,7 @@
 		<div class="lightBlueBg">
 			<div class="site">
 		 		<h5>早鸟优惠</h5>
-		 		<div class="serif">凡5月31日(含)前，报名国庆指定行程，即享95折优惠！</div>
+		 		<div class="serif">凡6月30日(含)前，报名国庆指定行程，即享95折优惠！</div>
 		 	</div>
 	 	</div>
 	 	<div class="site">
@@ -194,9 +194,9 @@
 			    </div>				    
 			   			    
 			    <div class="home-trip-box">
-					<a href="itinerary-london-paris-amsterdam.php">	
+					<a href="itinerary-scandinavia-the-capitals-the-fjords.php">	
 						<div class="imgWrap">
-							<img src="img/itinerary/allTripsList/london-paris-amsterdam.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
@@ -207,8 +207,8 @@
 						</div>
 						<div class="agendaWrap">
 							<p>
-								邂逅惬意欧洲之旅 <br/>
-								伦敦 - 巴黎 - 阿姆斯特丹
+								北欧多元首都之旅 <br/>
+								斯德哥尔摩 - 卑尔根 - 哥本哈根
 							</p>
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -220,7 +220,7 @@
 							<div>
 								11天
 								<span class="delPrice">￥19,100</span>
-								<span class="price">￥22,500<span>起</span></span>
+								<span class="price">￥27,300<span>起</span></span>
 							</div>
 						</div>
 					</a>
