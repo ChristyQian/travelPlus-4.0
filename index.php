@@ -19,11 +19,11 @@
 	$i = rand(1,6);
     $slide = array
 	(
-		array("img/itinerary/home-moet-paris-reim.jpg","<p>节省5%</p>5月31日<br />之前预定","国庆档","<p>MOET酩悦香槟法国微醺之旅<br/>2017.9.30出发</p>","Slide-moet","itinerary-moet-paris-reims.php"),
-		array("img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg","<p>节省5%</p>5月31日<br />之前预定","国庆档","<p>食在意大利：食物与酒的美学<br/>2017.9.29出发</p>","Slide-fwit","itinerary-food-wine-northern-italy-the-italian-riviera.php"),
-		array("img/itinerary/home-barcelona-southern-france-the-italian-riviera.jpg","<p>节省5%</p>5月31日<br />之前预定","国庆档","<p>西法意城市狂想<br/>2017.9.29出发</p>","Slide-spfrit","itinerary-barcelona-southern-france-the-italian-riviera.php"),
+		array("img/itinerary/home-moet-paris-reim.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>MOET酩悦香槟法国微醺之旅<br/>2017.9.30出发</p>","Slide-moet","itinerary-moet-paris-reims.php"),
+		array("img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>食在意大利：食物与酒的美学<br/>2017.9.29出发</p>","Slide-fwit","itinerary-food-wine-northern-italy-the-italian-riviera.php"),
+		array("img/itinerary/home-barcelona-southern-france-the-italian-riviera.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>西法意城市狂想<br/>2017.9.29出发</p>","Slide-spfrit","itinerary-barcelona-southern-france-the-italian-riviera.php"),
 		array("img/itinerary/home-germany-switzerland-austria.jpg","<p>2人同行<br/>1人半价</p>6月9日前","国庆档","<p>阿尔卑斯山环游之旅<br/>2017.9.30出发</p>","Slide-alpine","itinerary-jewels-of-alpine-europe.php"),
-		array("img/itinerary/home-london-paris-amsterdam.jpg","<p>节省5%</p>5月31日<br />之前预定","国庆档","<p>邂逅惬意欧洲之旅<br/>2017.9.29出发</p>","Slide-lpa","itinerary-london-paris-amsterdam.php"),
+		array("img/itinerary/home-scandinavia-the-capitals-the-fjords.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>北欧多元首都之旅<br/>2017.9.30出发</p>","Slide-scandi","itinerary-scandinavia-the-capitals-the-fjords.php"),
 		array("img/itinerary/home-grand-tour-of-spain.jpg","<p>2人同行<br/>1人半价</p>6月9日前","国庆档","<p>西班牙全景深度游<br/>2017.9.30出发</p>","Slide-grsp","itinerary-grand-tour-of-spain.php")
 	);
 ?>	
