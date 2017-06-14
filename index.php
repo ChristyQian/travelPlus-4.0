@@ -19,12 +19,42 @@
 	$i = rand(1,6);
     $slide = array
 	(
-		array("img/itinerary/home-moet-paris-reim.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>MOET酩悦香槟法国微醺之旅<br/>2017.9.30出发</p>","Slide-moet","itinerary-moet-paris-reims.php"),
-		array("img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>食在意大利：食物与酒的美学<br/>2017.9.29出发</p>","Slide-fwit","itinerary-food-wine-northern-italy-the-italian-riviera.php"),
-		array("img/itinerary/home-barcelona-southern-france-the-italian-riviera.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>西法意城市狂想<br/>2017.9.29出发</p>","Slide-spfrit","itinerary-barcelona-southern-france-the-italian-riviera.php"),
-		array("img/itinerary/home-germany-switzerland-austria.jpg","<p>2人同行<br/>1人半价</p>6月9日前","国庆档","<p>阿尔卑斯山环游之旅<br/>2017.9.30出发</p>","Slide-alpine","itinerary-jewels-of-alpine-europe.php"),
-		array("img/itinerary/home-scandinavia-the-capitals-the-fjords.jpg","<p>节省5%</p>6月30日<br />之前预定","国庆档","<p>北欧多元首都之旅<br/>2017.9.30出发</p>","Slide-scandi","itinerary-scandinavia-the-capitals-the-fjords.php"),
-		array("img/itinerary/home-grand-tour-of-spain.jpg","<p>2人同行<br/>1人半价</p>6月9日前","国庆档","<p>西班牙全景深度游<br/>2017.9.30出发</p>","Slide-grsp","itinerary-grand-tour-of-spain.php")
+		array("img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>6月30日前</div></div>",
+			"国庆档",
+			"<p>食在意大利：食物与酒的美学<br/>2017.9.29出发</p>",
+			"Slide-fwit",
+			"itinerary-food-wine-northern-italy-the-italian-riviera.php"),
+		array("img/itinerary/home-germany-switzerland-austria.jpg",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>国庆出发</p>仅剩5席</div></div>",
+			"国庆档",
+			"<p>阿尔卑斯山环游之旅<br/>2017.9.30出发</p>",
+			"Slide-alpine",
+			"itinerary-jewels-of-alpine-europe.php"),		
+		array("img/itinerary/home-grand-tour-of-spain.jpg",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>国庆出发</p>仅剩3席</div></div>",
+			"国庆档",
+			"<p>西班牙全景深度游<br/>2017.9.30出发</p>",
+			"Slide-grsp",
+			"itinerary-grand-tour-of-spain.php"),
+		array("img/itinerary/freeTour.jpg",
+			" ",
+			" ",
+			"<p>找到适合你的旅行方式<br/>——两全其美“自由团”</p>",
+			"Slide-freetour",
+			"why-us.php"),
+		array("img/itinerary/home-scandinavia-the-capitals-the-fjords.jpg",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>节省5%</p>6月30日<br />之前预定</div></div>",
+			"国庆档",
+			"<p>北欧多元首都之旅<br/>2017.9.30出发</p>",
+			"Slide-scandi",
+			"itinerary-scandinavia-the-capitals-the-fjords.php"),
+		array("img/itinerary/home-barcelona-southern-france-the-italian-riviera.jpg",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>6月30日前</div></div>",
+			"国庆档",
+			"<p>西法意城市狂想<br/>2017.9.29出发</p>",
+			"Slide-spfrit",
+			"itinerary-barcelona-southern-france-the-italian-riviera.php")
 	);
 ?>	
 		
@@ -32,40 +62,11 @@
 			<!-- slider -->
 			<div class="swiper-container">
 			    <div class="swiper-wrapper">
-			        <!-- <div class="swiper-slide">
-			        	<div class="sliderBg">
-			        		<img src="img/itinerary/billboard/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" />
-			        	</div>
-						<div class="discount" style="visibility: hidden;">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">
-								<p>最后召集</p>
-								仅剩2席<br />
-								2017.5.27出发
-							</div>
-						</div>
-						<div class="event">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">母亲节特别活动</div>
-						</div>
-						<div class="recommand">
-							<p>
-								花样妈妈团：西法意城市狂想<br/>
-								2017.5.27出发
-							</p>
-							<a id="slide-1" class="borderBtn" href="itinerary-barcelona-southern-france-the-italian-riviera-mama.php">查看行程<i class="whiteArrow"></i></a>
-						</div>
-			        </div> -->
 			        <div class="swiper-slide">
 			        	<div class="sliderBg">
 			        		<img src="<?php echo $slide[5-$i%6][0]?>"  />
 			        	</div>
-						<div class="discount">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">
-								<?php echo $slide[5-$i%6][1]?>
-							</div>
-						</div>
+						<?php echo $slide[5-$i%6][1]?>
 						<div class="event">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt"><?php echo $slide[5-$i%6][2]?></div>
@@ -79,12 +80,7 @@
 			        	<div class="sliderBg">
 			        		<img src="<?php echo $slide[5-($i+1)%6][0]?>"  />
 			        	</div>
-						<div class="discount">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">
-								<?php echo $slide[5-($i+1)%6][1]?>
-							</div>
-						</div>
+						<?php echo $slide[5-($i+1)%6][1]?>
 						<div class="event">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt"><?php echo $slide[5-($i+1)%6][2]?></div>
@@ -98,12 +94,7 @@
 			        	<div class="sliderBg">
 			        		<img src="<?php echo $slide[5-($i+2)%6][0]?>"  />
 			        	</div>
-						<div class="discount">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">
-								<?php echo $slide[5-($i+2)%6][1]?>
-							</div>
-						</div>
+						<?php echo $slide[5-($i+2)%6][1]?>
 						<div class="event">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt"><?php echo $slide[5-($i+2)%6][2]?></div>
@@ -117,12 +108,7 @@
 			        	<div class="sliderBg">
 			        		<img src="<?php echo $slide[5-($i+3)%6][0]?>"  />
 			        	</div>
-						<div class="discount">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">
-								<?php echo $slide[5-($i+3)%6][1]?>
-							</div>
-						</div>
+						<?php echo $slide[5-($i+3)%6][1]?>
 						<div class="event">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt"><?php echo $slide[5-($i+3)%6][2]?></div>
@@ -136,16 +122,11 @@
 			        	<div class="sliderBg">
 			        		<img src="<?php echo $slide[5-($i+4)%6][0]?>"  />
 			        	</div>
-						<div class="discount">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">
-								<?php echo $slide[5-($i+4)%6][1]?>
-							</div>
-						</div>
+						<?php echo $slide[5-($i+4)%6][1]?>
 						<div class="event">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt"><?php echo $slide[5-($i+4)%6][2]?></div>
-						</div>
+						</div>						
 						<div class="recommand">
 							<?php echo $slide[5-($i+4)%6][3]?>
 							<a id="<?php echo $slide[5-($i+4)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+4)%6][5]?>">查看行程<i class="whiteArrow"></i></a>
@@ -155,12 +136,7 @@
 			        	<div class="sliderBg">
 			        		<img src="<?php echo $slide[5-($i+5)%6][0]?>"  />
 			        	</div>
-						<div class="discount">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt">
-								<?php echo $slide[5-($i+5)%6][1]?>
-							</div>
-						</div>
+						<?php echo $slide[5-($i+5)%6][1]?>
 						<div class="event">
 							<div class="transparentBg"></div>
 							<div class="transparentTxt"><?php echo $slide[5-($i+5)%6][2]?></div>

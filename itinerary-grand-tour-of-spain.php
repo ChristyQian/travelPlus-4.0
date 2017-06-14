@@ -33,15 +33,15 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">2人同行,1人半价</div>
+							<div class="pinkTxt">仅剩3席</div>
 						</div>
 					</div>
 				</div>
 				<div class="discount">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<p>2人同行<br/>1人半价</p>
-						6月9号前
+						<p>国庆出发</p>
+						仅剩3席
 					</div>
 				</div>
 			</div>
@@ -893,8 +893,6 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-
-					<?php include_once('discount2.php') ;?>
 
 					<?php include_once('quotation-form.php') ;?>
 

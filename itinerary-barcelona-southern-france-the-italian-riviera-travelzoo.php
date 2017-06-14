@@ -56,7 +56,9 @@
 							<i class="grayArrow"></i>
 							<div>南法</div>
 							<i class="grayArrow"></i>
-							<div>里维耶拉</div>
+							<div>五渔村</div>
+							<i class="grayArrow"></i>
+							<div>佛罗伦萨</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>

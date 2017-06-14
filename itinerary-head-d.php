@@ -24,11 +24,5 @@
 		.quoBg .discount .transparentTxt {
 			padding-top:22px;
 		}
-		.declare {
-			display:block;
-			padding-left:23px;
-			margin-top:-25px;
-			margin-bottom:25px;
-		}
 	</style>
 </head>

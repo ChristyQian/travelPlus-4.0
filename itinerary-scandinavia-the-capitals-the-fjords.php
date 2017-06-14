@@ -31,9 +31,9 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
+							<div class="pinkTxt">早鸟减5%</div>
 						</div>
 					</div>
 				</div>

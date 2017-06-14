@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
 	$itineraryName="澳大利亚东海岸纵情之旅";
-	$itineraryPrice="￥";
+	$itineraryPrice="￥27,360";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">开启大洋洲之旅</div>
+						<div class="yellowTxt">国庆档</div>
 						<div class="tourName">澳大利亚东海岸纵情之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -31,7 +31,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
 							<div class="pinkTxt"></div>
 						</div>
@@ -57,14 +57,12 @@
 							<i class="grayArrow"></i>
 							<div>布里斯班</div>
 							<i class="grayArrow"></i>
-							<div>摩顿岛</div>
-							<i class="grayArrow"></i>
 							<div>悉尼</div>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥
+							￥27,360
 							<span>起</span>
 						</div>
 						<div>
@@ -74,14 +72,14 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">欢迎来到人人都爱的度假天堂澳大利亚！超棒的自然景观和城市风景都汇聚于此，舒适宜人的阳光海岸，珊瑚璀璨的大堡礁，古老的热带雨林，舌尖上的饕餮悉尼，我还将带你体验潜水、喂食海豚、品尝澳龙等缤纷活动，快来发现你的纵情澳洲吧！</p>
+						<p class="serif">欢迎来到人人都爱的度假天堂澳大利亚！超棒的自然和城市风景都汇聚于此，阳光海岸、热带雨林、潜水冲浪、饕餮悉尼，快来发现你的纵情澳洲吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								<img src="img/itinerary/tourDirector/Constantin.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Gattazzo</span>
+								<span class="name">Constantin</span>
 							</div>
 						</div>
 					</div>
@@ -267,7 +265,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/australia.jpg" />
+					<img src="img/itinerary/map/adventures-in-Australia.jpg" />
 				</div>
 				<div class="initialScreen">
 					<div class="com_itinerary_summary">
@@ -882,8 +880,6 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-
-					<?php include_once('discount.php') ;?>
 
 					<?php include_once('quotation-form.php') ;?>
 

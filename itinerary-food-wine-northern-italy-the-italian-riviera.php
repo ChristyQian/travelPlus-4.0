@@ -32,16 +32,16 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">早鸟减5%</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
 				<div class="discount">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<p>早鸟减5%</p>
-						6月30号<br />
-						前预定
+						<p>2人同行<br />
+						1人半价</p>
+						6月30日前
 					</div>					
 				</div>
 			</div>
@@ -840,7 +840,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php') ;?> 
+					<?php include_once('discount2.php') ;?> 
 
 					<?php include_once('quotation-form.php') ;?> 
 

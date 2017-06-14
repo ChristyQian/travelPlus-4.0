@@ -31,13 +31,13 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">早鸟减5%</div>
+							<div class="pinkTxt"></div>
 						</div>
 					</div>
 				</div>
-				<div class="discount">
+				<div class="discount" style="display:none">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<p>早鸟减5%</p>
@@ -754,8 +754,6 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php') ;?>
-
 					<?php include_once('quotation-form.php') ;?>
 
 				</div>
@@ -822,6 +820,7 @@ jQuery(function() {
     jQuery.getFeed({
 
         url: 'xml/blog.xml',
+        //async: false,
         success: function(feed) {           
             var html = '';
             

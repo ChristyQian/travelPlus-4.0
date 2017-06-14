@@ -42,6 +42,7 @@
 							</div>-->
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
+								<option value="aus" data-display="澳大利亚">澳大利亚</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -108,38 +109,6 @@
 			<div class="section">
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">	
-					<div id="moet-paris-reims" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="history,art,nature,honeymoon,food">
-						<a href="itinerary-moet-paris-reims.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/moet-paris-reim.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">美食美酒</div>
-										<div class="pinkTxt">早鸟减5%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									Moët酩悦香槟法国微醺之旅 <br/>
-									巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									9天
-									<span class="delPrice">￥24,600</span>
-									<span class="price">￥24,600<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
 				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
 							<div class="imgWrap">
@@ -148,14 +117,14 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
 							<div class="agendaWrap">
 								<p>
 									食在意大利：食物与酒的美学 <br/>
-									意大利
+									都灵 - 意属里维耶拉 - 博洛尼亚 - 米兰
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -180,14 +149,14 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
 							<div class="agendaWrap">
 								<p>
 									西法意城市狂想 <br/>
-									巴塞罗那 - 南法 - 里维耶拉
+									巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -226,7 +195,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									11天
@@ -244,7 +213,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行,1人半价</div>
+										<div class="pinkTxt">仅剩5席</div>
 									</div>
 								</div>
 							</div>
@@ -276,14 +245,14 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行,1人半价</div>
+										<div class="pinkTxt">仅剩3席</div>
 									</div>
 								</div>
 							</div>
 							<div class="agendaWrap">
 								<p>
 									西班牙全景深度游 <br/>
-									西班牙
+									西班牙 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -305,6 +274,38 @@
 			<div class="section">
 				<h4>全部行程</h4>
 				<div class="flex-row-start-start flex-flow">
+					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus,sy" data-tag="nature,seaview,honeymoon,family">
+						<a href="itinerary-adventures-in-australia.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/adventures-in-australia.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									澳大利亚东海岸纵情之旅 <br/>
+									凯恩斯 - 布里斯班 - 悉尼
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									14天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥27,360<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" >	
 							<div class="imgWrap">
@@ -807,12 +808,44 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
 									<span class="price">￥22,500<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>	
+					<div id="moet-paris-reims" name="home-trip-box" class="home-trip-box" data-dest="fr" data-tag="history,art,nature,honeymoon,food">
+						<a href="itinerary-moet-paris-reims.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/moet-paris-reim.jpg" alt="" />
+								<div class="hotSale" style="display: none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">美食美酒</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									Moët酩悦香槟法国微醺之旅 <br/>
+									巴黎 - 香槟区埃佩尔奈 - 香槟区兰斯
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥24,600</span>
+									<span class="price">￥24,600<span>起</span></span>
 								</div>
 							</div>
 						</a>
