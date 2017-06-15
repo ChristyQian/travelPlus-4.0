@@ -274,7 +274,7 @@
 			<div class="section">
 				<h4>全部行程</h4>
 				<div class="flex-row-start-start flex-flow">
-					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus,sy" data-tag="nature,seaview,honeymoon,family">
+					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/adventures-in-australia.jpg" alt="" />
