@@ -1,7 +1,7 @@
 <div class="section trips recommend">
 	<h4>当季精选</h4>
 	<div class="flex-row-start-between flex-flow">
-	    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
+	    <div id="food-wine-northern-italy-the-italian-riviera" class="home-trip-box">
 			<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
 				<div class="imgWrap">
 					<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
@@ -33,7 +33,7 @@
 				</div>
 			</a>
 	    </div>													
-		<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
+		<div id="barcelona-southern-france-the-italian-riviera" class="home-trip-box">
 			<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 				<div class="imgWrap">
 					<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
@@ -65,7 +65,7 @@
 				</div>
 			</a>
 	    </div>				    			    
-	   <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+	   <div id="scandinavia-the-capitals-the-fjords" class="home-trip-box">
 			<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
 				<div class="imgWrap">
 					<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />

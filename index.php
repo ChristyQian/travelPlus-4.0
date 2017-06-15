@@ -159,7 +159,7 @@
 					<!--<video width="500" height="302" src='http://player.youku.com/player.php/sid/XMTg0NjAwMTAwOA==/v.swf' allowFullScreen='true' quality='high' width='500' height='302' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>	
 						your browser does not support the video tag
 					</video>-->
-					<video src="http://oom4o4tqw.bkt.clouddn.com/EF-Travel-Plus-branding2.MP4" controls="controls">
+					<video id="home-video" src="http://oom4o4tqw.bkt.clouddn.com/EF-Travel-Plus-branding2.MP4" controls="controls" onplay="bs_trackClick(bs_getEventCategory(), 'Home Video Play');">
 						your browser does not support the video tag
 					</video>
 					<div class="flex-row-start-around features">
