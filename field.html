@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<style>
+
+</style>
+</head>
+<body>
+<div id="myDiv"><h2>Let AJAX change this text</h2></div>
+<button id="b01" type="button">Change Content</button>
+
+</body>
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script type="text/javascript">	
+var table = new Array(10);
+for (var i=0; i<table.length; i++) {
+	table[i] = new Array(10);
+}
+for (var row = 0; row < table.length; row++) {
+	for (var col = 0; col < table[row].length; col++) {
+		table[row][col]= row*col;
+	}
+}
+var product = table[8][9];
+
+a = ["ant","Bug","cat","Dog"];
+b = [33,4,1111,222];
+
+var c = [1,2,3,4,5];
+//c.splice(2,0,'a','b');
+var sum = c.reduce(function(x,y){
+	return x+y
+},0);
+
+var product = c.reduce(function(x,y){
+	return x*y
+},1)
+var max = c.reduce(function(x,y){
+	return (x>y)?x:y
+});
+var d = [5,4,3,2,1];
+
+var objects = [{x:1,a:1},{y:2,a:2},{z:3,a:3}];
+function extend(o,p){
+	for (prop in p) {
+		o[prop] = p[prop];
+	}
+	return o;
+}
+function union(o,p){
+	return extend(extend({},o),p);
+}
+var leftunion = objects.reduce(union);
+var rightunion = objects.reduceRight(union);
+
+$(document).ready(function(){
+	$('#b01').click(function(){
+		jQuery.ajax({			
+			type:'get',
+			url:'http://jdcdev-api.marykayintouch.com.cn/Ecollaboration/v1/FieldReference/List',
+			dataType:'jsonp',
+			contentType:'application/json',
+			success: function(obj){
+				//console.log(obj);
+				var keys = Object.keys(obj);
+				var values = [];
+				for (var i = 0;i < keys.length; i++) {
+					var key = keys[i];
+					values[i] = obj[key];
+				}
+				//console.log(values);
+
+				var subObj = [], subArray = [];
+				for (var i = 0; i < values[0].length; i++) {
+					var categoryID = values[0][i];					
+					console.log(categoryID);
+					var subArrayLength = categoryID.Fields;	
+					console.log(subArrayLength);				
+					// for (var k = 0; k < subArrayLength; k++) {
+					// 	var subArrayValue = subArrayLength.FieldName;
+					// 	console.log(subArrayValue.value);
+					// 	subArray += '<option>'+subArrayValue+'</option>';						
+					// }
+					//console.log(subArray);
+					subObj += '<option>'+categoryID.Description+'</option>';
+				}
+				console.log(categoryID.Fields);
+				//console.log(subArray);
+				console.log('<select>'+subObj+'</select>');
+				jQuery('body').append('<div class="tfdSelect" style="display:inline-block;"><select>'+subObj+'</select></div><div class="tsdSelect" style="display:inline-block;"></div>');
+
+				console.log(product);
+
+				console.log(a.sort(function(s,t){
+					var a = s.toLowerCase();
+					var b = t.toLowerCase();
+					if (a < b) return -1 ;
+					if (a > b) return 1 ;
+					return 0; 
+				}));
+
+				console.log(b.sort(function(a,b){
+					return b-a;
+				}));
+				console.log(c);
+				console.log(smallvalues = d.filter(function(x){
+					return x<3
+				}));
+				console.log(everyother = d.filter (function(x,i){
+					return i%2 ==0
+				}));
+				console.log(sum,product,max,leftunion,rightunion);
+			}
+
+			
+
+		});
+	});
+});
+	$('.tfdSelect').change(function(i){
+		
+		for (var k = 0; k < subArrayLength; k++) {
+			var subArrayValue = subArrayLength.FieldName;
+			console.log(subArrayValues);
+			subArray += '<option>'+subArrayValue+'</option>';						
+		}
+	});
+
+</script>
+
+</script>
+</html>

@@ -49,6 +49,10 @@
 	display:inline-block;
 	width:25%;
 }
+.grayBg .features .flex1 {
+	display:block;
+	width:100%;
+}
 .home-trip-box {
 	display:inline-block;
 	margin:15px 8px;

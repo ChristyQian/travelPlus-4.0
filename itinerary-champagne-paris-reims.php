@@ -14,7 +14,7 @@
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta-d.php') ;?>
+		<?php include_once('fix-cta.php') ;?>
 		<?php include_once('common-header.php') ;?>
 		<!-- Image -->
 		<div class="imagesWrap" style="background:url(img/itinerary/itinerary-champagne-travelzoo.jpg)  center center no-repeat;
@@ -67,7 +67,7 @@
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">一键预订优惠</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
 						</div>
 					</div>
 				</div>
@@ -748,8 +748,7 @@
 
 			<div class="quotation">
 
-				<h4>一键预订优惠</h4>
-				<span class="declare">*不会产生任何费用</span>
+				<h4>获取实时价格</h4>
 
 				<div class="quotationBg"></div>
 
@@ -769,7 +768,7 @@
 
 					</div>
 
-					<?php include_once('quotation-form-d.php') ;?>
+					<?php include_once('quotation-form.php') ;?>
 
 				</div>
 

@@ -10,7 +10,7 @@ h4 {
 }
 .container {
 	position:relative;
-	height:800px;
+	height:980px;
 }
 .whyUsBg {
 	position:absolute;
@@ -27,6 +27,31 @@ h4 {
 .grayBg ul li {
 	list-style:disc;
 	margin-bottom:20px;
+}
+.features {
+	width:70%;
+}
+.features p {font-size:15px;}
+.features .flex1 {
+	align-items: center;
+	text-align: center;
+}
+.localGuide, 
+.like-minded, 
+.freeTime {
+	mix-blend-mode:normal;
+}
+.localGuide {
+	background:url(../img/a.png);
+	background-size:cover;
+}
+.like-minded {
+	background:url(../img/b.png);
+	background-size:cover;
+}
+.freeTime {
+	background:url(../img/c.png);
+	background-size:cover;
 }
 .Oval-6,
 .Oval-7 {
@@ -289,8 +314,14 @@ footer .backToTop {
 	.grayBg .serif {
 		padding:0 20px 0 30px;
 	}
+	.grayBg .features {
+		width:80%;
+	}
 }
 @media screen and (max-width: 768px) {
+	.container {
+		height:1000px;
+	}
 	.advantage .flex-col-center-center {
 		-webkit-box-flex:1;
 		    -ms-flex:1 0 180px;
@@ -307,13 +338,40 @@ footer .backToTop {
 	.whyUsTxt {
 		margin:50px 0;
 	}
+	.grayBg .features {
+		width:100%;
+	}
+	.grayBg .features p {
+		width:70%;
+		margin:0 auto;
+	}
+}
+@media screen and (max-width: 600px) {
+	.grayBg .features {
+		width:88%;
+		margin:0 auto;
+		padding-bottom:0px;
+	}
+	.grayBg .features .flex1 {
+		display:block;
+	}
+	.grayBg .features p {
+		width:auto;
+		margin-left:20px;
+	}
+	.features .flex1 {
+		text-align:left;
+	}
 }
 @media screen and (max-width: 425px) {
 	.section h4 {
 		padding:10px 0;
 	}
 	.container {
-		height:500px;
+		height:840px;
+	}
+	.grayBg {
+		padding-top:2em;
 	}
 	.whyUsBg {
 		height:175px;
@@ -331,6 +389,9 @@ footer .backToTop {
 	}
 	.reviewBg .site .serif {
 		padding:0 20px;
+	}
+	.grayBg .features {
+		width:100%;
 	}
 	.whyUsTxt {
 		-webkit-box-pack: center;
@@ -380,6 +441,12 @@ footer .backToTop {
 	}
 }
 @media screen and (max-width: 375px) {
+	.container {
+		height:880px;
+	}
+	.grayBg .features {
+		padding-bottom:40px;
+	}
 	.reasons div {
 		-webkit-box-flex:0;
 		    -ms-flex:0 1 166px;
@@ -394,6 +461,12 @@ footer .backToTop {
 	}
 }
 @media screen and (max-width: 320px) { 
+	.grayBg .features {
+		width:80%;
+	}
+	.grayBg .features p {
+		width:55%;
+	}
 	.reasons div {
 		-webkit-box-flex:0;
 		    -ms-flex:0 1 138px;

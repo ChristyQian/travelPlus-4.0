@@ -819,8 +819,9 @@ jQuery(function() {
 
     jQuery.getFeed({
 
-        url: 'xml/blog.xml',
-        //async: false,
+        //url: 'xml/blog.xml',
+        url:'http://travelplus.ef.com.cn/blog/?tag=london',
+        async: false,
         success: function(feed) {           
             var html = '';
             
