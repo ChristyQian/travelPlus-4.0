@@ -34,6 +34,7 @@ jQuery.getFeed = function(options) {
 
         return $.ajax({
             type: 'GET',
+            crossOrigin: true,
             url: options.url,
             data: options.data,
             cache: options.cache,

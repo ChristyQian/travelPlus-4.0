@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-champagne-paris-reims-travelzoo";
+	$pageName="itinerary-champagne-paris-reims";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
@@ -784,39 +784,7 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<h4 class="flex-row-end-between">
-				博客
-				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
-			</h4>
-			<!-- <div class="flex-row-start-around flex-flow">
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-			</div> -->
+			<?php include_once('blog.php') ;?>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -826,61 +794,15 @@
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
 		<script src="js/jquery.js"></script>
-		<script src="js/jquery.jfeed.pack.js"></script>
+		<script src="js/jquery.ajax-cross-origin.min.js"></script>
+		<script src="js/jquery.jfeed.js"></script>
+		<script src="js/readRss.js"></script>
 		<script type="text/javascript">
-
-jQuery(function() {
-
-    jQuery.getFeed({
-
-        url: 'xml/blog.xml',
-        success: function(feed) {           
-            var html = '';
-            
-            for(var i = 0; i < feed.items.length && i < 3; i++) {
-            	/* item */
-                var item = feed.items[i];
-                /* item.image */
-                var re = /<img[^>]+>/g;
-                var image = item.description.match(re);
-                /* item.date */
-                var formatDate = function (date) {  
-				    var y = date.getFullYear();  
-				    var m = date.getMonth() + 1;  
-				    m = m < 10 ? '0' + m : m;  
-				    var d = date.getDate();  
-				    d = d < 10 ? '0' + d : d;  
-				    return y + '-' + m + '-' + d;  
-				};
-                var time = formatDate(new Date(item.updated));
-
-                html += '<div class="flex1 flex-row-center-between">'
-                + '<div class="image">' 
-				+ image
-				+ '</div>'
-                + '<div class="info">'
-                + '<a href="'
-                + item.link
-                + '">'
-                + '<h5>'
-	            + item.title
-	            + '</h5>'	            
-                + '</a>'
-                + '<time>'
-                + time
-                + '</time>'
-                + '</div>'
-                + '</div>';
-            }
-            
-            jQuery('.blog').append('<div class="flex-row-start-around flex-flow" >'
-            	+ html
-            	+ '</div>');
-        }    
-    });
-});
-
-</script>
+			// var itineraryName = "<?php echo $pageName;?>";
+			// var reg = /\b([a-z]+(?: [a-z]+)*)\b(?!>)/gim;
+			// var arr = itineraryName.match(reg);
+			// getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+arr+'&feed=rss2');
+		</script>
 	</body>
 
 </html>

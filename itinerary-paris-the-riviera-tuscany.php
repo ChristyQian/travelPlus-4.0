@@ -853,39 +853,7 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<h4 class="flex-row-end-between">
-				博客
-				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
-			</h4>
-			<div class="flex-row-start-around flex-flow">
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-			</div>
+			<?php include_once('blog.php') ;?>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -894,6 +862,16 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
+		<script src="js/jquery.js"></script>
+		<script src="js/jquery.ajax-cross-origin.min.js"></script>
+		<script src="js/jquery.jfeed.js"></script>
+		<script src="js/readRss.js"></script>
+		<script type="text/javascript">
+			var itineraryName = "<?php echo $pageName;?>";
+			var reg = /\b([a-z]+(?: [a-z]+)*)\b(?!>)/gim;
+			var arr = itineraryName.match(reg);
+			getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+arr+'&feed=rss2');
+		</script>
 	</body>
 
 </html>
