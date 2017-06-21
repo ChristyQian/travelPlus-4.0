@@ -22,10 +22,10 @@ function getCountries() {
 
 function getRssFetch(rssUrl){
 
-    jQuery.getFeed({
+     $.getFeed({
 
-        url: rssUrl ,
-        dataType:'xml',
+        url: rssUrl,
+        dataType: 'xml',
         success: function(feed) {          
             var html = '';         
             for(var i = 0; i < feed.items.length && i < 3; i++) {
@@ -34,6 +34,7 @@ function getRssFetch(rssUrl){
                 /* item.image */
                 var re = /<img[^>]+>/g;
                 var image = item.description.match(re);
+                return image.attr('src');
                 /* item.date */
                 var formatDate = function (date) {  
 				    var y = date.getFullYear();  
@@ -46,8 +47,10 @@ function getRssFetch(rssUrl){
                 var time = formatDate(new Date(item.updated));
 
                 html += '<div class="flex1 flex-row-center-between">'
-                + '<div class="image">' 
-				+ image
+                + '<div class="image">'
+                + '<img src="'
+                + image
+                + '"/>' 
 				+ '</div>'
                 + '<div class="info">'
                 + '<a href="'
@@ -64,9 +67,9 @@ function getRssFetch(rssUrl){
                 + '</div>';
             }
             
-            jQuery('.blog').append('<div class="flex-row-start-around flex-flow" >'
+            $('.blog').append('<div class="flex-row-start-around flex-flow">'
             	+ html
-            	+ '</div>');
-        }    
-    });
+                + '</div>');
+            }    
+     });
 }

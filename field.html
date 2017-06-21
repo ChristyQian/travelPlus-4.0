@@ -88,7 +88,7 @@ $(document).ready(function(){
 				console.log(categoryID.Fields);
 				//console.log(subArray);
 				console.log('<select>'+subObj+'</select>');
-				jQuery('body').append('<div class="tfdSelect" style="display:inline-block;"><select>'+subObj+'</select></div><div class="tsdSelect" style="display:inline-block;"></div>');
+				jQuery('body').append('<div class="tfdSelect" style="display:inline-block;"><select>'+subObj+'</select></div><div class="tsdSelect" style="display:inline-block;"><select>'+subArray+'</select></div>');
 
 				console.log(product);
 
@@ -118,8 +118,10 @@ $(document).ready(function(){
 		});
 	});
 });
-	$('.tfdSelect').change(function(i){
-		
+	$('.tfdSelect').change(function(){	
+		var obj = $('.tfdSelect'); 
+		var index = obj.selectedIndex;
+		//var op = obj[index];	
 		for (var k = 0; k < subArrayLength; k++) {
 			var subArrayValue = subArrayLength.FieldName;
 			console.log(subArrayValues);

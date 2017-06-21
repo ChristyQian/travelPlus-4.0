@@ -11,6 +11,8 @@
 	$itineraryPrice="￥24,600";
 
     include_once("itinerary-head.php"); 
+    // header('Access-Control-Allow-Origin: *'); 
+    // header('Access-Control-Allow-Methods: GET, PUT, POST, DELETE, OPTIONS');
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
@@ -770,7 +772,11 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<?php include_once('blog.php') ;?>
+			<h4 class="flex-row-end-between">
+				博客
+				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
+			</h4>
+			
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -784,11 +790,34 @@
 		<script src="js/jquery.jfeed.js"></script>
 		<script src="js/readRss.js"></script>
 		<script type="text/javascript">
+			function sum(x,y) {
+				var z = x+y;
+				console.log(x +'+'+ y +'='+ z);
+				return z;				
+			}
+			console.log(sum(5,10));
+			console.log(sum(3,8));
 			var itineraryName = "<?php echo $pageName;?>";
 			var reg = /\b([a-z]+(?: [a-z]+)*)\b(?!>)/gim;
 			var arr = itineraryName.match(reg);
-			getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+arr+'&feed=rss2');
+			getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+ arr +'&feed=rss2');
 		</script>
+		<!-- <script type="text/javascript">
+		var itineraryName = "<?php echo $pageName;?>";
+		var currCoutries = getCountries();
+        for(var itemIndex in currCoutries)
+        {
+            var itemInArray = currCoutries[itemIndex];
+            var result = itineraryName.match(itemInArray);
+            if (result) {
+                getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
+                break;//once found, will not go on the search, just jump out.
+            }
+            else {
+                 getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
+            }
+        }
+		</script> -->
 	</body>
 
 </html>
