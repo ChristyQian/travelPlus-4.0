@@ -83,7 +83,7 @@ $(document).ready(function(){
 					// 	subArray += '<option>'+subArrayValue+'</option>';						
 					// }
 					//console.log(subArray);
-					subObj += '<option>'+categoryID.Description+'</option>';
+					subObj += '<option value="'+ i +'">'+categoryID.Description+'</option>';
 				}
 				console.log(categoryID.Fields);
 				//console.log(subArray);
@@ -118,16 +118,33 @@ $(document).ready(function(){
 		});
 	});
 });
-	$('.tfdSelect').change(function(){	
-		var obj = $('.tfdSelect'); 
-		var index = obj.selectedIndex;
-		//var op = obj[index];	
-		for (var k = 0; k < subArrayLength; k++) {
-			var subArrayValue = subArrayLength.FieldName;
-			console.log(subArrayValues);
-			subArray += '<option>'+subArrayValue+'</option>';						
-		}
-	});
+$('.tfdSelect').change(function(){	
+	var obj = $('.tfdSelect'); 
+	var index = obj.selectedIndex;
+	//var op = obj[index];	
+	for (var k = 0; k < subArrayLength; k++) {
+		var subArrayValue = subArrayLength.FieldName;
+		console.log(subArrayValues);
+		subArray += '<option>'+subArrayValue+'</option>';						
+	}
+});
+
+var cars = ['Volvo','BMW','SAAB'];
+cars.sort();
+
+for (var x=0; x<cars.length; x++) {
+	console.log(cars[x]);
+
+}
+console.log(cars);
+
+var age = ['35:Bill','37:Steve','43:Peter'];
+age.sort();
+
+for (var x=0;x<age.length;x++)
+{
+	console.log(age[x]);
+}
 
 </script>
 
