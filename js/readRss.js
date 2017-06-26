@@ -34,7 +34,7 @@ function getRssFetch(rssUrl){
                 /* item.image */
                 var re = /<img[^>]+>/g;
                 var image = item.description.match(re);
-                return image.attr('src');
+                //return image.attr('src');
                 /* item.date */
                 var formatDate = function (date) {  
 				    var y = date.getFullYear();  

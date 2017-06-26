@@ -36,14 +36,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="discount">
-					<div class="transparentBg"></div>
-					<div class="transparentTxt">
-						<p>2人同行<br />
-						1人半价</p>
-						6月30日前
-					</div>					
-				</div>
+				<?php include_once('discount.php'); echo $discount3 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -840,7 +833,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount2.php') ;?> 
+					<?php include_once('discount.php'); echo $discount3 ?> 
 
 					<?php include_once('quotation-form.php') ;?> 
 
@@ -858,7 +851,10 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<?php include_once('blog.php') ;?>
+			<h4 class="flex-row-end-between">
+				博客
+				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
+			</h4>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -872,10 +868,21 @@
 		<script src="js/jquery.jfeed.js"></script>
 		<script src="js/readRss.js"></script>
 		<script type="text/javascript">
-			var itineraryName = "<?php echo $pageName;?>";
-			var reg = /\b([a-z]+(?: [a-z]+)*)\b(?!>)/gim;
-			var arr = itineraryName.match(reg);
-			getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+arr+'&feed=rss2');
+		var itineraryName = "<?php echo $pageName;?>";
+		var currCoutries = getCountries();
+        for(var itemIndex in currCoutries)
+        {
+            var itemInArray = currCoutries[itemIndex];
+            var result = itineraryName.match(itemInArray);
+            if (result) {
+                getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
+                break;
+            }
+            else {
+                 getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
+                 break;
+            }
+        }
 		</script>
 	</body>
 </html>

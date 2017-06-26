@@ -37,13 +37,6 @@
 						</div>
 					</div>
 				</div>
-				<div class="discount" style="visibility: hidden;">
-					<div class="transparentBg"></div>
-					<div class="transparentTxt">
-						<p>节省20%</p>
-						2月28日<br /> 之前预定
-					</div>
-				</div>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -919,7 +912,10 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<?php include_once('blog.php') ;?>
+			<h4 class="flex-row-end-between">
+				博客
+				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
+			</h4>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -941,10 +937,11 @@
             var result = itineraryName.match(itemInArray);
             if (result) {
                 getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
-                break;//once found, will not go on the search, just jump out.
+                break;
             }
             else {
                  getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
+                 break;
             }
         }
 		</script>

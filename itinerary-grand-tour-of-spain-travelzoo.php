@@ -37,13 +37,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="discount">
-					<div class="transparentBg"></div>
-					<div class="transparentTxt">
-						<p>2人同行<br/>1人半价</p>
-						6月9号前
-					</div>
-				</div>
+				<?php include_once('discount.php'); echo $discount3 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -895,7 +889,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount-d.php') ;?>
+					<?php include_once('discount.php') ; echo $discount3 ;?>
 
 					<?php include_once('quotation-form-d.php') ;?>
 
@@ -917,35 +911,6 @@
 				博客
 				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
 			</h4>
-			<div class="flex-row-start-around flex-flow">
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-			</div>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -954,6 +919,27 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
+		<script src="js/jquery.js"></script>
+		<script src="js/jquery.ajax-cross-origin.min.js"></script>
+		<script src="js/jquery.jfeed.js"></script>
+		<script src="js/readRss.js"></script>
+		<script type="text/javascript">
+		var itineraryName = "<?php echo $pageName;?>";
+		var currCoutries = getCountries();
+        for(var itemIndex in currCoutries)
+        {
+            var itemInArray = currCoutries[itemIndex];
+            var result = itineraryName.match(itemInArray);
+            if (result) {
+                getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
+                break;
+            }
+            else {
+                 getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
+                 break;
+            }
+        }
+		</script>
 	</body>
 
 </html>

@@ -36,13 +36,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="discount">
-					<div class="transparentBg"></div>
-					<div class="transparentTxt">
-						<p>国庆出发</p>
-						仅剩5席
-					</div>
-				</div>
+				<?php include_once('discount.php'); echo $discount4 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -76,7 +70,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">加入我们吧，一起从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列车敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。</p>
+						<p class="serif">加入我们吧，一起从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
@@ -884,10 +878,21 @@
 		<script src="js/jquery.jfeed.js"></script>
 		<script src="js/readRss.js"></script>
 		<script type="text/javascript">
-			var itineraryName = "<?php echo $pageName;?>";
-			var reg = /\b([a-z]+(?: [a-z]+)*)\b(?!>)/gim;
-			var arr = itineraryName.match(reg);
-			getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+arr+'&feed=rss2');
+		var itineraryName = "<?php echo $pageName;?>";
+		var currCoutries = getCountries();
+        for(var itemIndex in currCoutries)
+        {
+            var itemInArray = currCoutries[itemIndex];
+            var result = itineraryName.match(itemInArray);
+            if (result) {
+                getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
+                break;
+            }
+            else {
+                 getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
+                 break;
+            }
+        }
 		</script>
 	</body>
 
