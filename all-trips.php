@@ -3,8 +3,8 @@
 <?php 
 	$pageName="all-trips";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
-	$metaTitle="欧洲游线路_线路推荐_限时特惠线路_假期出国游";
-	$metaKeywords="德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
+	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_线路推荐_限时特惠线路_假期出国游";
+	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
 	$metaDescription="英孚旅游+，根据热门季节、个人爱好等旅行元素，精心设计行程，带来更多元的主题线路和更优的旅行体验，真正融入异国文化，捕捉旅程中的每次怦然心动与惊喜。";
 
     include_once("all-trips-head.php"); 
@@ -43,6 +43,8 @@
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
 								<option value="aus" data-display="澳大利亚">澳大利亚</option>
+								<option value="am" data-display="美国">美国加州</option>
+								<option value="icy" data-display="北极">北极</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -302,6 +304,70 @@
 									14天
 									<span class="delPrice">￥19,100</span>
 									<span class="price">￥27,360<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="am" data-tag="">
+						<a href="itinerary-grand-tour-of-california.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									圆梦加州畅游之旅 <br/>
+									旧金山 - 优胜美地 - 圣芭芭拉 - 洛杉矶
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥</span>
+									<span class="price">￥<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="">
+						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									冰岛奇幻北极光之旅 <br/>
+									雷克雅维克 - 冰岛西部
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥</span>
+									<span class="price">￥<span>起</span></span>
 								</div>
 							</div>
 						</a>
