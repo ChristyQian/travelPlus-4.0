@@ -750,7 +750,7 @@
 
 					<?php include_once('discount.php'); echo $discount6 ;?>
 
-					<?php include_once('quotation-form.php') ;?>
+					<?php include_once('quotation-form.php'); echo $text1 ;?>
 
 				</div>
 

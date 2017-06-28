@@ -1,3 +1,7 @@
+<?php 
+	$text1 = '提交查询<i class="whiteArrow"></i></button></div>';
+	$text2 = '在线预订<i class="whiteArrow"></i></button></div>';
+?>
 	<!--backend interface --> 
 
     <script type="text/javascript" src='../lib/services.js'></script>
@@ -116,8 +120,5 @@
 							<input name="destination" type="hidden" title="destination" param="destination" value="-">
 							<input name="sfreplication" type="hidden" title="sfreplication" param="sfreplication" value="true">							
 
-						</form>					
-
-						<button onclick="Lead_Validation('sp-form', 'Lead_Insert', 'submitted.php', true)" class="orangeBtn" >提交查询<i class="whiteArrow"></i></button>
-
-					</div>
+						</form>	
+						<button onclick="Lead_Validation('sp-form', 'Lead_Insert', 'submitted.php', true)" class="orangeBtn" >				

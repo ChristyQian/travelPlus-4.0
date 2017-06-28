@@ -851,7 +851,7 @@
 
 					<?php include_once('discount.php') ; echo $discount3 ;?>
 
-					<?php include_once('quotation-form-d.php') ;?>
+					<?php include_once('quotation-form.php'); echo $text2 ;?>
 
 				</div>
 
