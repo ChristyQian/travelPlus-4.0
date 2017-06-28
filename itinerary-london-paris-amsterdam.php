@@ -13,7 +13,7 @@
     include_once("itinerary-head.php"); 
 ?>
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta.php') ;?>			
+		<?php include_once('fix-cta.php'); echo $text1 ;?>			
 		<?php include_once('common-header.php') ;?>	
 		<!-- Image -->
 		<div class="imagesWrap" style="background:url(img/itinerary/billboard/London-Paris-Amsterdam.jpg)  center center no-repeat;

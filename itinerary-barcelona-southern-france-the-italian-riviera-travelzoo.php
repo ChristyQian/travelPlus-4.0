@@ -13,7 +13,7 @@
     include_once("itinerary-head-d.php"); 
 ?>
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta-d.php') ;?>			
+		<?php include_once('fix-cta.php'); echo $text2 ;?>			
 		<?php include_once('common-header.php') ;?>	
 		<!-- Image -->
 		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg)  center center no-repeat;

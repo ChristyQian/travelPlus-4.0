@@ -1,3 +1,7 @@
+<?php 
+	$text1 = "获取价格</a></div></div></div></div>" ;
+	$text2 = "一键预订</a></div></div></div></div>" ;
+?>
 <div class="fixCAT">
 			<div class="site">
 				<div class="com_dialog">
@@ -31,9 +35,4 @@
 				        		</div>
 				        	</div>
 				        	<a id="sticky-get-price" class="orangeBtn" href="#getPersonalizedPrice">
-				        		获取价格
-				        	</a> 
-			        	</div>
-		        </div>
-			</div>
-		</div>
+				        		

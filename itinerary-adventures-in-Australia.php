@@ -14,7 +14,7 @@
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta.php') ;?>
+		<?php include_once('fix-cta.php'); echo $text1 ;?>
 		<?php include_once('common-header.php') ;?>
 		<!-- Image -->
 		<div class="imagesWrap" style="background:url(img/itinerary/billboard/adventures-in-Australia.jpg)  center center no-repeat;
@@ -258,7 +258,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/adventures-in-Australia.jpg" />
+					<img src="img/itinerary/map/adventures-in-australia.jpg" />
 				</div>
 				<div class="initialScreen">
 					<div class="com_itinerary_summary">

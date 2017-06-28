@@ -15,7 +15,7 @@
 	<body data-spy="scroll" data-target="#travelPlusNav">
 
 <?php 
-	include_once('fix-cta.php');
+	include_once('fix-cta.php'; echo $text1);
 ?>			
 
 <?php 

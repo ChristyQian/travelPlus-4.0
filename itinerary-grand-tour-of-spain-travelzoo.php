@@ -14,7 +14,7 @@
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta-d.php') ;?>
+		<?php include_once('fix-cta.php'); echo $text2 ;?>
 		<?php include_once('common-header.php') ;?>
 		<!-- Image -->
 		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Grand-Tour-of-Spain.jpg)  center center no-repeat;

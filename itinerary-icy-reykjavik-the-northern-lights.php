@@ -14,7 +14,7 @@
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta.php') ;?>
+		<?php include_once('fix-cta.php'); echo $text1; ?>
 		<?php include_once('common-header.php') ;?>
 		<!-- Image -->
 		<div class="imagesWrap" style="background:url(img/itinerary/billboard/icy-reykjavik-the-northern-lights.jpg)  center center no-repeat;
@@ -255,7 +255,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/" />
+					<img src="img/itinerary/map/ice-reykjavik-northern-lights.jpg" />
 				</div>
 				<div class="initialScreen">
 					<div class="com_itinerary_summary">
