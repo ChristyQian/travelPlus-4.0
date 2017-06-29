@@ -12,7 +12,7 @@
 	<body>
 	<?php include 'common-header2.php';?>	
 		<div class="site">
-			 <h4>什么是 EF TravelPlus 自由团？</h4>
+			 <h4>EF TravelPlus - 跟团也能很自由</h4>
 		</div>
 		<div class="grayBg">
 			<div class="container">

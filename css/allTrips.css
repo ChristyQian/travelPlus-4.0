@@ -1,5 +1,94 @@
+.whyUsBg {
+	background:url(../img/itinerary/banner-why-us.jpg) center center no-repeat;
+	width:100%;
+	height:423px;
+	bottom:0;
+	background-size:cover;
+}
+.whyUsBg .site {
+	position:relative;	
+}
+.slogan {
+	position:absolute;
+	color:#fff;
+	font-size:28px;
+	line-height:56px;
+	top:60px;
+	left:100px;
+}
+.greyBg { 
+	background-color:#f7f5f0;
+	padding:4em 2em;
+}
+.greyBg .site {
+	padding:0 4em;
+	position:relative;
+}
+.section .greyBg h4 {
+	padding:0;
+	margin-left:-20px;
+	margin-top:0;
+}
+.greyBg ul li {
+	font-size:14px;
+	list-style:disc;
+}
+.greyBg .orangeBtn {
+	background-color:#f4af39;
+	margin:24px 0;
+	width:300px;
+	height:46px;
+	line-height: 46px;
+	font-size:16px;
+}
+.greyBg a.orangeBtn:hover {
+	text-decoration: none;
+}
+.Oval-6,
+.Oval-7 {
+	display:inline-block;
+	width:216px;
+	height:216px;
+	border-radius:50%;
+}
+.Oval-6 {
+	mix-blend-mode: multiply;
+  	background-color: #94c5db;
+}
+.Oval-7 {
+	mix-blend-mode: multiply;
+  background-color: #f7b84f;
+  margin-left:-80px;
+}
+.whyUsTxt {
+	position:absolute;
+	height:216px;
+	width:355px;
+	top:-100px;
+	right:100px;
+}
+.whyUsTxt .transparentBg {
+	background: transparent;
+}
+.whyUsTxt .transparentTxt {
+	position:absolute;
+	z-index:3;
+	width:inherit;
+	height:inherit;
+	color:#fff;
+	display:-webkit-inline-box;
+	display:-ms-inline-flexbox;
+	display:inline-flex;
+	padding:10px;
+	font-size:1.6em;
+}
+.whyUsTxt .transparentBg,
+.whyUsTxt .transparentTxt {
+	left:0;
+	bottom:0;
+}
 .filter.affix {
-	top:0;
+	top:60px;
 }
 .section.filter.editModel.affix-top {
 	height:auto;
@@ -150,6 +239,10 @@ a.close-dropdown {
 .affix-top .expandIcon {
 	display:none;
 }
+@media screen and (max-width:1366px) { 
+	.whyUsBg {
+		height:200px;
+	}
 @media screen and (max-width:1024px) { 
 	.filter .blueRBtn {
 		margin-top:10px;
@@ -157,10 +250,54 @@ a.close-dropdown {
 	.filter.filterResult .blueRBtn {
 		margin-top:0;
 	}
+	.filter.affix+.site {
+		padding-top:200px;
+	} /* fix the problem of the frist line of trip cards be hidden when filter affixed top */
+}
+@media screen and (max-width:768px) {
+	.whyUsTxt {
+		right:-20px;
+	}
+	.slogan { 
+		font-size:16px;
+		line-height:32px;
+		top:30px;
+		left:50px;
+	}
 }
 @media screen and (max-width:425px) {
+	.whyUsBg {
+		height:175px;
+	}
+	.slogan {
+		font-size:16px;
+		left:30px;
+		top:30px;
+		line-height:24px;
+	}
+	.whyUsTxt {
+		right:inherit;
+		width:276px;
+		height:158px;
+		font-size:inherit;
+	}
+	.Oval-6,
+	.Oval-7 { 
+		width:158px;
+		height:158px;
+	}
+	.Oval-7 {margin-left:-43px;}
+	.section .greyBg h4 {
+		padding-top:80px;
+	}
+	.greyBg .orangeBtn {
+		width:100%;
+	}
 	.filter {
 		font-size:1.2em;
+	}
+	.filter.affix {
+		top:40px;
 	}
 	.affix .expandIcon {
 		display:block;
@@ -205,7 +342,21 @@ a.close-dropdown {
 		-ms-flex-flow:row wrap;
 		    flex-flow:row wrap;
 	}
-	.checkbox {
-		/*flex:0 0 100px;*/
+}
+@media screen and (max-width:375px) {
+	.greyBg .site {
+		padding:0 0 0 2em;
+	}	
+	.whyUsTxt { 
+		right: inherit;
+	}
+}
+@media screen and (max-width:320px) {
+	.whyUsTxt {
+		width:276px;
+		right: 0;
+	}
+	.greyBg .site {
+		padding:0 0 0 2em;
 	}
 }

@@ -71,6 +71,7 @@ h4 {
 }
 .whyUsTxt {
 	position:relative;
+	width:355px;
 	height:216px;
 	margin:70px 0;
 }
@@ -87,7 +88,7 @@ h4 {
 .whyUsTxt .transparentTxt {
 	position:absolute;
 	z-index:3;
-	width:355px;
+	width:inherit;
 	height:inherit;
 	color:#fff;
 	display:-webkit-inline-box;
@@ -291,6 +292,12 @@ footer .backToTop {
 	line-height:1.5em;
 }
 @media screen and (max-width:1024px) {
+	.container {
+		height:777px;
+	}
+	.whyUsBg {
+		height: 300px;
+	}
 	.reasons div {
 		-webkit-box-flex:0;
 		    -ms-flex:0 1 160px;
@@ -319,9 +326,6 @@ footer .backToTop {
 	}
 }
 @media screen and (max-width: 768px) {
-	.container {
-		height:1000px;
-	}
 	.advantage .flex-col-center-center {
 		-webkit-box-flex:1;
 		    -ms-flex:1 0 180px;
@@ -393,22 +397,6 @@ footer .backToTop {
 	.grayBg .features {
 		width:100%;
 	}
-	.whyUsTxt {
-		-webkit-box-pack: center;
-		    -ms-flex-pack: center;
-		        justify-content: center;
-		margin:30px auto;
-		width:324px;
-	}
-	.Oval-6,
-	.Oval-7 {
-		width:200px;
-		height:200px;
-	}
-	
-	.whyUsTxt .transparentTxt {
-		width:324px;
-	}
 	.reasons div {
 		-webkit-box-flex:0;
 		    -ms-flex:0 1 120px;
@@ -439,6 +427,22 @@ footer .backToTop {
 	.grayBg ul {
 		padding:10px 10px 10px 30px;
 	}
+	.whyUsTxt {
+		right:inherit;
+		width:276px;
+		height:158px;
+		font-size:inherit;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+		margin:30px auto;
+	}
+	.Oval-6,
+	.Oval-7 { 
+		width:158px;
+		height:158px;
+	}
+	.Oval-7 {margin-left:-43px;}
 }
 @media screen and (max-width: 375px) {
 	.container {
@@ -457,7 +461,6 @@ footer .backToTop {
 		    -ms-flex-pack: center;
 		        justify-content: center;
 		margin:-10px auto;
-		width:324px;
 	}
 }
 @media screen and (max-width: 320px) { 
@@ -478,6 +481,7 @@ footer .backToTop {
 		        flex:1 0 110px;
 	}
 	.whyUsTxt {
+		width:276px;
 		-webkit-box-pack: center;
 		    -ms-flex-pack: center;
 		        justify-content: center;

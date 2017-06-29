@@ -14,10 +14,44 @@
 	<script type="text/javascript" src='js/func.js'></script>
 	
 <?php 
-	include_once('common-header2.php');
+	 include_once('common-header2.php');
 ?>	
+		<div class="section" style="padding:0;">
+			<div class="whyUsBg">
+				<div class="site">
+					<p class="slogan">找到适合您的旅行方式<br/>——两全其美自由团</p>
+				</div>
+			</div>
+		</div>
+		<div class="section" style="padding:0;">
+			<div class="greyBg">
+				<div class="site">
+					<div class="flex-row-center-start whyUsTxt">
+						<div class="transparentBg">
+							<div class="Oval-6"></div>
+							<div class="Oval-7"></div>
+						</div>					
+						<div class="flex-wrap flex-row-center-between transparentTxt">
+							<div>跟团游<br/>的省心和便利</div>
+							<div>自由团</div>
+							<div style="text-align:right;">自由行<br/>的舒心和自在</div>
+						</div>
+					</div>
+					<h4>什么是 EF TravelPlus 自由团？</h4>
+					<ul>
+						<li>不用花费大量时间准备攻略，一站式服务覆盖行程所有环节</li>
+						<li>目的地运营团队，提供安全保障</li>
+						<li>自由灵活的行程安排，拥有30-50%真正属于自己的时间</li>
+						<li>主题精选路线设计，认识志趣相同的旅行伙伴</li>
+						<li>外籍导游和中方领队，带你融入当地生活</li>
+					</ul>
+					<a href="#tripsFilter" class="orangeBtn">开启你的完美假期</a>
+					
+				</div>
+			</div>
+		</div>
 		<!-- If Edit Model -->
-		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="192" >
+		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="800">
 			<div class="site">
 				<div class="expandIcon"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 				<div class="flex-row-end-between flex-flow">
@@ -43,8 +77,8 @@
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
 								<option value="aus" data-display="澳大利亚">澳大利亚</option>
-								<option value="am" data-display="美国">美国加州</option>
-								<option value="icy" data-display="北极">北极</option>
+								<!-- <option value="am" data-display="美国">美国西部</option>
+								<option value="icy" data-display="冰岛">冰岛</option> -->
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -94,7 +128,7 @@
 			</div>
 		</div>
 		
-		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" data-offset-top="200" style="display:none;">
+		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" style="display:none;" data-offset-top="800">
 			<div class="site">
 				<div class="flex-row-center-between">
 					<div id="filter-selected" class="flex-row-center-start filterConditions">
@@ -308,7 +342,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="am" data-tag="">
+				    <!-- <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="am" data-tag="">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -339,8 +373,8 @@
 								</div>
 							</div>
 						</a>
-				    </div>
-				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="">
+				    </div> -->
+				   <!--  <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="">
 						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
@@ -371,7 +405,7 @@
 								</div>
 							</div>
 						</a>
-				    </div>
+				    </div> -->
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" >	
 							<div class="imgWrap">
@@ -928,6 +962,23 @@
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script>
+			function myaffix() {
+				var affixoffset = $('.filter').offset().top
+				$(window).scroll(function () {
+				    if ($(window).scrollTop() <= affixoffset) {
+				        $('.filter').removeClass('affix');
+				    } else {
+				        $('.filter').addClass('affix');
+				    }
+				});
+			};
+			$(document).ready(function () {
+			   myaffix();
+			   $(window).on("resize", function () {
+			       myaffix();
+			   });
+			});
+
 			$('.section.filter.editModel .site .expandIcon').click(function(){
 				if($(this).children('i').hasClass('fa-chevron-down')){
 					$('.section.filter.editModel.affix').addClass('expand');
@@ -996,6 +1047,10 @@
 			}
 				
 			Trip_Filter();
+
+			$('.orangeBtn').click(function(){
+				$('.filter').removeClass('affix-top').hasClass('affix');
+			});
 		</script>
 	</body>
 </html>
