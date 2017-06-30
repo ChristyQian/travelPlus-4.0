@@ -278,7 +278,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/" />
+					<img src="img/itinerary/map/grand-tour-of-california.jpg" />
 				</div>
 				<div class="initialScreen">
 					<div class="com_itinerary_summary">

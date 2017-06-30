@@ -209,7 +209,7 @@
 							</div>
 						</a>
 				    </div>				    			    
-				   <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
@@ -217,7 +217,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
@@ -249,7 +249,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">仅剩5席</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
@@ -273,7 +273,7 @@
 							</div>
 						</a>
 				    </div>	
-				   <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
+				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
 						<a href="itinerary-grand-tour-of-spain.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
@@ -281,7 +281,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">仅剩3席</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
@@ -304,12 +304,12 @@
 								</div>
 							</div>
 						</a>
-				    </div>
+				    </div>				   
 				</div>
 			</div>
 			<div class="section">
 				<h4>全部行程</h4>
-				<div class="flex-row-start-start flex-flow">
+				<div class="flex-row-start-start flex-flow">					
 					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">

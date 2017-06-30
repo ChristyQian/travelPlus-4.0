@@ -20,26 +20,26 @@
     $slide = array
 	(
 		array("img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>6月30日前</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
 			"国庆档",
 			"<p>食在意大利：食物与酒的美学<br/>2017.9.29出发</p>",
 			"Slide-fwit",
 			"itinerary-food-wine-northern-italy-the-italian-riviera.php",
 			"查看行程<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-germany-switzerland-austria.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>国庆出发</p>仅剩5席</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
 			"国庆档",
 			"<p>阿尔卑斯山环游之旅<br/>2017.9.30出发</p>",
 			"Slide-alpine",
 			"itinerary-jewels-of-alpine-europe.php",
-			"查看行程<i class='whiteArrow'></i>"),		
+			"查看行程<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-grand-tour-of-spain.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>国庆出发</p>仅剩3席</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
 			"国庆档",
 			"<p>西班牙全景深度游<br/>2017.9.30出发</p>",
 			"Slide-grsp",
 			"itinerary-grand-tour-of-spain.php",
-			"查看行程<i class='whiteArrow'></i>"),
+			"查看行程<i class='whiteArrow'></i>"),		
 		array("img/itinerary/freeTour.jpg",
 			" ",
 			" ",
@@ -48,14 +48,14 @@
 			"why-us.php",
 			"了解详情<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-scandinavia-the-capitals-the-fjords.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>节省5%</p>6月30日<br />之前预定</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月30日前</div></div>",
 			"国庆档",
 			"<p>北欧多元首都之旅<br/>2017.9.30出发</p>",
 			"Slide-scandi",
 			"itinerary-scandinavia-the-capitals-the-fjords.php",
 			"查看行程<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-barcelona-southern-france-the-italian-riviera.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>6月30日前</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
 			"国庆档",
 			"<p>西法意城市狂想<br/>2017.9.29出发</p>",
 			"Slide-spfrit",
@@ -150,8 +150,8 @@
 						<div class="recommand">
 							<?php echo $slide[5-($i+5)%6][3]?>
 							<a id="<?php echo $slide[5-($i+5)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+5)%6][5]?>"><?php echo $slide[5-($i+5)%6][6]?></a>
-						</div>
-			        </div>
+			    		</div>
+			    	</div>
 			    </div>
 			    <!-- 如果需要分页器 -->
 			    <div class="swiper-pagination touchslider-nav">

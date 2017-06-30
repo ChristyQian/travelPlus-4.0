@@ -31,7 +31,7 @@
 				</div>
 			</div>
 		</div>
-				<div class="site">
+		<div class="site">
 			<!-- trips -->
 			<div class="section">
 				<h4>当季精选</h4>
@@ -100,7 +100,7 @@
 							</div>
 						</a>
 				    </div>				    			    
-				   <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
@@ -108,7 +108,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
@@ -140,7 +140,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">仅剩5席</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
@@ -164,7 +164,7 @@
 							</div>
 						</a>
 				    </div>	
-				   <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
+				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
 						<a href="itinerary-grand-tour-of-spain.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
@@ -172,7 +172,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">仅剩3席</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
 									</div>
 								</div>
 							</div>
@@ -195,12 +195,12 @@
 								</div>
 							</div>
 						</a>
-				    </div>
+				    </div>				   
 				</div>
 			</div>
 			<div class="section">
 				<h4>全部行程</h4>
-				<div class="flex-row-start-start flex-flow">
+				<div class="flex-row-start-start flex-flow">					
 					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">
@@ -233,6 +233,70 @@
 							</div>
 						</a>
 				    </div>
+				    <!-- <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="am" data-tag="">
+						<a href="itinerary-grand-tour-of-california.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									圆梦加州畅游之旅 <br/>
+									旧金山 - 优胜美地 - 圣芭芭拉 - 洛杉矶
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥</span>
+									<span class="price">￥<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div> -->
+				   <!--  <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="">
+						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									冰岛奇幻北极光之旅 <br/>
+									雷克雅维克 - 冰岛西部
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥</span>
+									<span class="price">￥<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div> -->
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" >	
 							<div class="imgWrap">

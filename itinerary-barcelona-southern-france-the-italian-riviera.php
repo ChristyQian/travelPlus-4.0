@@ -42,7 +42,7 @@
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php'); echo $discount3 ?> 
+				<?php include_once('discount.php'); echo $discount1 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -813,7 +813,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php'); echo $discount3 ?> 
+					<?php include_once('discount.php'); echo $discount1 ?> 
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?> 
 

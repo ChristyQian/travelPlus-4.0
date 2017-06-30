@@ -17,7 +17,7 @@
 		<div class="yellowBg">
 			<div class="site">
 		 		<h5>限时优惠</h5>
-		 		<div class="serif">凡6月30日(含)前，报名国庆指定行程，即享2人同行，1人半价！</div>				
+		 		<div class="serif">凡7月15日(含)前，报名国庆指定行程，即享2人同行，1人半价！</div>				
 			</div>
 	 	</div>
 		<div class="site">
@@ -85,13 +85,77 @@
 							</div>
 						</div>
 					</a>
-			    </div>	
+			    </div>
+			    <div name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
+					<a href="itinerary-jewels-of-alpine-europe.php" >	
+						<div class="imgWrap">
+							<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
+							<div class="hotSale">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">
+									<div class="yellowTxt">国庆档</div>
+									<div class="pinkTxt">2人同行，1人半价</div>
+								</div>
+							</div>
+						</div>
+						<div class="agendaWrap">
+							<p>
+								阿尔卑斯山环游之旅 <br/>
+								瑞士 - 法国 - 意大利 - 奥地利 - 德国
+							</p>
+							<div class="rate">
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+							</div>
+							<div>
+								13天
+								<span class="delPrice">￥19,100</span>
+								<span class="price">￥23,400<span>起</span></span>
+							</div>
+						</div>
+					</a>
+			    </div>
+			    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
+					<a href="itinerary-grand-tour-of-spain.php" >	
+						<div class="imgWrap">
+							<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
+							<div class="hotSale">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">
+									<div class="yellowTxt">国庆档</div>
+									<div class="pinkTxt">2人同行，1人半价</div>
+								</div>
+							</div>
+						</div>
+						<div class="agendaWrap">
+							<p>
+								西班牙全景深度游 <br/>
+								西班牙 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+							</p>
+							<div class="rate">
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+							</div>
+							<div>
+								14天
+								<span class="delPrice">￥19,100</span>
+								<span class="price">￥21,800<span>起</span></span>
+							</div>
+						</div>
+					</a>
+			    </div>					
 			</div>
 		</div>
 		<div class="lightBlueBg">
 			<div class="site">
-		 		<h5>早鸟优惠</h5>
-		 		<div class="serif">凡6月30日(含)前，报名国庆指定行程，即享95折优惠！</div>
+		 		<h5>限时优惠</h5>
+		 		<div class="serif">凡7月30日(含)前，报名国庆指定行程，即享2人同行，1人半价！</div>
 		 	</div>
 	 	</div>
 	 	<div class="site">
@@ -104,7 +168,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">国庆档</div>
-									<div class="pinkTxt">早鸟减5%</div>
+									<div class="pinkTxt">2人同行，1人半价</div>
 								</div>
 							</div>
 						</div>
