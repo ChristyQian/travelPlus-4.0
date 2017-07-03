@@ -1,7 +1,3 @@
-<?php 
-	$text1 = '提交查询<i class="whiteArrow"></i></button></div>';
-	$text2 = '在线预订<i class="whiteArrow"></i></button></div>';
-?>
 	<!--backend interface --> 
 
     <script type="text/javascript" src='../lib/services.js'></script>
@@ -9,17 +5,6 @@
     <!--leads and pages --> 
 
     <script type="text/javascript" src='js/func.js'></script>
-	
-	<script>
-	
-	function Quotation_Form_Submit()
-	{	
-	 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
-	 
-	 Lead_Validation("sp-form", "Lead_Insert", "submitted.php", true);
-	}
-	
-	</script>
 
 					<div class="quoInfo">						
 
@@ -133,4 +118,6 @@
 
 						</form>					
 
-						<button id = "lead-submit-button" onclick="Quotation_Form_Submit()" class="orangeBtn" >
+						<button onclick="Lead_Validation('sp-form', 'Lead_Insert', 'submitted.php', true)" class="orangeBtn" >提交查询<i class="whiteArrow"></i></button>
+
+					</div>
