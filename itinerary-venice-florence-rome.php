@@ -350,7 +350,7 @@
 					</div>
 				</div>
 			</div>
-			<button class="borderBtn allItinerary">全部行程</button>
+			<button class="borderBtn allItinerary">查看完整行程</button>
 		</div>
 
 		<!-- Hotels -->

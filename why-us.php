@@ -263,7 +263,7 @@
 		</div>
 		<div class="section">
 			<div class="site">
-				<a href="all-trips.php" class="yellowBtn">全部行程<i class="whiteArrow"></i></a>
+				<a href="all-trips.php" class="yellowBtn">查看全部行程<i class="whiteArrow"></i></a>
 			</div>
 		</div>
 		<!-- footer -->

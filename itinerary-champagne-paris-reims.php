@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-champagne-paris-reims";
+	$pageName="itinerary-champagne-paris-reims-travelzoo";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
@@ -361,7 +361,7 @@
 					</div>
 				</div>
 			</div>
-			<button class="borderBtn allItinerary">全部行程</button>
+			<button class="borderBtn allItinerary">查看完整行程</button>
 		</div>
 
 		<!-- Hotels -->

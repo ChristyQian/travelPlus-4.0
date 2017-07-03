@@ -14,7 +14,7 @@
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta-d.php') ;?>
+		<?php include_once('fix-cta.php'); echo $text1 ;?>
 		<?php include_once('common-header.php') ;?>
 		<!-- Image -->
 		<div class="imagesWrap" style="background:url(img/itinerary/itinerary-champagne-travelzoo.jpg)  center center no-repeat;
@@ -37,13 +37,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="discount">
-					<div class="transparentBg"></div>
-					<div class="transparentTxt">
-						<p>赠[红磨坊门票]</p>
-						6月30号前 
-					</div>
-				</div>
+				<?php include_once('discount.php'); echo $discount6 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -755,21 +749,9 @@
 
 				<div class="quotationWrap">
 
-					<div class="discount">
+					<?php include_once('discount.php'); echo $discount6 ;?>
 
-						<div class="transparentBg"></div>
-
-						<div class="transparentTxt">
-
-							<p>赠[红磨坊<br/>门票]</p>
-
-							6月30日前
-
-						</div>
-
-					</div>
-
-					<?php include_once('quotation-form-d.php') ;?>
+					<?php include_once('quotation-form.php'); echo $text1 ;?>
 
 				</div>
 
@@ -789,35 +771,6 @@
 				博客
 				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
 			</h4>
-			<!-- <div class="flex-row-start-around flex-flow">
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-				<div class="flex1 flex-row-center-between">
-					<div class="image">
-						<img src="http://travelplus.ef.com.cn/blog/wp-content/uploads/2017/03/cover-352x230.jpg" />
-					</div>
-					<div class="info">
-						<h5>Humanities Blog – EF TravelPlus Barcelona</h5>
-						<time>02-27-2017</time>
-					</div>
-				</div>
-			</div> -->
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -827,61 +780,26 @@
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
 		<script src="js/jquery.js"></script>
-		<script src="js/jquery.jfeed.pack.js"></script>
+		<script src="js/jquery.ajax-cross-origin.min.js"></script>
+		<script src="js/jquery.jfeed.js"></script>
+		<script src="js/readRss.js"></script>
 		<script type="text/javascript">
-
-jQuery(function() {
-
-    jQuery.getFeed({
-
-        url: 'xml/blog.xml',
-        success: function(feed) {           
-            var html = '';
-            
-            for(var i = 0; i < feed.items.length && i < 3; i++) {
-            	/* item */
-                var item = feed.items[i];
-                /* item.image */
-                var re = /<img[^>]+>/g;
-                var image = item.description.match(re);
-                /* item.date */
-                var formatDate = function (date) {  
-				    var y = date.getFullYear();  
-				    var m = date.getMonth() + 1;  
-				    m = m < 10 ? '0' + m : m;  
-				    var d = date.getDate();  
-				    d = d < 10 ? '0' + d : d;  
-				    return y + '-' + m + '-' + d;  
-				};
-                var time = formatDate(new Date(item.updated));
-
-                html += '<div class="flex1 flex-row-center-between">'
-                + '<div class="image">' 
-				+ image
-				+ '</div>'
-                + '<div class="info">'
-                + '<a href="'
-                + item.link
-                + '">'
-                + '<h5>'
-	            + item.title
-	            + '</h5>'	            
-                + '</a>'
-                + '<time>'
-                + time
-                + '</time>'
-                + '</div>'
-                + '</div>';
+		var itineraryName = "<?php echo $pageName;?>";
+		var currCoutries = getCountries();
+        for(var itemIndex in currCoutries)
+        {
+            var itemInArray = currCoutries[itemIndex];
+            var result = itineraryName.match(itemInArray);
+            if (result) {
+                getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
+                break;
             }
-            
-            jQuery('.blog').append('<div class="flex-row-start-around flex-flow" >'
-            	+ html
-            	+ '</div>');
-        }    
-    });
-});
-
-</script>
+            else {
+                 getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
+                 break;
+            }
+        }
+		</script>
 	</body>
 
 </html>
