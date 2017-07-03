@@ -51,7 +51,7 @@
 			</div>
 		</div>
 		<!-- If Edit Model -->
-		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="800">
+		<div class="section filter editModel" id="tripsFilter" data-spy="affix" data-offset-top="600">
 			<div class="site">
 				<div class="expandIcon"><i class="fa fa-chevron-down" aria-hidden="true"></i></div>
 				<div class="flex-row-end-between flex-flow">
@@ -128,7 +128,7 @@
 			</div>
 		</div>
 		
-		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" style="display:none;" data-offset-top="800">
+		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" style="display:none;" data-offset-top="600">
 			<div class="site">
 				<div class="flex-row-center-between">
 					<div id="filter-selected" class="flex-row-center-start filterConditions">
