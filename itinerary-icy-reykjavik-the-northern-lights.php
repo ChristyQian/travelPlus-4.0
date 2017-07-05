@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
 	$itineraryName="冰岛奇幻北极光之旅";
-	$itineraryPrice="￥";
+	$itineraryPrice="￥22,000";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -53,7 +53,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥
+							￥22,000
 							<span>起</span>
 						</div>
 						<div>
@@ -383,122 +383,74 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Vibe Hotel Sydney/Vibe Hotel Sydney_dining.jpg" />
+								<img src="img/hotel/Fosshotel Reykjavik/reykjavik_ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Vibe Hotel Sydney悉尼韦伯酒店</div>
+								<div class="transparentTxt">雷克雅未克福斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">绝佳的地理位置，位于悉尼的中央商务区，悉尼韦伯酒店周围被悉尼著名景点围绕，例如海德公园、唐人街和悉尼塔，还有距离只有几分钟路程的令人兴奋的萨里山和达令赫斯特的郊区</div>
+						<div class="hotelDes">Fosshotel Reykjavík酒店位于雷克雅未克市中心，享有城市和海洋的美景，提供一个健身中心和餐厅。距离Laugavegur购物街有200米，并设有免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Vibe Hotel Sydney/Vibe Hotel Sydney_room.jpg" />
+								<img src="img/hotel/Fosshotel Reykjavik/reykjavik_recep.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Vibe Hotel Sydney悉尼韦伯酒店</div>
+								<div class="transparentTxt">雷克雅未克福斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">绝佳的地理位置，位于悉尼的中央商务区，悉尼韦伯酒店周围被悉尼著名景点围绕，例如海德公园、唐人街和悉尼塔，还有距离只有几分钟路程的令人兴奋的萨里山和达令赫斯特的郊区</div>
+						<div class="hotelDes">Fosshotel Reykjavík酒店位于雷克雅未克市中心，享有城市和海洋的美景，提供一个健身中心和餐厅。距离Laugavegur购物街有200米，并设有免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Vibe Hotel Sydney/Vibe Hotel Sydney_gym.jpg" />
+								<img src="img/hotel/Fosshotel Reykjavik/reykjavik_room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Vibe Hotel Sydney悉尼韦伯酒店</div>
+								<div class="transparentTxt">雷克雅未克福斯酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">绝佳的地理位置，位于悉尼的中央商务区，悉尼韦伯酒店周围被悉尼著名景点围绕，例如海德公园、唐人街和悉尼塔，还有距离只有几分钟路程的令人兴奋的萨里山和达令赫斯特的郊区</div>
+						<div class="hotelDes">Fosshotel Reykjavík酒店位于雷克雅未克市中心，享有城市和海洋的美景，提供一个健身中心和餐厅。距离Laugavegur购物街有200米，并设有免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Travelodge Hotel Sydney/Travelodge Hotel Sydney_dining.jpg" />
+								<img src="img/hotel/Fosshotel Reykholt/reykholt_ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Travelodge Hotel Sydney悉尼旅程住宿酒店</div>
+								<div class="transparentTxt">福斯雷克霍特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">悉尼旅程住宿酒店位于悉尼中央商务区，靠近主要城市街道，并且靠近海德公园附近宁静得区域，这个酒店有406个超过18种级别的房间</div>
+						<div class="hotelDes">Fosshotel Reykholt酒店距离雷克霍特著名的Deildartunguhver温泉，Hraunfossar和Barnafoss瀑布都很近，这里提供免费的wifi。餐厅会供应冰岛当地新鲜的海味料理，酒店内还设有一个影音厅。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Travelodge Hotel Sydney/Travelodge Hotel Sydney_room.jpg" />
+								<img src="img/hotel/Fosshotel Reykholt/reykholt_standard.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Travelodge Hotel Sydney悉尼旅程住宿酒店</div>
+								<div class="transparentTxt">福斯雷克霍特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">悉尼旅程住宿酒店位于悉尼中央商务区，靠近主要城市街道，并且靠近海德公园附近宁静得区域，这个酒店有406个超过18种级别的房间</div>
+						<div class="hotelDes">Fosshotel Reykholt酒店距离雷克霍特著名的Deildartunguhver温泉，Hraunfossar和Barnafoss瀑布都很近，这里提供免费的wifi。餐厅会供应冰岛当地新鲜的海味料理，酒店内还设有一个影音厅。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Travelodge Hotel Sydney/Travelodge Hotel Sydney_gym.jpg" />
+								<img src="img/hotel/Fosshotel Reykholt/reykholt_restaurant.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Travelodge Hotel Sydney悉尼旅程住宿酒店</div>
+								<div class="transparentTxt">福斯雷克霍特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">悉尼旅程住宿酒店位于悉尼中央商务区，靠近主要城市街道，并且靠近海德公园附近宁静得区域，这个酒店有406个超过18种级别的房间</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_ext.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_Dining.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_dining2.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_swimming.jpg" />
-							</div>
-							<div class="hotelIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
-							</div>
-						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
+						<div class="hotelDes">Fosshotel Reykholt酒店距离雷克霍特著名的Deildartunguhver温泉，Hraunfossar和Barnafoss瀑布都很近，这里提供免费的wifi。餐厅会供应冰岛当地新鲜的海味料理，酒店内还设有一个影音厅。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

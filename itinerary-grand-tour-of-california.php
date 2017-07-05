@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
 	$itineraryName="圆梦加州畅游之旅";
-	$itineraryPrice="￥";
+	$itineraryPrice="￥23,000";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -57,7 +57,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥
+							￥23,000
 							<span>起</span>
 						</div>
 						<div>
@@ -420,122 +420,122 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Vibe Hotel Sydney/Vibe Hotel Sydney_dining.jpg" />
+								<img src="img/hotel/Hilton San Francisco/Hilton Finacial District San Francisco-ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Vibe Hotel Sydney悉尼韦伯酒店</div>
+								<div class="transparentTxt">希尔顿旧金山市区/金融区酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">绝佳的地理位置，位于悉尼的中央商务区，悉尼韦伯酒店周围被悉尼著名景点围绕，例如海德公园、唐人街和悉尼塔，还有距离只有几分钟路程的令人兴奋的萨里山和达令赫斯特的郊区</div>
+						<div class="hotelDes">这家高档酒店位于金融区。 客人可以享用健身中心，水疗中心以及餐厅和酒吧。 唐人街，渔人码头和联合广场都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Vibe Hotel Sydney/Vibe Hotel Sydney_room.jpg" />
+								<img src="img/hotel/Hilton San Francisco/Hilton Finacial District San Francisco_lobby.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Vibe Hotel Sydney悉尼韦伯酒店</div>
+								<div class="transparentTxt">希尔顿旧金山市区/金融区酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">绝佳的地理位置，位于悉尼的中央商务区，悉尼韦伯酒店周围被悉尼著名景点围绕，例如海德公园、唐人街和悉尼塔，还有距离只有几分钟路程的令人兴奋的萨里山和达令赫斯特的郊区</div>
+						<div class="hotelDes">这家高档酒店位于金融区。 客人可以享用健身中心，水疗中心以及餐厅和酒吧。 唐人街，渔人码头和联合广场都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Vibe Hotel Sydney/Vibe Hotel Sydney_gym.jpg" />
+								<img src="img/hotel/Hilton San Francisco/Hilton Finacial District San Francisco-room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Vibe Hotel Sydney悉尼韦伯酒店</div>
+								<div class="transparentTxt">希尔顿旧金山市区/金融区酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">绝佳的地理位置，位于悉尼的中央商务区，悉尼韦伯酒店周围被悉尼著名景点围绕，例如海德公园、唐人街和悉尼塔，还有距离只有几分钟路程的令人兴奋的萨里山和达令赫斯特的郊区</div>
+						<div class="hotelDes">这家高档酒店位于金融区。 客人可以享用健身中心，水疗中心以及餐厅和酒吧。 唐人街，渔人码头和联合广场都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Travelodge Hotel Sydney/Travelodge Hotel Sydney_dining.jpg" />
+								<img src="img/hotel/Hilton San Francisco/Hilton Finacial District San Francisco-fitness.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Travelodge Hotel Sydney悉尼旅程住宿酒店</div>
+								<div class="transparentTxt">希尔顿旧金山市区/金融区酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">悉尼旅程住宿酒店位于悉尼中央商务区，靠近主要城市街道，并且靠近海德公园附近宁静得区域，这个酒店有406个超过18种级别的房间</div>
+						<div class="hotelDes">这家高档酒店位于金融区。 客人可以享用健身中心，水疗中心以及餐厅和酒吧。 唐人街，渔人码头和联合广场都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Travelodge Hotel Sydney/Travelodge Hotel Sydney_room.jpg" />
+								<img src="img/hotel/Yosemite Southgate Hotel/Yosemite Southgate Hotel & Suites-ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Travelodge Hotel Sydney悉尼旅程住宿酒店</div>
+								<div class="transparentTxt">优胜美地南门套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">悉尼旅程住宿酒店位于悉尼中央商务区，靠近主要城市街道，并且靠近海德公园附近宁静得区域，这个酒店有406个超过18种级别的房间</div>
+						<div class="hotelDes">这家宁静的酒店位于奥克赫斯特，距离优胜美地国家公园的南门只是几分钟的路程。从这里客人可以看到优胜美地国家公园的风景，前往附近的餐馆用餐也很方便。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Travelodge Hotel Sydney/Travelodge Hotel Sydney_gym.jpg" />
+								<img src="img/hotel/Best Western Plus Encina Inn/Best Western Plus Encina Inn & Suites-ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Travelodge Hotel Sydney悉尼旅程住宿酒店</div>
+								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">悉尼旅程住宿酒店位于悉尼中央商务区，靠近主要城市街道，并且靠近海德公园附近宁静得区域，这个酒店有406个超过18种级别的房间</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_ext.jpg" />
+								<img src="img/hotel/Best Western Plus Encina Inn/Best Western Plus Encina Inn & Suites-dinning.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
+								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_Dining.jpg" />
+								<img src="img/hotel/Best Western Plus Encina Inn/Best Western Plus Encina Inn & Suites-room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
+								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_dining2.jpg" />
+								<img src="img/hotel/Best Western Plus Encina Inn/Best Western Plus Encina Inn & Suites-pool.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
+								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Kingfisher/Kingfisher_swimming.jpg" />
+								<img src="img/hotel/Best Western Plus Encina Inn/Best Western Plus Encina Inn & Suites-gym.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Kingfisher Bay翠鸟湾度假酒店</div>
+								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">度假酒店位于世界上最大的沙岛。令人惊叹的物产,包括镜子湖湖和水坑,与海岛的灵敏的生态学系统紧密地地融合在一起。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
