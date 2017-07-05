@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-champagne-paris-reims";
+	$pageName="itinerary-germany-london-reims";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="法国微醺心动之旅";
+	$itineraryName="德国伦敦微醺心动之旅";
 	$itineraryPrice="￥24,600";
 
     include_once("itinerary-head-hasblog.php"); 
@@ -770,6 +770,9 @@
 				博客
 				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
 			</h4>
+			<div class="flex-row-start-around flex-flow">
+
+			</div>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -785,22 +788,31 @@
 		<script type="text/javascript">
 		var itineraryName = "<?php echo $pageName;?>";
 		var currCoutries = getCountries();
-        for(var itemIndex in currCoutries)
-        {
-            var itemInArray = currCoutries[itemIndex];
-            var result = itineraryName.match(itemInArray);
-            if (result) {
-                getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
-                break;
-            }
-            // else {
-            //      getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
-            //      break;
-            // }
+		// var i = $('.flex-row-start-around.flex-flow').children.length;
+		var itemList = new Array(2);
+
+
+		function writeHtml() {
+	        for(var itemIndex in currCoutries)
+	        {
+	            var itemInArray = currCoutries[itemIndex];
+	            var result = itineraryName.match(itemInArray);
+	            if (result) {
+	                getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');	                
+	            }
+	            break;
+	        }
+	        if (!result) {
+	        	getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
+	        }
         }
-        if (!result) {
-        	getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2');
-        }
+		if (i < 3) {
+			writeHtml();
+		}
+	    // $('.blog').append('<div class="flex-row-start-around flex-flow">'
+    	// + html
+     //    + '</div>'); 
+
 		</script>
 	</body>
 

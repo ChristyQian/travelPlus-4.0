@@ -23,12 +23,13 @@ function getCountries() {
 function getRssFetch(rssUrl){
 
      $.getFeed({
-
         url: rssUrl,
         dataType: 'xml',
         success: function(feed) {          
-            var html = '';         
-            for(var i = 0; i < feed.items.length && i < 3; i++) {
+            // var html = ''; 
+            var list = [];
+            var listItem = [];        
+            for(var i = 0; i < feed.items.length; i++) {
             	/* item */
                 var item = feed.items[i];
                 /* item.image */
@@ -45,31 +46,32 @@ function getRssFetch(rssUrl){
 				    return y + '-' + m + '-' + d;  
 				};
                 var time = formatDate(new Date(item.updated));
-
-                html += '<div class="flex1 flex-row-center-between">'
-                + '<div class="image">'
-                + '<img src="'
-                + image
-                + '"/>' 
-				+ '</div>'
-                + '<div class="info">'
-                + '<a href="'
-                + item.link
-                + '">'
-                + '<h5>'
-	            + item.title
-	            + '</h5>'	            
-                + '</a>'
-                + '<time>'
-                + time
-                + '</time>'
-                + '</div>'
-                + '</div>';
-            }
+                listItem = [[image] +','+ [item.link] +','+ [item.title] +','+ [time]];
+                list += listItem;
+                console.log(listItem);
+                console.log(list);
+    //             html += '<div class="flex1 flex-row-center-between">'
+    //             + '<div class="image">'
+    //             + image
+				// + '</div>'
+    //             + '<div class="info">'
+    //             + '<a href="'
+    //             + item.link
+    //             + '">'
+    //             + '<h5>'
+	   //          + item.title
+	   //          + '</h5>'	            
+    //             + '</a>'
+    //             + '<time>'
+    //             + time
+    //             + '</time>'
+    //             + '</div>'
+    //             + '</div>';
+             }
             
-            $('.blog').append('<div class="flex-row-start-around flex-flow">'
-            	+ html
-                + '</div>');
+             //    $('.blog').append('<div class="flex-row-start-around flex-flow">'
+            	// + html
+             //    + '</div>');
             }    
      });
 }
