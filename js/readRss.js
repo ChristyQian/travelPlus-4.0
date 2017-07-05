@@ -21,12 +21,12 @@ function getCountries() {
 }
 
 function getRssFetch(rssUrl){
-
+    var unitItemJObj = []; 
      $.getFeed({
         url: rssUrl,
         dataType: 'xml',
         success: function(feed) {          
-            // var html = ''; 
+             
             var list = [];
             var listItem = [];        
             for(var i = 0; i < feed.items.length; i++) {
@@ -46,29 +46,27 @@ function getRssFetch(rssUrl){
 				    return y + '-' + m + '-' + d;  
 				};
                 var time = formatDate(new Date(item.updated));
-                listItem = [[image] +','+ [item.link] +','+ [item.title] +','+ [time]];
-                list += listItem;
-                console.log(listItem);
-                console.log(list);
-    //             html += '<div class="flex1 flex-row-center-between">'
-    //             + '<div class="image">'
-    //             + image
-				// + '</div>'
-    //             + '<div class="info">'
-    //             + '<a href="'
-    //             + item.link
-    //             + '">'
-    //             + '<h5>'
-	   //          + item.title
-	   //          + '</h5>'	            
-    //             + '</a>'
-    //             + '<time>'
-    //             + time
-    //             + '</time>'
-    //             + '</div>'
-    //             + '</div>';
+                
+                var unitHtml = '<div class="flex1 flex-row-center-between">'
+                + '<div class="image">'
+                + image
+	            + '</div>'
+                + '<div class="info">'
+                + '<a href="'
+                + item.link
+                + '">'
+                + '<h5>'
+	            + item.title
+	            + '</h5>'	            
+                + '</a>'
+                + '<time>'
+                + time
+                + '</time>'
+                + '</div>'
+                + '</div>';
+                unitItemJObj.push($(unitHtml));
              }
-            
+             return unitItemJObj;
              //    $('.blog').append('<div class="flex-row-start-around flex-flow">'
             	// + html
              //    + '</div>');
