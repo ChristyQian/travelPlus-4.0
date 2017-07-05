@@ -77,8 +77,8 @@
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
 								<option value="aus" data-display="澳大利亚">澳大利亚</option>
-								<!-- <option value="am" data-display="美国">美国西部</option>
-								<option value="icy" data-display="冰岛">冰岛</option> -->
+								<option value="amw" data-display="美国西部">美国西部</option>
+								<option value="icy" data-display="冰岛">冰岛</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -342,7 +342,7 @@
 							</div>
 						</a>
 				    </div>
-				    <!-- <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="am" data-tag="">
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="amw" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -369,12 +369,12 @@
 								<div>
 									11天
 									<span class="delPrice">￥</span>
-									<span class="price">￥<span>起</span></span>
+									<span class="price">￥23,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div> -->
-				   <!--  <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="">
+				    </div>
+				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="nature,honeymoon,northeuro">
 						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
@@ -401,11 +401,11 @@
 								<div>
 									9天
 									<span class="delPrice">￥</span>
-									<span class="price">￥<span>起</span></span>
+									<span class="price">￥22,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div> -->
+				    </div>
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" >	
 							<div class="imgWrap">
@@ -963,7 +963,7 @@
 		<script src="js/sticky.min.js"></script>
 		<script>
 			function myaffix() {
-				var affixoffset = $('.filter').offset().top
+				var affixoffset = $('.filter').offset().top;
 				$(window).scroll(function () {
 				    if ($(window).scrollTop() <= affixoffset) {
 				        $('.filter').removeClass('affix');
