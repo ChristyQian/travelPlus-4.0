@@ -233,7 +233,7 @@
 							</div>
 						</a>
 				    </div>
-				    <!-- <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="am" data-tag="">
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="amw" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -260,12 +260,12 @@
 								<div>
 									11天
 									<span class="delPrice">￥</span>
-									<span class="price">￥<span>起</span></span>
+									<span class="price">￥23,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div> -->
-				   <!--  <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="">
+				    </div>
+				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="nature,honeymoon,northeuro">
 						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
@@ -292,11 +292,11 @@
 								<div>
 									9天
 									<span class="delPrice">￥</span>
-									<span class="price">￥<span>起</span></span>
+									<span class="price">￥22,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div> -->
+				    </div>
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" >	
 							<div class="imgWrap">
