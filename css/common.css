@@ -933,7 +933,10 @@ h4 {
 	font-weight:bold;
 	font-size:inherit;
 }
-.imitate-dropdown {
+/*****************************************/
+/*            imitate-dropdown           */
+/*****************************************/
+/*.imitate-dropdown {
 	width:inherit;
 	height:inherit;
 	position:relative;
@@ -989,12 +992,57 @@ a.close-dropdown {
 }
 #dropdown-box:target .close-dropdown {
     display: block;
-}
+}*/
 /*****************************************/
 /*                Swiper                 */
 /*****************************************/
 .swiper-pagination-bullet-active {
 	background-color:#e4b76c;
+}
+/*****************************************/
+/*       EF TravelPlus Feather circle    */
+/*****************************************/
+.whyUsTxt {
+	position:relative;
+	width:355px;
+	height:216px;
+	margin:70px 0;
+}
+.whyUsTxt .transparentBg {
+	background: transparent;
+}
+.whyUsTxt .transparentTxt {
+	position:absolute;
+	z-index:3;
+	width:inherit;
+	height:inherit;
+	color:#fff;
+	display:-webkit-inline-box;
+	display:-ms-inline-flexbox;
+	display:inline-flex;
+	padding:10px;
+	font-size:1.6em;
+}
+.whyUsTxt .transparentBg,
+.whyUsTxt .transparentTxt {
+	left:0;
+	bottom:0;
+}
+.Oval-6,
+.Oval-7 {
+	display:inline-block;
+	width:216px;
+	height:216px;
+	border-radius:50%;
+}
+.Oval-6 {
+  mix-blend-mode: multiply;
+  background-color: #94c5db;
+}
+.Oval-7 {
+	mix-blend-mode: multiply;
+  background-color: #f7b84f;
+  margin-left:-81px;
 }
 /*****************************************/
 /*                Footer                 */

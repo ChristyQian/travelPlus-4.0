@@ -53,55 +53,7 @@ h4 {
 	background:url(../img/c.png);
 	background-size:cover;
 }
-.Oval-6,
-.Oval-7 {
-	display:inline-block;
-	width:216px;
-	height:216px;
-	border-radius:50%;
-}
-.Oval-6 {
-	mix-blend-mode: multiply;
-  background-color: #94c5db;
-}
-.Oval-7 {
-	mix-blend-mode: multiply;
-  background-color: #f7b84f;
-  margin-left:-80px;
-}
-.whyUsTxt {
-	position:relative;
-	width:355px;
-	height:216px;
-	margin:70px 0;
-}
-/*.transparentBg {
-	position:absolute;
-	z-index:2;
-	width:inherit;
-	height:inherit;	
-	mix-blend-mode: multiply;
-}*/
-.whyUsTxt .transparentBg {
-	background: transparent;
-}
-.whyUsTxt .transparentTxt {
-	position:absolute;
-	z-index:3;
-	width:inherit;
-	height:inherit;
-	color:#fff;
-	display:-webkit-inline-box;
-	display:-ms-inline-flexbox;
-	display:inline-flex;
-	padding:10px;
-	font-size:1.6em;
-}
-.whyUsTxt .transparentBg,
-.whyUsTxt .transparentTxt {
-	left:0;
-	bottom:0;
-}
+
 .blueBg {
 	margin:0;
 	padding: 60px 0 100px 0;
@@ -340,7 +292,7 @@ footer .backToTop {
 		        flex:0 1 138px;
 	}
 	.whyUsTxt {
-		margin:50px 0;
+		margin:30px 0;
 	}
 	.grayBg .features {
 		width:100%;
@@ -403,10 +355,6 @@ footer .backToTop {
 		        flex:0 1 120px;
 		margin:0;
 	}
-	/*.reasons div .imgWrap {
-		width:60px;
-		height:60px;
-	}*/
 	.com_profile .imgWrap {
 		width:100px;
 		height:100px;
@@ -428,21 +376,8 @@ footer .backToTop {
 		padding:10px 10px 10px 30px;
 	}
 	.whyUsTxt {
-		right:inherit;
-		width:276px;
-		height:158px;
-		font-size:inherit;
-		-webkit-box-pack: center;
-		-ms-flex-pack: center;
-		justify-content: center;
-		margin:30px auto;
+		margin:60px auto;
 	}
-	.Oval-6,
-	.Oval-7 { 
-		width:158px;
-		height:158px;
-	}
-	.Oval-7 {margin-left:-43px;}
 }
 @media screen and (max-width: 375px) {
 	.container {
@@ -457,10 +392,7 @@ footer .backToTop {
 		        flex:0 1 166px;
 	}
 	.whyUsTxt {
-		-webkit-box-pack: center;
-		    -ms-flex-pack: center;
-		        justify-content: center;
-		margin:-10px auto;
+		margin:15px auto;
 	}
 }
 @media screen and (max-width: 320px) { 
@@ -479,11 +411,5 @@ footer .backToTop {
 		-webkit-box-flex:1;
 		    -ms-flex:1 0 110px;
 		        flex:1 0 110px;
-	}
-	.whyUsTxt {
-		width:276px;
-		-webkit-box-pack: center;
-		    -ms-flex-pack: center;
-		        justify-content: center;
 	}
 }
