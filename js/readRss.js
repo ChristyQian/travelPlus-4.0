@@ -16,8 +16,7 @@
 //             string nodeValue = xnChiefComplaint.InnerText;
 // },
 function getCountries() {
-    return ['france','italy','switzerland','greece','spain','britain','netherlands','austria', 'germany','pompeii', 'capri','cinque-terre','athens','rome','florence','nice','barcelona','paris','london','amsterdam','vienna','heidelberg','champagne', 
-'van-gogh'];
+    return ['france','italy','switzerland','greece','spain','britain','netherlands','austria', 'germany','pompeii', 'capri','cinque-terre','athens','rome','florence','nice','barcelona','paris','london','amsterdam','vienna','heidelberg'];
 }
 
 function getRssFetch(rssUrl){
@@ -25,10 +24,7 @@ function getRssFetch(rssUrl){
      $.getFeed({
         url: rssUrl,
         dataType: 'xml',
-        success: function(feed) {          
-             
-            var list = [];
-            var listItem = [];        
+        success: function(feed) {                  
             for(var i = 0; i < feed.items.length; i++) {
             	/* item */
                 var item = feed.items[i];
@@ -67,9 +63,6 @@ function getRssFetch(rssUrl){
                 unitItemJObj.push($(unitHtml));
              }
              return unitItemJObj;
-             //    $('.blog').append('<div class="flex-row-start-around flex-flow">'
-            	// + html
-             //    + '</div>');
             }    
      });
 }

@@ -788,38 +788,28 @@
 		<script type="text/javascript">
 		var itineraryName = "<?php echo $pageName;?>";
 		var currCoutries = getCountries();
-		// var i = $('.flex-row-start-around.flex-flow').children.length;
-		var itemList = new Array(2);
-
-		var coutriesItemList=[];
+		var countriesItemList =[];
         for(var itemIndex in currCoutries)
         {
             var itemInArray = currCoutries[itemIndex];
             var result = itineraryName.match(itemInArray);
+            console.log(result);
             if (result) {
-
-                var matchedCountryItems= getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
-                coutriesItemList.push(matchedCountryItems);
+                var matchedCountryItems = getRssFetch('http://travelplus.ef.com.cn/blog/?tag='+result+'&feed=rss2');
+                countriesItemList.push(matchedCountryItems);
+                console.log(matchedCountryItems);
+                console.log(countriesItemList);
             }
         }
-        if(coutriesItemList.length<3)
+        if(countriesItemList.length<3)
         {
-        	 coutriesItemList.push(getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2'));
-
+        	countriesItemList.push(getRssFetch('http://travelplus.ef.com.cn/blog/?tag=europe&feed=rss2'));
         }
-	    for (var i=0;i<coutriesItemList.length&&i<3;i++)
+	    for (var i=0;i<countriesItemList.length&&i<3;i++)
 	    {
-	    	var item=coutriesItemList[i];
-	    	item.appendTo($('.flex-row-start-around.flex-flow'));
+	    	var item = countriesItemList[i];
+	    	$('.flex-row-start-around.flex-flow').append(item);
 	    }
-	        
-        
-		//if (i < 3) {
-		//	writeHtml();
-		//}
-	    // $('.blog').append('<div class="flex-row-start-around flex-flow">'
-    	// + html
-     //    + '</div>'); 
 
 		</script>
 	</body>
