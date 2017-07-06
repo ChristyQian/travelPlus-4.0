@@ -256,7 +256,7 @@ window.addEventListener('scroll',function(){
 $('.allItinerary').click(function(){
 	if($('.initialScreen').hasClass('expand')){
 		$('.initialScreen').removeClass('expand');
-		$('.allItinerary').html('全部行程');
+		$('.allItinerary').html('查看完整行程');
 	}
 	else{
     	$('.initialScreen').addClass('expand');
