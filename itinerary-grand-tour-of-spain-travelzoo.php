@@ -387,6 +387,7 @@
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>参观瓜迪斯洞穴区</li>
+									<li>和当地人共进特色晚餐</li>
 								</ul>
 							</div>
 						</div>
@@ -445,7 +446,7 @@
 					</div>
 				</div>
 			</div>
-			<button class="borderBtn allItinerary">全部行程</button>
+			<button class="borderBtn allItinerary">查看完整行程</button>
 		</div>
 
 		<!-- Hotels -->

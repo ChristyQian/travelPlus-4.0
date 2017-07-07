@@ -321,6 +321,7 @@
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>漫步圣让卡普费拉的悬崖，欣赏地中海风光</li>
+									<li>参观尼斯著名的萨莱亚广场集市</li>
 									<li>参观由罗斯柴尔德银行家族建造的埃富斯别墅及其花园</li>
 									<li>在尼斯最古老的小镇稍作停留，自由游览</li>
 									<li>晚上在法国里维埃拉自由活动</li>
@@ -396,7 +397,7 @@
 					</div>						
 				</div>				
 			</div>
-			<button class="borderBtn allItinerary">全部行程</button>
+			<button class="borderBtn allItinerary">查看完整行程</button>
 		</div>
 		
 		<!-- Hotels -->	

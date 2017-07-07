@@ -185,22 +185,6 @@
 	height:inherit;
 	
 }
-/*.bg1 {
-	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/4.jpg') center center no-repeat;
-	background-size:cover;
-}
-.bg2 {
-	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/3.jpg') center center no-repeat;
-	background-size:cover;
-}
-.bg3 {
-	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/2.jpg') center center no-repeat;
-	background-size:cover;
-}
-.bg4 {
-	background:#efefef url('http://travelplus.ef.com.cn/sp/img/itinerary/italy-greece/1.jpg') center center no-repeat;
-	background-size:cover;
-}*/
 .bgIntro,
 .hotelIntro {
 	position:absolute;
@@ -560,6 +544,16 @@
 	margin-top:-25px;
 	margin-bottom:25px;
 }
+@media screen and (max-width:1366px) {
+	.itineraryPhoto,
+	.itineraryPhoto .swiper-container {
+		height:550px;
+	}
+	.itineraryPhoto .swiperBgWrap {
+		height:500px;
+		overflow:hidden;
+	}
+}/* fix the problem of slide too height to view in the 17" */
 @media screen and (max-width:1024px) {
 	.flight .swiper-slide {
 		padding:40px 40px 20px;	
@@ -595,8 +589,8 @@
 	}
 	.salesWrap .dialogBelongTo {
 		border-top: 0;
-    		border-bottom: 10px solid #fff;
-    		top: -10px;
+		border-bottom: 10px solid #fff;
+		top: -10px;
 	}
 }
 @media screen and (max-width: 768px) {
@@ -680,16 +674,13 @@
 	.initialScreen {
 		width:100%;
 	}
+	.itineraryPhoto,
 	.itineraryPhoto .swiper-container {
-		width:100%;
-		height:560px;
-		height:510px;/* no content */
-		padding:0;
+		height:510px;
 	}
-	.itineraryPhoto .swiper-slide .slideBg,
 	.itineraryPhoto .swiperBgWrap {
-		width:100%;
 		height:460px;
+		overflow:hidden;
 	}
 	.blog {
 		padding-bottom:50px;

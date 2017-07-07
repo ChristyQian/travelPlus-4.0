@@ -349,6 +349,11 @@
 								<div class="itemCircle"></div>
 								<label>第5天</label><span>取道霞慕尼前往科莫湖地区</span>
 							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>取道霞慕尼前往科莫湖地区，和当地人共进晚餐</li>
+								</ul>
+							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
@@ -372,7 +377,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第8天</label><span>因斯布鲁克观光之旅</span>
+								<label>第8天</label><span>因斯布鲁克观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -399,7 +404,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第11天</label><span>慕尼黑观光之旅</span>
+								<label>第11天</label><span>慕尼黑观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -433,7 +438,7 @@
 					</div>
 				</div>
 			</div>
-			<button class="borderBtn allItinerary">全部行程</button>
+			<button class="borderBtn allItinerary">查看完整行程</button>
 		</div>
 
 		<!-- Hotels -->

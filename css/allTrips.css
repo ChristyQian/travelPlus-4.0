@@ -55,6 +55,9 @@
 .filter.affix {
 	top:60px;
 }
+.filter.affix+.site {
+	padding-top:200px;
+} /* fix the problem of frist line were hidden in trip cards when filter affixed top */
 .section.filter.editModel.affix-top {
 	height:auto;
 }
@@ -204,10 +207,12 @@ a.close-dropdown {
 .affix-top .expandIcon {
 	display:none;
 }
+
 @media screen and (max-width:1366px) { 
 	.whyUsBg {
 		height:200px;
 	}
+}
 @media screen and (max-width:1024px) { 
 	.filter .blueRBtn {
 		margin-top:10px;
@@ -215,9 +220,6 @@ a.close-dropdown {
 	.filter.filterResult .blueRBtn {
 		margin-top:0;
 	}
-	.filter.affix+.site {
-		padding-top:200px;
-	} /* fix the problem of the frist line of trip cards be hidden when filter affixed top */
 }
 @media screen and (max-width:768px) {
 	.whyUsTxt {

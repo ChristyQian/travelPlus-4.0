@@ -306,7 +306,13 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>前往卑尔根，下午在卑尔根自由活动</span>
+								<label>第4天</label><span>前往卑尔根</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>下午在卑尔根自由活动</li>
+									<li>晚上与当地人共进晚餐</li>
+								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
