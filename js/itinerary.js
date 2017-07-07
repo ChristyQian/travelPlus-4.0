@@ -169,7 +169,8 @@
 				$('.header-nav.affix .dialogWrap').show();
 			});
 
-/* The sticky-nav will show when scroll up and disappear when scroll down */		
+
+/* The sticky-nav will show when scroll up and disappear when scroll down */
 	var $nav = $('#travelPlusNav');
 
   window.onscroll = function(e){
@@ -210,8 +211,8 @@
   
 var clientWidth = document.body.clientWidth;
 window.addEventListener('scroll',function(){
+	var rolledHeight = document.body.scrollTop;
 	if (clientWidth > 425) {
-		var rolledHeight = document.body.scrollTop;
 	  	if (rolledHeight < 700) {
 		  	$('.fixCAT').css({
 				visibility:'hidden',
@@ -232,7 +233,6 @@ window.addEventListener('scroll',function(){
 		}
 	}
 	else {
-		var rolledHeight = document.body.scrollTop;
 	  	if  (rolledHeight < 500) {
 		  	$('.fixCAT').css({
 				visibility:'hidden',
@@ -263,4 +263,11 @@ $('.allItinerary').click(function(){
     	$('.allItinerary').html('收起行程');
 	}
 });
-			
+
+$('.backToTop').click(function(){
+	$('.header-nav').css({
+		visibility:'visible',
+		opacity:1,
+		height:'auto'
+	});
+});		
