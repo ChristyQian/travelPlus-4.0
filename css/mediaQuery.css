@@ -20,8 +20,7 @@
 		margin: 0 auto;
   }
   .section h4 {
-  	padding-left:10px;
-  	padding-right:10px;
+  	padding:0 20px;
   	margin-top:0px;
   }
   	.header {
@@ -160,7 +159,8 @@
   		line-height:24px;
   	}
   	.quotation h4 {
-  		padding:10px 25px;
+  		padding:25px;
+  		font-size:24px;
   	}
   	.aboutUs .section h4 {
   		padding:10px 0;
@@ -269,8 +269,8 @@
 	.quotationWrap {
 		height:480px;
 	}
-	.quotationWrap .discount {
-		right:0;
+	.quoInfo form h4 {
+		font-size:20px;
 	}
 	.quoInfo form {
 		padding-top:1em;
@@ -371,6 +371,9 @@
 	    width: 288px;
 	}
 	.whyUsTxt { 
+		right:0;
+	}
+	.quotationWrap .discount {
 		right:0;
 	}
 }

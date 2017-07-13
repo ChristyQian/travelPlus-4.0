@@ -23,6 +23,7 @@ h4 {
 .grayBg ul {
 	font-size:1.5em;
 	line-height:1.5em;
+	padding-left:20px;
 }
 .grayBg ul li {
 	list-style:disc;
@@ -278,6 +279,9 @@ footer .backToTop {
 	}
 }
 @media screen and (max-width: 768px) {
+	.grayBg ul {
+		padding-left:0;
+	}
 	.advantage .flex-col-center-center {
 		-webkit-box-flex:1;
 		    -ms-flex:1 0 180px;

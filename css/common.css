@@ -164,7 +164,7 @@ i {
 }
 .section {
 	width:100%;
-	padding:30px 0 40px;
+	padding:10px 0 30px;
 }
 .halfSite {
 	width:598px;
@@ -525,6 +525,7 @@ h4 {
 .notes {
 	font-size:1.6em;
 	line-height:3.2em;
+	padding:10px 0;
 }
 .icp {
 	padding:20px 0;
@@ -817,7 +818,7 @@ h4 {
 	background-color:#f5a623;
 	filter:alpha(opacity=80);
 	opacity:0.8;
-	padding:50px 0 91px;
+	padding:25px 0 91px;
 	margin:50px auto;
 }
 .quotation {
