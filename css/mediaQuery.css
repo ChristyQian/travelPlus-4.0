@@ -20,8 +20,8 @@
 		margin: 0 auto;
   }
   .section h4 {
-  	padding-left:20px;
-  	padding-right:20px;
+  	padding-left:10px;
+  	padding-right:10px;
   	margin-top:0px;
   }
   	.header {
@@ -129,6 +129,9 @@
 	.fixCAT .hotline span {
 		display:none;
 	}
+	.notes+.section {
+		padding-top:0;
+	}
 	.site {
 		width:100%;
 	}
@@ -146,14 +149,18 @@
 		right:21px;
 		top:21px;
 	}
-	.section {
+	/*.section {
 		padding-top:0;
-	}
+	}*/
   	.section h4,
   	.site h4 {
   		font-size:20px;
-  		padding:20px;
+  		padding:10px;
   		margin:0;
+  		line-height:24px;
+  	}
+  	.quotation h4 {
+  		padding:10px 25px;
   	}
   	.aboutUs .section h4 {
   		padding:10px 0;
@@ -261,6 +268,9 @@
 	.quotationBg,
 	.quotationWrap {
 		height:480px;
+	}
+	.quotationWrap .discount {
+		right:0;
 	}
 	.quoInfo form {
 		padding-top:1em;

@@ -544,6 +544,92 @@
 	margin-top:-25px;
 	margin-bottom:25px;
 }
+/*****************************************/
+/*                 elevator              */
+/*****************************************/
+.zIndex {
+	position:absolute;
+	z-index:2;
+	width:100%;
+	height:100%;
+}
+.elevatorWrap {
+	width:1160px;
+	height:auto;
+	margin:0 auto;
+	position:relative;
+}
+.elevator {
+	position:fixed;
+	width:80px;
+	right:160px;
+	bottom:80px;
+}
+.elevatorBody {
+	margin-bottom:8px;
+}
+.circle {
+	position:relative;
+	display:block;
+	width:10px;
+	height:10px;
+	border-radius:5px;
+	background-color:#eee;
+	margin-left:-4px;
+}
+.nestCircle {
+	position: absolute;
+	top:2px;
+	left:2px;
+	display:block;
+	width:6px;
+	height:6px;
+	border-radius:3px;
+	background-color:#fff;
+}
+.nav {
+	height:auto;
+	border-left:2px solid #eee;
+	padding-left:10px;
+}
+.nav li {
+	padding:10px;
+}
+.nav li .itemStyle {
+	position:absolute;
+	left:0;
+	margin-top:8px;
+	display:block;
+	width:8px;
+	height:8px;
+	border-radius:4px;
+	background-color:#eee;
+	margin-left:-3px;
+}
+.nav li.active .itemStyle {
+	background-color:#ccc;
+}
+.nav li a:hover {
+	text-decoration: none
+}
+.toggleButton,
+.goTopButton {
+	display:block;
+	width:45px;
+	height:45px;
+	cursor: pointer;
+	background:url(../img/sideCatalog.gif) 0 0 no-repeat;
+}
+a.toggleButton:hover {
+	background-position:-53px 0px;
+}
+.goTopButton {
+	background-position:-1px -62px;
+	margin-top:6px;
+}
+a.goTopButton:hover {
+	background-position:-74px -62px;
+}
 @media screen and (max-width:1366px) and (min-width: 768px) {
 	.itineraryPhoto,
 	.itineraryPhoto .swiper-container {
@@ -562,9 +648,9 @@
 		left:0;
 		bottom:-80px;
 	}
-	.quoBg {
+	/*.quoBg {
 		padding-top:20px;
-	}
+	}*/
 	.quoInfo form h4 {
 		margin:0;
 		margin-left:-0.7em;
@@ -726,7 +812,9 @@
 		width:100%;
 		height:152px;
 	}
-	
+	.itineraryHighLights .tourGuide {
+		padding-top:0;
+	}
 	.tourInfo .flex-row-start-between {
 		-webkit-box-orient: horizontal;
 		-webkit-box-direction: normal;
@@ -844,7 +932,7 @@
 		font-size:18px;
 	}
 	.site .hightLight h4 {
-		padding:0;
+		padding:10px 0;
 	}
 	.site .hightLight p {
 		font-size:14px;

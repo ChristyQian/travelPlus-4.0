@@ -60,7 +60,7 @@ h4 {
 	color:;
 }
 .blueBg h5 {
-	line-height:3em;
+	/*line-height:3em;*/
 	font-weight:lighter;
 }
 .reasons {
@@ -333,7 +333,7 @@ footer .backToTop {
 		height:175px;
 	}
 	.reviewBg {
-		margin-bottom:0;
+		/*margin-bottom:0;*/
 		height:270px;
 	}
 	.section,
