@@ -25,7 +25,7 @@
 				}
 				
 				</script>
-				<h5>出境游签证怎么申请？<br/><span>不如留下联系方式，让旅游管家手把手来帮你吧！</span></h5>
+				<h5>出境游签证怎么申请？<br/><span>留下联系方式，让旅游管家手把手来帮你吧！</span></h5>
 				<div class="quoInfo">	
 					<form id="sp-form">					
 						<div class="quoItem">
