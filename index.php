@@ -10,8 +10,8 @@
 
     include_once("index-head.php"); 
 ?>
-	<body>
-		<div class="grayBg"></div>
+<body>
+	<div class="grayBg"></div>
 
 <?php 
 	include_once("common-header.php");
@@ -64,184 +64,162 @@
 	);
 ?>	
 		
+	<div class="site">
+		<!-- slider -->
+		<div class="swiper-container">
+		    <div class="swiper-wrapper">
+		        <div class="swiper-slide">
+		        	<div class="sliderBg">
+		        		<img src="<?php echo $slide[5-$i%6][0]?>"  />
+		        	</div>
+					<?php echo $slide[5-$i%6][1]?>
+					<div class="event">
+						<div class="transparentBg"></div>
+						<div class="transparentTxt"><?php echo $slide[5-$i%6][2]?></div>
+					</div>
+					<div class="recommand">
+						<?php echo $slide[5-$i%6][3]?>
+						<a id="<?php echo $slide[5-$i%6][4]?>" class="borderBtn" href="<?php echo $slide[5-$i%6][5]?>"><?php echo $slide[5-$i%6][6]?></a>
+					</div>
+		        </div>
+		        <div class="swiper-slide">
+		        	<div class="sliderBg">
+		        		<img src="<?php echo $slide[5-($i+1)%6][0]?>"  />
+		        	</div>
+					<?php echo $slide[5-($i+1)%6][1]?>
+					<div class="event">
+						<div class="transparentBg"></div>
+						<div class="transparentTxt"><?php echo $slide[5-($i+1)%6][2]?></div>
+					</div>
+					<div class="recommand">
+						<?php echo $slide[5-($i+1)%6][3]?>
+						<a id="<?php echo $slide[5-($i+1)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+1)%6][5]?>"><?php echo $slide[5-($i+1)%6][6]?></a>
+					</div>
+		        </div>
+		        <div class="swiper-slide">
+		        	<div class="sliderBg">
+		        		<img src="<?php echo $slide[5-($i+2)%6][0]?>"  />
+		        	</div>
+					<?php echo $slide[5-($i+2)%6][1]?>
+					<div class="event">
+						<div class="transparentBg"></div>
+						<div class="transparentTxt"><?php echo $slide[5-($i+2)%6][2]?></div>
+					</div>
+					<div class="recommand">
+						<?php echo $slide[5-($i+2)%6][3]?>
+						<a id="<?php echo $slide[5-($i+2)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+2)%6][5]?>"><?php echo $slide[5-($i+2)%6][6]?></a>
+					</div>
+		        </div>
+		        <div class="swiper-slide">
+		        	<div class="sliderBg">
+		        		<img src="<?php echo $slide[5-($i+3)%6][0]?>"  />
+		        	</div>
+					<?php echo $slide[5-($i+3)%6][1]?>
+					<div class="event">
+						<div class="transparentBg"></div>
+						<div class="transparentTxt"><?php echo $slide[5-($i+3)%6][2]?></div>
+					</div>
+					<div class="recommand">
+						<?php echo $slide[5-($i+3)%6][3]?>
+						<a id="<?php echo $slide[5-($i+3)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+3)%6][5]?>"><?php echo $slide[5-($i+3)%6][6]?></a>
+					</div>
+		        </div>
+		        <div class="swiper-slide">
+		        	<div class="sliderBg">
+		        		<img src="<?php echo $slide[5-($i+4)%6][0]?>"  />
+		        	</div>
+					<?php echo $slide[5-($i+4)%6][1]?>
+					<div class="event">
+						<div class="transparentBg"></div>
+						<div class="transparentTxt"><?php echo $slide[5-($i+4)%6][2]?></div>
+					</div>						
+					<div class="recommand">
+						<?php echo $slide[5-($i+4)%6][3]?>
+						<a id="<?php echo $slide[5-($i+4)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+4)%6][5]?>"><?php echo $slide[5-($i+4)%6][6]?></a>
+					</div>
+		        </div>
+		        <div class="swiper-slide">
+		        	<div class="sliderBg">
+		        		<img src="<?php echo $slide[5-($i+5)%6][0]?>"  />
+		        	</div>
+					<?php echo $slide[5-($i+5)%6][1]?>
+					<div class="event">
+						<div class="transparentBg"></div>
+						<div class="transparentTxt"><?php echo $slide[5-($i+5)%6][2]?></div>
+					</div>
+					<div class="recommand">
+						<?php echo $slide[5-($i+5)%6][3]?>
+						<a id="<?php echo $slide[5-($i+5)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+5)%6][5]?>"><?php echo $slide[5-($i+5)%6][6]?></a>
+		    		</div>
+		    	</div>
+		    </div>
+		    <!-- 如果需要分页器 -->
+		    <div class="swiper-pagination touchslider-nav"></div>			  
+		</div>
+		<!-- video -->  
+		<div class="section">
+			<h4>TravelPlus别样自由团</h4>
+			<div class="videoWrap">
+				<video id="home-video" src="http://oom4o4tqw.bkt.clouddn.com/EF-Travel-Plus-branding2.MP4" controls="controls" onplay="bs_trackClick(bs_getEventCategory(), 'Home Video Play');">
+					your browser does not support the video tag
+				</video>
+				<div class="flex-row-start-around features">
+					<div class="flex1">
+						<div class="iWrap"><i class="localGuide"></i></div>
+						<p>外籍导游和中方领队，带你融入当地</p>
+					</div>
+					<div class="flex1">
+						<div class="iWrap"><i class="like-minded"></i></div>
+						<p>结识有趣同龄伙伴，旅程更添精彩</p>
+					</div>
+					<div class="flex1">
+						<div class="iWrap"><i class="freeTime"></i></div>
+						<p>行程合理规划，自由时间自在享受</p>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="site">
-			<!-- slider -->
-			<div class="swiper-container">
-			    <div class="swiper-wrapper">
-			        <div class="swiper-slide">
-			        	<div class="sliderBg">
-			        		<img src="<?php echo $slide[5-$i%6][0]?>"  />
-			        	</div>
-						<?php echo $slide[5-$i%6][1]?>
-						<div class="event">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt"><?php echo $slide[5-$i%6][2]?></div>
-						</div>
-						<div class="recommand">
-							<?php echo $slide[5-$i%6][3]?>
-							<a id="<?php echo $slide[5-$i%6][4]?>" class="borderBtn" href="<?php echo $slide[5-$i%6][5]?>"><?php echo $slide[5-$i%6][6]?></a>
-						</div>
-			        </div>
-			        <div class="swiper-slide">
-			        	<div class="sliderBg">
-			        		<img src="<?php echo $slide[5-($i+1)%6][0]?>"  />
-			        	</div>
-						<?php echo $slide[5-($i+1)%6][1]?>
-						<div class="event">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt"><?php echo $slide[5-($i+1)%6][2]?></div>
-						</div>
-						<div class="recommand">
-							<?php echo $slide[5-($i+1)%6][3]?>
-							<a id="<?php echo $slide[5-($i+1)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+1)%6][5]?>"><?php echo $slide[5-($i+1)%6][6]?></a>
-						</div>
-			        </div>
-			        <div class="swiper-slide">
-			        	<div class="sliderBg">
-			        		<img src="<?php echo $slide[5-($i+2)%6][0]?>"  />
-			        	</div>
-						<?php echo $slide[5-($i+2)%6][1]?>
-						<div class="event">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt"><?php echo $slide[5-($i+2)%6][2]?></div>
-						</div>
-						<div class="recommand">
-							<?php echo $slide[5-($i+2)%6][3]?>
-							<a id="<?php echo $slide[5-($i+2)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+2)%6][5]?>"><?php echo $slide[5-($i+2)%6][6]?></a>
-						</div>
-			        </div>
-			        <div class="swiper-slide">
-			        	<div class="sliderBg">
-			        		<img src="<?php echo $slide[5-($i+3)%6][0]?>"  />
-			        	</div>
-						<?php echo $slide[5-($i+3)%6][1]?>
-						<div class="event">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt"><?php echo $slide[5-($i+3)%6][2]?></div>
-						</div>
-						<div class="recommand">
-							<?php echo $slide[5-($i+3)%6][3]?>
-							<a id="<?php echo $slide[5-($i+3)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+3)%6][5]?>"><?php echo $slide[5-($i+3)%6][6]?></a>
-						</div>
-			        </div>
-			        <div class="swiper-slide">
-			        	<div class="sliderBg">
-			        		<img src="<?php echo $slide[5-($i+4)%6][0]?>"  />
-			        	</div>
-						<?php echo $slide[5-($i+4)%6][1]?>
-						<div class="event">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt"><?php echo $slide[5-($i+4)%6][2]?></div>
-						</div>						
-						<div class="recommand">
-							<?php echo $slide[5-($i+4)%6][3]?>
-							<a id="<?php echo $slide[5-($i+4)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+4)%6][5]?>"><?php echo $slide[5-($i+4)%6][6]?></a>
-						</div>
-			        </div>
-			        <div class="swiper-slide">
-			        	<div class="sliderBg">
-			        		<img src="<?php echo $slide[5-($i+5)%6][0]?>"  />
-			        	</div>
-						<?php echo $slide[5-($i+5)%6][1]?>
-						<div class="event">
-							<div class="transparentBg"></div>
-							<div class="transparentTxt"><?php echo $slide[5-($i+5)%6][2]?></div>
-						</div>
-						<div class="recommand">
-							<?php echo $slide[5-($i+5)%6][3]?>
-							<a id="<?php echo $slide[5-($i+5)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+5)%6][5]?>"><?php echo $slide[5-($i+5)%6][6]?></a>
-			    		</div>
-			    	</div>
-			    </div>
-			    <!-- 如果需要分页器 -->
-			    <div class="swiper-pagination touchslider-nav">
-			    </div>
-			  
-			</div>
-			<!-- video -->  
-			<div class="section">
-				<h4>TravelPlus别样自由团</h4>
-				<div class="videoWrap">
-					<!--<video width="500" height="302" src='http://player.youku.com/player.php/sid/XMTg0NjAwMTAwOA==/v.swf' allowFullScreen='true' quality='high' width='500' height='302' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'>	
-						your browser does not support the video tag
-					</video>-->
-					<video id="home-video" src="http://oom4o4tqw.bkt.clouddn.com/EF-Travel-Plus-branding2.MP4" controls="controls" onplay="bs_trackClick(bs_getEventCategory(), 'Home Video Play');">
-						your browser does not support the video tag
-					</video>
-					<div class="flex-row-start-around features">
-						<div class="flex1">
-							<div class="iWrap"><i class="localGuide"></i></div>
-							<p>外籍导游和中方领队，带你融入当地</p>
-						</div>
-						<div class="flex1">
-							<div class="iWrap"><i class="like-minded"></i></div>
-							<p>结识有趣同龄伙伴，旅程更添精彩</p>
-						</div>
-						<div class="flex1">
-							<div class="iWrap"><i class="freeTime"></i></div>
-							<p>行程合理规划，自由时间自在享受</p>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="site">
-				<!-- trips -->
-<?php 
-	include_once("recommend.php");
-?>	
-			</div>					
-		</div>
-		<!-- footer -->
-<?php 
-	include_once ("common-footer2.php");
-?>
+			<?php include_once("recommend.php"); ?>	
+		</div>					
+	</div>
+	<!-- footer -->
+	<?php include_once ("common-footer2.php"); ?>
+	<?php include_once ("popup.php"); ?>
 
-		<div class="popup wechat">
-			<i class="closePopup">&times;</i>
-			<div class="mask"></div>
-			<div class="popupContainer">		
-				<div class="flex-col-center-center flex-wrap">
-					<div class="">
-						<p>
-							扫码关注@EFTravelPlus微信服务号<br />
-							发现实用旅行灵感和产品
-						</p>
-					</div>
-					<div class="wechatImg">
-						<img src="http://travelplus.ef.com.cn/sp/img/qrcode.png" />
-					</div>
-				</div>
-			</div>
-		</div>
-		<script src="js/jquery-2.1.1.min.js"></script>
-		<script>
-		//flexibility(document.documentElement);		
-	    var swiper = new Swiper('.swiper-container', {
-	    		autoplay: 3000,
-	        pagination: '.swiper-pagination',
-	        paginationClickable: true
-	    }); 
-	    
-    		$('.closeIcon').click(function(){
-			$(this).parentsUntil('.com_dialog').hide();
-		});
-		$('.header .Oval-5').click(function(){
-			if(jQuery(window).width() >=768){
-				$('.header .dialogWrap').show();
-				$('.header .com_dialog').show();
-			}
-			else if(jQuery(window).width() <768){
-				$('.wechat.popup').show();	
-				$('.popup .mask').show();
-				$('.popupContainer').show();	
-			}
-		});
+		<script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
+
+		<!-- Show the interaction effect, can be removed it later -->
+		<script src="js/triggeredPop.js" type="text/javascript"></script>
+		<!-- Show the interaction effect, can be removed it later -->
 		
-		$(".wechat.popup .closePopup").click(function(){
-			$('.popup').hide();	
-			$('.popup .mask').hide();
-			$('.popupContainer').hide();	
-		});      
+		<script>		
+		    var swiper = new Swiper('.swiper-container', {
+		    		autoplay: 3000,
+		        pagination: '.swiper-pagination',
+		        paginationClickable: true
+		    }); 
+		    
+	    		$('.closeIcon').click(function(){
+				$(this).parentsUntil('.com_dialog').hide();
+			});
+			$('.header .Oval-5').click(function(){
+				if(jQuery(window).width() >=768){
+					$('.header .dialogWrap').show();
+					$('.header .com_dialog').show();
+				}
+				else if(jQuery(window).width() <768){
+					$('.wechat.popup').show();	
+					$('.popup .mask').show();
+					$('.popupContainer').show();	
+				}
+			});
+			
+			$(".wechat.popup .closePopup").click(function(){
+				$('.popup').hide();	
+				$('.popup .mask').hide();
+				$('.popupContainer').hide();	
+			});
 		</script>
 	</body>
 </html>

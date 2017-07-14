@@ -36,63 +36,40 @@
 							</div>
 
 							<div class="quoItem">
-
 								<label>起飞地点：</label>
-
-								<select id="city" name="city" title="城市" param="city">
-
-									<option value="Beijing">北京</option>
-
-									<option value="Shanghai">上海</option>
-									
-									<option value="Guangzhou">广州</option>
-									
-									<option value="Chengdu">成都</option>
-									
-									<option value="Hongkong">香港</option>
-									
-									<option value="Others">其他</option>
-
-								</select>
-
-								<div id="city-error-msg" class="form-error-msg">
-
-									<i class="fa fa-warning"></i>请输入起飞地点
-
+								<div class="dropdownArrowWrap">
+									<select id="city" name="city" title="城市" param="city">
+										<option value="Beijing">北京</option>
+										<option value="Shanghai">上海</option>										
+										<option value="Guangzhou">广州</option>										
+										<option value="Chengdu">成都</option>										
+										<option value="Hongkong">香港</option>										
+										<option value="Others">其他</option>
+									</select>
+									<div id="city-error-msg" class="form-error-msg">
+										<i class="fa fa-warning"></i>请输入起飞地点
+									</div>
+									<div class="dropdownArrow"></div>
 								</div>
-								<div class="dropdownArrow"></div>
-
 							</div>
 
 							<div class="quoItem">
-
 								<label>旅行时间：</label>
-
-								<select id="age" name="age" title="年龄" param="age">
-								
-									<option value="2017 Labour Day">2017 五一节</option>
-									
-									<option value="2017 Dragon Boat">2017 端午节</option>
-									
-									<option value="2017 Summer Holiday">2017 暑假</option>
-									
-									<option value="2017 National Day">2017 国庆</option>
-
-									<option value="2017 Xmas">2017 圣诞/新年</option>
-									
-									<option value="2018 Chinese New Year">2018 春节</option>
-									
-									<option value="Others">其他</option>
-									
-								</select>
-
-								<div id="age-error-msg" class="form-error-msg">
-
-									<i class="fa fa-warning"></i>请输入旅行时间
-
+								<div class="dropdownArrowWrap">
+									<select id="age" name="age" title="年龄" param="age">									
+										<option value="2017 Labour Day">2017 五一节</option>										
+										<option value="2017 Dragon Boat">2017 端午节</option>										
+										<option value="2017 Summer Holiday">2017 暑假</option>										
+										<option value="2017 National Day">2017 国庆</option>
+										<option value="2017 Xmas">2017 圣诞/新年</option>										
+										<option value="2018 Chinese New Year">2018 春节</option>										
+										<option value="Others">其他</option>										
+									</select>
+									<div id="age-error-msg" class="form-error-msg">
+										<i class="fa fa-warning"></i>请输入旅行时间
+									</div>
+									<div class="dropdownArrow"></div>
 								</div>
-								<div class="dropdownArrow"></div>
-
 							</div>
 
 							<div class="quoItem">

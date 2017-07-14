@@ -215,11 +215,14 @@
 		</div>
 		<!-- footer -->
 		<?php include 'popup.php' ;?>
-<?php 
-	include_once('common-footer2.php');
-?>
-
+		<?php include_once('common-footer2.php');?>
+		
 		<script src="js/jquery-2.1.1.min.js"></script>
+
+		<!-- Show the interaction effect, can be removed it later -->
+		<script src="js/triggeredPop.js" type="text/javascript"></script>
+		<!-- Show the interaction effect, can be removed it later -->
+
 		<script>
 			//flexibility(document.documentElement);
 			$('.closeIcon').click(function(){

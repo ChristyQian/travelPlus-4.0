@@ -954,13 +954,17 @@
 			</div>
 		</div>
 		<!-- footer -->
-<?php 
-	include_once('common-footer2.php')
-?>
+<?php include_once('common-footer2.php'); ?>
 <?php include 'popup.php' ;?>
+
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
+
+		<!-- Show the interaction effect, can be removed it later -->
+		<script src="js/triggeredPop.js" type="text/javascript"></script>
+		<!-- Show the interaction effect, can be removed it later -->
+		
 		<script>
 			function myaffix() {
 				var affixoffset = $('.filter').offset().top;

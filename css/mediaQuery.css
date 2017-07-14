@@ -65,7 +65,7 @@
     .halfSite {
     		width:560px;
     }
-    	.header-logo img {
+    .header-logo img {
 		width: 250px;
 		height: 50px;
 		margin: 0;
@@ -118,6 +118,16 @@
 		width:55%;
 		margin-left:20px;
 		padding-top:20px;
+	}
+	.triggeredLeadForm .quoInfo form {
+		width:100%;
+	}
+	.triggeredLeadForm .quoItem {
+		width:49%;
+	}
+	.triggeredFooterPop button {
+		width:40%;
+		margin-top:20px;
 	}
 }
 /* min - iphone6p */
@@ -343,6 +353,12 @@
 	.popupContainer .flex-wrap .wechatImg {
 		margin-top:2em;
 	}
+	.triggeredFooterPop button { 
+		width:98%;
+	}
+	/*footer {
+		padding-bottom:396px;
+	}*/
 }
 /* iphone6 plus */
 @media screen and (max-width: 414px) {
@@ -378,7 +394,7 @@
 	}
 }
 /* bigger than */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 600px) {
 	.popup {
 		display:none;
 	}

@@ -32,8 +32,9 @@ textarea {
 	height: 30px;
 	line-height: 30px;
 }
-.quoBg select,
-.quoBg textarea {
+.quoItem select,
+.quoItem textarea {
+	display:block;
 	background:rgba(255,255,255,0.24);
 	color:#fff;
 	margin:5px 0;
@@ -79,8 +80,10 @@ i {
 }
 .form-error-msg {
 	color:#ff0000;
-	margin-top:-10px;
+	margin-top:-6px;
 	display: none;
+	position:absolute;
+	font-size:12px;
 }
 .form-error-msg i {margin-right:5px;}
 /*****************************************/
@@ -523,6 +526,7 @@ h4 {
 	line-height:2.4em;
 }
 h5 {
+	font-size:2em;
 	line-height:34px;
 }
 .notes {
@@ -886,10 +890,13 @@ h5 {
 	font-weight:normal;
 	color:#000;
 }
-.priceWG+.quoItem {
+/*.priceWG+.quoItem {
 	margin-top:20px;
-}
+}*/
 .quoItem {
+	margin-top:16px;
+}
+.dropdownArrowWrap {
 	position:relative;
 }
 .quoItem label {
@@ -909,7 +916,7 @@ h5 {
 }
 .dropdownArrow {
 	position: absolute;
-    bottom: 15px;
+    bottom: 10px;
     right: 10px;
     width: 0;
     height: 0;
@@ -1052,7 +1059,7 @@ a.close-dropdown {
 /*                Footer                 */
 /*****************************************/
 footer {
-	padding:0 2.5em 5em;
+	padding:0 2.5em 2.5em;
 	background-color:#f7f5f0;
 	color:#4a4a4a;
 	margin-top:50px;
@@ -1118,4 +1125,94 @@ footer .flex-row-center-start .flexAuto {
 footer .flex-row-center-start .flexAuto p {
 	font-size:14px;
 	color:#4a4a4a;
+}
+/*****************************************/
+/*                Footer                 */
+/*****************************************/
+.triggeredFooterPop {
+	position:fixed;
+	z-index: 9999;
+	bottom:0;
+	width:100%;
+	padding:20px;
+	height:auto;
+	color:#fff;
+	background-color:#2f7899;	
+}
+.triggeredFooterPop .site {
+	position:relative;
+}
+.triggeredFooterPop h5 {
+	font-weight: lighter;
+	margin-bottom:10px;
+}
+.triggeredLeadForm h5 span {
+	font-size:14px;
+}
+.whiteTrangle,
+.backgroundTrangle {
+	position:absolute;
+	right:10px;
+	top:10px;
+	width:0;
+	height:0;
+	border-top:10px solid #fff;
+	border-left:10px  solid transparent;
+	border-right:10px solid transparent;
+	cursor: pointer;
+}
+.backgroundTrangle {
+	z-index:2;
+	top:8px;
+	border-top:10px solid #2f7899;
+	border-left:10px  solid transparent;
+	border-right:10px solid transparent;
+}
+.triggeredLeadForm {
+	display:none;
+}
+.close {
+	position:absolute;
+	top:0px;
+	right:10px;
+	font-size:16px;
+	cursor: pointer;
+}
+.triggeredLeadForm .quoInfo {
+	position:static;
+}
+.triggeredLeadForm .quoInfo form,
+.triggeredFooterPop button {
+	display: inline-block;
+	vertical-align: middle;
+}
+.triggeredLeadForm .quoInfo form {
+	padding:0;
+	width:80%;
+}
+.triggeredFooterPop button {
+	width:18%;
+	font-weight: lighter;
+	height:46px;
+	line-height:46px;
+	background-color:rgba(255,255,255,0.24);
+}
+.triggeredFooterPop button {
+	width:18%;
+}
+.triggeredLeadForm .quoItem {
+	display:inline-block;
+	width:24%;
+	height:80px;
+	vertical-align: middle;
+}
+.triggeredLeadForm .quoInfo .quoItem label {
+	font-weight: lighter;
+	color:#fff;
+}
+.triggeredLeadForm .quoInfo .quoItem .form-error-msg {
+	margin-top:0;
+}
+.triggeredLeadFormHeader h5 {
+	cursor:pointer;
 }
