@@ -962,7 +962,7 @@
 		<script src="js/sticky.min.js"></script>
 
 		<!-- Show the interaction effect, can be removed it later -->
-		<script src="js/triggeredPop.js" type="text/javascript"></script>
+		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		
 		<script>

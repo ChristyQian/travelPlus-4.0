@@ -190,7 +190,7 @@
 		<script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
 
 		<!-- Show the interaction effect, can be removed it later -->
-		<script src="js/triggeredPop.js" type="text/javascript"></script>
+		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		
 		<script>		
