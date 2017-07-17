@@ -1,4 +1,21 @@
-<div class="triggeredFooterPop">
+
+	<script type="text/javascript" src='../lib/services.js'></script>
+
+    <!--leads and pages --> 
+
+    <script type="text/javascript" src='js/func.js'></script>
+	
+	<script>
+	
+	function Quotation_Form_Submit()
+	{	
+	 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
+	 
+	 Lead_Validation("sp-form", "Lead_Insert", " ", true);
+	}
+	
+	</script>
+	<div class="triggeredFooterPop">
 		<div class="site">
 			<div class="triggeredLeadFormHeader">
 				<div class="close">&times;</div>
@@ -9,23 +26,7 @@
 					<div class="whiteTrangle"></div>
 					<div class="backgroundTrangle"></div>
 				</div>
-				<script type="text/javascript" src='../lib/services.js'></script>
-
-			    <!--leads and pages --> 
-
-			    <script type="text/javascript" src='js/func.js'></script>
-				
-				<script>
-				
-				function Quotation_Form_Submit()
-				{	
-				 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
-				 
-				 Lead_Validation("sp-form", "Lead_Insert", "submitted.php", true);
-				}
-				
-				</script>
-				<h5>出境游签证怎么申请？<br/><span>留下联系方式，让旅游管家手把手来帮你吧！</span></h5>
+				<h5>出境游签证怎么申请？</h5><span>留下联系方式，让旅游管家手把手来帮你吧！</span>
 				<div class="quoInfo">	
 					<form id="sp-form">					
 						<div class="quoItem">
@@ -91,6 +92,11 @@
 
 					</form>	
 					<button id="lead-submit-button" onclick="Quotation_Form_Submit()" class="orangeBtn">免费咨询</button></div>
+				</div>
+				<div class="triggeredLeadFormFeedback">
+					<div class="close">&times;</div>
+					<h5>谢谢！</h5>
+					<p>我们的服务管家会根据您的情况提出针对性的签证建议，请留意接听电话。</p>
 				</div>
 			</div>
 		</div>
