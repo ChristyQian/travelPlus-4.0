@@ -1,4 +1,4 @@
-<?php include_once("../track/analyticstracking.php") ?>
+<!-- <?php include_once("../track/analyticstracking.php") ?> -->
 
 <div class="header">
 		<div class="site flex-row-center-between">
