@@ -11,6 +11,10 @@
 ?>
 	<body>
 	<?php include 'common-header2.php';?>	
+	
+	<?PHP
+		include_once('triggeredLeadPop.php');
+	?>
 		<div class="site">
 			 <h4>EF TravelPlus - 跟团也能很自由</h4>
 		</div>

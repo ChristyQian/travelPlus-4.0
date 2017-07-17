@@ -16,6 +16,10 @@
 <?php 
 	 include_once('common-header2.php');
 ?>	
+
+<?PHP
+		include_once('triggeredLeadPop.php');
+	?>
 		<div class="section" style="padding:0;">
 			<div class="whyUsBg">
 				<div class="site">
@@ -77,8 +81,8 @@
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
 								<option value="aus" data-display="澳大利亚">澳大利亚</option>
-								<option value="amw" data-display="美国西部">美国西部</option>
-								<option value="icy" data-display="冰岛">冰岛</option>
+								<option value="usw" data-display="美国西部">美国西部</option>
+								<option value="ic" data-display="冰岛">冰岛</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -342,7 +346,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="amw" data-tag="art,nature,seaview,honeymoon,family">
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="usw" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -374,7 +378,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="nature,honeymoon,northeuro">
+				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="ic" data-tag="nature,honeymoon,northeuro">
 						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
@@ -954,17 +958,16 @@
 			</div>
 		</div>
 		<!-- footer -->
-<?php include_once('common-footer2.php'); ?>
+<?php 
+	include_once('common-footer2.php')
+?>
 <?php include 'popup.php' ;?>
-
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-
 		<!-- Show the interaction effect, can be removed it later -->
 		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
-		
 		<script>
 			function myaffix() {
 				var affixoffset = $('.filter').offset().top;

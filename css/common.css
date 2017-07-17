@@ -80,7 +80,7 @@ i {
 }
 .form-error-msg {
 	color:#ff0000;
-	margin-top:-6px;
+	margin-top:-5px;
 	display: none;
 	position:absolute;
 	font-size:12px;
@@ -902,7 +902,7 @@ h5 {
 .quoItem label {
 	display:block;
 	color:#000;
-	font-size:2em;
+	font-size:14px;
 	line-height: 2em;
 }
 .quoItem select {
@@ -1137,7 +1137,8 @@ footer .flex-row-center-start .flexAuto p {
 	padding:20px;
 	height:auto;
 	color:#fff;
-	background-color:#2f7899;	
+	background-color:#2f7899;
+	font-weight: lighter;	
 }
 .triggeredFooterPop .site {
 	position:relative;
@@ -1146,7 +1147,8 @@ footer .flex-row-center-start .flexAuto p {
 	font-weight: lighter;
 	margin-bottom:10px;
 }
-.triggeredLeadForm h5 span {
+.triggeredLeadForm h5+span {
+	display:block;
 	font-size:14px;
 }
 .whiteTrangle,
@@ -1168,7 +1170,8 @@ footer .flex-row-center-start .flexAuto p {
 	border-left:10px  solid transparent;
 	border-right:10px solid transparent;
 }
-.triggeredLeadForm {
+.triggeredLeadForm,
+.triggeredLeadFormFeedback {
 	display:none;
 }
 .close {
@@ -1215,4 +1218,8 @@ footer .flex-row-center-start .flexAuto p {
 }
 .triggeredLeadFormHeader h5 {
 	cursor:pointer;
+}
+.triggeredLeadFormHeader h5 {
+	font-size:14px;
+	margin-bottom:0;
 }

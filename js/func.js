@@ -35,17 +35,17 @@ function Lead_Validation(formname, func, redirect, immediate)
         if (val==null||val=="")
         {
           Input_Error(element);
-          return;
+          return false;
         } 
-        else if (element.name == "email" && (!Email_Validation(val)))
+        else if (element.name == "email" && (!Email_Validation(val) || !element.value))
         {
           Input_Error(element);
-          return;
+          return false;
         }
-        else if (element.name == "mobile" && (!Mobile_Validation(val)))
+        else if (element.name == "mobile" && (!Mobile_Validation(val) || !element.value))
         {
           Input_Error(element);
-          return;
+          return false;
         }
         else
         {
@@ -55,9 +55,22 @@ function Lead_Validation(formname, func, redirect, immediate)
     }    
   }
 
-  Service_From_Form(formname, func, redirect, immediate);
+  var button = document.getElementById("lead-submit-button");
+  
+  if(button) button.style.visibility = "hidden";
+  
+  
+  if(func)
+  {
+   Service_From_Form(formname, func, redirect, immediate,
+   function()
+   {
+    if(button) button.style.visibility = "visible";
+   }
+   );
+  } 
 
-  return;
+  return true;
 }
 
 function Hide_Error_Msg (formname)
@@ -87,7 +100,7 @@ function Trip_Filter ()
 
 function Trip_Hide_All()
 {
-	var boxes = document.getElementsByName('home-trip-box');
+	var boxes = document.getElementsByClassName('home-trip-box');
 	
 	for (var i=0, l=boxes.length; i<l; i++)
 	{
@@ -98,7 +111,7 @@ function Trip_Hide_All()
 
 function Trip_Show_All()
 {
-	var boxes = document.getElementsByName('home-trip-box');
+	var boxes = document.getElementsByClassName('home-trip-box');
 	
 	for (var i=0, l=boxes.length; i<l; i++)
 	{
@@ -112,16 +125,16 @@ function Trip_Destination_Filter()
 	var dest = document.getElementById('destination').options[document.getElementById('destination').selectedIndex].value;
 	
 	var destName = document.getElementById('destination').options[document.getElementById('destination').selectedIndex].getAttribute("data-display");
-	
+		
 	document.getElementById("filter-selected").innerHTML += '<div>' + destName + '</div>';
 
-	var boxes = document.getElementsByName('home-trip-box');
+	var boxes = document.getElementsByClassName("home-trip-box");
 	
 	for (var i=0, l=boxes.length; i<l; i++)
-	{
+	{		
 		var box = boxes[i];
 
-		if (dest=="all") {
+		if (dest=="all") {   // SERIOUSLY????????????
 			//box.style.display = "inline";
 		} else {
 			var tripDest = box.getAttribute("data-dest");
@@ -140,8 +153,8 @@ function Trip_Destination_Filter()
 
 function Trip_Tag_Filter () 
 {
-	var tags = document.getElementsByName('tag-selector');
-	var boxes = document.getElementsByName('home-trip-box');
+	var tags = document.getElementsByClassName('checkbox');
+	var boxes = document.getElementsByClassName('home-trip-box');
 	
 	var hasTag=0;
 	

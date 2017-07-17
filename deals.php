@@ -14,6 +14,10 @@
 <?php 
 	include_once('common-header2.php');
 ?>
+
+<?PHP
+	include_once('triggeredLeadPop.php');
+?>
 		<div class="yellowBg">
 			<div class="site">
 		 		<h5>限时优惠</h5>
@@ -211,6 +215,9 @@
 	include_once('common-footer2.php');
 ?>
 		<script src="js/jquery-2.1.1.min.js"></script>
+		<!-- Show the interaction effect, can be removed it later -->
+		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
+		<!-- Show the interaction effect, can be removed it later -->
 		<script>
 			//flexibility(document.documentElement);
 			$('.closeIcon').click(function(){

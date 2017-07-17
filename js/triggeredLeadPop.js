@@ -16,7 +16,19 @@ $('.goBackStatusIcon').click(function(){
 	paddingHeight();
 });
 
-$('.triggeredLeadFormHeader .close').click(function(){
+$('.close').click(function(){
 	$('.triggeredFooterPop').hide();
 	paddingHeight();
 });
+
+$('#lead-submit-button').click(
+function()
+{
+ if(Lead_Validation("sp-form"))
+ {
+  $('.triggeredLeadForm').hide();
+  $('.triggeredLeadFormFeedback').show();
+  paddingHeight();
+ }
+} 
+);

@@ -63,6 +63,10 @@
 			"查看行程<i class='whiteArrow'></i>")
 	);
 ?>	
+
+<?PHP
+	include_once('triggeredLeadPop.php');
+?>
 		
 	<div class="site">
 		<!-- slider -->
