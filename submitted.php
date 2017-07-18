@@ -31,43 +31,11 @@
 				</div>
 			</div>
 		</div>
-		<div class="site">
+<div class="site">
 			<!-- trips -->
 			<div class="section">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-start flex-flow">	
-				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
-						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									食在意大利：食物与酒的美学 <br/>
-									都灵 - 意属里维耶拉 - 博洛尼亚 - 米兰
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									12天
-									<span class="delPrice">￥22,800</span>
-									<span class="price">￥21,500<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>													
+				<div class="flex-row-start-start flex-flow">													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 							<div class="imgWrap">
@@ -99,39 +67,7 @@
 								</div>
 							</div>
 						</a>
-				    </div>				    			    
-				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
-						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									北欧多元首都之旅 <br/>
-									斯德哥尔摩 - 卑尔根 - 哥本哈根
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥27,300<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
+				    </div>				    			    				    
 				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >	
 							<div class="imgWrap">
@@ -195,6 +131,38 @@
 								</div>
 							</div>
 						</a>
+				    </div>
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									北欧多元首都之旅 <br/>
+									斯德哥尔摩 - 卑尔根 - 哥本哈根
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥27,300<span>起</span></span>
+								</div>
+							</div>
+						</a>
 				    </div>				   
 				</div>
 			</div>
@@ -233,7 +201,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="amw" data-tag="art,nature,seaview,honeymoon,family">
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="usw" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -265,7 +233,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="nature,honeymoon,northeuro">
+				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="ic" data-tag="nature,honeymoon,northeuro">
 						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
@@ -297,6 +265,38 @@
 							</div>
 						</a>
 				    </div>
+				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
+						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									食在意大利：食物与酒的美学 <br/>
+									都灵 - 意属里维耶拉 - 博洛尼亚 - 米兰
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									12天
+									<span class="delPrice">￥22,800</span>
+									<span class="price">￥21,500<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>	
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" >	
 							<div class="imgWrap">

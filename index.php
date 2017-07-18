@@ -16,25 +16,25 @@
 <?php 
 	include_once("common-header.php");
 	
-	$i = rand(1,6);
+	$i = rand(1,5);
     $slide = array
 	(
-		array("img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
-			"国庆档",
-			"<p>食在意大利：食物与酒的美学<br/>2017.9.29出发</p>",
-			"Slide-fwit",
-			"itinerary-food-wine-northern-italy-the-italian-riviera.php",
-			"查看行程<i class='whiteArrow'></i>"),
+		// array("img/itinerary/home-food-wine-northern-italy-the-italian-riviera.jpg",
+		// 	"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
+		// 	"国庆档",
+		// 	"<p>食在意大利：食物与酒的美学<br/>2017.9.29出发</p>",
+		// 	"Slide-fwit",
+		// 	"itinerary-food-wine-northern-italy-the-italian-riviera.php",
+		// 	"查看行程<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-germany-switzerland-austria.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月30日前</div></div>",
 			"国庆档",
 			"<p>阿尔卑斯山环游之旅<br/>2017.9.30出发</p>",
 			"Slide-alpine",
 			"itinerary-jewels-of-alpine-europe.php",
 			"查看行程<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-grand-tour-of-spain.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月30日前</div></div>",
 			"国庆档",
 			"<p>西班牙全景深度游<br/>2017.9.30出发</p>",
 			"Slide-grsp",
@@ -55,7 +55,7 @@
 			"itinerary-scandinavia-the-capitals-the-fjords.php",
 			"查看行程<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-barcelona-southern-france-the-italian-riviera.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月15日前</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>1人半价</p>7月30日前</div></div>",
 			"国庆档",
 			"<p>西法意城市狂想<br/>2017.9.29出发</p>",
 			"Slide-spfrit",
@@ -74,88 +74,74 @@
 		    <div class="swiper-wrapper">
 		        <div class="swiper-slide">
 		        	<div class="sliderBg">
-		        		<img src="<?php echo $slide[5-$i%6][0]?>"  />
+		        		<img src="<?php echo $slide[4-$i%5][0]?>"  />
 		        	</div>
-					<?php echo $slide[5-$i%6][1]?>
+					<?php echo $slide[4-$i%5][1]?>
 					<div class="event">
 						<div class="transparentBg"></div>
-						<div class="transparentTxt"><?php echo $slide[5-$i%6][2]?></div>
+						<div class="transparentTxt"><?php echo $slide[4-$i%5][2]?></div>
 					</div>
 					<div class="recommand">
-						<?php echo $slide[5-$i%6][3]?>
-						<a id="<?php echo $slide[5-$i%6][4]?>" class="borderBtn" href="<?php echo $slide[5-$i%6][5]?>"><?php echo $slide[5-$i%6][6]?></a>
+						<?php echo $slide[4-$i%5][3]?>
+						<a id="<?php echo $slide[4-$i%5][4]?>" class="borderBtn" href="<?php echo $slide[4-$i%5][5]?>"><?php echo $slide[4-$i%5][6]?></a>
 					</div>
 		        </div>
 		        <div class="swiper-slide">
 		        	<div class="sliderBg">
-		        		<img src="<?php echo $slide[5-($i+1)%6][0]?>"  />
+		        		<img src="<?php echo $slide[4-($i+1)%5][0]?>"  />
 		        	</div>
-					<?php echo $slide[5-($i+1)%6][1]?>
+					<?php echo $slide[4-($i+1)%5][1]?>
 					<div class="event">
 						<div class="transparentBg"></div>
-						<div class="transparentTxt"><?php echo $slide[5-($i+1)%6][2]?></div>
+						<div class="transparentTxt"><?php echo $slide[4-($i+1)%5][2]?></div>
 					</div>
 					<div class="recommand">
-						<?php echo $slide[5-($i+1)%6][3]?>
-						<a id="<?php echo $slide[5-($i+1)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+1)%6][5]?>"><?php echo $slide[5-($i+1)%6][6]?></a>
+						<?php echo $slide[4-($i+1)%5][3]?>
+						<a id="<?php echo $slide[4-($i+1)%5][4]?>" class="borderBtn" href="<?php echo $slide[4-($i+1)%5][5]?>"><?php echo $slide[4-($i+1)%5][6]?></a>
 					</div>
 		        </div>
 		        <div class="swiper-slide">
 		        	<div class="sliderBg">
-		        		<img src="<?php echo $slide[5-($i+2)%6][0]?>"  />
+		        		<img src="<?php echo $slide[4-($i+2)%5][0]?>"  />
 		        	</div>
-					<?php echo $slide[5-($i+2)%6][1]?>
+					<?php echo $slide[4-($i+2)%5][1]?>
 					<div class="event">
 						<div class="transparentBg"></div>
-						<div class="transparentTxt"><?php echo $slide[5-($i+2)%6][2]?></div>
+						<div class="transparentTxt"><?php echo $slide[4-($i+2)%5][2]?></div>
 					</div>
 					<div class="recommand">
-						<?php echo $slide[5-($i+2)%6][3]?>
-						<a id="<?php echo $slide[5-($i+2)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+2)%6][5]?>"><?php echo $slide[5-($i+2)%6][6]?></a>
+						<?php echo $slide[4-($i+2)%5][3]?>
+						<a id="<?php echo $slide[4-($i+2)%5][4]?>" class="borderBtn" href="<?php echo $slide[4-($i+2)%5][5]?>"><?php echo $slide[4-($i+2)%5][6]?></a>
 					</div>
 		        </div>
 		        <div class="swiper-slide">
 		        	<div class="sliderBg">
-		        		<img src="<?php echo $slide[5-($i+3)%6][0]?>"  />
+		        		<img src="<?php echo $slide[4-($i+3)%5][0]?>"  />
 		        	</div>
-					<?php echo $slide[5-($i+3)%6][1]?>
+					<?php echo $slide[4-($i+3)%5][1]?>
 					<div class="event">
 						<div class="transparentBg"></div>
-						<div class="transparentTxt"><?php echo $slide[5-($i+3)%6][2]?></div>
+						<div class="transparentTxt"><?php echo $slide[4-($i+3)%5][2]?></div>
 					</div>
 					<div class="recommand">
-						<?php echo $slide[5-($i+3)%6][3]?>
-						<a id="<?php echo $slide[5-($i+3)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+3)%6][5]?>"><?php echo $slide[5-($i+3)%6][6]?></a>
+						<?php echo $slide[4-($i+3)%5][3]?>
+						<a id="<?php echo $slide[4-($i+3)%5][4]?>" class="borderBtn" href="<?php echo $slide[4-($i+3)%5][5]?>"><?php echo $slide[4-($i+3)%5][6]?></a>
 					</div>
 		        </div>
 		        <div class="swiper-slide">
 		        	<div class="sliderBg">
-		        		<img src="<?php echo $slide[5-($i+4)%6][0]?>"  />
+		        		<img src="<?php echo $slide[4-($i+4)%5][0]?>"  />
 		        	</div>
-					<?php echo $slide[5-($i+4)%6][1]?>
+					<?php echo $slide[4-($i+4)%5][1]?>
 					<div class="event">
 						<div class="transparentBg"></div>
-						<div class="transparentTxt"><?php echo $slide[5-($i+4)%6][2]?></div>
+						<div class="transparentTxt"><?php echo $slide[4-($i+4)%5][2]?></div>
 					</div>						
 					<div class="recommand">
-						<?php echo $slide[5-($i+4)%6][3]?>
-						<a id="<?php echo $slide[5-($i+4)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+4)%6][5]?>"><?php echo $slide[5-($i+4)%6][6]?></a>
+						<?php echo $slide[4-($i+4)%5][3]?>
+						<a id="<?php echo $slide[4-($i+4)%5][4]?>" class="borderBtn" href="<?php echo $slide[4-($i+4)%5][5]?>"><?php echo $slide[4-($i+4)%5][6]?></a>
 					</div>
 		        </div>
-		        <div class="swiper-slide">
-		        	<div class="sliderBg">
-		        		<img src="<?php echo $slide[5-($i+5)%6][0]?>"  />
-		        	</div>
-					<?php echo $slide[5-($i+5)%6][1]?>
-					<div class="event">
-						<div class="transparentBg"></div>
-						<div class="transparentTxt"><?php echo $slide[5-($i+5)%6][2]?></div>
-					</div>
-					<div class="recommand">
-						<?php echo $slide[5-($i+5)%6][3]?>
-						<a id="<?php echo $slide[5-($i+5)%6][4]?>" class="borderBtn" href="<?php echo $slide[5-($i+5)%6][5]?>"><?php echo $slide[5-($i+5)%6][6]?></a>
-		    		</div>
-		    	</div>
 		    </div>
 		    <!-- 如果需要分页器 -->
 		    <div class="swiper-pagination touchslider-nav"></div>			  
