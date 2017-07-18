@@ -791,7 +791,7 @@
 		<script src="js/sticky.min.js"></script>
 		<script src="js/itinerary.js"></script>
 		<script src="js/jquery.js"></script>
-		<script src="js/jquery.ajax-cross-origin.min.js"></script>
+		
 		<script src="js/jquery.jfeed.js"></script>
 		<script src="js/readRss.js"></script>
 		<script type="text/javascript">
