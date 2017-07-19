@@ -115,8 +115,8 @@
 	else {
 		$(".itineraryMap").css('position','static');
 	}
-				
-	
+
+
 	$('.closeIcon').click(function(){
 		$(this).parentsUntil('.com_dialog').hide();
 	});
@@ -265,4 +265,4 @@ $('.backToTop').click(function(){
 
 $('.toggleButton').click(function(){
 	$('.elevatorBody').toggle();
-})	
+})
