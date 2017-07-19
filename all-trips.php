@@ -3,8 +3,8 @@
 <?php 
 	$pageName="all-trips";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
-	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_线路推荐_限时特惠线路_假期出国游";
-	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
+	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_迪拜旅游_线路推荐_限时特惠线路_假期出国游";
+	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，迪拜旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
 	$metaDescription="英孚旅游+，根据热门季节、个人爱好等旅行元素，精心设计行程，带来更多元的主题线路和更优的旅行体验，真正融入异国文化，捕捉旅程中的每次怦然心动与惊喜。";
 
     include_once("all-trips-head.php"); 
@@ -83,6 +83,7 @@
 								<option value="aus" data-display="澳大利亚">澳大利亚</option>
 								<option value="usw" data-display="美国西部">美国西部</option>
 								<option value="ic" data-display="冰岛">冰岛</option>
+								<option value="db" data-display="迪拜">迪拜</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -281,7 +282,39 @@
 			</div>
 			<div class="section">
 				<h4>全部行程</h4>
-				<div class="flex-row-start-start flex-flow">					
+				<div class="flex-row-start-start flex-flow">
+					<div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature,seaview">
+						<a href="itinerary-wonders-of-dubai-and-abu-dhabi.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/wonders-of-dubai-and-abu-dhabi.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									燃情阿联酋之旅 <br/>
+									迪拜 - 阿布扎比 - 艾恩
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									8天
+									<span class="delPrice">￥</span>
+									<span class="price">￥<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>					
 					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">
@@ -488,7 +521,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									城市生活与艺术之旅(11天)-亲子团 <br/>
+									城市生活与艺术之旅<br/>
 									巴黎 - 罗马 - 雅典
 								</p>
 								<div class="rate">

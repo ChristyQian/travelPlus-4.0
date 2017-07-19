@@ -7,7 +7,7 @@
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="城市生活与艺术之旅(11天)";
+	$itineraryName="城市生活与艺术之旅";
 	$itineraryPrice="￥25,600";
 
     include_once("itinerary-head.php"); 
@@ -24,7 +24,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt" style="visibility: hidden;">热卖</div>
-						<div class="tourName">城市生活与艺术之旅(11天)</div>
+						<div class="tourName">城市生活与艺术之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
