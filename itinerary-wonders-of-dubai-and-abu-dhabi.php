@@ -66,7 +66,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">这次的行程，跟我一起去到燃情中东吧！从迪拜奢华壮丽的高楼大厦，到阿布扎比原生态的沙漠，一路体验沙漠晚餐、众多阿拉伯独有的特色活动，遇见真正的阿拉伯风情！</p>
+						<p class="serif">这次的行程，跟我一起去到神秘而富饶的阿联酋吧！从迪拜奢华壮丽的高楼大厦，到阿布扎比原生态的沙漠，一路体验沙漠晚餐、沙丘越野、猎鹰展演等众多阿拉伯独有的特色活动，遇见真正的阿拉伯风情！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Rosa.jpg" />
@@ -83,7 +83,7 @@
 							欣赏迪拜和阿布扎比的奢华建筑<br/> 
 							驰骋于沙漠之中<br/> 
 							享受被沙漠包围的的贝多因营地晚餐<br/> 
-							在阿尔达比猎鹰院观赏猎鹰习俗表演，亲眼观摩在高空中翱翔的猎鹰突然极速向下冲击捕猎时的魄力！<br/> 
+							在阿布扎比猎鹰院观赏猎鹰习俗表演<br/> 
 							探索阿联酋的特色集市
 						</p>
 					</div>
@@ -243,7 +243,7 @@
 						<div class="imgWrap">
 							<img src="img/page-4.svg" />
 						</div>
-						1顿午餐和4顿晚餐,供应啤酒或葡萄酒
+						4顿三道式晚餐，供应啤酒或葡萄酒
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -295,8 +295,7 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>启程并抵达迪拜</li>
-									<li>出席欢迎晚宴</li>
+									<li>启程并抵达迪拜，参加欢迎晚宴</li>
 								</ul>
 							</div>
 						</div>
@@ -307,38 +306,40 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>									
-									<li>沿谢赫扎耶德路开到迪拜新区，在迪拜购物中心停留。 </li>
-									<li>然后沿着迪拜海摊开至老迪拜，去到阿拉伯塔朱美拉酒店和哈利法塔。</li>
-									<li>搭乘阿布拉水上的士，沿着迪拜河至位于贾希里城堡的迪拜博物馆。</li>
-									<li>(行程包含门票: 阿布拉水上的士,贾希里城堡)</li>
+									<li>沿谢赫扎耶德路前往迪拜新区</li>
+									<li>在迪拜购物中心停留</li>
+									<li>沿着海滩去往老城，途经阿拉伯塔朱美拉酒店和哈利法塔</li>
+									<li>乘坐阿布拉水上的士</li>
+									<li>进入贾希里城堡和迪拜博物馆参观</li>
+									<li>参观谢赫穆罕默德文化理解中心，品尝传统阿拉伯美食</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>沙迦观光游</span>
+								<label>第3天</label><span>前往沙迦，并进行观光游览</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>沿途经过大学城，进入沙迦旧城参观沙迦传统民俗博物馆。经过法萨尔王清真寺，进入蓝色市场中的鱼肉市场，水果蔬菜市场。自由时间可逛集市。</li>
-									<li>(行程包含门票:沙迦传统民俗博物馆)</li>
-									<li>免费门票: 露天集市</li>
+									<li>参观沙迦传统民俗博物馆</li>
+									<li>途经法萨尔王清真寺</li>
+									<li>进入著名的蓝色市场观光</li>
+									<li>下午自由活动</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>沙漠冲沙之旅&贝多因营地晚餐</span>
+								<label>第4天</label><span>上午在迪拜自由活动，下午进行沙漠越野和贝多因晚餐</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>前往沙漠区域进行沙丘越野。</li>
-									<li>对于爱冒险的人，司机将带你坐上沙丘版云霄飞车，沿途会在“沙漠之舟”骆驼农场停靠休息。</li>
-									<li>夕阳后开往贝多因营地，进行传统的阿拉伯欢迎式，并品尝本地咖啡。</li>
-									<li>傍晚时，伴随着阿拉伯音乐观赏肚皮舞和阿拉伯文化演出。</li>
-									<li>晚上愉悦的放松：在酒吧听音乐，体验阿拉伯海娜纹身，抽水烟。在肚皮舞表演和烧烤晚宴中结束一天。 </li>
+									<li>前往沙漠区进行沙丘越野</li>
+									<li>沿途在“沙漠之舟”骆驼农场停留</li>
+									<li>品尝贝多因营地晚餐</li>
+									<li>欣赏阿拉伯肚皮舞和文化演出</li>
 								</ul>
 							</div>
 						</div>
@@ -349,8 +350,8 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在阿尔达比猎鹰院进行猎鹰展示，了解关于猎鹰的阿联酋文化遗产。</li>
-									<li>出席阿布扎比晚餐</li>
+									<li>参观阿布扎比猎鹰院</li>
+									<li>下午在阿布扎比自由活动，晚上品尝当地晚餐</li>
 								</ul>
 							</div>
 						</div>
@@ -361,36 +362,33 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>大巴至萨迪亚特岛，在古根海姆博物馆和阿布扎比卢浮宫停下拍照。</li>
-									<li>继续前往谢赫扎耶德清真寺，沿途经过阿联酋皇宫和滨海大道，进入谢赫扎耶德清真寺开始观光游</li>
-									<li>(行程包含门票: 谢赫扎耶德清真寺)</li>
+									<li>前往萨蒂亚特岛</li>
+									<li>在古根海姆博物馆和阿布扎比卢浮宫停留</li>
+									<li>途经阿联酋皇宫和滨海大道</li>
+									<li>进入谢赫扎耶德清真寺参观</li>
+									<li>下午在阿布扎比自由活动</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>艾恩观光游</span>
+								<label>第7天</label><span>前往艾恩，并进行观光游览</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>穿过沙漠中的艾恩绿洲城市。自由时间可以在艾恩吃午餐，之后进行观光游。</li>
-									<li>参观艾恩绿洲公园,参观骆驼市场,观看骆驼市场交易。在扎耶德故宫进行短暂的停留后,进入贾希里城堡,有导游带领参观附近城堡和花园。</li>
-									<li>(行程包含门票:  骆驼市场, 贾希里城堡)</li>
-									<li>出席告别晚宴，在艾恩和沙漠的风景下吃晚餐，晚餐包括啤酒或者葡萄酒</li>
+									<li>穿过沙漠中的绿洲之城艾恩</li>
+									<li>参观艾恩绿洲公园和骆驼市场</li>
+									<li>在扎耶德故宫停留</li>
+									<li>进入贾希里城堡参观</li>
+									<li>参加告别晚宴</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第8天</label><span>返程</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>前往迪拜机场</li>
-									<li>抵达中国</li>
-								</ul>
+								<label>第8天</label><span>前往机场，搭乘返程航班，并抵达中国</span>
 							</div>
 						</div>
 						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
