@@ -11,7 +11,7 @@
 	{	
 	 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
 	 
-	 Lead_Validation("sp-form", "Lead_Insert", undefined, true);
+	 Lead_Validation("sp-form", "Lead_Insert", null, true);
 	}
 	
 	</script>
