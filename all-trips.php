@@ -83,7 +83,7 @@
 								<option value="aus" data-display="澳大利亚">澳大利亚</option>
 								<option value="usw" data-display="美国西部">美国西部</option>
 								<option value="ic" data-display="冰岛">冰岛</option>
-								<option value="db" data-display="迪拜">迪拜</option>
+								<!-- <option value="db" data-display="迪拜">迪拜</option> -->
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -98,10 +98,10 @@
 								<option value="nw" data-display="挪威">挪威</option>
 								<option value="fl" data-display="芬兰">芬兰</option>
 								<option value="bg" data-display="比利时">比利时</option>
-								<option value="au" data-display="奥地利">奥地利</option>
+								<option value="austria" data-display="奥地利">奥地利</option>
 							</select>
 						</div>
-						<div id="trip-tag" class="flex-row-start-start flex-flow">
+						<!-- <div id="trip-tag" class="flex-row-start-start flex-flow">
 							<div id="tag-history" data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
 								历史遗迹
 							</div>
@@ -126,9 +126,9 @@
 							<div id="tag-food" data-tag="food" data-display="美食美酒" name="tag-selector" class="checkbox">
 								美食美酒
 							</div>
-						</div>
+						</div> -->
 					</div>
-					<button class="blueRBtn search"  onclick="Trip_Filter();">搜索</button>
+					<button class="blueRBtn search"  onclick="Trip_Filter();"><i class="fa fa-search"></i>搜索</button>
 				</div>
 			</div>
 		</div>
@@ -139,7 +139,7 @@
 					<div id="filter-selected" class="flex-row-center-start filterConditions">
 					</div>
 					
-					<button class="blueRBtn edit">编辑</button>
+					<button class="blueRBtn edit"><i class="fa fa-pencil-square-o" aria-hidden="true"></i>编辑</button>
 					
 				</div>
 			</div>
@@ -147,7 +147,7 @@
 		
 		<div class="site">
 			<!-- trips -->
-			<div class="section">
+			<div class="section offerSection">
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
@@ -182,7 +182,7 @@
 							</div>
 						</a>
 				    </div>				    			    				    
-				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,austria" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
@@ -229,7 +229,7 @@
 							<div class="agendaWrap">
 								<p>
 									西班牙全景深度游 <br/>
-									西班牙 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+									马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -283,7 +283,7 @@
 			<div class="section">
 				<h4>全部行程</h4>
 				<div class="flex-row-start-start flex-flow">
-					<div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature,seaview">
+					<!-- <div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature,seaview">
 						<a href="itinerary-wonders-of-dubai-and-abu-dhabi.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/wonders-of-dubai-and-abu-dhabi.jpg" alt="" />
@@ -314,7 +314,7 @@
 								</div>
 							</div>
 						</a>
-				    </div>					
+				    </div>	 -->				
 					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">
@@ -539,7 +539,7 @@
 							</div>
 						</a>
 				    </div>
-					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,sw,au" data-tag="history,art,nature">
+					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,sw,austria" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
@@ -618,7 +618,7 @@
 							<div class="agendaWrap">
 								<p>
 									食在西班牙：爱在唇齿留香间 <br/>
-									西班牙
+									巴塞罗那 - 圣塞瓦斯蒂安 - 拉里奥哈 - 马德里
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -650,7 +650,7 @@
 							<div class="agendaWrap">
 								<p>
 									恋恋翡翠岛，“英爱”而行 <br/>
-									伦敦-爱丁堡-都柏林
+									伦敦 - 爱丁堡 - 都柏林
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -810,7 +810,7 @@
 							<div class="agendaWrap">
 								<p>
 									食在法国：美食与葡萄酒之旅 <br/>
-									法国
+									图卢兹 - 波尔多 - 佩里格 - 巴黎 
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -874,7 +874,7 @@
 							<div class="agendaWrap">
 								<p>
 									意大利全景深度游 <br/>
-									意大利
+									科莫湖 - 威尼斯 - 佛罗伦萨 - 罗马
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -1002,6 +1002,26 @@
 		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		<script>
+			function init(){
+				$('.offerSection').show();
+			}
+
+			function offerSection(){
+				var attr = /inline/;
+				var child = $('.offerSection .flex-flow').children('div');				
+				for (var i=0;i<child.length;i++) {
+					var style = child[i].style.display;					
+					var result = style.match(attr);
+					if (result != null ) {
+						break;
+					}
+					else {
+						$('.offerSection').hide();
+						$('.site').css('padding-top',0);
+					}
+				}
+			}
+
 			function myaffix() {
 				var affixoffset = $('.filter').offset().top;
 				$(window).scroll(function () {
@@ -1045,6 +1065,8 @@
 				$('.editModel').show();
 			});
 			$('.search').click(function(){
+				init();
+				offerSection();
 				$('.filterResult').show();
 				$('.editModel').hide();
 			});
