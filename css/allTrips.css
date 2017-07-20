@@ -64,6 +64,9 @@
 .destinations {
 	width:430px;
 }
+.editModel .flex-row-end-between {
+	align-items: flex-end;
+}
 select,
 .destinations .imitate-dropdown {
 	width:430px;
@@ -76,14 +79,15 @@ select,
 .dropdown-switcher {
 	display:inline-block;
 	width: inherit;
-	height:48px;	
-	padding:10px;
+	height:36px;	
+	padding:0 10px;
 	background-color: #2f7899;
 	color:#fff;
 }
 select {
 	border-radius:0;
 	font-size:14px;
+	margin-bottom:0;
 }
 .dropdown-box {
 	margin-top:-5px;
@@ -176,13 +180,14 @@ a.close-dropdown {
 }
 
 .filter .blueRBtn {
-	font-size:1em;
-	width:106px;
+	font-size:14px;
+	width:96px;
 	height:36px;
 	line-height:36px;
 	padding:0;
 	margin:0;
 }
+.filter .blueRBtn i {margin-right:5px;}
 .filter.filterResult .blueRBtn {
 	margin-top:0;
 }
@@ -216,6 +221,7 @@ a.close-dropdown {
 @media screen and (max-width:1024px) { 
 	.filter .blueRBtn {
 		margin-top:10px;
+		margin-left:10px;
 	}
 	.filter.filterResult .blueRBtn {
 		margin-top:0;
