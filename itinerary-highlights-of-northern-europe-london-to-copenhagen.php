@@ -48,7 +48,11 @@
 						<div class="flex-row-start-between">
 							<div>伦敦</div>
 							<i class="grayArrow"></i>
+							<div>安特卫普</div>
+							<i class="grayArrow"></i>
 							<div>阿姆斯特丹</div>
+							<i class="grayArrow"></i>
+							<div>汉堡</div>
 							<i class="grayArrow"></i>
 							<div>哥本哈根</div>
 							<i class="grayArrow"></i>

@@ -80,8 +80,8 @@
 							</div>-->
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
-								<option value="aus" data-display="澳大利亚">澳大利亚</option>
-								<option value="usw" data-display="美国西部">美国西部</option>
+								<option value="australia" data-display="澳大利亚">澳大利亚</option>
+								<option value="wus" data-display="美国西部">美国西部</option>
 								<option value="ic" data-display="冰岛">冰岛</option>
 								<!-- <option value="db" data-display="迪拜">迪拜</option> -->
 								<option value="uk" data-display="英国">英国</option>
@@ -92,11 +92,12 @@
 								<option value="it" data-display="意大利">意大利</option>
 								<option value="sp" data-display="西班牙">西班牙</option>
 								<option value="nz" data-display="荷兰">荷兰</option>
-								<option value="sw" data-display="瑞士">瑞士</option>
+								<option value="swz" data-display="瑞士">瑞士</option>
+								<option value="swd" data-display="瑞典">瑞典</option>
 								<option value="gr" data-display="希腊">希腊</option>
 								<option value="dm" data-display="丹麦">丹麦</option>
 								<option value="nw" data-display="挪威">挪威</option>
-								<option value="fl" data-display="芬兰">芬兰</option>
+								<!-- <option value="fl" data-display="芬兰">芬兰</option> -->
 								<option value="bg" data-display="比利时">比利时</option>
 								<option value="austria" data-display="奥地利">奥地利</option>
 							</select>
@@ -182,7 +183,7 @@
 							</div>
 						</a>
 				    </div>				    			    				    
-				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,austria" data-tag="history,art,honeymoon">
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
@@ -246,7 +247,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,swd,dm" data-tag="history,art,seaview,northeuro">
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
@@ -315,7 +316,7 @@
 							</div>
 						</a>
 				    </div>	 -->				
-					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
+					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="australia" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/adventures-in-australia.jpg" alt="" />
@@ -347,7 +348,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="usw" data-tag="art,nature,seaview,honeymoon,family">
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -490,7 +491,7 @@
 							<div class="agendaWrap">
 								<p>
 									一路向北欧洲之旅 <br/>
-									伦敦 - 阿姆斯特丹 - 哥本哈根
+									伦敦 - 安特卫普 - 阿姆斯特丹 - 汉堡 - 哥本哈根
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -539,7 +540,7 @@
 							</div>
 						</a>
 				    </div>
-					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,sw,austria" data-tag="history,art,nature">
+					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
@@ -763,7 +764,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="sw,fr,ge" data-tag="art,nature">
+				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="swz,fr,ge" data-tag="art,nature">
 						<a href="itinerary-switzerland-alsace-the-black-forest.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/switzerland-alsace-the-black-forest.jpg" alt="" />
@@ -1002,25 +1003,25 @@
 		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		<script>
-			function init(){
-				$('.offerSection').show();
-			}
+			// function init(){
+			// 	$('.offerSection').show();
+			// }
 
-			function offerSection(){
-				var attr = /inline/;
-				var child = $('.offerSection .flex-flow').children('div');				
-				for (var i=0;i<child.length;i++) {
-					var style = child[i].style.display;					
-					var result = style.match(attr);
-					if (result != null ) {
-						break;
-					}
-					else {
-						$('.offerSection').hide();
-						$('.site').css('padding-top',0);
-					}
-				}
-			}
+			// function offerSection(){
+			// 	var attr = /inline/;
+			// 	var child = $('.offerSection .flex-flow').children('div');				
+			// 	for (var i=0;i<child.length;i++) {
+			// 		var style = child[i].style.display;					
+			// 		var result = style.match(attr);
+			// 		if (result != null ) {
+			// 			break;
+			// 		}
+			// 		else {
+			// 			$('.offerSection').hide();
+			// 			$('.site').css('padding-top',0);
+			// 		}
+			// 	}
+			// }
 
 			function myaffix() {
 				var affixoffset = $('.filter').offset().top;

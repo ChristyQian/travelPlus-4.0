@@ -31,9 +31,9 @@
 				</div>
 			</div>
 		</div>
-<div class="site">
+		<div class="site">
 			<!-- trips -->
-			<div class="section">
+			<div class="section offerSection">
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
@@ -68,7 +68,7 @@
 							</div>
 						</a>
 				    </div>				    			    				    
-				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
@@ -115,7 +115,7 @@
 							<div class="agendaWrap">
 								<p>
 									西班牙全景深度游 <br/>
-									西班牙 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+									马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -132,7 +132,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,swd,dm" data-tag="history,art,seaview,northeuro">
 						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
@@ -168,8 +168,40 @@
 			</div>
 			<div class="section">
 				<h4>全部行程</h4>
-				<div class="flex-row-start-start flex-flow">					
-					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
+				<div class="flex-row-start-start flex-flow">
+					<!-- <div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature,seaview">
+						<a href="itinerary-wonders-of-dubai-and-abu-dhabi.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/wonders-of-dubai-and-abu-dhabi.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									燃情阿联酋之旅 <br/>
+									迪拜 - 阿布扎比 - 艾恩
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									8天
+									<span class="delPrice">￥</span>
+									<span class="price">￥<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>	 -->				
+					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="australia" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/adventures-in-australia.jpg" alt="" />
@@ -201,7 +233,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="usw" data-tag="art,nature,seaview,honeymoon,family">
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -344,7 +376,7 @@
 							<div class="agendaWrap">
 								<p>
 									一路向北欧洲之旅 <br/>
-									伦敦 - 阿姆斯特丹 - 哥本哈根
+									伦敦 - 安特卫普 - 阿姆斯特丹 - 汉堡 - 哥本哈根
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -375,7 +407,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									城市生活与艺术之旅(11天)-亲子团 <br/>
+									城市生活与艺术之旅<br/>
 									巴黎 - 罗马 - 雅典
 								</p>
 								<div class="rate">
@@ -393,7 +425,7 @@
 							</div>
 						</a>
 				    </div>
-					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,sw,au" data-tag="history,art,nature">
+					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
@@ -472,7 +504,7 @@
 							<div class="agendaWrap">
 								<p>
 									食在西班牙：爱在唇齿留香间 <br/>
-									西班牙
+									巴塞罗那 - 圣塞瓦斯蒂安 - 拉里奥哈 - 马德里
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -504,7 +536,7 @@
 							<div class="agendaWrap">
 								<p>
 									恋恋翡翠岛，“英爱”而行 <br/>
-									伦敦-爱丁堡-都柏林
+									伦敦 - 爱丁堡 - 都柏林
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -617,7 +649,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="sw,fr,ge" data-tag="art,nature">
+				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="swz,fr,ge" data-tag="art,nature">
 						<a href="itinerary-switzerland-alsace-the-black-forest.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/switzerland-alsace-the-black-forest.jpg" alt="" />
@@ -664,7 +696,7 @@
 							<div class="agendaWrap">
 								<p>
 									食在法国：美食与葡萄酒之旅 <br/>
-									法国
+									图卢兹 - 波尔多 - 佩里格 - 巴黎 
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -728,7 +760,7 @@
 							<div class="agendaWrap">
 								<p>
 									意大利全景深度游 <br/>
-									意大利
+									科莫湖 - 威尼斯 - 佛罗伦萨 - 罗马
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
