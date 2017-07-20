@@ -46,7 +46,13 @@
 					<div class="flex1 itineraryLine">
 						<div class="days">15天</div>
 						<div class="flex-row-start-between">
-							<div>意大利</div>
+							<div>科莫湖</div>
+							<i class="grayArrow"></i>
+							<div>威尼斯</div>
+							<i class="grayArrow"></i>
+							<div>佛罗伦萨</div>
+							<i class="grayArrow"></i>
+							<div>罗马</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>

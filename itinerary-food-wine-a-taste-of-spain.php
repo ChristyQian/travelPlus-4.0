@@ -45,7 +45,13 @@
 					<div class="flex1 itineraryLine">
 						<div class="days">11天</div>
 						<div class="flex-row-start-between">
-							<div>西班牙</div>
+							<div>巴塞罗那</div>
+							<i class="grayArrow"></i>
+							<div>圣塞瓦斯蒂安</div>
+							<i class="grayArrow"></i>
+							<div>拉里奥哈</div>
+							<i class="grayArrow"></i>
+							<div>马德里</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>

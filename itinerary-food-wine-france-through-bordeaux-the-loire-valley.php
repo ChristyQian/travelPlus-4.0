@@ -44,7 +44,13 @@
 					<div class="flex1 itineraryLine">
 						<div class="days">11天</div>
 						<div class="flex-row-start-between">
-							<div>法国</div>
+							<div>图卢兹</div>
+							<i class="grayArrow"></i>
+							<div>波尔多</div>
+							<i class="grayArrow"></i>
+							<div>佩里格</div>
+							<i class="grayArrow"></i>
+							<div>巴黎</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
