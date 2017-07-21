@@ -148,7 +148,7 @@
 		
 		<div class="site">
 			<!-- trips -->
-			<div class="section offerSection">
+			<div class="section" id="offerSection">
 				<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
@@ -281,7 +281,7 @@
 				    </div>				   
 				</div>
 			</div>
-			<div class="section">
+			<div class="section" id="otherSection">
 				<h4>全部行程</h4>
 				<div class="flex-row-start-start flex-flow">
 					<!-- <div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature,seaview">
@@ -1003,25 +1003,35 @@
 		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		<script>
-			// function init(){
-			// 	$('.offerSection').show();
-			// }
+			function init(){
+				$('#offerSection').show();
+				$('#otherSection').show();
+			}
 
-			// function offerSection(){
-			// 	var attr = /inline/;
-			// 	var child = $('.offerSection .flex-flow').children('div');				
-			// 	for (var i=0;i<child.length;i++) {
-			// 		var style = child[i].style.display;					
-			// 		var result = style.match(attr);
-			// 		if (result != null ) {
-			// 			break;
-			// 		}
-			// 		else {
-			// 			$('.offerSection').hide();
-			// 			$('.site').css('padding-top',0);
-			// 		}
-			// 	}
-			// }
+			function smartSection(sectionID){
+				var segment = 'inline';
+				var arryWrap = $('#'+sectionID).children('.flex-flow');
+				var childArry = arryWrap.children('div');						
+				for (var i=0;i<childArry.length;i++) {
+					var status = false;	
+					var styleVal = childArry[i].style.display;						
+					if (styleVal !== segment) {
+						continue;						
+					}
+					else {
+						status = true;
+						break;
+					} 
+					return status;
+				}
+				if (status == false) {
+					$('#'+sectionID).hide();
+					$('.site').css('padding-top',0);
+				}
+				else {
+					$('#'+sectionID).show();
+				}
+			}
 
 			function myaffix() {
 				var affixoffset = $('.filter').offset().top;
@@ -1067,7 +1077,8 @@
 			});
 			$('.search').click(function(){
 				init();
-				offerSection();
+				smartSection('offerSection');
+				smartSection('otherSection');
 				$('.filterResult').show();
 				$('.editModel').hide();
 			});
