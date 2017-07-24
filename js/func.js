@@ -100,7 +100,8 @@ function Trip_Filter ()
 
 function Trip_Hide_All()
 {
-	var boxes = document.getElementsByClassName('home-trip-box');
+	// var boxes = document.getElementsByClassName('home-trip-box');
+	var boxes = $('#otherSection .home-trip-box');
 	
 	for (var i=0, l=boxes.length; i<l; i++)
 	{
@@ -128,7 +129,8 @@ function Trip_Destination_Filter()
 		
 	document.getElementById("filter-selected").innerHTML += '<div>' + destName + '</div>';
 
-	var boxes = document.getElementsByClassName("home-trip-box");
+	// var boxes = document.getElementsByClassName('home-trip-box');
+	var boxes = $("#otherSection .home-trip-box");
 	
 	for (var i=0, l=boxes.length; i<l; i++)
 	{		
