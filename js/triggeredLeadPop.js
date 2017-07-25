@@ -1,7 +1,10 @@
-// var paddingHight();
+$(function(){
+	paddingHeight();
+});
+
 function paddingHeight(){
 	var height = $('.triggeredFooterPop').height();
-	$('footer').css('padding-bottom',height+60);
+	$('footer').css('padding-bottom',height+50);
 }
 
 $('.triggeredLeadFormHeader h5').click(function(){

@@ -94,14 +94,14 @@ function Trip_Filter ()
 	
 	Trip_Hide_All();
 	
-	Trip_Tag_Filter();	
+	Trip_Tag_Filter();
 	Trip_Destination_Filter();
 }
 
 function Trip_Hide_All()
 {
 	// var boxes = document.getElementsByClassName('home-trip-box');
-	var boxes = $('#otherSection .home-trip-box');
+	var boxes = $('#allDestSection .home-trip-box');
 	
 	for (var i=0, l=boxes.length; i<l; i++)
 	{
@@ -112,7 +112,8 @@ function Trip_Hide_All()
 
 function Trip_Show_All()
 {
-	var boxes = document.getElementsByClassName('home-trip-box');
+	// var boxes = document.getElementsByClassName('home-trip-box');
+	var boxes = $('#allDestSection .home-trip-box');
 	
 	for (var i=0, l=boxes.length; i<l; i++)
 	{
@@ -130,7 +131,7 @@ function Trip_Destination_Filter()
 	document.getElementById("filter-selected").innerHTML += '<div>' + destName + '</div>';
 
 	// var boxes = document.getElementsByClassName('home-trip-box');
-	var boxes = $("#otherSection .home-trip-box");
+	var boxes = $("#allDestSection .home-trip-box");
 	
 	for (var i=0, l=boxes.length; i<l; i++)
 	{		
