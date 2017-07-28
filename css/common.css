@@ -87,6 +87,15 @@ i {
 }
 .form-error-msg i {margin-right:5px;}
 /*****************************************/
+/*                AB Display           */
+/*****************************************/
+.relDiv {
+	position: relative;
+}
+.abDiv {
+	position:absolute;
+}
+/*****************************************/
 /*                Flex Display           */
 /*****************************************/
 .affix {
@@ -419,6 +428,23 @@ footer ul li.active {
 	background-size:cover;
 	-webkit-transform: rotate(270deg);
 	        transform: rotate(270deg);
+}
+.mark {
+	display:inline-block;
+	padding: 0 6px;
+    color: #fff;
+    line-height: 24px;
+    background-color: #ff6262;
+    font-size: 12px;
+}
+.mark:after {
+	content: '';
+    position: absolute;
+    top: 0;
+    right: -5px;
+    border-top: 12px solid #ff6262;
+    border-bottom: 12px solid #ff6262;
+    border-right: 5px dashed transparent;
 }
 /*****************************************/
 /*                Button                 */

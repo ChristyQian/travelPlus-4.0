@@ -363,7 +363,12 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>西班牙阳光海岸自由行</span>
+								<label>第7天</label><span>马贝拉自由行</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>在西班牙著名的阳光海岸马贝拉小城自由活动一天</li>
+								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">

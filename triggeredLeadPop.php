@@ -51,13 +51,14 @@
 							<label>计划旅行时间：</label>
 							<div class="dropdownArrowWrap">
 								<select id="age" name="age" title="年龄" param="age">									
-									<option value="2017 Labour Day">2017 五一节</option>										
-									<option value="2017 Dragon Boat">2017 端午节</option>										
-									<option value="2017 Summer Holiday">2017 暑假</option>										
+									<option value="2017 Summer Holiday">2017 暑假</option>														
 									<option value="2017 National Day">2017 国庆</option>
-									<option value="2017 Xmas">2017 圣诞/新年</option>										
-									<option value="2018 Chinese New Year">2018 春节</option>										
-									<option value="Others">其他</option>										
+									<option value="2017 Xmas">2017 圣诞/新年</option>	
+									<option value="2018 Chinese New Year">2018 春节</option>
+									<option value="2018 Labour Day">2018 五一节</option>
+									<option value="2018 Dragon Boat">2018 端午节</option>
+									<option value="2018 Summer Holiday">2018 暑假</option>		
+									<option value="Others">其他</option>								
 								</select>
 								<div id="age-error-msg" class="form-error-msg">
 									<i class="fa fa-warning"></i>请输入旅行时间
