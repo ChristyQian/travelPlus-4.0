@@ -14,11 +14,11 @@
 .leftWrap,
 .rightWrap {
 	display:inline-block;
-	width:49%;
 }
-/*.rightWrap {
-	width: 30%;
-}*/
+.rightWrap {
+	position:absolute;
+	right:0;
+}
 
 .banner-share-topper {
     position: absolute;
@@ -40,19 +40,35 @@
 .breadcrumbs li a {
     padding: 0px 10px 0px 0px;
 }
-.card {
+.landingInfo {
+	width: 100%;
+	height:256px;
+	position: absolute;
+	top:0;
+	left:0;
+}
+.landingInfo .transparentTxt {
+    color: #fff;
+    bottom: 0;
+    padding: 18px 18px 18px 26px;
+    font-size: 14px;
+}
+.leftWrap {
 	position:absolute;
 	z-index:5;
 	left:20px;
-	top:270px;
-	width:400px;
-	padding:20px;
+	top:200px;
+	width:400px;	
+}
+.card {
 	background-color:#f0f2f4;
 	color:#333;
 	padding-bottom:100px;
+	margin-top:256px;
+	padding:20px;
 }
 .card ul {
-	padding-left:20px;
+	padding-left:10px;
 }
 .card ul.ups {
 	margin:40px 0;
@@ -106,30 +122,71 @@
 	/*float:left;*/
 	width: 100%;
 }
-.browse-banner-content h1 {
-	color:#fff;
-	font-size:64px;
-	position:absolute;
-	top:150px;
+
+.landingInfo h5 {
+	font-size:1.5em;
+
+}
+.landingInfo h1 {
+	font-size:48px;
+	line-height:48px;
+	margin-bottom:15px;
+}
+.landingInfo h5,
+.landingInfo p {
+	font-weight:lighter;
 }
 .browse-banner .browse-banner-content {
-    color: rgb(255, 255, 255);
-    padding: 0 75px 0 45px;
+	color:#fff;
+    padding: 0 0 0 45px;
 }
 .browse-banner .browse-banner-content-box {
-    width: 599px;
     margin-top:100px;
+    background: #f5a623;
 }
-.quoWrap {
-	background: #f5a623;
-    color: #fff;
-    display: inline-block;width:358px;	
+.browse-banner .browse-banner-content-box .ibWrap {
+	vertical-align: middle;
 }
-.quoWrap h5 {
+.browse-banner .browse-banner-content-box h5 {
 	padding:20px;
 	padding-bottom:0;
 	font-weight: normal;
+	text-align:left;
+}
+.quoWrap {
+    color: #fff;
+    width:358px;	
+}
+.downloadBg {
+	border-left:1px solid #fff;	
+	margin:20px 0;
+	padding:0 40px;
+	cursor: pointer;
+}
+.downloadBg .blockImg {
+	display:block;
+	margin:30px auto 20px;
+}
+.downloadBg p {
 	text-align:center;
+}
+.oTrCorner {
+	position:absolute;
+	z-index:4;
+	top:0;
+	right:0;
+	border-top:60px solid #eb6c04;
+	border-right:60px solid #eb6c04;
+	border-bottom:60px solid transparent;
+	border-left:60px solid transparent;
+}
+.oTrCorner img {
+	position:absolute;
+	top:-55px;
+
+}
+.browse-banner-content-box {
+	position:relative;
 }
 .browse-banner-content-box .quoInfo {
 	position: initial;
@@ -172,7 +229,7 @@
 .twoThird h4 {
 	margin-top:0;
 	position:relative;
-	font-size:14px;
+	font-size:16px;
 }
 .twoThird h4 .frNote{
 	position:absolute;
@@ -187,6 +244,7 @@
 	right:auto;
 	margin:20px auto;
 }
+.whyUsTxt .transparentTxt {font-size: 1.2em;}
 .whyUsTxt+h4 {
 	margin-top:0;
 }
@@ -200,9 +258,10 @@
 	margin:15px 0;
 	padding:20px;
 	position:relative;
+	font-size: 14px;
 }
 .twoThird .home-trip-box a {
-	width:100%;
+	display: block;
 }
 .imgWrap,
 .infoWrap,
@@ -219,17 +278,24 @@
 	width:auto;
 }
 .twoThird .home-trip-box .infoWrap {
-	width:48%;
+	width:68%;
 	padding:20px;
 	padding-top:0;
+	padding-bottom:0;
 }
-.twoThird .home-trip-box .agendaWrap {
+.itiPrice {
+	position:absolute;
+	right:20px;
+	top:50px;
+	font-size:30px;
+}
+/*.twoThird .home-trip-box .agendaWrap {
 	width:20%;	
 	background:transparent;
 	margin-top:50px;
 	padding-left:0;
 	padding-right:0;
-}
+}*/
 .twoThird .home-trip-box .agendaWrap .price {
 	font-size:28px;
 }
@@ -253,14 +319,18 @@
 	position: absolute;
 	top:0;
 }
-.offerWrap {
+.offerOutWrap {
 	position:absolute;
 	top:-6px;
-	right:20px;
-	padding:10px;
+	right:0;
+}
+.offerWrap {
+	display:inline-block;
+	padding:5px 10px;
 	background-color:#94c5db;	
 	color:#fff;
 	text-align:center;
+	position: relative;
 }
 .offerArrow {
 	position:absolute;
@@ -271,6 +341,20 @@
     border-right:2px solid transparent;
     border-top:5px solid transparent;
 }
+.offerWrap.date {
+	top:0;
+	right:0;
+}
+.offerWrap.earlyBird {
+	background-color: #bd0fe1;
+	opacity: 0.8;
+	margin-right:5px;
+}
+.offerWrap.earlyBird .offerArrow {
+	border-bottom: 2px solid #9101af;
+    border-left: 5px solid #9101af;
+}
+
 .twoThird .home-trip-box .grayBorderBtn {
 	position:absolute;
 	bottom:20px;
@@ -278,10 +362,18 @@
 	border:none;
 	text-align:right;
 }
+.twoThird .infoWrap .yellowBtn {
+	display: block;
+    width: 35%;    
+    height: 36px;
+    line-height: 36px;
+    margin-top:12px;
+}
 
 /**/
 .browse-page-container {
-	height:560px;
+	height:520px;
+	font-size:14px;
 }
 .browse-banner .browse-banner-overlay {
 	height:500px;
@@ -292,12 +384,46 @@
 .browse-banner-content {
 	width:1196px;
 }
-.browse-banner {
-	height:549px;
-}
 .browse-banner .browse-banner-overlay {
 	top:auto;
 }
 .browse-banner {
 	padding-top:0;
 }
+
+#thankYouPage {
+	color:#fff;
+	line-height:36px;
+	text-align:center;
+}
+#thankYouPage h2 {
+	line-height:48px;
+}
+#thankYouPage h2 .tips {
+	font-size:12px;
+	margin-bottom:20px;
+}
+#thankYouPage p {
+	font-size:18px;
+}
+.banner-ty {
+    width: 100%;
+    height: 480px;
+    background-position: center center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+.button-download {
+    color: #000;
+    background-color: #FFF;
+    height: 50px;
+    width: 320px;
+    font-family: 'Microsoft Yahei';
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: none;
+    border-radius: 40px;
+}
+#thankYouPage button {}
+#thankYouPage img {margin-top:20px;}
