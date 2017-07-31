@@ -6,8 +6,8 @@
 	<link type="text/css" rel="stylesheet" href="css/fontawesome.css">
 	<link type="text/css" rel="stylesheet" href="css/swiper-3.4.1.min.css">
 	<link type="text/css" rel="stylesheet" href="css/common.css">	
-	<link type="text/css" rel="stylesheet" href="css/allTrips.css">
-	<!-- <link type="text/css" rel="stylesheet" href="css/landing.css"> -->
+	<!-- <link type="text/css" rel="stylesheet" href="css/allTrips.css"> -->
+	<link type="text/css" rel="stylesheet" href="css/landing.css">
 	<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">
 	<script src="js/swiper.min.js"></script>
 	<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>		
