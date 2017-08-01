@@ -45,7 +45,6 @@
 	height:256px;
 	position: absolute;
 	top:0;
-	left:0;
 }
 .landingInfo .transparentTxt {
     color: #fff;
@@ -54,11 +53,9 @@
     font-size: 14px;
 }
 .leftWrap {
-	position:absolute;
-	z-index:5;
-	left:20px;
-	top:200px;
-	width:400px;	
+	width:420px;
+	margin-top:200px;
+	position: relative;	
 }
 .card {
 	background-color:#f0f2f4;
@@ -68,7 +65,7 @@
 	padding:20px;
 }
 .card ul {
-	padding-left:10px;
+	padding-left:15px;
 }
 .card ul.ups {
 	margin:40px 0;
@@ -138,7 +135,7 @@
 }
 .browse-banner .browse-banner-content {
 	color:#fff;
-    padding: 0 0 0 45px;
+    padding:0;
 }
 .browse-banner .browse-banner-content-box {
     margin-top:100px;
@@ -151,7 +148,7 @@
 	padding:20px;
 	padding-bottom:0;
 	font-weight: normal;
-	text-align:left;
+	font-size:24px;
 }
 .quoWrap {
     color: #fff;
@@ -159,13 +156,12 @@
 }
 .downloadBg {
 	border-left:1px solid #fff;	
-	margin:20px 0;
-	padding:0 40px;
+	padding:40px;
 	cursor: pointer;
 }
 .downloadBg .blockImg {
 	display:block;
-	margin:30px auto 20px;
+	margin:0px auto 25px;
 }
 .downloadBg p {
 	text-align:center;
@@ -175,15 +171,15 @@
 	z-index:4;
 	top:0;
 	right:0;
-	border-top:60px solid #eb6c04;
-	border-right:60px solid #eb6c04;
-	border-bottom:60px solid transparent;
-	border-left:60px solid transparent;
+	border-top:70px solid #eb6c04;
+	border-right:70px solid #eb6c04;
+	border-bottom:70px solid transparent;
+	border-left:70px solid transparent;
 }
 .oTrCorner img {
 	position:absolute;
 	top:-55px;
-
+	left:15px;
 }
 .browse-banner-content-box {
 	position:relative;
@@ -198,8 +194,12 @@
 }
 .browse-banner-content-box .quoItem {
 	display:inline-block;
-	width:49%;
+	width:46%;
+	margin-right:20px;
 }
+.browse-banner-content-box .quoItem:nth-child(2n) {
+	margin-right:0;
+} 
 .browse-banner-content-box .quoItem label {
 	color:#fff;
 }
@@ -235,7 +235,7 @@
 	position:absolute;
 	right: 0;
 	font-weight:lighter;
-
+	font-size:14px;
 }
 .whyUsTxt {
 	position:relative;
@@ -427,3 +427,144 @@
 }
 #thankYouPage button {}
 #thankYouPage img {margin-top:20px;}
+@media screen and (min-width: 1200px) {
+	.twoThird .card,
+	.goBackStatusIcon,
+	.rightWrapHead {
+		display:none;
+	}
+}
+@media screen and (max-width: 425px) {
+	.browse-banner-container {
+		overflow: hidden;
+	}
+	.itiIntro,
+	/*.rightWrap,*/
+	.card,
+	.twoThird .home-trip-box .rate {
+		display:none;
+	}
+	.browse-banner-bg {
+		width:100%;
+		height:259px;
+	}
+	.browse-banner .browse-banner-overlay {
+		height:inherit;
+		width:auto;
+	}
+	.browse-banner,
+	.browse-page-container {
+		height:auto;
+	}
+	.leftWrap {
+		position: absolute;
+		width:100%;
+		top:-100px;
+		margin-top:0;
+	}
+	.landingInfo {
+		width:100%;
+		height:80px;
+		top:20px;
+	}
+	.landingInfo .transparentTxt {
+		padding:5px 18px 0 26px;
+	}
+	.landingInfo h1 {
+		font-size:24px;
+		line-height:24px;
+	}
+	.landingInfo h5 {
+		font-size:1em;
+	}
+	.landingInfo p {
+		display:none;
+	}
+
+	.twoThird {
+		margin-left:0;
+		width:100%;
+		padding:10px;
+	}
+	.twoThird .home-trip-box {
+		font-size:12px;
+		padding:35px 20px 10px;
+	}
+	.twoThird .home-trip-box .imgWrap {
+		display:block;
+		width:inherit;
+	}
+	.twoThird .home-trip-box .imgWrap img {
+		display: block;
+		margin: 0 auto;
+		width: ;
+	}
+	.twoThird .home-trip-box .infoWrap {
+		padding:15px;
+		display:block;
+		width:100%;
+	}
+	.itiPrice {
+		position:static;
+		top:90px;
+		font-size: 18px;
+	}
+	.twoThird .infoWrap .yellowBtn {
+		width:inherit;
+	}
+	.offerWrap {
+		padding:1px 10px;
+	}
+	.twoThird .card {
+		display:block;
+		margin-top:0;
+		background-color:transparent;
+	}
+	.rightWrap {
+		position: fixed;
+		z-index: 100000;
+		bottom: 0;
+		left:0;
+		right: 0;
+		height:auto;
+	}
+	.quoWrap {
+		width:inherit;
+	}
+	.oTrCorner,
+	.downloadBg{
+		display:none;
+	}
+	.browse-banner-content-box {
+		position: static;
+		display:none;
+	}
+	.browse-banner .browse-banner-content-box {
+		margin-top:0;
+	}
+	.browse-banner .browse-banner-content-box h5 {
+		font-size:18px;
+	}
+	.goBackStatusIcon {
+		position: absolute;
+		top:20px;
+		right: 10px;
+	}
+	.goBackStatusIcon .backgroundTrangle {
+		border-top: 10px solid #f5a623;
+	}
+	.rightWrapHead {
+		background: #f5a623;
+		padding: 20px;
+		font-size: 18px;
+		font-weight:normal;
+	}
+	.button-download {
+		height: 40px;
+    	width: 70%;
+		font-size:16px;
+	}
+	#thankYouPage p {
+		font-size:14px;
+	}
+}

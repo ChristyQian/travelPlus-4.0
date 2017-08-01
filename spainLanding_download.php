@@ -39,7 +39,7 @@
 							<div class="browse-banner-bg"><img class="browse-banner-overlay" src="img/itinerary/billboard/Grand-Tour-of-Spain.jpg" width="100%"/></div>
 							<div class="site browse-banner-content">
 								<div class="leftWrap">
-									<div>
+									<div class="">
 										<div class="landingInfo">
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
@@ -50,11 +50,6 @@
 											</div>
 										</div>		
 										<div class="card">
-										<!-- <ul class="ups">
-												<li><i class="localGuide"></i>外籍导游和中方领队，带你融入当地</li>
-												<li><i class="like-minded"></i>结识有趣同龄伙伴，旅程更添精彩</li>
-												<li><i class="freeTime"></i>行程合理规划，自由时间自在享受</li>
-											</ul> -->
 											<div class="flex-row-center-start whyUsTxt">
 												<div class="transparentBg">
 													<div class="Oval-6"></div>
@@ -86,14 +81,19 @@
 								{	
 								 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
 								 
-								 Lead_Validation("sp-form", "Lead_Insert", "landingThankYou.php", true);
+								 Lead_Validation("sp-form", "Lead_Insert", "spainLanding_download_thankyou.php", true);
 								}
 								</script>
 								<div class="rightWrap">
+									<h5 class="rightWrapHead">下载独家攻略，寻找出游灵感&nbsp;&gt;&gt;</h5>									
 									<div class="browse-banner-content-box">
-										<h5>下载独家攻略，寻找出游灵感</h5>
+										<h5>下载独家攻略，寻找出游灵感
+											<div class="goBackStatusIcon">
+												<div class="whiteTrangle"></div>
+												<div class="backgroundTrangle"></div>
+											</div>
+										</h5>
 										<div class="ibWrap quoWrap">
-											
 											<div class="quoInfo">						
 												<form id="sp-form">
 													<div class="quoItem">
@@ -272,12 +272,6 @@
 					    </div>
 					    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-a-taste-of-spain.php" >	
-							<div class="offerOutWrap">									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/Food-&-Wine_A-Taste-of-Spain.jpg" alt="" />
 							</div>
@@ -307,12 +301,6 @@
 				    </div>
 				    <div id="london-paris-madrid" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,sp" data-tag="art,honeymoon">
 						<a href="itinerary-london-paris-madrid.php" >	
-							<div class="offerOutWrap">									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/london-paris-madrid.jpg" alt="" />
 							</div>
@@ -344,7 +332,7 @@
 				    <h4>限时优惠</h4>
 				    <div class="flex-row-start-start flex-flow">													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >
+						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
@@ -360,7 +348,9 @@
 							</div>
 							<div class="infoWrap">
 								<div class="itiName">西法意城市狂想</div>
-								<div class="itiDess">巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨</div>
+								<div class="itiDess">
+									巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
+								</div>	
 								<div class="itiDays">12天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -372,24 +362,59 @@
 								<div class="itiIntro">
 									一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
 								</div>
-								<div class="itiPrice">
+								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
 									<span class="price">￥21,000<span>起</span></span>
 								</div>
-								<button class="yellowBtn">查看行程</button>
+								<button class="yellowBtn">查看行程</button>								
 							</div>
 						</a>
-				    </div>				    			    				    
+				    </div>	
+				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
+							<a href="itinerary-grand-tour-of-spain.php" >
+								<div class="offerOutWrap">									
+									<div class="offerWrap earlyBird">
+										<div class="offerArrow"></div>	
+										<div>早鸟优惠</div>
+									</div>
+									<div class="offerWrap date">
+										<!-- <div class="offerArrow"></div> -->									
+										<div>圣诞 / 元旦 / 春节出发</div>
+									</div>
+								</div>
+								<div class="imgWrap">
+									<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
+								</div>
+								<div class="infoWrap">
+									<div class="itiName">西班牙全景深度游</div>
+									<div class="itiDess">
+										马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+									</div>	
+									<div class="itiDays">14天</div>
+									<div class="rate">
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star active" aria-hidden="true"></i>
+									</div>
+									<div class="itiIntro">
+										一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
+									</div>
+									<div class="itiPrice">
+										<span class="delPrice">￥19,100</span>
+										<span class="price">￥21,800<span>起</span></span>
+									</div>
+									<button class="yellowBtn">查看行程</button>
+								</div>
+							</a>
+					    </div>				    			    				    
 				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >
 							<div class="offerOutWrap">									
-								<div class="offerWrap earlyBird">
-									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
-								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
+									<div>国庆保证出团，仅剩&nbsp;4&nbsp;席</div>
 								</div>
 							</div>	
 							<div class="imgWrap">
@@ -416,81 +441,28 @@
 								<button class="yellowBtn">查看行程</button>
 							</div>
 						</a>
-				    </div>	
-				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
-						<a href="itinerary-grand-tour-of-spain.php" >
-							<div class="offerOutWrap">									
-								<div class="offerWrap earlyBird">
-									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
-								</div>
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">西班牙全景深度游</div>
-								<div class="itiDess">马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那</div>
-								<div class="itiDays">14天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
-								</div>
-								<div class="itiPrice">
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,800<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>
-							</div>
-						</a>
-				    </div>
-				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,swd,dm" data-tag="history,art,seaview,northeuro">
-						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >
-							<div class="offerOutWrap">									
-								<div class="offerWrap earlyBird">
-									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
-								</div>
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">北欧多元首都之旅</div>
-								<div class="itiDess">马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那</div>
-								<div class="itiDays">11天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									若不是亲眼所见，你很难想象北欧的峡湾是如何蜿蜒壮美。你将会在旅程种领略斯堪的纳维亚的神奇，从挪威到丹麦以及斯德哥尔摩，在世界闻名的宜居城市探索海上故事和现代建筑！
-								</div>	
-								<div class="itiPrice">
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥27,300<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>							
-							</div>
-						</a>
-				    </div>		    			    				    			   
+				    </div>			    			    				    			   
+				</div>
+				<div class="card">
+					<div class="flex-row-center-start whyUsTxt">
+						<div class="transparentBg">
+							<div class="Oval-6"></div>
+							<div class="Oval-7"></div>
+						</div>					
+						<div class="flex-wrap flex-row-center-between transparentTxt">
+							<div>跟团游<br/>的省心和便利</div>
+							<div>自由团</div>
+							<div style="text-align:right;">自由行<br/>的舒心和自在</div>
+						</div>
+					</div>
+					<h4>什么是EF TravelPlus自由团？</h4>
+					<ul>
+						<li>不用花费大量时间准备攻略，一站式服务覆盖行程所有环节</li>
+						<li>目的地运营团队，提供安全保障</li>
+						<li>自由灵活的行程安排，拥有30-50%真正属于自己的时间</li>
+						<li>主题精选路线设计，认识志趣相同的旅行伙伴</li>
+						<li>外籍导游和中方领队，带你融入当地生活</li>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -502,8 +474,19 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-		<!-- Show the interaction effect, can be removed it later -->
-		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
-		<!-- Show the interaction effect, can be removed it later -->
+		<script type="text/javascript">
+
+			$('.rightWrapHead').click(function(){
+				$('.rightWrapHead').hide();
+				$('.browse-banner-content-box').show();
+				// paddingHeight();
+			});
+
+			$('.goBackStatusIcon').click(function(){
+				$('.rightWrapHead').show();
+				$('.browse-banner-content-box').hide();
+				// paddingHeight();
+			});
+		</script>
 	</body>
 </html>

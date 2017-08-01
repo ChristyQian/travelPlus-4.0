@@ -21,6 +21,7 @@ function Input_Pass (element)
 }
 
 function Lead_Validation(formname, func, redirect, immediate)
+// function Lead_Validation(formname, func, redirect, immediate, buttonName)
 {
   var form = document.getElementById(formname);  
 
@@ -56,7 +57,7 @@ function Lead_Validation(formname, func, redirect, immediate)
   }
 
   var button = document.getElementById("lead-submit-button");
-  
+  // var button = document.getElementById(buttonName);
   if(button) button.style.visibility = "hidden";
   
   
@@ -69,6 +70,15 @@ function Lead_Validation(formname, func, redirect, immediate)
    }
    );
   } 
+  // if(func)
+  // {
+  //  Service_From_Form(formname, func, redirect, immediate, buttonName,
+  //  function()
+  //  {
+  //   if(button) button.style.visibility = "visible";
+  //  }
+  //  );
+  // } 
 
   return true;
 }

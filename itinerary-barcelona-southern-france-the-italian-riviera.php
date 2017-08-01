@@ -28,7 +28,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">国庆档</div>						
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>						
 						<div class="tourName">西法意城市狂想</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -38,7 +38,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">2人同行，1人半价</div>
+							<div class="pinkTxt">早鸟减5%</div>
 						</div>
 					</div>
 				</div>
@@ -814,7 +814,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php'); echo $discount1 ?> 
+					<?php include_once('discount.php'); echo $discount3 ?> 
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?> 
 
