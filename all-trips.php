@@ -269,7 +269,7 @@
 										<i class="fa fa-star active" aria-hidden="true"></i>
 										<i class="fa fa-star active" aria-hidden="true"></i>
 										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star" aria-hidden="true"></i>
 									</div>
 									<div>
 										11天
@@ -402,7 +402,7 @@
 								<div>
 									9天
 									<span class="delPrice">￥</span>
-									<span class="price">￥22,000<span>起</span></span>
+									<span class="price">￥32,000<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -1084,6 +1084,7 @@
 								</div>
 							</a>
 					    </div>
+					</div>
 			</div>
 		</div>
 		<!-- footer -->
@@ -1094,6 +1095,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
+		<script src="js/popup.js"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
@@ -1198,25 +1200,6 @@
 				$('.dropdown').hide();
 			});		
 				
-			$('.closeIcon').click(function(){
-				$(this).parentsUntil('.com_dialog').hide();
-			});						
-			$('.header .Oval-5').click(function(){
-				if(jQuery(window).width() >=768){
-					$('.header .dialogWrap').show();
-					$('.header .com_dialog').show();
-				}
-				else if(jQuery(window).width() <768){
-					$('.wechat.popup').show();	
-					$('.popup .mask').show();
-					$('.popupContainer').show();	
-				}
-			});
-			$(".wechat.popup .closePopup").click(function(){
-				$('.popup').hide();	
-				$('.popup .mask').hide();
-				$('.popupContainer').hide();	
-			});
 
 			var dest = "<?php echo $_REQUEST['dest']; ?>";
 			if (dest != "")

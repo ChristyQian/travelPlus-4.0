@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
 	$itineraryName="冰岛奇幻北极光之旅";
-	$itineraryPrice="￥22,000";
+	$itineraryPrice="￥32,000";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -53,7 +53,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥22,000
+							￥32,000
 							<span>起</span>
 						</div>
 						<div>

@@ -116,14 +116,13 @@
 		$(".itineraryMap").css('position','static');
 	}
 
-
-	$('.closeIcon').click(function(){
-		$(this).parentsUntil('.com_dialog').hide();
-	});
+	
 	$('.quoBg .userInfo').click(function(){
 		$('.salesWrap .dialogWrap').show();
 	});
-	
+
+/* popup.js Start */
+
 	$('.header .Oval-5').click(function(){
 		if(jQuery(window).width() >=768){
 			$('.header .dialogWrap').show();
@@ -135,13 +134,16 @@
 			$('.popupContainer').show();	
 		}
 	});
-
 	$(".wechat.popup .closePopup").click(function(){
 		$('.popup').hide();	
 		$('.popup .mask').hide();
 		$('.popupContainer').hide();	
 	});
-	
+	$('.closeIcon').click(function(){
+		$(this).parentsUntil('.com_dialog').hide();
+	});
+
+/* popup.js End */	
 	
 	$('.fixCAT .Oval-5').click(function(){
 		if(jQuery(window).width() >=768){

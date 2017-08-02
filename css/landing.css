@@ -1,6 +1,8 @@
+body {
+	overflow-x:hidden;
+}
 .landingTop {
 	position:relative;
-	/*float: left;*/
 }
 .browse-banner {
 	height: 376px;
@@ -60,9 +62,13 @@
 .card {
 	background-color:#f0f2f4;
 	color:#333;
-	padding-bottom:100px;
 	margin-top:256px;
 	padding:20px;
+}
+.leftWrap .card.affix {
+	z-index:8888;
+	margin-top:0;
+	top:40px;
 }
 .card ul {
 	padding-left:15px;
@@ -147,7 +153,7 @@
 .browse-banner .browse-banner-content-box h5 {
 	padding:20px;
 	padding-bottom:0;
-	font-weight: normal;
+	font-weight: lighter;
 	font-size:24px;
 }
 .quoWrap {
@@ -155,15 +161,17 @@
     width:358px;	
 }
 .downloadBg {
-	border-left:1px solid #fff;	
-	padding:40px;
+	border-left:1px solid rgba(255,255,255,0.5);	
+	padding:40px 33px;
 	cursor: pointer;
 }
 .downloadBg .blockImg {
 	display:block;
-	margin:0px auto 25px;
+	margin:15px auto;
 }
 .downloadBg p {
+	font-size:12px;
+	line-height:16px;
 	text-align:center;
 }
 .oTrCorner {
@@ -201,6 +209,7 @@
 	margin-right:0;
 } 
 .browse-banner-content-box .quoItem label {
+	font-weight:lighter;
 	color:#fff;
 }
 .browse-banner-content-box .quoInfo button {
@@ -278,10 +287,12 @@
 	width:auto;
 }
 .twoThird .home-trip-box .infoWrap {
+	position:relative;
 	width:68%;
+	height:213px;
 	padding:20px;
 	padding-top:0;
-	padding-bottom:0;
+	padding-bottom:0;	
 }
 .itiPrice {
 	position:absolute;
@@ -311,9 +322,6 @@
 .twoThird .home-trip-box .rate {
 	font-size:14px;
 	margin-bottom:0;
-}
-.twoThird .home-trip-box .rate {
-	margin-bottom:20px;
 }
 .twoThird .hotSale {
 	position: absolute;
@@ -347,8 +355,9 @@
 }
 .offerWrap.earlyBird {
 	background-color: #bd0fe1;
-	opacity: 0.8;
+	opacity: 0.9;
 	margin-right:5px;
+	mix-blend-mode: multiply;
 }
 .offerWrap.earlyBird .offerArrow {
 	border-bottom: 2px solid #9101af;
@@ -363,6 +372,8 @@
 	text-align:right;
 }
 .twoThird .infoWrap .yellowBtn {
+	position:absolute;
+	bottom:0;left:20px;
 	display: block;
     width: 35%;    
     height: 36px;
@@ -503,6 +514,7 @@
 		padding:15px;
 		display:block;
 		width:100%;
+		height:auto;
 	}
 	.itiPrice {
 		position:static;
@@ -510,6 +522,7 @@
 		font-size: 18px;
 	}
 	.twoThird .infoWrap .yellowBtn {
+		position:static;
 		width:inherit;
 	}
 	.offerWrap {
@@ -556,8 +569,8 @@
 	.rightWrapHead {
 		background: #f5a623;
 		padding: 20px;
-		font-size: 18px;
-		font-weight:normal;
+		font-size: 14px;
+		font-weight:lighter;
 	}
 	.button-download {
 		height: 40px;
@@ -566,5 +579,10 @@
 	}
 	#thankYouPage p {
 		font-size:14px;
+	}
+}
+@media screen and (max-width: 375px) {
+	.twoThird .home-trip-box .infoWrap {
+		padding:15px 0;
 	}
 }

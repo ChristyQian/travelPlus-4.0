@@ -150,38 +150,17 @@
 	<?php include_once ("popup.php"); ?>
 
 		<script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
-
+		<script src="js/popup.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
 		
 		<script>		
 		    var swiper = new Swiper('.swiper-container', {
-		    		autoplay: 3000,
+		    	autoplay: 3000,
 		        pagination: '.swiper-pagination',
 		        paginationClickable: true
 		    }); 
-		    
-	    		$('.closeIcon').click(function(){
-				$(this).parentsUntil('.com_dialog').hide();
-			});
-			$('.header .Oval-5').click(function(){
-				if(jQuery(window).width() >=768){
-					$('.header .dialogWrap').show();
-					$('.header .com_dialog').show();
-				}
-				else if(jQuery(window).width() <768){
-					$('.wechat.popup').show();	
-					$('.popup .mask').show();
-					$('.popupContainer').show();	
-				}
-			});
-			
-			$(".wechat.popup .closePopup").click(function(){
-				$('.popup').hide();	
-				$('.popup .mask').hide();
-				$('.popupContainer').hide();	
-			});
 		</script>
 	</body>
 </html>

@@ -36,9 +36,6 @@
 <?php include 'popup.php' ;?>
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
-		<script src="js/sticky.min.js"></script>
-		<!-- Show the interaction effect, can be removed it later -->
-		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
-		<!-- Show the interaction effect, can be removed it later -->
+		<script src="js/popup.js"></script>
 	</body>
 </html>

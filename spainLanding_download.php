@@ -9,7 +9,7 @@
 
     include_once("landing-head.php"); 
 ?>
-	<body>
+	<body data-spy="scroll">
 	
 <?php 
 	 include_once('common-header2.php');
@@ -34,7 +34,7 @@
 							</li>
 						</ul>
 					</div>
-					<div class="site">
+					<div class="site" data-target="#card">
 						<div class="browse-banner">
 							<div class="browse-banner-bg"><img class="browse-banner-overlay" src="img/itinerary/billboard/Grand-Tour-of-Spain.jpg" width="100%"/></div>
 							<div class="site browse-banner-content">
@@ -48,8 +48,8 @@
 												<p>从马德里的博物馆，到塞尔维亚奔放热情的弗拉门戈，从流动的建筑博物馆巴塞罗那，到直布罗陀海峡的黄金海岸。作为世界文化遗产最多的国家之一，热情洋溢的西班牙同时还人文荟萃。三大宗教先后统治这片土地，各自留下了灿烂的文化。
 												</p>
 											</div>
-										</div>		
-										<div class="card">
+										</div>		 
+										<div class="card" id="card" data-spy="affix" data-offset-top="500">
 											<div class="flex-row-center-start whyUsTxt">
 												<div class="transparentBg">
 													<div class="Oval-6"></div>
@@ -260,7 +260,7 @@
 										<i class="fa fa-star active" aria-hidden="true"></i>
 									</div>
 									<div class="itiIntro">
-										一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
+										从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
 									</div>
 									<div class="itiPrice">
 										<span class="delPrice">￥19,100</span>
@@ -318,7 +318,7 @@
 									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
+									当你来到英国、法国和西班牙的首都，就尽情沉浸于此吧！追寻英国皇室的脚步发现伦敦的亮点，品着香槟游览“光之城”巴黎的城市建筑，在马德里享受悠闲假日。你将发现快节奏的都市，为何个个与众不同。
 								</div>
 								<div class="itiPrice">
 									<span class="delPrice">￥19,100</span>
@@ -329,7 +329,7 @@
 						</a>
 				    </div>
 				    </div>	
-				    <h4>限时优惠</h4>
+				    <h4>当季精选</h4>
 				    <div class="flex-row-start-start flex-flow">													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
@@ -399,7 +399,7 @@
 										<i class="fa fa-star active" aria-hidden="true"></i>
 									</div>
 									<div class="itiIntro">
-										一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
+										从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
 									</div>
 									<div class="itiPrice">
 										<span class="delPrice">￥19,100</span>
@@ -474,6 +474,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
+		<script src="js/popup.js"></script>
 		<script type="text/javascript">
 
 			$('.rightWrapHead').click(function(){
@@ -487,6 +488,7 @@
 				$('.browse-banner-content-box').hide();
 				// paddingHeight();
 			});
+
 		</script>
 	</body>
 </html>

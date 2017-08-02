@@ -228,7 +228,7 @@ i {
 .fixCAT .com_dialog {
 	display:none;
 	position:absolute;
-	z-index:4;
+	z-index:5;
 	top:80px;
 	right:40px;
 	height:auto;
@@ -1048,7 +1048,7 @@ a.close-dropdown {
 /*****************************************/
 .whyUsTxt {
 	position:relative;
-	width:355px;
+	width:352px;
 	height:216px;
 	margin:70px 0;
 }
