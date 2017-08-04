@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
 	$itineraryName="葡萄牙西班牙摩洛哥之旅";
-	$itineraryPrice="￥";
+	$itineraryPrice="￥28,000";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -62,7 +62,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥
+							￥28,000
 							<span>起</span>
 						</div>
 						<div>
@@ -292,7 +292,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/.jpg" />
+					<img src="img/itinerary/map/protugal-spain-morocco.jpg" />
 				</div>
 				<div class="initialScreen">
 					<div class="com_itinerary_summary">

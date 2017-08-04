@@ -20,7 +20,7 @@
     $slide = array
 	(
 		array("img/itinerary/home-germany-switzerland-austria.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>国庆出发</p>仅剩4席</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>国庆出发</p>仅剩6席</div></div>",
 			"国庆档",
 			"<p>阿尔卑斯山环游之旅<br/>2017.9.30出发</p>",
 			"Slide-alpine",

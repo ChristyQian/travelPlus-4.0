@@ -359,8 +359,8 @@
 	display: block;
 	width:inherit;
 	padding:30px 20px;
-	-webkit-transform: scale(1.2,1.2);
-	        transform: scale(1.2,1.2);
+/*	-webkit-transform: scale(1.2,1.2);
+	        transform: scale(1.2,1.2);*/
 }
 .borderBtn.allItinerary {
 	display: block;

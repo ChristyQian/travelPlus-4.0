@@ -83,7 +83,9 @@
 								<option value="australia" data-display="澳大利亚">澳大利亚</option>
 								<option value="wus" data-display="美国西部">美国西部</option>
 								<option value="ic" data-display="冰岛">冰岛</option>
-								<!-- <option value="db" data-display="迪拜">迪拜</option> -->
+								<option value="db" data-display="迪拜">迪拜</option>
+								<option value="mo" data-display="摩洛哥">摩洛哥</option>
+								<option value="portu" data-display="葡萄牙">葡萄牙</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -159,7 +161,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="pinkTxt">仅剩6席</div>
 									</div>
 								</div>
 							</div>
@@ -278,8 +280,40 @@
 									</div>
 								</div>
 							</a>
-					    </div>				   
-					<!-- <div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature,seaview">
+					    </div>
+					<div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
+						<a href="itinerary-portugal-spain-morocco.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/portugal-spain-morocco.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									葡萄牙西班牙摩洛哥之旅 <br/>
+									里斯本 - 塞维利亚 - 格兰纳达 - 卡萨布兰卡 - 舍夫沙万 - 马德里
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									16天
+									<span class="delPrice">￥28,000</span>
+									<span class="price">￥28,000<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>					   
+					<div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature">
 						<a href="itinerary-wonders-of-dubai-and-abu-dhabi.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/wonders-of-dubai-and-abu-dhabi.jpg" alt="" />
@@ -305,12 +339,12 @@
 								</div>
 								<div>
 									8天
-									<span class="delPrice">￥</span>
-									<span class="price">￥<span>起</span></span>
+									<span class="delPrice">￥23,900</span>
+									<span class="price">￥23,900<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div>	 -->				
+				    </div>			
 					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="australia" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">

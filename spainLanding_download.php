@@ -371,44 +371,44 @@
 						</a>
 				    </div>	
 				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
-							<a href="itinerary-grand-tour-of-spain.php" >
-								<div class="offerOutWrap">									
-									<div class="offerWrap earlyBird">
-										<div class="offerArrow"></div>	
-										<div>早鸟优惠</div>
-									</div>
-									<div class="offerWrap date">
-										<!-- <div class="offerArrow"></div> -->									
-										<div>圣诞 / 元旦 / 春节出发</div>
-									</div>
+						<a href="itinerary-grand-tour-of-spain.php" >
+							<div class="offerOutWrap">									
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
 								</div>
-								<div class="imgWrap">
-									<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
 								</div>
-								<div class="infoWrap">
-									<div class="itiName">西班牙全景深度游</div>
-									<div class="itiDess">
-										马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
-									</div>	
-									<div class="itiDays">14天</div>
-									<div class="rate">
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-									</div>
-									<div class="itiIntro">
-										从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
-									</div>
-									<div class="itiPrice">
-										<span class="delPrice">￥19,100</span>
-										<span class="price">￥21,800<span>起</span></span>
-									</div>
-									<button class="yellowBtn">查看行程</button>
+							</div>
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">西班牙全景深度游</div>
+								<div class="itiDess">
+									马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+								</div>	
+								<div class="itiDays">14天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
-							</a>
-					    </div>				    			    				    
+								<div class="itiIntro">
+									从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
+								</div>
+								<div class="itiPrice">
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥21,800<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>
+							</div>
+						</a>
+				    </div>				    			    				    
 				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >
 							<div class="offerOutWrap">									
@@ -441,7 +441,7 @@
 								<button class="yellowBtn">查看行程</button>
 							</div>
 						</a>
-				    </div>			    			    				    			   
+				    </div>
 				</div>
 				<div class="card">
 					<div class="flex-row-center-start whyUsTxt">

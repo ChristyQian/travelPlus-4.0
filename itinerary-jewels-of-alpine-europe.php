@@ -32,7 +32,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">仅剩4席</div>
+							<div class="pinkTxt">仅剩6席</div>
 						</div>
 					</div>
 				</div>

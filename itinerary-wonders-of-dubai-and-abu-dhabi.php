@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
 	$itineraryName="燃情阿联酋之旅";
-	$itineraryPrice="￥";
+	$itineraryPrice="￥23,900";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -56,7 +56,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥
+							￥23,900
 							<span>起</span>
 						</div>
 						<div>
@@ -420,7 +420,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_room.png" />
+								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
@@ -445,7 +445,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_gym.png" />
+								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_gym.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>

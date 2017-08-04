@@ -22,7 +22,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">国庆档</div>
+						<div class="yellowTxt">TravelZoo专享 2人同行,1人半价</div>
 						<div class="tourName">阿尔卑斯山环游之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -32,11 +32,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">2人同行,1人半价</div>
+							<div class="pinkTxt">国庆档.仅剩6席</div>
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php') ; echo $discount1 ;?>
+				<?php include_once('discount.php') ; echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -848,13 +848,13 @@
 			<div class="quotation">
 
 				<h4>一键预订优惠</h4>
-				<span class="declare">*不会产生任何费用</span>
+				<span class="declare">*不会产生任何费用 / TravleZoo专享</span>
 
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php') ; echo $discount3 ;?>
+					<?php include_once('discount.php') ; echo $discount2 ;?>
 
 					<?php include_once('quotation-form.php'); echo $text2 ;?>
 

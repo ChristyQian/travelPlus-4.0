@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html>
+<?php 
+	$pageName="Tours to Spain & Europe";
+	$tagTitle="landing - EF TravelPlus | 英孚旅游+";
+	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_迪拜旅游_线路推荐_限时特惠线路_假期出国游";
+	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，迪拜旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
+	$metaDescription="英孚旅游+，根据热门季节、个人爱好等旅行元素，精心设计行程，带来更多元的主题线路和更优的旅行体验，真正融入异国文化，捕捉旅程中的每次怦然心动与惊喜。";
+
+    include_once("europeLanding-head.php"); 
+?>
+	<body class="competitor" data-spy="scroll">
+	
+<?php 
+	 include_once('common-header2.php');
+?>	
+
+		<div class="browse-page-container">
+			<div class="landingTop browse-banner-container">
+				<div class="relDiv">								
+					<div class="site" >
+						<div class="browse-banner">
+							<div class="browse-banner-bg">
+								<img class="browse-banner-overlay" src="img/itinerary/billboard/Rome-Paris-London.jpg" width="100%"/>
+								<h1>选择欧洲跟团游,<br/>不得不考虑的几个问题</h1>
+							</div>							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="site">
+			
+		</div>
+		<div class="site landing">
+			<div class="twoThird ">
+				<p>欧洲，是个令人向往但又头疼的旅行目的地。但签证、行程、机票酒店、复杂的当地交通，全部研究下来就要大半个月，更何况可能还存在语言问题，所以，除了部分愿意花时间研究旅行攻略的自由行爱好者们，大部分人可能会做出无奈的选择——跟团游。<br/>
+<br/>
+然而，市面上众多欧洲游产品，就算同一路线价格也相差悬殊，到底有哪些不同？
+带着同样的困惑，我们从热门旅游电商平台上，选出不同价位的欧洲跟团游产品，作了一下分析比较。
+（以主要的旅行元素为讨论对象，每个团并不是毫无优势）
+</p>
+				<h4>跟团游价格差异主要来自以下几个方面</h4>
+				<ul class="nav nav-tabs blueRList" role="tablist">
+					<li role="presentation" class="active"><a href="#flight" aria-controls="flight" role="tab" data-toggle="tab">出行<br/>航班</a></li>
+					<li role="presentation"><a href="#hotel" aria-controls="hotel" role="tab" data-toggle="tab">住宿<br/>安排</a></li>
+					<li role="presentation"><a href="#catering" aria-controls="catering" role="tab" data-toggle="tab">餐食<br/>安排</a></li>
+					<li role="presentation"><a href="#timeOfDep" aria-controls="timeOfDep" role="tab" data-toggle="tab">出发<br/>时间</a></li>
+					<li role="presentation"><a href="#route" aria-controls="route" role="tab" data-toggle="tab">旅行<br/>线路</a></li>
+					<li role="presentation"><a href="#optionalItem" aria-controls="optionalItem" role="tab" data-toggle="tab">购物<br/>自费等</a></li>
+					<li role="presentation"><a href="#others" aria-controls="others" role="tab" data-toggle="tab">其他</a></li>
+				</ul>
+				<div class="tab-content detailWrap">
+					<div class="belongToArrow"></div>
+					<div role="tabpanel" class="tab-pane fade in active detailItem" id="flight">
+						<h5>敲重点：直达=贵+省时；转机=便宜+耗时；转机尽量选择品质航空。</h5>
+						<div>去欧洲的国际航班，通常分为转机和直达，根据航空公司类型，大致分类如下：</div>
+						<div>
+							<h6>转机：</h6>
+							<ul>
+								<li>优质：卡塔尔、阿联酋、汉莎、荷兰皇家等</li>
+								<li>一般：马汉航空、俄罗斯航空等</li>
+								<li>直达：国内航空公司为主，中国国航、东方航空、南方航空</li>
+							</ul>
+							<br/>
+							<h6>价格比较：</h6>
+							<ul><li>直达 > 转机（优质）> 转机（一般）</li></ul>
+							<br/>
+							<h6>说明：</h6>
+							<ul>
+								<li>有些时间不太合理的转机机票，旅行社通常能拿到较低的折扣，比如12天的行程事实上可能只有完整的7-8天在游玩，所以整体的套餐价格会稍低。</li>
+								<li>而直达航班，虽然在全球航司综合评价上没有那么高，但好在直达，节约了时间，若同为12天长度的行程，整体游玩时间是大大增加的，通常对应所支付的当地酒店住宿天数也会增加，所以不论航司好坏，直达永远比转机价格高。</li>
+								<li><strong>EF TravelPlus依目的地/出发地不同，全部安排优质航空，或直达航班；合理的航班安排，意味着增加整体游玩时间。</strong></li>
+							</ul>
+						</div>
+					</div>
+					<div role="tabpanel" class="tab-pane fade detailItem" id="hotel">
+						<h5>敲重点：低价团多数住“欧洲小镇”，市区酒店只存在于高价团。</h5>
+						<div>“欧洲小镇”就是所有郊区酒店统称，又可分为几大类：非星级酒店、国际连锁经济酒店、国际连锁星级酒店。</div>
+						<div>
+							<h6>价格比较：</h6>
+							<ul>
+								<li>市区酒店 > 郊区国际四星/五星酒店 > 郊区国际连锁经济酒店 > 郊区非星级酒店</li>
+							</ul>
+							<br/>
+							<h6>说明：</h6>
+							<ul>
+								<li>通常说三星/四星级标准，意味着入住酒店并没有评星，只是单方面表示达到了这个标准，具体什么样，住过的人才知道。</li>
+								<li>国际连锁经济酒店，类似Ibis（宜必思），各方面条件中等，房间不大但也基本满足需求。</li>
+								<li>国际四星/五星酒店，此类酒店最大的注意点是目的地不同差价非常大。很多团会标注入住国际5星酒店，然而仅在意大利升级，因为可能同类酒店即便在法国瑞士的郊区也会非常贵。</li>
+								<li>市区酒店：市区酒店不论星级如何，主要意味着更方便的交通，在自由时间有更丰富的安排。</li>
+								<li><strong>在大城市EF TravelPlus，全部安排市区4-5星级酒店，像五渔村周边的小城，也安排同等级酒店，优越地理位置，方便自由时间安排活动</strong></li>
+							</ul>
+						</div>
+					</div>
+					<div role="tabpanel" class="tab-pane fade detailItem" id="catering">
+						<h5>敲重点：包餐最省钱，升级当地须防坑。</h5>
+						<div>欧洲团，一般3种：团餐、升级当地美食、不包餐</div>
+						<div>
+							<h6>价格比较：</h6>
+							<ul>
+								<li>升级当地美食 > 团餐 > 不包餐</li>
+							</ul>
+							<br/>
+							<h6>说明:</h6>
+							<ul>
+								<li>不包餐，直观体现就是团费较低，但对于初次出国无法接受当地物价的人来说，需要自己再去花钱吃饭，那是大写的贵，如果早餐也不包，小编个人觉得有些不太方便。不过想要深刻感受当地饮食文化的人来说，很适合。</li>
+								<li>团餐，就是类似国内跟团，以提供中餐为主，10人一桌几个菜，荤菜靠抢吃饱全靠米饭。</li>
+								<li>升级当地美食，这一项也是高价团的标配。例如在法国，升级一顿法餐，但具体是什么配置，是否包含酒水，最好提前了解清楚。</li>
+								<li><strong>EF TravelPlus包含酒店提供的品质早餐；依行程不同，包含部分午餐和晚餐，皆为当地三道式美食（前菜+主菜+甜品），同时包含酒水或饮料；在某些城市，还会安排去当地人家做客，共进晚餐哦。 </strong></li>
+							</ul>
+						</div>
+					</div>
+					<div role="tabpanel" class="tab-pane fade detailItem" id="timeOfDep">						
+						<h5>敲重点：冬季便宜，暑假较贵，5、11月性价比最高，国庆优于春节。</h5>
+						<div>此条对价格影响较大，旺季淡季差距可达到大几千块钱，但对于一般上班族而言也需要平衡请假、出行体验度的成本再考虑。TravelPlus挑选适合不同季节出游的精彩路线，更有主题线路玩法供你选择。 </div>
+						<div>
+							<h6>价格比较：</h6>
+							<ul>
+								<li>欧洲旅游旺季：6月——10月、春节【偏贵】</li>
+								<li>欧洲旅游平季：11月、12月、4月、5月【适中】</li>
+								<li>欧洲旅游淡季：1月——3月【便宜，除滑雪/冰岛等冬季特色地区】</li>
+							</ul>
+							<br/>
+							<h6>说明：</h6>
+							<ul>
+								<li>冬季出行便宜，但如南欧意大利西班牙也不会多暖和，何况德国瑞士。</li>
+								<li>旺季出行，主要是受到国内暑假及欧洲当地休假集中在7、8月，价格较高；但事实上，气候炎热且人多，除非暑假带孩子出行，并不建议在此期间去欧洲游玩。</li>
+								<li>9、10月气候其实是相对较好的，但机票和酒店价格通常会暴涨，出境人流增大，也在需要考虑的范围内。</li>
+								<li>平季的四个月，处于冷暖交替，价格非常适中的；但欧洲气候不一，南北温差较大。</li>
+							</ul>
+						</div>
+					</div>
+					<div role="tabpanel" class="tab-pane fade detailItem" id="route">
+						<h5>敲重点：开口航班（A进B出）最佳，根据出行国物价判断预算，不要选择国家太多的行程。</h5>
+						<div>在其他标准相同的情况下，费用排名基本如下：<br/>
+						<strong>少国出行 > 多国出行北欧路线 > 西欧路线（德法瑞）> 东欧路线（匈牙利捷克等）<br/>
+						开口航班（A城进B城出） > 闭口航班（同进同出）</strong></div>
+						<br/>
+						<ul>
+							<h6>说明：</h6>
+							<li>游玩3国价格通常都高于4国价格，所以会出现游玩7、8个国家的价格却低于2国深度游。</li>
+							<li>北欧、西欧、东欧的价格差是根据各国物价决定，每个国家的基础消费、酒店等各方面不同所形成的差价，而这一点也会影响一些自费项目及人均消费。</li>
+							<li>开口航班，意味着旅行社是分开订的航班。自己订过机票的人都知道，国际单程的机票要远高于往返机票。从体验度上而言，欧洲旅行基本没有环线可选，同进同出意味着要多出大量时间在交通上。TravelPlus设计的路线，大部分为开口航班，不走回头路。</li>
+						</ul>
+					</div>
+					<div role="tabpanel" class="tab-pane fade detailItem" id="optionalItem">
+						<h5>敲重点：低价团总有它低价的原因，购物和自费项目是选择跟团游要注意的点。</h5>
+						<dl>
+							<dt>购物安排对价格影响：</dt>
+							<dd>不含购物点 > 含小购物点 > 不明确说明购物点</dd>
+
+							<ul>
+								<h6>说明：</h6>
+								<li>不含购物点，并不是没有购物行程。例如，游客可在自由时间，自行安排购物，这是正规且合乎人意的方式。旅行社赚不到额外的钱，团费自然较高。</li>
+								<li>含小购物点，例如一些珠宝厂、香水博物馆，对于此类，欧洲大部分是不会强制，但白眼之类的还是会来几个。</li>
+								<li>不明确说明购物点，不同于不含。正常档期的价格低廉团，这种应该是最可怕的。</li>
+								<li><Strong>EF TravelPlus绝无任何强制购物安排；包含重点景点费用，且包含非自由时间涉及的海外导游/司机小费。</Strong></li>
+							</ul>
+							<br/>
+							<ul>
+								<h6>自费项目对价格影响：</h6>
+								<li>一价全包无自费 > 部分自费项目 > 大量自由活动行程</li>
+							</ul>
+							<br/>
+							<ul>
+								<h6>说明：</h6>
+								<li>不想操心就选择一价全包，有自理能力的旅游者可考虑半自助行程。</li>
+								<li>如果有能力自行解决的人来说，那么尝试一下大量自由活动行程也许更省钱且自由。</li>
+								<li><strong>TravelPlus会列明每个行程的自由时间段，给您自我探索的时间和灵活性。</strong></li>
+							</ul>
+						</dl>
+					</div>
+					<div role="tabpanel" class="tab-pane fade detailItem" id="others">
+						<h5>敲重点：很多旅行团都是做的代理，实际到了当地会是另一个旅行社接待，这种在管理上都会出现问题，当然也是为了节约成本。</h5>
+						<ul>
+							<li>给上洗手间准备一笔支出：欧洲很多场所的公共厕所是收费的，0.5欧元或1欧。</li>
+							<li>境外导游/司机小费：出境游一般都要收取小费，有的团会有明确表示在何时缴纳或者是否包含，但有些是到了当地后漫天要价。建议提前沟通好，需要付多少、何时付、出境前付过后到达当地是否无需再付。</li>
+							<li>全程组团还是散客拼团,事前需要明确知道。</li>
+						</ul>
+						<br/>
+						<ul>						
+							<h6>说了这么多，结论就是：</h6>
+							<li>省心的跟团游，对自由度必然有所牺牲</li>
+							<li>低价出行，必然有一些坑要防</li>
+							<li>根据自身出行要求选择最适合自己的旅行，价格并不是唯一导向</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="oneThird ">
+				<div class="card">
+					<div class="flex-row-center-start whyUsTxt">
+						<div class="transparentBg">
+							<div class="Oval-6"></div>
+							<div class="Oval-7"></div>
+						</div>					
+						<div class="flex-wrap flex-row-center-between transparentTxt">
+							<div>跟团游<br/>的省心和便利</div>
+							<div>自由团</div>
+							<div style="text-align:right;">自由行<br/>的舒心和自在</div>
+						</div>
+					</div>
+					<h4>什么是EF TravelPlus自由团？</h4>
+					<ul>
+						<li>不用花费大量时间准备攻略，一站式服务覆盖行程所有环节</li>
+						<li>目的地运营团队，提供安全保障</li>
+						<li>自由灵活的行程安排，拥有30-50%真正属于自己的时间</li>
+						<li>主题精选路线设计，认识志趣相同的旅行伙伴</li>
+						<li>外籍导游和中方领队，带你融入当地生活</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="site">
+				<h4>当季精选</h4>
+				<div class="flex-row-start-start flex-flow">													
+					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
+						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
+							<div class="offerOutWrap">									
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
+								</div>
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
+								</div>
+							</div>
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">西法意城市狂想</div>
+								<div class="itiDess">
+									巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
+								</div>	
+								<div class="itiDays">12天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
+								</div>
+								<div class="itiPrice">										
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥21,000<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
+				    </div>	
+				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
+						<a href="itinerary-grand-tour-of-spain.php" >
+							<div class="offerOutWrap">									
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
+								</div>
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
+								</div>
+							</div>
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">西班牙全景深度游</div>
+								<div class="itiDess">
+									马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+								</div>	
+								<div class="itiDays">14天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
+								</div>
+								<div class="itiPrice">
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥21,800<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>
+							</div>
+						</a>
+				    </div>				    			    				    
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
+						<a href="itinerary-jewels-of-alpine-europe.php" >
+							<div class="offerOutWrap">									
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>国庆保证出团，仅剩&nbsp;4&nbsp;席</div>
+								</div>
+							</div>	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">阿尔卑斯山环游之旅</div>
+								<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
+								<div class="itiDays">13天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
+								</div>
+								<div class="itiPrice">
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥23,400<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>
+							</div>
+						</a>
+				    </div>
+				</div>
+			</div>
+		</div>
+		<!-- footer -->
+<?php 
+	include_once('common-footer2.php')
+?>
+<?php include 'popup.php' ;?>
+
+
+		<script src="js/jquery-2.1.1.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+		<script src="js/sticky.min.js"></script>
+		<script src="js/popup.js"></script>
+		<script type="text/javascript">
+			var left = $('.blueRList li a').offsetLeft();
+
+			$('.blueRList li').click(function(){
+				var left = $('.blueRList li.active').offsetLeft();
+				var arrowLeft = $('')
+			})
+		</script>
+	</body>
+</html>

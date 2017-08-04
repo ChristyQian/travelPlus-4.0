@@ -44,7 +44,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="pinkTxt">仅剩6席</div>
 									</div>
 								</div>
 							</div>
