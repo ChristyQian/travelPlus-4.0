@@ -29,9 +29,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="site">
-			
-		</div>
 		<div class="site landing">
 			<div class="twoThird ">
 				<p>欧洲，是个令人向往但又头疼的旅行目的地。但签证、行程、机票酒店、复杂的当地交通，全部研究下来就要大半个月，更何况可能还存在语言问题，所以，除了部分愿意花时间研究旅行攻略的自由行爱好者们，大部分人可能会做出无奈的选择——跟团游。<br/>
@@ -40,21 +37,22 @@
 带着同样的困惑，我们从热门旅游电商平台上，选出不同价位的欧洲跟团游产品，作了一下分析比较。
 （以主要的旅行元素为讨论对象，每个团并不是毫无优势）
 </p>
-				<h4>跟团游价格差异主要来自以下几个方面</h4>
+				<h3>跟团游价格差异主要来自以下几个方面:</h3>
 				<ul class="nav nav-tabs blueRList" role="tablist">
-					<li role="presentation" class="active"><a href="#flight" aria-controls="flight" role="tab" data-toggle="tab">出行<br/>航班</a></li>
-					<li role="presentation"><a href="#hotel" aria-controls="hotel" role="tab" data-toggle="tab">住宿<br/>安排</a></li>
-					<li role="presentation"><a href="#catering" aria-controls="catering" role="tab" data-toggle="tab">餐食<br/>安排</a></li>
-					<li role="presentation"><a href="#timeOfDep" aria-controls="timeOfDep" role="tab" data-toggle="tab">出发<br/>时间</a></li>
-					<li role="presentation"><a href="#route" aria-controls="route" role="tab" data-toggle="tab">旅行<br/>线路</a></li>
-					<li role="presentation"><a href="#optionalItem" aria-controls="optionalItem" role="tab" data-toggle="tab">购物<br/>自费等</a></li>
-					<li role="presentation"><a href="#others" aria-controls="others" role="tab" data-toggle="tab">其他</a></li>
+					<li role="presentation" class="active" onclick="changeTab('0')"><a href="#flight" aria-controls="flight" role="tab" data-toggle="tab">出行<br/>航班</a></li>
+					<li role="presentation" onclick="changeTab('1')"><a href="#hotel" aria-controls="hotel" role="tab" data-toggle="tab">住宿<br/>安排</a></li>
+					<li role="presentation" onclick="changeTab('2')"><a href="#catering" aria-controls="catering" role="tab" data-toggle="tab">餐食<br/>安排</a></li>
+					<li role="presentation" onclick="changeTab('3')"><a href="#timeOfDep" aria-controls="timeOfDep" role="tab" data-toggle="tab">出发<br/>时间</a></li>
+					<li role="presentation" onclick="changeTab('4')"><a href="#route" aria-controls="route" role="tab" data-toggle="tab">旅行<br/>线路</a></li>
+					<li role="presentation" onclick="changeTab('5')"><a href="#optionalItem" aria-controls="optionalItem" role="tab" data-toggle="tab">购物<br/>自费等</a></li>
+					<li role="presentation" onclick="changeTab('6')"><a href="#others" aria-controls="others" role="tab" data-toggle="tab">其他</a></li>
 				</ul>
 				<div class="tab-content detailWrap">
-					<div class="belongToArrow"></div>
-					<div role="tabpanel" class="tab-pane fade in active detailItem" id="flight">
+					<div class="belongToArrow"><div class="secArrow"></div></div>
+					<div role="tabpanel" class="tab-pane fade in active detailItem" id="tabCon_0">
 						<h5>敲重点：直达=贵+省时；转机=便宜+耗时；转机尽量选择品质航空。</h5>
 						<div>去欧洲的国际航班，通常分为转机和直达，根据航空公司类型，大致分类如下：</div>
+						<br/>
 						<div>
 							<h6>转机：</h6>
 							<ul>
@@ -74,9 +72,10 @@
 							</ul>
 						</div>
 					</div>
-					<div role="tabpanel" class="tab-pane fade detailItem" id="hotel">
+					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_1">
 						<h5>敲重点：低价团多数住“欧洲小镇”，市区酒店只存在于高价团。</h5>
 						<div>“欧洲小镇”就是所有郊区酒店统称，又可分为几大类：非星级酒店、国际连锁经济酒店、国际连锁星级酒店。</div>
+						<br/>
 						<div>
 							<h6>价格比较：</h6>
 							<ul>
@@ -93,9 +92,10 @@
 							</ul>
 						</div>
 					</div>
-					<div role="tabpanel" class="tab-pane fade detailItem" id="catering">
+					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_2">
 						<h5>敲重点：包餐最省钱，升级当地须防坑。</h5>
 						<div>欧洲团，一般3种：团餐、升级当地美食、不包餐</div>
+						<br/>
 						<div>
 							<h6>价格比较：</h6>
 							<ul>
@@ -111,9 +111,10 @@
 							</ul>
 						</div>
 					</div>
-					<div role="tabpanel" class="tab-pane fade detailItem" id="timeOfDep">						
+					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_3">						
 						<h5>敲重点：冬季便宜，暑假较贵，5、11月性价比最高，国庆优于春节。</h5>
 						<div>此条对价格影响较大，旺季淡季差距可达到大几千块钱，但对于一般上班族而言也需要平衡请假、出行体验度的成本再考虑。TravelPlus挑选适合不同季节出游的精彩路线，更有主题线路玩法供你选择。 </div>
+						<br/>
 						<div>
 							<h6>价格比较：</h6>
 							<ul>
@@ -131,47 +132,50 @@
 							</ul>
 						</div>
 					</div>
-					<div role="tabpanel" class="tab-pane fade detailItem" id="route">
+					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_4">
 						<h5>敲重点：开口航班（A进B出）最佳，根据出行国物价判断预算，不要选择国家太多的行程。</h5>
 						<div>在其他标准相同的情况下，费用排名基本如下：<br/>
 						<strong>少国出行 > 多国出行北欧路线 > 西欧路线（德法瑞）> 东欧路线（匈牙利捷克等）<br/>
 						开口航班（A城进B城出） > 闭口航班（同进同出）</strong></div>
 						<br/>
+						<h6>说明：</h6>
 						<ul>
-							<h6>说明：</h6>
+							
 							<li>游玩3国价格通常都高于4国价格，所以会出现游玩7、8个国家的价格却低于2国深度游。</li>
 							<li>北欧、西欧、东欧的价格差是根据各国物价决定，每个国家的基础消费、酒店等各方面不同所形成的差价，而这一点也会影响一些自费项目及人均消费。</li>
 							<li>开口航班，意味着旅行社是分开订的航班。自己订过机票的人都知道，国际单程的机票要远高于往返机票。从体验度上而言，欧洲旅行基本没有环线可选，同进同出意味着要多出大量时间在交通上。TravelPlus设计的路线，大部分为开口航班，不走回头路。</li>
 						</ul>
 					</div>
-					<div role="tabpanel" class="tab-pane fade detailItem" id="optionalItem">
+					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_5">
 						<h5>敲重点：低价团总有它低价的原因，购物和自费项目是选择跟团游要注意的点。</h5>
 						<dl>
 							<dt>购物安排对价格影响：</dt>
 							<dd>不含购物点 > 含小购物点 > 不明确说明购物点</dd>
-
-							<ul>
-								<h6>说明：</h6>
+							<br/>
+							<h6>说明：</h6>
+							<ul>								
 								<li>不含购物点，并不是没有购物行程。例如，游客可在自由时间，自行安排购物，这是正规且合乎人意的方式。旅行社赚不到额外的钱，团费自然较高。</li>
 								<li>含小购物点，例如一些珠宝厂、香水博物馆，对于此类，欧洲大部分是不会强制，但白眼之类的还是会来几个。</li>
 								<li>不明确说明购物点，不同于不含。正常档期的价格低廉团，这种应该是最可怕的。</li>
 								<li><Strong>EF TravelPlus绝无任何强制购物安排；包含重点景点费用，且包含非自由时间涉及的海外导游/司机小费。</Strong></li>
 							</ul>
 							<br/>
+							<h6>自费项目对价格影响：</h6>
 							<ul>
-								<h6>自费项目对价格影响：</h6>
+								
 								<li>一价全包无自费 > 部分自费项目 > 大量自由活动行程</li>
 							</ul>
 							<br/>
+							<h6>说明：</h6>
 							<ul>
-								<h6>说明：</h6>
+								
 								<li>不想操心就选择一价全包，有自理能力的旅游者可考虑半自助行程。</li>
 								<li>如果有能力自行解决的人来说，那么尝试一下大量自由活动行程也许更省钱且自由。</li>
 								<li><strong>TravelPlus会列明每个行程的自由时间段，给您自我探索的时间和灵活性。</strong></li>
 							</ul>
 						</dl>
 					</div>
-					<div role="tabpanel" class="tab-pane fade detailItem" id="others">
+					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_6">
 						<h5>敲重点：很多旅行团都是做的代理，实际到了当地会是另一个旅行社接待，这种在管理上都会出现问题，当然也是为了节约成本。</h5>
 						<ul>
 							<li>给上洗手间准备一笔支出：欧洲很多场所的公共厕所是收费的，0.5欧元或1欧。</li>
@@ -179,8 +183,8 @@
 							<li>全程组团还是散客拼团,事前需要明确知道。</li>
 						</ul>
 						<br/>
-						<ul>						
-							<h6>说了这么多，结论就是：</h6>
+						<h6>说了这么多，结论就是：</h6>
+						<ul>													
 							<li>省心的跟团游，对自由度必然有所牺牲</li>
 							<li>低价出行，必然有一些坑要防</li>
 							<li>根据自身出行要求选择最适合自己的旅行，价格并不是唯一导向</li>
@@ -335,18 +339,28 @@
 ?>
 <?php include 'popup.php' ;?>
 
-
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
 		<script src="js/popup.js"></script>
 		<script type="text/javascript">
-			var left = $('.blueRList li a').offsetLeft();
-
 			$('.blueRList li').click(function(){
-				var left = $('.blueRList li.active').offsetLeft();
-				var arrowLeft = $('')
-			})
+				var left = $(this).offset().left;
+				if (jQuery(window).width() >=768){
+					$('.belongToArrow').css('left',left-325);
+				}
+				else {
+					$('.belongToArrow').css('left',left-4);
+				}
+				$('.blueRList li').removeClass('active');
+				$(this).addClass('active');
+			});
+			function changeTab(tabCon_num) {
+				for (var i=0;i<=6;i++) {
+					$('#tabCon_'+i).hide();
+				}
+				$('#tabCon_'+tabCon_num).show();
+			}
 		</script>
 	</body>
 </html>

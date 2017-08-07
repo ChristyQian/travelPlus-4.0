@@ -1,5 +1,5 @@
 * {
-	font-size:14px;
+	/*font-size:14px;*/
 	line-height:20px;
 }
 h1 {
@@ -32,6 +32,8 @@ ul {
 }
 .blueRList {
 	display:table;
+	padding-top:20px;
+	padding-left:0;
 }
 .blueRList>li {
 	display:table-cell;
@@ -76,6 +78,12 @@ ul {
 	padding:10px 20px;
 	margin-top:20px;
 }
+.detailWrap .tab-pane {
+	display:none;
+}
+.detailWrap .belongToArrow+.tab-pane{
+	display:block;
+}
 .belongToArrow {
 	position:absolute;
 	border-bottom:10px solid #2f7899;
@@ -85,12 +93,21 @@ ul {
 	top:-20px;
 	left:30px;
 }
+.secArrow {
+	position: absolute;
+	border-bottom:10px solid #fff;
+	border-left:10px solid transparent;
+	border-right:10px solid transparent;
+	border-top:10px solid transparent;
+	top:-8px;
+	left:-10px;
+}
 .detailWrap li,
 .detailWrap dd {
 	list-style: disc;
 }
 h5 {
-	font-size:24px;
+	font-size:20px;
 }
 h6 {
 	font-size:18px;
@@ -107,7 +124,6 @@ h6 {
 	display: inline-block;
     width: 100%;
     background-color: #f7f5f0;
-    margin: 15px 5px;
     padding: 20px;
     position: relative;
     font-size: 14px;
@@ -152,6 +168,10 @@ h6 {
 		bottom:10%;
 		line-height:36px;
 	}
+	.competitor .site h3 {
+		font-size:18px;
+		padding:20px 0 0;
+	}
 	.twoThird,
 	.oneThird {
 		display:block;
@@ -171,27 +191,46 @@ h6 {
 	.blueRList li {
 		/*display:block;*/
 		width:60px;
-		height:60px;
+		height:40px;
 	}
-	.blueRList li a {
-		width:50px;
-		height:50px;
+	.blueRList>li>a {
+		width:45px;
+		height:45px;
+		margin:0;
 		font-size:12px;
 		line-height: initial;
 	}
 	.detailWrap {
 		/*width:80%;*/
+		font-size:12px;
 		padding-left:10px;
 		line-height:24px;
 		/*max-height:420px;
 		overflow-y: auto;*/
 	}
 	.detailWrap h5 {
-		font-size:18px;
+		font-size:16px;
+	}
+	h6 {
+		font-size:14px;
+		padding:5px 0;
 	}
 	.itiPrice {
 		position:static;
 		top:90px;
-		font-size: 18px;
+		font-size: 14px;
+	}
+	
+	.belongToArrow,
+	.secArrow {
+		border-width: 6px;
 	}	
+	.belongToArrow {
+		left:16px;
+		top:-12px;
+	}
+	.secArrow {
+		top:-5px;
+		left:-6px;
+	}
 }

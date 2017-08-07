@@ -36,7 +36,7 @@
 		<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 			<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 				<div class="imgWrap">
-					<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
+					<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
 					<div class="hotSale">
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">

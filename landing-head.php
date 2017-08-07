@@ -6,7 +6,6 @@
 	<link type="text/css" rel="stylesheet" href="css/fontawesome.css">
 	<link type="text/css" rel="stylesheet" href="css/common.css">	
 	<link type="text/css" rel="stylesheet" href="css/landing.css">
-	<link type="text/css" rel="stylesheet" href="css/competitor.css">
 	<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">	
 	<script src="https://use.fontawesome.com/cb43aec7ef.js"></script>		
 	<!--[if IE]>

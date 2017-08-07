@@ -42,6 +42,12 @@
 							</div>-->
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
+								<option value="australia" data-display="澳大利亚">澳大利亚</option>
+								<option value="wus" data-display="美国西部">美国西部</option>
+								<option value="ic" data-display="冰岛">冰岛</option>
+								<option value="db" data-display="迪拜">迪拜</option>
+								<option value="mo" data-display="摩洛哥">摩洛哥</option>
+								<option value="portu" data-display="葡萄牙">葡萄牙</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -50,43 +56,56 @@
 								<option value="it" data-display="意大利">意大利</option>
 								<option value="sp" data-display="西班牙">西班牙</option>
 								<option value="nz" data-display="荷兰">荷兰</option>
-								<option value="sw" data-display="瑞士">瑞士</option>
+								<option value="swz" data-display="瑞士">瑞士</option>
+								<option value="swd" data-display="瑞典">瑞典</option>
 								<option value="gr" data-display="希腊">希腊</option>
 								<option value="dm" data-display="丹麦">丹麦</option>
 								<option value="nw" data-display="挪威">挪威</option>
-								<option value="fl" data-display="芬兰">芬兰</option>
+								<!-- <option value="fl" data-display="芬兰">芬兰</option> -->
 								<option value="bg" data-display="比利时">比利时</option>
-								<option value="au" data-display="奥地利">奥地利</option>
+								<option value="austria" data-display="奥地利">奥地利</option>
 							</select>
 						</div>
-						<div id="trip-tag" class="flex-row-start-start flex-flow">
-							<div data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
+						<!-- <div id="trip-tag" class="flex-row-start-start flex-flow">
+							<div id="tag-history" data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
 								历史遗迹
 							</div>
-							<div data-tag="art" data-display="艺术人文" name="tag-selector" class="checkbox">
+							<div id="tag-art" data-tag="art" data-display="艺术人文" name="tag-selector" class="checkbox">
 								艺术人文
 							</div>
-							<div data-tag="nature" data-display="自然风光" name="tag-selector" class="checkbox">
+							<div id="tag-nature" data-tag="nature" data-display="自然风光" name="tag-selector" class="checkbox">
 								自然风光
 							</div>
-							<div data-tag="seaview" data-display="海景沙滩" name="tag-selector" class="checkbox">
+							<div id="tag-seaview" data-tag="seaview" data-display="海景沙滩" name="tag-selector" class="checkbox">
 								海景沙滩
 							</div>
-							<div data-tag="honeymoon" data-display="浪漫蜜月" name="tag-selector" class="checkbox">
+							<div id="tag-honeymoon" data-tag="honeymoon" data-display="浪漫蜜月" name="tag-selector" class="checkbox">
 								浪漫蜜月
 							</div>
-							<div data-tag="family" data-display="亲子家庭" name="tag-selector" class="checkbox">
+							<div id="tag-family" data-tag="family" data-display="亲子家庭" name="tag-selector" class="checkbox">
 								亲子家庭
 							</div>
-							<div data-tag="northeuro" data-display="北欧风情" name="tag-selector" class="checkbox">
+							<div id="tag-northeuro" data-tag="northeuro" data-display="北欧风情" name="tag-selector" class="checkbox">
 								北欧风情
 							</div>
-							<div data-tag="food" data-display="美食美酒" name="tag-selector" class="checkbox">
+							<div id="tag-food" data-tag="food" data-display="美食美酒" name="tag-selector" class="checkbox">
 								美食美酒
 							</div>
-						</div>
+						</div> -->
 					</div>
-					<button class="blueRBtn search"  onclick="Trip_Filter();">搜索</button>
+					<button class="blueRBtn search"  onclick="Trip_Filter();"><i class="fa fa-search"></i>搜索</button>
+				</div>
+			</div>
+		</div>
+		
+		<div class="section filter filterResult" id="tripsFilter" data-spy="affix" style="display:none;" data-offset-top="600">
+			<div class="site">
+				<div class="flex-row-center-between">
+					<div id="filter-selected" class="flex-row-center-start filterConditions">
+					</div>
+					
+					<button class="blueRBtn edit"><i class="fa fa-pencil-square-o" aria-hidden="true"></i>编辑</button>
+					
 				</div>
 			</div>
 		</div>
@@ -105,7 +124,7 @@
 		
 		<div class="site">
 			<!-- trips -->
-			            <?PHP		
+			    <?PHP		
 				// LOAD ITINERARY BOX TEMPLATES
 			    $templates = [];
 			    $files     = scandir("itineraries/templates");

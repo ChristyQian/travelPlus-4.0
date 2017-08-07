@@ -86,6 +86,8 @@
 								<option value="db" data-display="迪拜">迪拜</option>
 								<option value="mo" data-display="摩洛哥">摩洛哥</option>
 								<option value="portu" data-display="葡萄牙">葡萄牙</option>
+								<option value="hungary" data-display="匈牙利">匈牙利</option>
+								<option value="czech" data-display="捷克">捷克</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -188,7 +190,7 @@
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 							<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 								<div class="imgWrap">
-									<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
+									<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
 									<div class="hotSale">
 										<div class="transparentBg"></div>
 										<div class="transparentTxt">
@@ -281,6 +283,38 @@
 								</div>
 							</a>
 					    </div>
+					<div id="budapest-vienna-prague" name="home-trip-box" class="home-trip-box" data-dest="hungary,czech,austria" data-tag="nature">
+						<a href="itinerary-budapest-vienna-prague.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/budapest-vienna-prague.jpg" alt="" />
+								<div class="hotSale" style="display:none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									东欧捷奥匈帝国之旅 <br/>
+									布达佩斯 - 维也纳 - 布拉格
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥28,000</span>
+									<span class="price">￥16,400<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>	
 					<div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
 						<a href="itinerary-portugal-spain-morocco.php" >	
 							<div class="imgWrap">
@@ -308,7 +342,7 @@
 								<div>
 									16天
 									<span class="delPrice">￥28,000</span>
-									<span class="price">￥28,000<span>起</span></span>
+									<span class="price">￥26,200<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -1057,7 +1091,7 @@
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 							<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 								<div class="imgWrap">
-									<img src="img/itinerary/allTripsList/Barcelona,-Southern-France-&-the-Italian-Riviera.jpg" alt="" />
+									<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
 									<div class="hotSale">
 										<div class="transparentBg"></div>
 										<div class="transparentTxt">
