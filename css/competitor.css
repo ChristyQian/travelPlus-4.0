@@ -28,6 +28,7 @@ h1 {
 .oneThird {
 	/*width:33%;*/
 	/*position:absolute;*/
+	width:419px;
 	right: 0;
 }
 .oneThird .card {
@@ -167,7 +168,6 @@ h6 {
 .whyUsTxt .transparentTxt {
 	font-size:14px;
 }
-
 .rightWrap .browse-banner-content-box h5 span {
 	display:block;
 	font-size:14px;
