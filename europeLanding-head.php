@@ -4,9 +4,8 @@
 	<link href="img/ef.ico" rel="icon" type="image/x-icon">
 	<link href="img/ef.ico" rel="shortcut icon" type="image/x-icon">
 	<link type="text/css" rel="stylesheet" href="css/fontawesome.css">
-	<!-- <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css"> -->
 	<link type="text/css" rel="stylesheet" href="css/common.css">
-	<link type="text/css" rel="stylesheet" href="css/allTrips.css">	
+	<!-- <link type="text/css" rel="stylesheet" href="css/allTrips.css"> -->	
 	<link type="text/css" rel="stylesheet" href="css/landing.css">
 	<link type="text/css" rel="stylesheet" href="css/competitor.css">
 	<link type="text/css" rel="stylesheet" href="css/mediaQuery.css">	

@@ -1,39 +1,44 @@
-* {
-	/*font-size:14px;*/
-	line-height:20px;
-}
 h1 {
 	position: absolute; 
-	right:18%;
-	top:20%;
+	/*left:18%;*/
+	top:50%;
 	color:#fff;
 	font-size:48px;
 	line-height:68px;
-	text-align:right;
 	opacity: 0.9;
 }
-ul {
-	padding-left:20px;
+.yellowTxt {
+	color:#f5a623;
+	margin-right:5px;
 }
 .browse-page-container {
 	height:auto;
 }
+.landing {
+	font-size:14px;
+	position: relative;
+}
 .twoThird {
 	margin-left:0;
-	margin-top:150px;
+	margin-top:30px;
 	padding:20px;
-	width:66%;
+	margin-right:22px;
+/*	width:66%;*/
 }
 .oneThird {
-	width:33%;
+	/*width:33%;*/
+	/*position:absolute;*/
+	right: 0;
 }
 .oneThird .card {
-	margin-top:20px;
+	margin-top:160px;
 }
 .blueRList {
 	display:table;
+	width:100%;
 	padding-top:20px;
 	padding-left:0;
+	position:relative;
 }
 .blueRList>li {
 	display:table-cell;
@@ -45,16 +50,19 @@ ul {
     margin-bottom: 0;
 }
 .blueRList>li>a {
-	display:table-cell;
+	display:block;
 	width:80px;
 	height:80px;
 	background-color:#94c5db;
 	border-radius:50%;
 	vertical-align: middle;
 	color:#fff;
-	margin:10px;
+	font-size:14px;
+	margin:10px auto;
 	text-align:center;
-	line-height:24px;
+	line-height:80px;
+	letter-spacing: 5px;
+	padding-left:5px;
 }
 .blueRList>li>a,
 .blueRList>li>a:hover,
@@ -77,6 +85,9 @@ ul {
 	border-radius:10px;
 	padding:10px 20px;
 	margin-top:20px;
+}
+.detailWrap ul {
+	padding-left:20px;
 }
 .detailWrap .tab-pane {
 	display:none;
@@ -112,13 +123,6 @@ h5 {
 h6 {
 	font-size:18px;
 	font-weight:bold;
-}
-/* rewrite Bootstrap */
-.nav-tabs {
-	border-bottom:none;
-}
-.nav>li>a {
-	padding:0;
 }
 .home-trip-box {
 	display: inline-block;
@@ -160,13 +164,55 @@ h6 {
 	line-height: 40px;
 	margin-top:10px;
 }
+.whyUsTxt .transparentTxt {
+	font-size:14px;
+}
+
+.rightWrap .browse-banner-content-box h5 span {
+	display:block;
+	font-size:14px;
+}
+.site .flex-row-start-start+.card {
+	display:none;
+}
+.rightWrapHead {
+	display:none;
+}
+/* rewrite landing css START */
+.browse-banner {
+	height:276px;
+}
+.browse-banner .browse-banner-overlay {
+	width:100%;
+	height:300px;
+	overflow:hidden;
+}
+.browse-banner .browse-banner-content-box {
+	width:419px;
+}
+.browse-banner .browse-banner-content-box .ibWrap {
+	width:100%;
+}
+/* rewrite landing css END */
 @media screen and (max-width: 425px) {
 	h1 {
 		font-size:24px;
-		right:10%;
+		left:5%;
 		top:auto;
-		bottom:10%;
+		bottom:5%;
 		line-height:36px;
+	}
+	.browse-banner .browse-banner-content-box {
+		width:100%;
+	}
+	.browse-banner {
+		height:auto;
+	}
+	.browse-banner-bg {
+		height:109px;
+	}
+	.header-nav.affix {
+		opacity: 0;
 	}
 	.competitor .site h3 {
 		font-size:18px;
@@ -198,7 +244,7 @@ h6 {
 		height:45px;
 		margin:0;
 		font-size:12px;
-		line-height: initial;
+		line-height: 45px;
 	}
 	.detailWrap {
 		/*width:80%;*/
@@ -232,5 +278,17 @@ h6 {
 	.secArrow {
 		top:-5px;
 		left:-6px;
+	}
+	.site .flex-row-start-start+.card {
+	    display: block;
+	    margin-top: 0;
+	    background-color: transparent;
+	}
+	.rightWrap {
+		width:100%;
+	}
+	.rightWrapHead {
+		display:block;
+		
 	}
 }

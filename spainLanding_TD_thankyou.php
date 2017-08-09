@@ -16,11 +16,9 @@
 ?>
 	<div id="thankYouPage" class="banner-ty flex-center-center" style="background: url(img/banner-thank-you.jpg);">
         <div class="wrap flex-wrap flex-col-center-center">
-            <button class="button-download" onclick="window.open('files/bfr.pdf')">点击下载攻略</button>
-            <div class="tips">(文件大约10M，请在WiFi环境下下载)</div>
             <h2>感谢你的关注！</h2>
-			<p>想了解更多路线玩法推荐，或咨询签证问题<br/>
-			不如一键添加旅游顾问：EF小家 和TA沟通吧！</p>
+			<p>我们的旅行顾问会尽快联系你<br/>
+			如想咨询任何旅游相关问题，不如一键添加旅游顾问：EF小家 和TA沟通吧！</p>
             <img class="content-box-qr" src="img/sSqrcode.jpg" width="200">
         </div>
     </div>

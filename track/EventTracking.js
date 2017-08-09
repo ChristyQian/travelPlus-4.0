@@ -159,7 +159,7 @@ $(document).on('click', ".breadcrumbs li a", function(){
 
 //ask for bfr in SpainLanding_download mobile screen
 $(document).on('click', ".rightWrapHead", function(){
-	bs_trackClick(bs_getEventCategory(), "Ask for BFR");
+	bs_trackClick(bs_getEventCategory(), "Open Form in Mobile");
 });
 
 //close the form in SpainLanding_download mobile screen
@@ -170,4 +170,10 @@ $(document).on('click', ".goBackStatusIcon", function(){
 //download BFR form spainLanding-download-Thankyou page
 $(document).on('click', ".button-download", function(){
 	bs_trackClick(bs_getEventCategory(), "Download PDF");
+});
+
+//click tab in europeLanding page
+$(document).on('click', ".blueRList li a", function(){
+	var tabValue = $(this).attr('aria-controls');
+	bs_trackClick(bs_getEventCategory(), "Seven Tabs: " + tabValue);
 });

@@ -9,7 +9,7 @@
 
     include_once("landing-head.php"); 
 ?>
-	<body data-spy="scroll">
+	<body class="td" data-spy="scroll">
 	
 <?php 
 	 include_once('common-header2.php');
@@ -43,10 +43,13 @@
 										<div class="landingInfo">
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
-												<h5>Spain Tours</h5>
-												<h1>玩在西班牙</h1>
-												<p>从马德里的博物馆，到塞尔维亚奔放热情的弗拉门戈，从流动的建筑博物馆巴塞罗那，到直布罗陀海峡的黄金海岸。作为世界文化遗产最多的国家之一，热情洋溢的西班牙同时还人文荟萃。三大宗教先后统治这片土地，各自留下了灿烂的文化。
-												</p>
+												<h5 style="font-size:14px;line-height:initial;">Spain Tours</h5>
+												<h1>跟着外籍导游Chris,玩转西班牙</h1>
+												<div>
+													<img src="img/itinerary/tourDirector/Chris.jpg" />
+													<p>西班牙是在英孚担任了近20年欧洲导游的我心目中的圣地。从热情洋溢的马德里，到我的家乡塞维利亚，从艺术气息浓厚的巴塞罗那，到明媚的黄金海岸，西班牙的每个城市都有各自不言而喻的魅力。我迫不及待地想与你们分享这里的醉人风景和灿烂文化！
+													</p>
+												</div>
 											</div>
 										</div>		 
 										<div class="card" id="card" data-spy="affix" data-offset-top="500">
@@ -81,13 +84,13 @@
 								{	
 								 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
 								 
-								 Lead_Validation("sp-form", "Lead_Insert", "spainLanding_download_thankyou.php", true);
+								 Lead_Validation("sp-form", "Lead_Insert", "spainLanding_TD_thankyou.php", true);
 								}
 								</script>
 								<div class="rightWrap">
-									<h5 class="rightWrapHead">下载独家攻略，寻找出游灵感&nbsp;&gt;&gt;</h5>									
+									<h5 class="rightWrapHead">跟着外籍导游Chris玩转西班牙&nbsp;&gt;&gt;</h5>									
 									<div class="browse-banner-content-box">
-										<h5>下载独家攻略，寻找出游灵感
+										<h5>跟着外籍导游Chris玩转西班牙
 											<div class="goBackStatusIcon">
 												<div class="whiteTrangle"></div>
 												<div class="backgroundTrangle"></div>
@@ -172,14 +175,9 @@
 
 												</form>					
 
-												<button id="lead-submit-button" onclick="Quotation_Form_Submit()" class="orangeBtn" >下载攻略</button>
+												<button id="lead-submit-button" onclick="Quotation_Form_Submit()" class="orangeBtn" >咨询路线玩法</button>
 											</div>
 										</div>
-										<div class="ibWrap downloadBg">
-											<img class="blockImg" src="img/download.gif" height="55"/>
-											<p>提交表单<br/>下载独家攻略</p>
-										</div>
-										<div class="oTrCorner"><img src="img/Brochure.png" width="45" /></div>	
 									</div>
 								</div>
 							</div>
