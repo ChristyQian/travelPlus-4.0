@@ -320,7 +320,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/london-paris-amsterdam.jpg"  />
+					<img src="img/itinerary/map/shopping-in-londan-paris-amsterdam.jpg"  />
 				</div>
 				<div class="initialScreen">							
 					<div class="com_itinerary_summary">
