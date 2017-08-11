@@ -149,18 +149,33 @@
 <br/>
 				<h3>跟团游价格差异主要来自以下几个方面:</h3>
 				<ul class="nav nav-tabs blueRList" role="tablist">
-					<li role="presentation" class="active" onclick="changeTab('0')"><a href="#flight" aria-controls="flight" role="tab" data-toggle="tab">航班</a></li>
-					<li role="presentation" onclick="changeTab('1')"><a href="#hotel" aria-controls="hotel" role="tab" data-toggle="tab">住宿</a></li>
-					<li role="presentation" onclick="changeTab('2')"><a href="#catering" aria-controls="catering" role="tab" data-toggle="tab">餐食</a></li>
-					<li role="presentation" onclick="changeTab('3')"><a href="#timeOfDep" aria-controls="timeOfDep" role="tab" data-toggle="tab">时间</a></li>
-					<li role="presentation" onclick="changeTab('4')"><a href="#route" aria-controls="route" role="tab" data-toggle="tab">线路</a></li>
-					<li role="presentation" onclick="changeTab('5')"><a href="#optionalItem" aria-controls="optionalItem" role="tab" data-toggle="tab">购物</a></li>
-					<li role="presentation" onclick="changeTab('6')"><a href="#others" aria-controls="others" role="tab" data-toggle="tab">其他</a></li>
+					<li role="presentation" class="active" onclick="changeTab('0')"><a href="#flight" aria-controls="flight" role="tab" data-toggle="tab">
+						<img />
+					</a><p>航班</p></li>
+					<li role="presentation" onclick="changeTab('1')"><a href="#hotel" aria-controls="hotel" role="tab" data-toggle="tab">
+						<img src="img/image002.png"/>
+					</a><p>住宿</p></li>
+					<li role="presentation" onclick="changeTab('2')"><a href="#catering" aria-controls="catering" role="tab" data-toggle="tab">
+						<img src="img/image003.png"/>
+					</a><p>餐食</p></li>
+					<li role="presentation" onclick="changeTab('3')"><a href="#timeOfDep" aria-controls="timeOfDep" role="tab" data-toggle="tab">
+						<img src="img/image004.png"/>
+					</a><p>时间</p></li>
+					<li role="presentation" onclick="changeTab('4')"><a href="#route" aria-controls="route" role="tab" data-toggle="tab">
+						<img src="img/image005.png"/>
+					</a><p>线路</p></li>
+					<li role="presentation" onclick="changeTab('5')"><a href="#optionalItem" aria-controls="optionalItem" role="tab" data-toggle="tab">
+						<img src="img/image006.png"/>
+					</a><p>购物</p></li>
+					<li role="presentation" onclick="changeTab('6')"><a href="#others" aria-controls="others" role="tab" data-toggle="tab">
+						<img src="img/image007.png"/>
+					</a><p>其他</p></li>
 				</ul>
 				<div class="tab-content detailWrap">
 					<div class="belongToArrow"><div class="secArrow"></div></div>
 					<div role="tabpanel" class="tab-pane fade in active detailItem" id="tabCon_0">
 						<h5><span class="yellowTxt">敲重点：</span>直达=贵+省时；转机=便宜+耗时；转机尽量选择品质航空。</h5>
+						<br/>
 						<div>去欧洲的国际航班，通常分为转机和直达，根据航空公司类型，大致分类如下：</div>
 						<br/>
 						<div>
@@ -184,6 +199,7 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_1">
 						<h5><span class="yellowTxt">敲重点：</span>低价团多数住“欧洲小镇”，市区酒店只存在于高价团。</h5>
+						<br/>
 						<div>“欧洲小镇”就是所有郊区酒店统称，又可分为几大类：非星级酒店、国际连锁经济酒店、国际连锁星级酒店。</div>
 						<br/>
 						<div>
@@ -204,6 +220,7 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_2">
 						<h5><span class="yellowTxt">敲重点：</span>包餐最省钱，升级当地须防坑。</h5>
+						<br/>
 						<div>欧洲团，一般3种：团餐、升级当地美食、不包餐</div>
 						<br/>
 						<div>
@@ -223,6 +240,7 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_3">						
 						<h5><span class="yellowTxt">敲重点：</span>冬季便宜，暑假较贵，5、11月性价比最高，国庆优于春节。</h5>
+						<br/>
 						<div>此条对价格影响较大，旺季淡季差距可达到大几千块钱，但对于一般上班族而言也需要平衡请假、出行体验度的成本再考虑。<strong><span class="yellowTxt">EF TravelPlus</span>挑选适合不同季节出游的精彩路线，更有主题线路玩法供你选择。 </strong></div>
 						<br/>
 						<div>
@@ -244,6 +262,7 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_4">
 						<h5><span class="yellowTxt">敲重点：</span>开口航班（A进B出）最佳，根据出行国物价判断预算，不要选择国家太多的行程。</h5>
+						<br/>
 						<div>在其他标准相同的情况下，费用排名基本如下：<br/>
 						<strong>少国出行 > 多国出行北欧路线 > 西欧路线（德法瑞）> 东欧路线（匈牙利捷克等）<br/>
 						开口航班（A城进B城出） > 闭口航班（同进同出）</strong></div>
@@ -258,6 +277,7 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_5">
 						<h5><span class="yellowTxt">敲重点：</span>低价团总有它低价的原因，购物和自费项目是选择跟团游要注意的点。</h5>
+						<br/>
 						<dl>
 							<dt>购物安排对价格影响：</dt>
 							<dd>不含购物点 > 含小购物点 > 不明确说明购物点</dd>
@@ -287,6 +307,7 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_6">
 						<h5><span class="yellowTxt">敲重点：</span>很多旅行团都是做的代理，实际到了当地会是另一个旅行社接待，这种在管理上都会出现问题，当然也是为了节约成本。</h5>
+						<br/>
 						<ul>
 							<li>给上洗手间准备一笔支出：欧洲很多场所的公共厕所是收费的，0.5欧元或1欧。</li>
 							<li>境外导游/司机小费：出境游一般都要收取小费，有的团会有明确表示在何时缴纳或者是否包含，但有些是到了当地后漫天要价。建议提前沟通好，需要付多少、何时付、出境前付过后到达当地是否无需再付。</li>

@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt" style="visibility: hidden;">热卖</div>
+						<div class="yellowTxt">TravelZoo专享</div>
 						<div class="tourName">原味欧洲，古堡童话之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -37,6 +37,7 @@
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount8 ?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -60,7 +61,7 @@
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">一键预订优惠</a>
 						</div>
 					</div>
 				</div>
@@ -890,13 +891,13 @@
 
 			<div class="quotation">
 
-				<h4>获取实时价格</h4>
-
+				<h4>一键预订优惠</h4>
+				<span class="declare">*不会产生任何费用 / TravleZoo专享</span>
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-
-					<?php include_once('quotation-form.php'); echo $text1 ;?>
+				<?php include_once('discount.php'); echo $discount8 ?>
+					<?php include_once('quotation-form.php'); echo $text2 ;?>
 
 				</div>
 

@@ -1,62 +1,59 @@
 <!DOCTYPE html>
 <html>
-	<?php 
-	$pageName="itinerary-germany-switzerland-austria";
+<?php 
+	$pageName="itinerary-london-paris-amsterdam";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="原味欧洲，古堡童话之旅";
-	$itineraryPrice="￥22,700";
+	$itineraryName="西甲球迷观赛团";
+	$itineraryPrice="￥**,*00";
 
     include_once("itinerary-head.php"); 
 ?>
-
-	<body data-spy="scroll" data-target="#travelPlusNav">
-		<?php include_once('fix-cta.php'); echo $text1 ;?>
-		<?php include_once('common-header.php') ;?>
+	<body data-spy="scroll" data-target="#travelPlusNav" class="laliga">
+		<?php include_once('fix-cta.php'); echo $text1 ;?>			
+		<?php include_once('common-header.php') ;?>	
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Germany-Switzerland-Austria.jpg)  center center no-repeat;
+		<div class="imagesWrap" style="background:url(img/itinerary/billboard/laliga.jpg)  center center no-repeat;
 				background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt" style="visibility: hidden;">热卖</div>
-						<div class="tourName">原味欧洲，古堡童话之旅</div>
+						<div class="yellowTxt">马德里竞技 VS 皇家马德里</div>						
+						<div class="tourName">西甲球迷观赛团</div>
 						<div class="flex-row-start-between">
-							<div class="rate">
+							<div class="rate" style="display:none;">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
+							<div class="pinkTxt">【西甲球迷俱乐部官方】2017.11.17出发</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- Itinerary Info -->
+		<!-- Itinerary Info -->	  
 		<div class="site">
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">14天</div>
+						<div class="days">9天</div>
 						<div class="flex-row-start-between">
-							<div>德国</div>
+							<div>马德里</div>
 							<i class="grayArrow"></i>
-							<div>瑞士</div>
-							<i class="grayArrow"></i>
-							<div>奥地利</div>
+							<div>巴塞罗那</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
-						<div class="priceWG">
-							￥22,700
+						<div class="priceWG">							
+							￥**,*00
 							<span>起</span>
 						</div>
 						<div>
@@ -66,39 +63,40 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！</p>
+						<p class="serif">置身马德里竞技主场，观战皇马和马竞在德比新赛季的首场火爆对决，是不是想想就超燃？在这趟由西甲足球俱乐部官方组织的球迷朝圣之旅中，你就能实现西甲球迷的终极理想，为钟爱的球队呐喊助威。此外，你还可选择参观西甲总部和围观俱乐部训练等SuperFun球迷特权，并将巴塞罗那和马德里的城市风景尽收眼底。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
+								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fabrice-Tomlin</span>
+								<span class="name">Fortuna Gallo</span>
 							</div>
 						</div>
 					</div>
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
-						<p>
-							近距离走进卢塞恩湖畔村庄，将阿尔卑斯山美景尽收眼底<br/> 游览海德堡的高耸城堡和萨尔茨堡中世纪堡垒
-							<br/> 进入新天鹅堡参观
-							<br/> 感受因斯布鲁克新旧城区的完美融合
-							<br/> 品尝慕尼黑小麦啤酒和白肠
-							<br/> 参观维也纳新艺术派建筑
-							<br/>
-						</p>
+						<ul>
+							<li>西甲球迷俱乐部官方组织的西甲足球之旅</li>
+							<li>新赛季首场马德里德比，马德里竞技主场迎战皇家马德里</li>
+							<li>提供两种等级球票，可升级【参观西甲总部+参观俱乐部训练】</li>
+							<li>在马德里参观伯纳乌体育场和皇马博物馆，体育场餐厅用餐，享用地道西班牙美食</li>
+							<li>在巴塞罗那参观诺坎普体育场和巴萨博物馆，安排在梅西投资的餐厅用餐</li>
+							<li>外籍导游和中方领队带你走遍巴塞罗那和马德里的著名景点：圣家堂，西班牙广场，格拉西亚大道，普拉多博物馆</li>
+							<li>充分自由时间，探索马德里和巴塞罗那，感受西班牙足球文化</li>
+						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
-		<!-- Swiper -->
+		<!-- Swiper -->			
 		<div class="site itineraryPhoto">
 			<div class="swiper-container">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-1.jpg" />
+								<img src="img/itinerary/laliga00.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -117,7 +115,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-2.jpg" />
+								<img src="img/itinerary/laliga01.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -136,7 +134,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-3.jpg" />
+								<img src="img/itinerary/laliga02.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -155,7 +153,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-4.jpg" />
+								<img src="img/itinerary/laliga03.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -174,7 +172,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-5.jpg" />
+								<img src="img/itinerary/laliga04.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -193,7 +191,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-6.jpg" />
+								<img src="img/itinerary/laliga05.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -212,7 +210,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-7.jpg" />
+								<img src="img/itinerary/laliga06.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -231,7 +229,45 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-8.jpg" />
+								<img src="img/itinerary/laliga07.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/laliga08.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/laliga09.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -251,247 +287,220 @@
 				<!--<div class="swiper-button-prev"></div>
     				<div class="swiper-button-next"></div>-->
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
 		<!-- Include -->
 		<div class="section blueBg">
 			<div class="site">
 				<h4>价格包含</h4>
-				<div class="includedItems flex-row-start-start section">
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-1.svg" />
-						</div>
-						来往机票
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-2.svg" />
-						</div>
-						12晚精选酒店住宿
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-3.svg" />
-						</div>
-						每日早餐
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-4.svg" />
-						</div>
-						6顿三道式晚餐，供应啤酒或葡萄酒
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-5.svg" />
-						</div>
-						多语言外籍导游和中方领队
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-6.svg" />
-						</div>
-						专用豪华大巴接送
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-7.svg" />
-						</div>
-						陪同观光和精选景点门票
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-8.svg" />
-						</div>
-						除自由时间外涉及的海外服务小费
-					</div>
-					<div class="">
-						<div class="imgWrap">
-							<img src="img/page-9.svg" />
-						</div>
-						旅行期间的保险
-					</div>
+				<div class="includedItems">
+					<h5>旅行项目</h5>
+					<ul>						
+						<li>来往机票</li>
+						<li>7晚精选酒店住宿</li>						
+						<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐</li>
+						<li>多语言外籍导游和中方领队</li>
+						<li>专用豪华大巴接送</li>
+						<li>陪同观光和精选景点门票</li>
+						<li>除自由时间外涉及的海外服务小费</li>
+						<li>旅行期间的保险</li>
+					</ul>
+					<table>
+						<tr>
+							<th>套票选项</th>
+							<th>旅行项目</th>
+							<th>马竞主场 vs. 皇马比赛球票（基础票）</th>
+							<th>马竞主场 vs. 皇马比赛球票（升级球票）</th>
+							<th>【需升级SuperFan套餐】可获（参观西甲总部+参观俱乐部训练）</th>
+						</tr>
+						<tr>
+							<td>基础套票</td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>升级套票A</td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td></td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td></td>
+						</tr>
+						<tr>
+							<td>升级套票B</td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td></td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+						</tr>
+						<tr>
+							<td>升级套票C</td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td></td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+							<td><i class="fa fa-check" aria-hidden="true"></i></td>
+						</tr>
+					</table>					
+					<!-- <dl>
+						<dt>基础套票 价格包含:</dt>
+						<dd>套票所含项目</dd>
+						<dd>马竞主场 vs. 皇马比赛球票（基础票）</dd>
+					</dl>
+					<dl>
+						<dt>升级套票A 价格包含:</dt>
+						<dd>套票所含项目</dd>
+						<dd>马竞主场 vs. 皇马比赛球票（升级球票）</dd>
+					</dl>
+					<dl>
+						<dt>升级套票B 价格包含:</dt>
+						<dd>套票所含项目</dd>
+						<dd>升级SuperFan套餐可获【参观西甲总部+参观俱乐部训练】</dd>
+					</dl>
+					<dl>
+						<dt>升级套票C 价格包含:</dt>
+						<dd>升级套票A</dd>
+						<dd>升级SuperFan套餐可获【参观西甲总部+参观俱乐部训练】</dd>
+					</dl> -->
 				</div>
 			</div>
 		</div>
-		<!-- Itinerary -->
+		<!-- Itinerary -->	
 		<div class="site">
 			<h4>行程安排</h4>
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/germany-switzerland-austria.jpg" />
+					<img src="img/itinerary/map/laliga.jpg"  />
 				</div>
-				<div class="initialScreen">
+				<div class="initialScreen">							
 					<div class="com_itinerary_summary">
-						<div class="itinerary_daily_item">
+						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
 								<label>第1天</label><span>出发</span>
 							</div>
-							<div class="itinerary_daily_detail">
+							<div class="itinerary_daily_detail">										
 								<ul>
-									<li>启程并抵达海德堡</li>
+									<li>出发并抵达马德里</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>海德堡观光游</span>
+								<label>第2天</label><span>马德里观光游+伯纳乌球场和皇马博物馆+伯纳乌球场餐厅晚餐</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>漫步海德堡旧城区优雅的市场广场</li>
-									<li>游览海德堡大学</li>
-									<li>乘坐索道缆车攀上市内玫瑰色的山顶城堡，饱览脚下的老桥和莱茵河全景</li>
-									<li>在欢迎晚宴上与同行伙伴见面</li>
+									<li>参观西班牙广场, 德波神庙, 皇家宫殿, 马约尔广场, 太阳门等景点</li>
+									<li>进入普拉多博物馆参观，普拉多博物馆是世界四大博物馆之一，是了解西班牙绘画艺术必去的美术馆</li>
+									<li>【球迷朝圣】参观伯纳乌球场和皇马博物馆</li>
+									<ul>
+										<li>伯纳乌球场是皇马的主场，是皇马球迷的朝圣必去地</li>
+										<li>在皇马内部员工带领下，参观奖杯展览、球场全景、球员更衣室、更衣室通道等，走进莫德里奇、C罗、瓦拉内等大牌球星的训练日常，深入了解皇马豪门的辉煌缩影</li>
+									</ul>
+									<li>【球迷朝圣】伯纳乌球场内餐厅晚餐</li>
+									<ul>
+										<li>在伯纳乌球场内的餐厅享用地道的西班牙晚餐，用餐期间还可直接观看赛场，体会不同一般的视觉体验。</li>
+									</ul>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第3天</label><span>【球迷朝圣】马竞主场 vs. 皇马观赛之夜</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>白天在马德里自由活动，晚上在现场见证国家德比，马竞与皇马的球场厮杀。</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>经由莱茵瀑布和黑森林前往卢塞恩</span>
+								<label>第4天</label><span>【球迷朝圣】参观马竞训练基地</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>途中游览莱茵瀑布，穿越黑森林</li>
+									<li>埃斯皮诺训练场是马德里竞技的训练基地，运气好的话还能在门口见到格里兹曼、托雷斯、加梅罗等马竞大牌足球明星。</li>
+									<li><span class="yellowTxt">【需升级SuperFan套餐】</span>参观西甲总部 (西甲是世界最高水平的职业足球联赛之一，具有很强的观赏性，也是诞生最多FIFA金球奖和足球先生的联赛。你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事。)</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第5天</label><span>前往巴塞罗那，在巴塞罗那观光游览</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>								
+									<li>参观犹太山、西班牙广场、大斗牛场旧址等文化历史景点</li>
+									<li>参观兰布拉大道、巴特罗之家感受巴塞罗那的生活与艺术</li>
+									<li>进入高迪的代表作圣家堂参观，这里将圣经的场景如图画般展现，是世界上唯一未完工便被列入世界遗产的建筑</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>卢塞恩观光游</span>
+								<label>第6天</label><span class="yellowTxt">【需升级SuperFan套餐】</span><span>参观拉玛西亚青训营+下午自由活动</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>								
+									<li>拉玛西亚青训营由巴萨俱乐部建立，被称为足球界的“采石场”，为世界球坛培育了像梅西、哈维、伊涅斯塔这样的足球巨星。在我们的行程中，你将在这里看到西甲球队的实况训练。</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第7天</label><span>上午自由活动+参观诺坎普球场和巴萨博物馆+梅西餐厅晚餐</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>游览旧城区鹅卵石街道沿路的手绘建筑墙面</li>
-									<li>参观狮子纪念碑</li>
-									<li>参观巴洛克建筑耶稣会教堂</li>
-									<li>下午自由活动</li>
+									<li>【球迷朝圣】参观诺坎普球场和巴萨博物馆</li>
+									<ul>
+										<li>诺坎普球场是巴萨的黄金主场，见证了无数巴萨的绝杀与荣耀</li>
+										<li>饱览巴萨所获的奖杯，零距离参观克鲁伊夫、马拉多纳和梅西等球星的更衣室、训练场甚至他们所坐过的长椅，参观教练恩里克代表巴萨发言的新闻发布室</li>
+									</ul>
+									<li>巴萨内部员工将成为此行向导</li>
+									<li>【球迷朝圣】梅西餐厅晚餐</li>
+									<ul>
+										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜。</li>
+									</ul>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>经由列支敦斯登前往因斯布鲁克</span>
+								<label>第8天</label><span>返程</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在因斯布鲁克老城区参观著名的黄金屋顶和城市塔楼</li>
-									<li>途经前哈布斯堡王朝的皇宫因斯布鲁克 皇宫，进入庭院参观</li>
-									<li>参观因斯布鲁克大教堂</li>
+									<li>上午自由活动，下午搭乘返程航班</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>经由新天鹅堡前往慕尼黑</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>途中穿越巴伐利亚山脉，并进入新天鹅堡参观</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第7天</label><span>慕尼黑观光游</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>途经英国花园和时尚的施瓦宾格区</li>
-									<li>参观宁芬堡宫的主教宫</li>
-									<li>游览慕尼黑的中世纪心脏地带玛利亚广场，参观著名的钟琴</li>
-									<li>下午在慕尼黑自由活动</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第8天</label><span>萨尔斯堡观光游</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>参观萨尔茨堡大学和圣彼得教堂墓地</li>
-									<li>参观卡比第广场、主教宫广场和旧市集</li>
-									<li>进入建于17世纪的巴洛克式萨尔茨堡大教堂参观</li>
-									<li>途经电影《音乐之声》取景地</li>
-									<li>乘坐索道缆车前往萨尔茨堡城堡</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第9天</label><span>萨尔茨堡自由行</span>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第10天</label><span>途经梅尔克前往维也纳</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>游览梅尔克镇上的巴洛克式修道院，然后继续前往维也纳</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第11天</label><span>维也纳观光游</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>游览美泉宫</li>
-									<li>前往国会大厦和维也纳国家歌剧院</li>
-									<li>参观宏伟的霍夫堡皇宫</li>
-									<li>晚上在维也纳自由活动</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第12天</label><span>维也纳自由活动</span>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第13天</label><span>返程</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>前往机场搭乘返程航班</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第14天</label><span>抵达中国</span>
+								<label>第9天</label><span>抵达中国</span>
 							</div>
 						</div>
 						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
-					</div>
-				</div>
+					</div>						
+				</div>				
 			</div>
 			<button class="borderBtn allItinerary">查看完整行程</button>
 		</div>
-
-		<!-- Hotels -->
+		
+		<!-- Hotels -->	
 		<div class="site hotels">
 			<h4>精选酒店</h4>
 			<p class="notes">以下是我们的备选酒店，入住视具体情况而定。</p>
@@ -500,94 +509,94 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Ameron Hotel Flora/Ameron Hotel Flora_dining.jpg" />
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
+								<div class="transparentTxt">Novotel Madrid 马德里市中心诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">坐落于卢塞恩市中心，可以步行到达所有景点，餐厅和购物地点。 离火车站只有5分钟步行距离。</div>
+						<div class="hotelDes">Novotel Madrid Center酒店位于马德里市（Madrid）的萨拉曼卡区（Salamanca District），距离24小时机场巴士站200米。这家独具风格的酒店距离丽池公园（Retiro Park）有8分钟的步行路程，提供覆盖各处的免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Ameron Hotel Flora/Ameron Hotel Flora_room.jpg" />
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_dining.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
+								<div class="transparentTxt">Novotel Madrid 马德里市中心诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店附近的景点有：卢塞恩湖，卡贝尔桥，老镇，狮子纪念碑。</div>
+						<div class="hotelDes">Novotel Madrid Center酒店位于马德里市（Madrid）的萨拉曼卡区（Salamanca District），距离24小时机场巴士站200米。这家独具风格的酒店距离丽池公园（Retiro Park）有8分钟的步行路程，提供覆盖各处的免费WiFi。 </div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hotel Ramada Hotel Innsbruck/Hotel Innsbruck_dining.jpg" />
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
+								<div class="transparentTxt">Novotel Madrid 马德里市中心诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店因斯布鲁克酒店因斯布鲁克市中心，步行即可到达所有景点和地标。</div>
+						<div class="hotelDes">Novotel Madrid Center酒店位于马德里市（Madrid）的萨拉曼卡区（Salamanca District），距离24小时机场巴士站200米。这家独具风格的酒店距离丽池公园（Retiro Park）有8分钟的步行路程，提供覆盖各处的免费WiFi。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hotel Ramada Hotel Innsbruck/Hotel Innsbruck_room.jpg" />
+								<img src="img/hotel/Pullman Barcelona Skipper/Pullman Barcelona Skipper_ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
+								<div class="transparentTxt">Pullman Barcelona Skipper 巴塞罗那斯基普伯尔曼酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">乘坐巴士5分钟可以到达因斯布鲁克市中心。</div>
+						<div class="hotelDes">Pullman Barcelona Skipper酒店邻近巴塞罗那的奥林匹克港口（Olympic Port），提供五星级的奢华住宿，距离海滩仅有100米，配有免费无线网络连接和2个室外游泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Best Western Firenze/Best Western Firenze _dining.jpg" />
+								<img src="img/hotel/Pullman Barcelona Skipper/Pullman Barcelona Skipper_dining.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
+								<div class="transparentTxt">Pullman Barcelona Skipper 巴塞罗那斯基普伯尔曼酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">贝斯特韦斯特菲兰其酒店是一家位于新门大道的优雅酒店，可以步行到达所有最重要的城市地标和旅游景点。</div>
+						<div class="hotelDes">酒店提供带平面电视和DVD播放机的宽敞卧室，以及带花洒淋浴的典雅浴室。Pullman Barcelona Skipper酒店设有带城市和大海美景的屋顶泳池，以及带阳光躺椅的季节性开放的大型露台。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Best Western Firenze/Best Western Firenze _room.jpg" />
+								<img src="img/hotel/Pullman Barcelona Skipper/Pullman Barcelona Skipper_room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
+								<div class="transparentTxt">Pullman Barcelona Skipper 巴塞罗那斯基普伯尔曼酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">竞技场、朱丽叶的故居和墓碑、罗马剧场、维罗纳老城堡等景点都离酒店不远。</div>
+						<div class="hotelDes">Pullman Barcelona Skipper酒店邻近巴塞罗那的奥林匹克港口（Olympic Port），提供五星级的奢华住宿，距离海滩仅有100米，配有免费无线网络连接和2个室外游泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Best Western Firenze/Best Western Firenze _ext.jpg" />
+								<img src="img/hotel/Pullman Barcelona Skipper/Pullman Barcelona Skipper_pool.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
+								<div class="transparentTxt">Pullman Barcelona Skipper 巴塞罗那斯基普伯尔曼酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">贝斯特韦斯特菲兰其酒店是一家位于新门大道的优雅酒店，可以步行到达所有最重要的城市地标和旅游景点。</div>
+						<div class="hotelDes">酒店提供带平面电视和DVD播放机的宽敞卧室，以及带花洒淋浴的典雅浴室。Pullman Barcelona Skipper酒店设有带城市和大海美景的屋顶泳池，以及带阳光躺椅的季节性开放的大型露台。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
-
+		
 		<!-- Flight -->
 		<div class="site flight">
 			<h4 class="flex-row-end-between">
@@ -608,32 +617,36 @@
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="departure">成都出发</div>
-						<div class="com_flightInfo">
-							<div class="voyage">启程</div>
-							<div class="ibWrap">
-								<div class="">荷兰皇家航空</div>
-								<div class="">13h10m</div>
-								<div class="">1次中转</div>
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">中国国航、汉莎航空</div>
+									<div class="">25h20m</div>
+									<div class="">2次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>成都</span>18:00</div>
+									<div class="airport"><span>北京</span>20:40</div>
+									<div class="airport"><span>北京</span>02：20+1</div>
+									<div class="airport"><span>法兰克福</span>05:10</div>
+									<div class="airport"><span>法兰克福</span>09:50</div>
+									<div class="airport"><span>马德里</span>12:20</div>
+								</div>
 							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>成都</span>14:35</div>
-								<div class="airport"><span>阿姆斯特丹</span>19:00</div>
-								<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-								<div class="airport"><span>法兰克福</span>21:45</div>
-							</div>
-						</div>
-						<div class="com_flightInfo">
-							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">荷兰皇家航空</div>
-								<div class="flex1">16h35m</div>
-								<div class="flex1">1次中转</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>维也纳</span>14:15</div>
-								<div class="airport"><span>阿姆斯特丹</span>16:10</div>
-								<div class="airport"><span>阿姆斯特丹</span>21:15</div>
-								<div class="airport"><span>成都</span>12:50+1</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">中国国航</div>
+									<div class="">15h55m</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>马德里</span>11:10</div>
+									<div class="airport"><span>北京</span>05:00+1</div>
+									<div class="airport"><span>北京</span>07:00</div>
+									<div class="airport"><span>成都</span>10:05</div>								
+								</div>
 							</div>
 						</div>
 					</div>
@@ -643,29 +656,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰皇家航空</div>
-									<div class="">15h30m</div>
+									<div class="">阿联酋航空</div>
+									<div class="">20h35m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海</span>12:15</div>
-									<div class="airport"><span>阿姆斯特丹</span>17:55</div>
-									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-									<div class="airport"><span>法兰克福</span>21:45</div>
+									<div class="airport"><span>上海</span>06:15</div>
+									<div class="airport"><span>迪拜</span>12:05</div>
+									<div class="airport"><span>迪拜</span>14:40</div>
+									<div class="airport"><span>马德里</span>19:50</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰皇家航空</div>
-									<div class="">13h50m</div>
+									<div class="">阿联酋航空</div>
+									<div class="">17h40m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>维也纳</span>14:15</div>
-									<div class="airport"><span>阿姆斯特丹</span>16:10</div>
-									<div class="airport"><span>阿姆斯特丹</span>17:20</div>
-									<div class="airport"><span>上海</span>10:05+1</div>
+									<div class="airport"><span>马德里</span>14:25</div>
+									<div class="airport"><span>迪拜</span>00:25+1</div>
+									<div class="airport"><span>迪拜</span>03:10</div>
+									<div class="airport"><span>上海</span>15:05</div>								
 								</div>
 							</div>
 						</div>
@@ -676,65 +689,71 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">汉莎航空</div>
-									<div class="">10h15m</div>
-									<div class="">直飞</div>
+									<div class="">阿联酋航空</div>
+									<div class="">20h0m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>北京</span>10:30</div>
-									<div class="airport"><span>法兰克福</span>14:45</div>
+									<div class="airport"><span>北京</span>06:50</div>
+									<div class="airport"><span>迪拜</span>11:40</div>
+									<div class="airport"><span>迪拜</span>14:40</div>
+									<div class="airport"><span>马德里</span>19:50</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">汉莎航空</div>
-									<div class="">12h0m</div>
+									<div class="">阿联酋航空</div>
+									<div class="">17h20m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>维也纳</span>16:55</div>
-									<div class="airport"><span>慕尼黑</span>17:50</div>
-									<div class="airport"><span>慕尼黑</span>19:15</div>
-									<div class="airport"><span>北京</span>10:55+1</div>
+									<div class="airport"><span>马德里</span>14:25</div>
+									<div class="airport"><span>迪拜</span>00:25+1</div>
+									<div class="airport"><span>迪拜</span>03:20</div>
+									<div class="airport"><span>北京</span>14:45</div>								
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="departure">香港出发</div>
-						<div class="com_flightInfo">
-							<div class="voyage">启程</div>
-							<div class="ibWrap">
-								<div class="">汉莎航空</div>
-								<div class="">12h15m</div>
-								<div class="">直飞</div>
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">阿联酋航空</div>
+									<div class="">14h35m</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>香港</span>00:35</div>
+									<div class="airport"><span>迪拜</span>05:35</div>
+									<div class="airport"><span>迪拜</span>07:25</div>
+									<div class="airport"><span>马德里</span>12:40</div>
+								</div>
 							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>香港</span>23:05</div>
-								<div class="airport"><span>法兰克福</span>05:20+1</div>
-							</div>
-						</div>
-						<div class="com_flightInfo">
-							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">汉莎航空</div>
-								<div class="flex1">16h40m</div>
-								<div class="flex1">1次中转</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>维也纳</span>16:55</div>
-								<div class="airport"><span>慕尼黑</span>17:50</div>
-								<div class="airport"><span>慕尼黑</span>22:30</div>
-								<div class="airport"><span>香港</span>15:35+1</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">阿联酋航空</div>
+									<div class="">11h0m</div>
+									<div class="">直飞</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>马德里</span>14:25</div>
+									<div class="airport"><span>迪拜</span>00:25+1</div>
+									<div class="airport"><span>迪拜</span>03:15</div>
+									<div class="airport"><span>香港</span>14:30</div>								
+								</div>
 							</div>
 						</div>
 					</div>
-
+					
 				</div>
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
 		<!-- Reviews -->
@@ -756,7 +775,7 @@
 									第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 								</div>
 								<div class="dialogBelongTo"></div>
-							</div>
+							</div>							
 						</div>
 						<div class="userInfo">
 							<span class="name">Jax Oddo,</span>
@@ -778,7 +797,7 @@
 										第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 									</div>
 									<div class="dialogBelongTo"></div>
-								</div>
+								</div>								
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
@@ -824,7 +843,7 @@
 										第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 									</div>
 									<div class="dialogBelongTo"></div>
-								</div>
+								</div>							
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
@@ -847,7 +866,7 @@
 										第一次在国外过圣诞节和跨年，阿姆斯特丹真是个神奇的城市，既充满文艺气息，又有如此光怪陆离的一面；三个城市中间，个人更喜欢伦敦，以及伦敦人的伦敦腔，伦敦当地的local guide也超级可爱幽默，圣诞节当天还给我们准备了Mince Pie；有机会想再去待久一些，最想感谢一起旅行的小伙伴们，一起跨年的经历实在太难忘。
 									</div>
 									<div class="dialogBelongTo"></div>
-								</div>
+								</div>								
 							</div>
 							<div class="userInfo">
 								<span class="name">Jax Oddo,</span>
@@ -880,11 +899,11 @@
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
-				<div class="swiper-pagination">
-				</div>
+			    <div class="swiper-pagination">
+			    </div>
 			</div>
 		</div>
-
+		
 		<!-- Get a personalized quotation -->
 		<div class="section quoBg" name="getPersonalizedPrice" id="getPersonalizedPrice">
 
@@ -896,11 +915,11 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('quotation-form.php'); echo $text1 ;?>
+					<?php include_once('quotation-form.php'); echo $text1 ;?> 
 
 				</div>
 
-				<?php include_once('sales-wrap.php') ;?>
+				<?php include_once('sales-wrap.php') ;?> 
 
 			</div>
 
@@ -908,14 +927,11 @@
 		<!-- More trips like this -->
 		<div class="site">
 			<!-- trips -->
-			<?php include 'recommend.php' ;?>
+			<?php include_once('recommend.php') ;?>				
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<h4 class="flex-row-end-between">
-				博客
-				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
-			</h4>
+			<?php include_once('blog.php') ;?>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>
@@ -946,5 +962,4 @@
         }
 		</script>
 	</body>
-
 </html>

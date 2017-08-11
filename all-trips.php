@@ -617,7 +617,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									原味欧洲，古堡奇幻之旅 <br/>
+									原味欧洲，古堡童话之旅 <br/>
 									德国 - 瑞士 - 奥地利
 								</p>
 								<div class="rate">

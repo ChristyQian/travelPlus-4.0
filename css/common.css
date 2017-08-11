@@ -6,7 +6,8 @@
 	border: 0px;  
 	margin: 0rem; 
 	padding: 0rem;
-	border: 0px;  
+	border: 0px; 
+/*	-webkit-font-smoothing: antialiased; */
 }
 html {
 	width:100%;
@@ -312,7 +313,6 @@ i {
 .hotline p {
 	font-family: "ProximaNova-Regular","Microsoft Yahei";
 	font-size:12px;
-	font-weight:lighter;
 }
 .hotline span {
 	display:block;
@@ -657,7 +657,6 @@ h5 {
 .discount .transparentTxt {
 	font-size:10px;
 	padding-top:19px;
-	font-weight:lighter;
 	line-height: 1.5em;
 	text-align:center;
 	padding:20px 10px;
@@ -831,7 +830,6 @@ h5 {
 	overflow: hidden;
 	font-size:1.4em;
 	line-height:2em;
-	font-weight:lighter;
 }
 .dialog h5 {
 	font-size:1em;
@@ -1152,7 +1150,6 @@ footer .flex-row-center-start .flexAuto {
 }
 footer .flex-row-center-start .flexAuto {
 	color:#999;
-	font-weight:lighter;
 	font-size:10px;
 	line-height:18px;
 }

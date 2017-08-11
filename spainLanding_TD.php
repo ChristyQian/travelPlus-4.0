@@ -44,10 +44,10 @@
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
 												<h5 style="font-size:14px;line-height:initial;">Spain Tours</h5>
-												<h1>跟着外籍导游Chris,玩转西班牙</h1>
+												<h1>跟着外籍导游Chris，玩转西班牙</h1>
 												<div>
 													<img src="img/itinerary/tourDirector/Chris.jpg" />
-													<p>西班牙是在英孚担任了近20年欧洲导游的我心目中的圣地。从热情洋溢的马德里，到我的家乡塞维利亚，从艺术气息浓厚的巴塞罗那，到明媚的黄金海岸，西班牙的每个城市都有各自不言而喻的魅力。我迫不及待地想与你们分享这里的醉人风景和灿烂文化！
+													<p>西班牙，是在英孚担任了9年欧洲导游的我心目中的圣地。从热情洋溢的马德里，到我的家乡塞维利亚，从艺术气息浓厚的巴塞罗那，到明媚的黄金海岸，西班牙的每个城市都有各自不言而喻的魅力。我迫不及待地想与你们分享这里的醉人风景和灿烂文化！
 													</p>
 												</div>
 											</div>
@@ -88,9 +88,9 @@
 								}
 								</script>
 								<div class="rightWrap">
-									<h5 class="rightWrapHead">跟着外籍导游Chris玩转西班牙&nbsp;&gt;&gt;</h5>									
+									<h5 class="rightWrapHead">跟着外籍导游Chris，玩转西班牙&nbsp;&gt;&gt;</h5>									
 									<div class="browse-banner-content-box">
-										<h5>跟着外籍导游Chris玩转西班牙
+										<h5>跟着外籍导游Chris，玩转西班牙
 											<div class="goBackStatusIcon">
 												<div class="whiteTrangle"></div>
 												<div class="backgroundTrangle"></div>
