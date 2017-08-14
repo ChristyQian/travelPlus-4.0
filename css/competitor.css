@@ -7,7 +7,7 @@ h1 {
 	line-height:68px;
 }
 .yellowTxt {
-	color:#2f7899;
+	color:#fff;
 	margin-right:5px;
 }
 .browse-page-container {
@@ -62,7 +62,6 @@ h1 {
 	text-align:center;
 	line-height:80px;
 	letter-spacing: 5px;
-	padding-left:5px;
 }
 .blueRList>li>a,
 .blueRList>li>a:hover,
@@ -79,16 +78,16 @@ h1 {
 	background-color:#94c5db;
 	color:#fff;
 }
-.blueRList>li.active>a {
+/*.blueRList>li.active>a {
 	background:url(../img/image001.png);
 	width:100%;
 	height:100%;
 	background-size:cover;
-}
+}*/
 .detailWrap {
 	position: relative;
 	background-color:#94c5db;
-	color:#fff;
+	/*color:#fff;*/
 	padding:30px 40px;
 	margin-top:20px;
 }
@@ -124,12 +123,67 @@ h1 {
 .detailWrap dd {
 	list-style: disc;
 }
+.flightIcon,
+.hotelIcon,
+.cateringIcon,
+.timeOfDepIcon,
+.routeIcon,
+.optionalItemIcon,
+.othersIcon {
+	display:inline-block;
+	vertical-align: middle;
+	margin:0 auto;
+}
+.flightIcon {	
+	background:url(../img/image001.png) no-repeat;
+	width:38px;
+	height:18px;
+	background-size:cover;
+}
+.hotelIcon {
+	background:url(../img/image002.png) no-repeat;
+	width:36px;
+	height:21px;
+	background-size:cover;
+}
+.cateringIcon {
+	background:url(../img/image003.png) no-repeat;
+	width:36px;
+	height:19px;
+	background-size:cover;
+}
+.timeOfDepIcon {
+	background:url(../img/image004.png) no-repeat;
+	width:24px;
+	height:29px;
+	background-size:cover;
+}
+.routeIcon {
+	background:url(../img/image005.png) no-repeat;
+	width:36px;
+	height:24px;
+	background-size:cover;
+}
+.optionalItemIcon {
+	background:url(../img/image006.png) no-repeat;
+	width:30px;
+	height:29px;
+	background-size:cover;
+}
+.othersIcon {
+	background:url(../img/image007.png) no-repeat;
+	width:23px;
+	height:23px;
+	background-size:cover;
+}
 h5 {
 	font-size:20px;
+	margin-bottom:10px;
 }
 h6 {
 	font-size:18px;
 	font-weight:bold;
+	margin-top:10px;
 }
 .home-trip-box {
 	display: inline-block;
@@ -257,7 +311,7 @@ h6 {
 	}
 	.detailWrap {
 		/*width:80%;*/
-		font-size:12px;
+		font-size:13px;
 		padding:10px;
 		line-height:24px;
 		/*max-height:420px;
@@ -265,10 +319,13 @@ h6 {
 	}
 	.detailWrap h5 {
 		font-size:16px;
+		margin-bottom:10px;
+		line-height:24px;
 	}
 	h6 {
 		font-size:14px;
 		padding:5px 0;
+		margin-top:10px;
 	}
 	.itiPrice {
 		position:static;
@@ -297,6 +354,42 @@ h6 {
 		width:100%;
 	}
 	.rightWrapHead {
-		display:block;		
+		display:block;
+		margin-bottom:0;		
+	}
+	.flightIcon {	
+		width:32px;
+		height:15px;
+		background-size:cover;	
+	}
+	.hotelIcon {
+		width:30px;
+		height:18px;
+		background-size:cover;
+	}
+	.cateringIcon {
+		width:30px;
+		height:16px;
+		background-size:cover;
+	}
+	.timeOfDepIcon {
+		width:20px;
+		height:24px;
+		background-size:cover;
+	}
+	.routeIcon {
+		width:30px;
+		height:20px;
+		background-size:cover;
+	}
+	.optionalItemIcon {
+		width:25px;
+		height:24px;
+		background-size:cover;
+	}
+	.othersIcon {
+		width:19px;
+		height:19px;
+		background-size:cover;
 	}
 }

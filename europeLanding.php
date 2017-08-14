@@ -150,34 +150,34 @@
 				<h3>跟团游价格差异主要来自以下几个方面:</h3>
 				<ul class="nav nav-tabs blueRList" role="tablist">
 					<li role="presentation" class="active" onclick="changeTab('0')"><a href="#flight" aria-controls="flight" role="tab" data-toggle="tab">
-						<img />
+						<span class="flightIcon"></span>
 					</a><p>航班</p></li>
 					<li role="presentation" onclick="changeTab('1')"><a href="#hotel" aria-controls="hotel" role="tab" data-toggle="tab">
-						<img src="img/image002.png"/>
+						<span class="hotelIcon"></span>
 					</a><p>住宿</p></li>
 					<li role="presentation" onclick="changeTab('2')"><a href="#catering" aria-controls="catering" role="tab" data-toggle="tab">
-						<img src="img/image003.png"/>
+						<span class="cateringIcon"></span>
 					</a><p>餐食</p></li>
 					<li role="presentation" onclick="changeTab('3')"><a href="#timeOfDep" aria-controls="timeOfDep" role="tab" data-toggle="tab">
-						<img src="img/image004.png"/>
+						<span class="timeOfDepIcon"></span>
 					</a><p>时间</p></li>
 					<li role="presentation" onclick="changeTab('4')"><a href="#route" aria-controls="route" role="tab" data-toggle="tab">
-						<img src="img/image005.png"/>
+						<span class="routeIcon"></span>
 					</a><p>线路</p></li>
 					<li role="presentation" onclick="changeTab('5')"><a href="#optionalItem" aria-controls="optionalItem" role="tab" data-toggle="tab">
-						<img src="img/image006.png"/>
+						<span class="optionalItemIcon"></span>
 					</a><p>购物</p></li>
 					<li role="presentation" onclick="changeTab('6')"><a href="#others" aria-controls="others" role="tab" data-toggle="tab">
-						<img src="img/image007.png"/>
+						<span class="othersIcon"></span>
 					</a><p>其他</p></li>
 				</ul>
 				<div class="tab-content detailWrap">
 					<div class="belongToArrow"><div class="secArrow"></div></div>
 					<div role="tabpanel" class="tab-pane fade in active detailItem" id="tabCon_0">
 						<h5><span class="yellowTxt">敲重点：</span>直达=贵+省时；转机=便宜+耗时；转机尽量选择品质航空。</h5>
-						<br/>
+		
 						<div>去欧洲的国际航班，通常分为转机和直达，根据航空公司类型，大致分类如下：</div>
-						<br/>
+					
 						<div>
 							<h6>转机：</h6>
 							<ul>
@@ -185,10 +185,10 @@
 								<li>一般：马汉航空、俄罗斯航空等</li>
 								<li>直达：国内航空公司为主，中国国航、东方航空、南方航空</li>
 							</ul>
-							<br/>
+						
 							<h6>价格比较：</h6>
 							<ul><li>直达 > 转机（优质）> 转机（一般）</li></ul>
-							<br/>
+						
 							<h6>说明：</h6>
 							<ul>
 								<li>有些时间不太合理的转机机票，旅行社通常能拿到较低的折扣，比如12天的行程事实上可能只有完整的7-8天在游玩，所以整体的套餐价格会稍低。</li>
@@ -199,15 +199,15 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_1">
 						<h5><span class="yellowTxt">敲重点：</span>低价团多数住“欧洲小镇”，市区酒店只存在于高价团。</h5>
-						<br/>
+					
 						<div>“欧洲小镇”就是所有郊区酒店统称，又可分为几大类：非星级酒店、国际连锁经济酒店、国际连锁星级酒店。</div>
-						<br/>
+					
 						<div>
 							<h6>价格比较：</h6>
 							<ul>
 								<li>市区酒店 > 郊区国际四星/五星酒店 > 郊区国际连锁经济酒店 > 郊区非星级酒店</li>
 							</ul>
-							<br/>
+					
 							<h6>说明：</h6>
 							<ul>
 								<li>通常说三星/四星级标准，意味着入住酒店并没有评星，只是单方面表示达到了这个标准，具体什么样，住过的人才知道。</li>
@@ -220,15 +220,15 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_2">
 						<h5><span class="yellowTxt">敲重点：</span>包餐最省钱，升级当地须防坑。</h5>
-						<br/>
+					
 						<div>欧洲团，一般3种：团餐、升级当地美食、不包餐</div>
-						<br/>
+					
 						<div>
 							<h6>价格比较：</h6>
 							<ul>
 								<li>升级当地美食 > 团餐 > 不包餐</li>
 							</ul>
-							<br/>
+					
 							<h6>说明:</h6>
 							<ul>
 								<li>不包餐，直观体现就是团费较低，但对于初次出国无法接受当地物价的人来说，需要自己再去花钱吃饭，那是大写的贵，如果早餐也不包，小编个人觉得有些不太方便。不过想要深刻感受当地饮食文化的人来说，很适合。</li>
@@ -240,9 +240,9 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_3">						
 						<h5><span class="yellowTxt">敲重点：</span>冬季便宜，暑假较贵，5、11月性价比最高，国庆优于春节。</h5>
-						<br/>
+			
 						<div>此条对价格影响较大，旺季淡季差距可达到大几千块钱，但对于一般上班族而言也需要平衡请假、出行体验度的成本再考虑。<strong><span class="yellowTxt">EF TravelPlus</span>挑选适合不同季节出游的精彩路线，更有主题线路玩法供你选择。 </strong></div>
-						<br/>
+		
 						<div>
 							<h6>价格比较：</h6>
 							<ul>
@@ -250,7 +250,7 @@
 								<li>欧洲旅游平季：11月、12月、4月、5月【适中】</li>
 								<li>欧洲旅游淡季：1月——3月【便宜，除滑雪/冰岛等冬季特色地区】</li>
 							</ul>
-							<br/>
+					
 							<h6>说明：</h6>
 							<ul>
 								<li>冬季出行便宜，但如南欧意大利西班牙也不会多暖和，何况德国瑞士。</li>
@@ -262,11 +262,11 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_4">
 						<h5><span class="yellowTxt">敲重点：</span>开口航班（A进B出）最佳，根据出行国物价判断预算，不要选择国家太多的行程。</h5>
-						<br/>
+				
 						<div>在其他标准相同的情况下，费用排名基本如下：<br/>
 						<strong>少国出行 > 多国出行北欧路线 > 西欧路线（德法瑞）> 东欧路线（匈牙利捷克等）<br/>
 						开口航班（A城进B城出） > 闭口航班（同进同出）</strong></div>
-						<br/>
+				
 						<h6>说明：</h6>
 						<ul>
 							
@@ -277,11 +277,11 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_5">
 						<h5><span class="yellowTxt">敲重点：</span>低价团总有它低价的原因，购物和自费项目是选择跟团游要注意的点。</h5>
-						<br/>
+				
 						<dl>
 							<dt>购物安排对价格影响：</dt>
 							<dd>不含购物点 > 含小购物点 > 不明确说明购物点</dd>
-							<br/>
+					
 							<h6>说明：</h6>
 							<ul>								
 								<li>不含购物点，并不是没有购物行程。例如，游客可在自由时间，自行安排购物，这是正规且合乎人意的方式。旅行社赚不到额外的钱，团费自然较高。</li>
@@ -289,13 +289,13 @@
 								<li>不明确说明购物点，不同于不含。正常档期的价格低廉团，这种应该是最可怕的。</li>
 								<li><strong><span class="yellowTxt">EF TravelPlus</span>绝无任何强制购物安排；包含重点景点费用，且包含非自由时间涉及的海外导游/司机小费。</strong></li>
 							</ul>
-							<br/>
+				
 							<h6>自费项目对价格影响：</h6>
 							<ul>
 								
 								<li>一价全包无自费 > 部分自费项目 > 大量自由活动行程</li>
 							</ul>
-							<br/>
+					
 							<h6>说明：</h6>
 							<ul>
 								
@@ -307,13 +307,13 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade detailItem" id="tabCon_6">
 						<h5><span class="yellowTxt">敲重点：</span>很多旅行团都是做的代理，实际到了当地会是另一个旅行社接待，这种在管理上都会出现问题，当然也是为了节约成本。</h5>
-						<br/>
+			
 						<ul>
 							<li>给上洗手间准备一笔支出：欧洲很多场所的公共厕所是收费的，0.5欧元或1欧。</li>
 							<li>境外导游/司机小费：出境游一般都要收取小费，有的团会有明确表示在何时缴纳或者是否包含，但有些是到了当地后漫天要价。建议提前沟通好，需要付多少、何时付、出境前付过后到达当地是否无需再付。</li>
 							<li>全程组团还是散客拼团,事前需要明确知道。</li>
 						</ul>
-						<br/>
+					
 						<h6>说了这么多，结论就是：</h6>
 						<ul>													
 							<li>省心的跟团游，对自由度必然有所牺牲</li>

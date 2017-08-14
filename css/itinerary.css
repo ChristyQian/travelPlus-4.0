@@ -356,6 +356,9 @@
 .itinerary_daily_detail ul li {
 	list-style: disc;
 }
+.itinerary_daily_detail ul ul li{
+	list-style:circle;
+}
 .itineraryMap {
 	float:right;
 	width: 600px;
