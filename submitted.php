@@ -164,7 +164,7 @@
 								</div>
 							</a>
 					    </div>
-					<!-- <div id="shopping-in-london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
+					<div id="shopping-in-london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-shopping-in-london-paris-amsterdam.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/shopping-in-londan-paris-amsterdam.jpg" alt="" />
@@ -178,7 +178,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									新年伦敦巴黎阿姆斯特丹购物之旅 <br/>
+									欧洲新年打折季之旅 <br/>
 									阿姆斯特丹 - 巴黎 - 伦敦
 								</p>
 								<div class="rate">
@@ -191,11 +191,11 @@
 								<div>
 									11天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,500<span>起</span></span>
+									<span class="price">￥25,800<span>起</span></span>
 								</div>
 							</div>
 						</a>
-				    </div> -->
+				    </div>
 					<div id="budapest-vienna-prague" name="home-trip-box" class="home-trip-box" data-dest="hungary,czech,austria" data-tag="nature">
 						<a href="itinerary-budapest-vienna-prague.php" >	
 							<div class="imgWrap">

@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <?php 
-	$pageName="itinerary-london-paris-amsterdam";
+	$pageName="itinerary-shopping-in-london-paris-amsterdam";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="新年伦敦巴黎阿姆斯特丹购物之旅";
-	$itineraryPrice="￥22,500";
+	$itineraryName="欧洲新年打折季之旅";
+	$itineraryPrice="￥25,800";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -22,8 +22,8 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">国庆档</div>						
-						<div class="tourName">新年伦敦巴黎阿姆斯特丹购物之旅</div>
+						<div class="yellowTxt">新年档</div>						
+						<div class="tourName">欧洲新年打折季之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -55,7 +55,7 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥22,500
+							￥25,800
 							<span>起</span>
 						</div>
 						<div>
@@ -65,7 +65,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">抓住机会在新年到欧洲大肆购物吧！本次旅行特别为买到剁手的购物狂定制，在阿姆斯特丹、巴黎和伦敦观光游览著名景点后，我们预留了充足的自由活动时间给你尽情买买买，从哈罗德百货、老佛爷、奥特莱斯购物村，到各类圣诞新年集市，享受购物欢乐的同时，还能融入欧洲的新年氛围之中！</p>
+						<p class="serif">抓住机会在新年到欧洲大肆购物吧！本次旅行特别为博物馆爱好者和购物狂定制，在阿姆斯特丹、巴黎和伦敦观光游览著名景点后，我们预留了充足的自由活动时间给您到各大商场购物，这是一年一度不可错过的折扣季，别犹豫了快加入我们吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
@@ -80,9 +80,8 @@
 						<h4>行程亮点</h4>
 						<p>
 							折扣季：从法国高级定制的时装到伦敦高街品牌，折扣应有尽有<br/>
-							在伦敦享受新年特别晚宴，与伙伴们一起在异国跨年<br/>
-							在自由活动时间，可以去观赏伦敦新年烟花秀，和当地人一起参加新年派对或者新年游行，给你异国他乡不一样的节日体验<br/>
-							购物之外，梵高博物馆、巴黎圣母院、卢浮宫、白金汉宫、伦敦眼等景点，将让你惊叹于欧洲人文艺术
+							在伦敦享受新年特别晚宴，与伙伴们一起跨年<br/>
+							在自由活动时间，可以去观赏伦敦新年烟花秀，和当地人一起参加新年派对或者新年游行，给你异国他乡不一样的节日体验
 						</p>
 					</div>
 				</div>
@@ -568,29 +567,27 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">阿提哈德航空</div>
-									<div class="">16h35m</div>
-									<div class="">1次中转</div>
+									<div class="">荷兰皇家</div>
+									<div class="">10h45m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>成都</span>21:00</div>
-									<div class="airport"><span>阿布扎比</span>01:00+1</div>
-									<div class="airport"><span>阿布扎比</span>02:35</div>
-									<div class="airport"><span>伦敦</span>07:35</div>
+									<div class="airport"><span>成都</span>15:30</div>
+									<div class="airport"><span>阿姆斯特丹</span>19:15</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">阿提哈德航空</div>
-									<div class="">16h15m</div>
+									<div class="">荷兰皇家</div>
+									<div class="">12h40m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>阿姆斯特丹</span>21:25</div>
-									<div class="airport"><span>阿布扎比</span>06:20+1</div>
-									<div class="airport"><span>阿布扎比</span>08:10</div>
-									<div class="airport"><span>成都</span>19:40</div>								
+									<div class="airport"><span>伦敦</span>17:05</div>
+									<div class="airport"><span>阿姆斯特丹</span>19:15</div>
+									<div class="airport"><span>阿姆斯特丹</span>20:55</div>
+									<div class="airport"><span>成都</span>13:45+1</div>								
 								</div>
 							</div>
 						</div>
@@ -601,29 +598,27 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">芬兰航空</div>
-									<div class="">14h45m</div>
-									<div class="">1次中转</div>
+									<div class="">荷兰皇家</div>
+									<div class="">12h5m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海</span>09:20</div>
-									<div class="airport"><span>赫尔辛基</span>14:20</div>
-									<div class="airport"><span>赫尔辛基</span>17:00</div>
-									<div class="airport"><span>伦敦</span>18:05</div>
+									<div class="airport"><span>上海</span>12:40</div>
+									<div class="airport"><span>阿姆斯特丹</span>17:45</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">芬兰航空</div>
-									<div class="">13h15m</div>
+									<div class="">法国航空</div>
+									<div class="">13h55m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>阿姆斯特丹</span>11:55</div>
-									<div class="airport"><span>赫尔辛基</span>15:15</div>
-									<div class="airport"><span>赫尔辛基</span>17:20</div>
-									<div class="airport"><span>上海</span>07:10+1</div>								
+									<div class="airport"><span>伦敦</span>19:50</div>
+									<div class="airport"><span>巴黎</span>22:00</div>
+									<div class="airport"><span>巴黎</span>23:25</div>
+									<div class="airport"><span>上海</span>17:45+1</div>								
 								</div>
 							</div>
 						</div>
@@ -634,29 +629,27 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">芬兰航空</div>
-									<div class="">13h10m</div>
-									<div class="">1次中转</div>
+									<div class="">荷兰皇家</div>
+									<div class="">10h35m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>北京</span>10:55</div>
-									<div class="airport"><span>赫尔辛基</span>14:15</div>
-									<div class="airport"><span>赫尔辛基</span>17:00</div>
-									<div class="airport"><span>伦敦</span>18:05</div>
+									<div class="airport"><span>北京</span>11:55</div>
+									<div class="airport"><span>阿姆斯特丹</span>15:30</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">芬兰航空</div>
-									<div class="">13h0m</div>
+									<div class="">法国国航</div>
+									<div class="">12h35m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>阿姆斯特丹</span>11:55</div>
-									<div class="airport"><span>赫尔辛基</span>15:15</div>
-									<div class="airport"><span>赫尔辛基</span>18:20</div>
-									<div class="airport"><span>北京</span>06:55+1 </div>								
+									<div class="airport"><span>伦敦</span>19:50</div>
+									<div class="airport"><span>巴黎</span>22:00</div>
+									<div class="airport"><span>巴黎</span>23:20</div>
+									<div class="airport"><span>北京</span>16:25+1</div>								
 								</div>
 							</div>
 						</div>
@@ -667,27 +660,27 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰皇家航空</div>
-									<div class="">14h35m</div>
-									<div class="">1次中转</div>
+									<div class="">荷兰皇家</div>
+									<div class="">12h20m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>香港</span>12:20</div>
-									<div class="airport"><span>阿姆斯特丹</span>18:20</div>
-									<div class="airport"><span>阿姆斯特丹</span>20:30</div>
-									<div class="airport"><span>伦敦</span>20:55</div>
+									<div class="airport"><span>香港</span>13:35</div>
+									<div class="airport"><span>阿姆斯特丹</span>18:55</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰皇家航空</div>
-									<div class="">11h0m</div>
-									<div class="">直飞</div>
+									<div class="">法国航空</div>
+									<div class="">14h45m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>阿姆斯特丹</span>17:20</div>
-									<div class="airport"><span>香港</span>10:20+1</div>								
+									<div class="airport"><span>伦敦</span>19:50</div>
+									<div class="airport"><span>巴黎</span>22:00</div>
+									<div class="airport"><span>巴黎</span>23:30</div>
+									<div class="airport"><span>香港</span>18:35+1</div>								
 								</div>
 							</div>
 						</div>
