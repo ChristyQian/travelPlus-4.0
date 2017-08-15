@@ -1,43 +1,41 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-germany-switzerland-austria";
+	$pageName="itinerary-jewels-of-alpine-europe";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="原味欧洲，古堡童话之旅";
-	$itineraryPrice="￥22,700";
+	$itineraryName="摩洛哥深度游";
+	$itineraryPrice="￥23,800";
 
     include_once("itinerary-head.php"); 
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
 		<?php include_once('fix-cta.php'); echo $text1 ;?>
-		<?php include_once('common-header.php') ;?>
+		<?php include_once('common-header.php');?>
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/billboard/Germany-Switzerland-Austria.jpg)  center center no-repeat;
-				background-size:cover;">
+		<div class="imagesWrap" style="background:url(img/itinerary/billboard/in-depth-morocco.jpg)  center center no-repeat; background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">Travelzoo专享</div>
-						<div class="tourName">原味欧洲，古堡童话之旅</div>
+						<div class="yellowTxt">新年档</div>
+						<div class="tourName">摩洛哥深度游</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
+							<div class="pinkTxt" style="display:none">仅剩6席</div>
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php'); echo $discount8 ?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -45,48 +43,48 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">14天</div>
+						<div class="days">13天</div>
 						<div class="flex-row-start-between">
-							<div>德国</div>
+							<div>马拉喀什</div>
 							<i class="grayArrow"></i>
-							<div>瑞士</div>
+							<div>撒哈拉</div>
 							<i class="grayArrow"></i>
-							<div>奥地利</div>
+							<div>菲斯</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥22,700
+							￥23,800
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">一键预订优惠</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
 						</div>
 					</div>
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！</p>
+						<p class="serif">若这是你初次来到非洲，深度游览摩洛哥一定是你的不二之选！撒哈拉沙漠体验，绿洲探秘，摩洛哥美食课程，露天集市淘宝，还有《卡萨布兰卡》《波斯王子》《角斗士》等电影取景地，你一定放不下你的相机想要全部记录下来。在这趟旅程中，你将和我一起体验北非心脏摩洛哥的沙漠风情！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
+								<img src="img/itinerary/tourDirector/rosa.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fabrice-Tomlin</span>
+								<span class="name">Rosa</span>
 							</div>
 						</div>
 					</div>
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							近距离走进卢塞恩湖畔村庄，将阿尔卑斯山美景尽收眼底<br/> 游览海德堡的高耸城堡和萨尔茨堡中世纪堡垒
-							<br/> 进入新天鹅堡参观
-							<br/> 感受因斯布鲁克新旧城区的完美融合
-							<br/> 品尝慕尼黑小麦啤酒和白肠
-							<br/> 参观维也纳新艺术派建筑
-							<br/>
+							畅玩撒哈拉沙漠：沙漠吉普，骆驼骑行，陵墓探秘，夜宿撒哈拉等
+							<br/> 走进世界文化遗产马拉喀什旧城，菲斯旧城和拉巴特等，感受北非别样历史文化
+							<br/> 跟着电影走进卡萨布兰卡和《角斗士》等众多电影的拍摄地
+							<br/> 体验摩洛哥料理课程，尝试制作塔吉锅等美食
+							<br/> 一国深度游览，行程安排充实，有自由时间体验当地特色
+							<br/> 在当地集市尽情淘宝，全程无强制购物
 						</p>
 					</div>
 				</div>
@@ -99,7 +97,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-1.jpg" />
+								<img src="img/itinerary/in-depth-morocco00.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -118,7 +116,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-2.jpg" />
+								<img src="img/itinerary/in-depth-morocco01.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -137,7 +135,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-3.jpg" />
+								<img src="img/itinerary/in-depth-morocco02.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -156,7 +154,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-4.jpg" />
+								<img src="img/itinerary/in-depth-morocco03.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -175,7 +173,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-5.jpg" />
+								<img src="img/itinerary/in-depth-morocco04.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -194,7 +192,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-6.jpg" />
+								<img src="img/itinerary/in-depth-morocco05.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -213,7 +211,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-7.jpg" />
+								<img src="img/itinerary/in-depth-morocco06.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -232,7 +230,26 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/germany-switzerland-austria-8.jpg" />
+								<img src="img/itinerary/in-depth-morocco07.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/in-depth-morocco08.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -271,7 +288,7 @@
 						<div class="imgWrap">
 							<img src="img/page-2.svg" />
 						</div>
-						12晚精选酒店住宿
+						11晚精选酒店住宿
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -283,7 +300,7 @@
 						<div class="imgWrap">
 							<img src="img/page-4.svg" />
 						</div>
-						6顿三道式晚餐，供应啤酒或葡萄酒
+						7顿三道式晚餐，供应啤酒或葡萄酒
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -324,7 +341,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/germany-switzerland-austria.jpg" />
+					<img src="img/itinerary/map/in-depth-morocco.jpg" />
 				</div>
 				<div class="initialScreen">
 					<div class="com_itinerary_summary">
@@ -335,154 +352,156 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>启程并抵达海德堡</li>
+									<li>出发并抵达马拉喀什</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>海德堡观光游</span>
+								<label>第2天</label><span>参加欢迎晚宴</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>漫步海德堡旧城区优雅的市场广场</li>
-									<li>游览海德堡大学</li>
-									<li>乘坐索道缆车攀上市内玫瑰色的山顶城堡，饱览脚下的老桥和莱茵河全景</li>
-									<li>在欢迎晚宴上与同行伙伴见面</li>
+									<li>与伙伴们初次相识，在本地餐馆享用地道美食</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>经由莱茵瀑布和黑森林前往卢塞恩</span>
+								<label>第3天</label><span>马拉喀什观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>途中游览莱茵瀑布，穿越黑森林</li>
+									<li>驱车前往马拉喀什新城区和库图比亚清真寺</li>
+									<li>参观世界文化遗产马拉喀什老城区，那里有古老的巴迪王宫</li>
+									<li>在当地导游的带领下游览萨第安墓和清真寺</li>
+									<li>下午在著名的老城集市淘宝，融入当地市井生活</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>卢塞恩观光游</span>
+								<label>第4天</label><span>摩洛哥料理课程和马约尔花园</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>游览旧城区鹅卵石街道沿路的手绘建筑墙面</li>
-									<li>参观狮子纪念碑</li>
-									<li>参观巴洛克建筑耶稣会教堂</li>
-									<li>下午自由活动</li>
+									<li>造访马拉喀什厨艺学校，学习如何烹制摩洛哥料理，并享用午餐</li>
+									<li>下午在马约尔花园漫步享受自由的午后时光</li>
+									<li>晚上非强制性的夕阳骆驼行和马拉喀什夜游</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>经由列支敦斯登前往因斯布鲁克</span>
+								<label>第5天</label><span>阿伊特本哈杜村观光游并前往瓦尔扎扎特</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在因斯布鲁克老城区参观著名的黄金屋顶和城市塔楼</li>
-									<li>途经前哈布斯堡王朝的皇宫因斯布鲁克 皇宫，进入庭院参观</li>
-									<li>参观因斯布鲁克大教堂</li>
+									<li>乘坐大巴前往阿伊特本哈杜村</li>
+									<li>下午在世界遗产阿伊特本哈杜村漫步游览，这也是著名的影视拍摄地</li>
+									<li>乘坐大巴前往瓦尔扎扎特</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>经由新天鹅堡前往慕尼黑</span>
+								<label>第6天</label><span>陶里尔特古堡、图德拉峡谷、伊尔福德观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>途中穿越巴伐利亚山脉，并进入新天鹅堡参观</li>
+									<li>在当地导游的带领下进入撒哈拉沙漠，途径陶里尔特古堡和Kalaat M'Gouna</li>
+									<li>乘车穿过棕榈树林，抵达图德拉峡谷观光</li>
+									<li>乘车再次进入撒哈拉沙漠，来到伊尔福德小镇参观坎儿井系统和当地民居（勿在宣传材料中提及民居参观内容）</li>
+									<li>返回酒店享用晚餐</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>慕尼黑观光游</span>
+								<label>第7天</label><span>里萨尼半日游和沙漠游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>途经英国花园和时尚的施瓦宾格区</li>
-									<li>参观宁芬堡宫的主教宫</li>
-									<li>游览慕尼黑的中世纪心脏地带玛利亚广场，参观著名的钟琴</li>
-									<li>下午在慕尼黑自由活动</li>
+									<li>驱车前往沙漠绿洲的里萨尼感受一丝清凉</li>
+									<li>进入穆莱阿里谢夫陵墓参观，然后步行游览里萨尼的筑垒</li>
+									<li>下午体验沙漠四驱吉普车，在沙漠驰骋</li>
+									<li>在贝多因人的帐篷处停下享用薄荷茶和小吃，在卡马里亚停下欣赏音乐演出</li>
+									<li>骑乘骆驼翻阅沙丘返回伊尔福德</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第8天</label><span>萨尔斯堡观光游</span>
+								<label>第8天</label><span>前往米德勒特和菲斯</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>参观萨尔茨堡大学和圣彼得教堂墓地</li>
-									<li>参观卡比第广场、主教宫广场和旧市集</li>
-									<li>进入建于17世纪的巴洛克式萨尔茨堡大教堂参观</li>
-									<li>途经电影《音乐之声》取景地</li>
-									<li>乘坐索道缆车前往萨尔茨堡城堡</li>
+									<li>上午出发前往米德勒特，沿途欣赏奇兹河谷和阿特拉斯山区的壮丽景色</li>
+									<li>下午乘车到伊夫兰小镇观赏雪松林和巴巴利猕猴，之后到达菲斯</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第9天</label><span>萨尔茨堡自由行</span>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第10天</label><span>途经梅尔克前往维也纳</span>
+								<label>第9天</label><span>瓦卢比利斯及梅克内斯一日游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>游览梅尔克镇上的巴洛克式修道院，然后继续前往维也纳</li>
+									<li>参观罗马文化考古遗址瓦卢比利斯，古城的街道、住房、公共浴室、市场等都依然清晰可见</li>
+									<li>在附近的圣城穆莱伊德里斯城步行游览</li>
+									<li>进入梅克内斯的皇家马厩及谷仓的遗址，伴有当地导游讲解</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第11天</label><span>维也纳观光游</span>
+								<label>第10天</label><span>菲斯观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>游览美泉宫</li>
-									<li>前往国会大厦和维也纳国家歌剧院</li>
-									<li>参观宏伟的霍夫堡皇宫</li>
-									<li>晚上在维也纳自由活动</li>
+									<li>步行游览世界文化遗产菲斯老城</li>
+									<li>参观制革厂，古老的皮革工艺在这里依旧传承</li>
+									<li>露天市场展示了菲斯老城市民生活的体现</li>
+									<li>游览伊斯兰宗教学校和伊德里斯王子陵墓</li>
+									<li>在旧城午餐过后，下午自由活动</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第12天</label><span>维也纳自由活动</span>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第13天</label><span>返程</span>
+								<label>第11天</label><span>拉巴特和卡萨布兰卡观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>前往机场搭乘返程航班</li>
+									<li>上午在拉巴特参观穆罕默德五世陵墓和哈桑塔</li>
+									<li>步行游览乌达雅堡，观看河口、海滩和安达卢西亚花园</li>
+									<li>午餐过后前往卡萨布兰卡</li>
+									<li>在卡萨布兰卡沿海山路欣赏窗外风景</li>
+									<li>游览摩洛哥面积最大的清真寺——哈桑二世清真寺</li>
+									<li>到卡萨布兰卡本地餐馆参加告别晚宴结束愉快的行程</li>
 								</ul>
+							</div>
+						</div>	
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第12天</label><span>前往机场搭乘返程航班</span>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第14天</label><span>抵达中国</span>
+								<label>第13天</label><span>抵达中国</span>
 							</div>
 						</div>
 						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
@@ -501,86 +520,218 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Ameron Hotel Flora/Ameron Hotel Flora_dining.jpg" />
+								<img src="img/hotel/Radisson Blu Hotel/Radisson Blu Hotel_ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
+								<div class="transparentTxt">Radisson Blu Hotel 马拉喀什卡雷伊顿丽笙酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">坐落于卢塞恩市中心，可以步行到达所有景点，餐厅和购物地点。 离火车站只有5分钟步行距离。</div>
+						<div class="hotelDes">Radisson Blu Hotel酒店距离马拉喀什火车站和马拉喀什广场都只有5分钟路程，酒店内设有室外游泳池和餐厅，提供免费WiFi。每间客房均设有空调、阳台、露台以及1间带浴缸、淋浴和吹风机的私人浴室，享有市景和泳景。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Ameron Hotel Flora/Ameron Hotel Flora_room.jpg" />
+								<img src="img/hotel/Radisson Blu Hotel/Radisson Blu Hotel_room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Ameron Hotel Flora弗洛拉卢塞恩亚美隆酒店</div>
+								<div class="transparentTxt">Radisson Blu Hotel 马拉喀什卡雷伊顿丽笙酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店附近的景点有：卢塞恩湖，卡贝尔桥，老镇，狮子纪念碑。</div>
+						<div class="hotelDes">Radisson Blu Hotel酒店距离马拉喀什火车站和马拉喀什广场都只有5分钟路程，酒店内设有室外游泳池和餐厅，提供免费WiFi。每间客房均设有空调、阳台、露台以及1间带浴缸、淋浴和吹风机的私人浴室，享有市景和泳景。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hotel Ramada Hotel Innsbruck/Hotel Innsbruck_dining.jpg" />
+								<img src="img/hotel/Radisson Blu Hotel/Radisson Blu Hotel_pool.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店因斯布鲁克酒店因斯布鲁克市中心，步行即可到达所有景点和地标。</div>
+						<div class="hotelDes">Radisson Blu Hotel酒店距离马拉喀什火车站和马拉喀什广场都只有5分钟路程，酒店内设有室外游泳池和餐厅，提供免费WiFi。每间客房均设有空调、阳台、露台以及1间带浴缸、淋浴和吹风机的私人浴室，享有市景和泳景。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hotel Ramada Hotel Innsbruck/Hotel Innsbruck_room.jpg" />
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hotel Ramada Hotel Innsbruck因斯布鲁克酒店</div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">乘坐巴士5分钟可以到达因斯布鲁克市中心。</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Best Western Firenze/Best Western Firenze _dining.jpg" />
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_ext2.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">贝斯特韦斯特菲兰其酒店是一家位于新门大道的优雅酒店，可以步行到达所有最重要的城市地标和旅游景点。</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Best Western Firenze/Best Western Firenze _room.jpg" />
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">竞技场、朱丽叶的故居和墓碑、罗马剧场、维罗纳老城堡等景点都离酒店不远。</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Best Western Firenze/Best Western Firenze _ext.jpg" />
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_loby.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Best Western Firenze贝斯特韦斯特菲兰其酒店</div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">贝斯特韦斯特菲兰其酒店是一家位于新门大道的优雅酒店，可以步行到达所有最重要的城市地标和旅游景点。</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_dinning.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_pool.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_pool2.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_spa.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Fes Marriott Hotel Jnan Palace/Fes Marriott Hotel Jnan Palace_ext.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Fes Marriott Hotel Jnan Palace 菲斯尼甘宫万豪酒店&度假村 </div>
+							</div>
+						</div>
+						<div class="hotelDes">这家豪华的酒店坐落在位于Fes市中心的城市新兴地带，设有空调客房、室外游泳池、网球场、健身房和桑拿浴室。酒店的部分客房可以观赏到周围花园或游泳池的美景。所有客房均设有阳台以及一间带免费洗浴用品的连接浴室，并全部可以通过电梯抵达。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Fes Marriott Hotel Jnan Palace/Fes Marriott Hotel Jnan Palace_dinning.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Fes Marriott Hotel Jnan Palace 菲斯尼甘宫万豪酒店&度假村 </div>
+							</div>
+						</div>
+						<div class="hotelDes">这家豪华的酒店坐落在位于Fes市中心的城市新兴地带，设有空调客房、室外游泳池、网球场、健身房和桑拿浴室。酒店的部分客房可以观赏到周围花园或游泳池的美景。所有客房均设有阳台以及一间带免费洗浴用品的连接浴室，并全部可以通过电梯抵达。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Fes Marriott Hotel Jnan Palace/Fes Marriott Hotel Jnan Palace_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Fes Marriott Hotel Jnan Palace 菲斯尼甘宫万豪酒店&度假村 </div>
+							</div>
+						</div>
+						<div class="hotelDes">这家豪华的酒店坐落在位于Fes市中心的城市新兴地带，设有空调客房、室外游泳池、网球场、健身房和桑拿浴室。酒店的部分客房可以观赏到周围花园或游泳池的美景。所有客房均设有阳台以及一间带免费洗浴用品的连接浴室，并全部可以通过电梯抵达。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Fes Marriott Hotel Jnan Palace/Fes Marriott Hotel Jnan Palace_pool.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Fes Marriott Hotel Jnan Palace 菲斯尼甘宫万豪酒店&度假村 </div>
+							</div>
+						</div>
+						<div class="hotelDes">这家豪华的酒店坐落在位于Fes市中心的城市新兴地带，设有空调客房、室外游泳池、网球场、健身房和桑拿浴室。酒店的部分客房可以观赏到周围花园或游泳池的美景。所有客房均设有阳台以及一间带免费洗浴用品的连接浴室，并全部可以通过电梯抵达。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Fes Marriott Hotel Jnan Palace/Fes Marriott Hotel Jnan Palace_pool2.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Fes Marriott Hotel Jnan Palace 菲斯尼甘宫万豪酒店&度假村 </div>
+							</div>
+						</div>
+						<div class="hotelDes">这家豪华的酒店坐落在位于Fes市中心的城市新兴地带，设有空调客房、室外游泳池、网球场、健身房和桑拿浴室。酒店的部分客房可以观赏到周围花园或游泳池的美景。所有客房均设有阳台以及一间带免费洗浴用品的连接浴室，并全部可以通过电梯抵达。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Fes Marriott Hotel Jnan Palace/Fes Marriott Hotel Jnan Palace_gym.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Fes Marriott Hotel Jnan Palace 菲斯尼甘宫万豪酒店&度假村 </div>
+							</div>
+						</div>
+						<div class="hotelDes">这家豪华的酒店坐落在位于Fes市中心的城市新兴地带，设有空调客房、室外游泳池、网球场、健身房和桑拿浴室。酒店的部分客房可以观赏到周围花园或游泳池的美景。所有客房均设有阳台以及一间带免费洗浴用品的连接浴室，并全部可以通过电梯抵达。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Fes Marriott Hotel Jnan Palace/Fes Marriott Hotel Jnan Palace_spa.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Fes Marriott Hotel Jnan Palace 菲斯尼甘宫万豪酒店&度假村 </div>
+							</div>
+						</div>
+						<div class="hotelDes">这家豪华的酒店坐落在位于Fes市中心的城市新兴地带，设有空调客房、室外游泳池、网球场、健身房和桑拿浴室。酒店的部分客房可以观赏到周围花园或游泳池的美景。所有客房均设有阳台以及一间带免费洗浴用品的连接浴室，并全部可以通过电梯抵达。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -609,32 +760,38 @@
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="departure">成都出发</div>
-						<div class="com_flightInfo">
-							<div class="voyage">启程</div>
-							<div class="ibWrap">
-								<div class="">荷兰皇家航空</div>
-								<div class="">13h10m</div>
-								<div class="">1次中转</div>
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">26h25m</div>
+									<div class="">2次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>成都</span>19:20</div>
+									<div class="airport"><span>广州</span>21:30</div>
+									<div class="airport"><span>广州</span>23:25</div>
+									<div class="airport"><span>巴黎</span>05:45+1</div>
+									<div class="airport"><span>巴黎</span>11:25</div>
+									<div class="airport"><span>马拉喀什</span>13:45</div>
+								</div>
 							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>成都</span>14:35</div>
-								<div class="airport"><span>阿姆斯特丹</span>19:00</div>
-								<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-								<div class="airport"><span>法兰克福</span>21:45</div>
-							</div>
-						</div>
-						<div class="com_flightInfo">
-							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">荷兰皇家航空</div>
-								<div class="flex1">16h35m</div>
-								<div class="flex1">1次中转</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>维也纳</span>14:15</div>
-								<div class="airport"><span>阿姆斯特丹</span>16:10</div>
-								<div class="airport"><span>阿姆斯特丹</span>21:15</div>
-								<div class="airport"><span>成都</span>12:50+1</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">21h15m</div>
+									<div class="">2次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>卡萨布兰卡</span>18:15</div>
+									<div class="airport"><span>巴黎</span>22:20</div>
+									<div class="airport"><span>巴黎</span>23:40</div>
+									<div class="airport"><span>广州</span>18:40+1</div>
+									<div class="airport"><span>广州</span>21:10</div>
+									<div class="airport"><span>成都</span>23:30</div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -644,29 +801,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰皇家航空</div>
-									<div class="">15h30m</div>
+									<div class="">法国航空</div>
+									<div class="">21h35m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海</span>12:15</div>
-									<div class="airport"><span>阿姆斯特丹</span>17:55</div>
-									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-									<div class="airport"><span>法兰克福</span>21:45</div>
+									<div class="airport"><span>上海</span>00:10</div>
+									<div class="airport"><span>巴黎</span>05:55</div>
+									<div class="airport"><span>巴黎</span>11:25</div>
+									<div class="airport"><span>马拉喀什</span>13:45</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">荷兰皇家航空</div>
-									<div class="">13h50m</div>
+									<div class="">法国航空</div>
+									<div class="">15h30m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>维也纳</span>14:15</div>
-									<div class="airport"><span>阿姆斯特丹</span>16:10</div>
-									<div class="airport"><span>阿姆斯特丹</span>17:20</div>
-									<div class="airport"><span>上海</span>10:05+1</div>
+									<div class="airport"><span>卡萨布兰卡</span>18:15</div>
+									<div class="airport"><span>巴黎</span>22:20</div>
+									<div class="airport"><span>巴黎</span>23:25</div>
+									<div class="airport"><span>上海</span>17:45+1</div>
 								</div>
 							</div>
 						</div>
@@ -677,57 +834,63 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">汉莎航空</div>
-									<div class="">10h15m</div>
-									<div class="">直飞</div>
+									<div class="">法国航空</div>
+									<div class="">20h45m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>北京</span>10:30</div>
-									<div class="airport"><span>法兰克福</span>14:45</div>
+									<div class="airport"><span>北京</span>01:00</div>
+									<div class="airport"><span>巴黎</span>05:00</div>
+									<div class="airport"><span>巴黎</span>11:25</div>
+									<div class="airport"><span>马拉喀什</span>13:45</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">汉莎航空</div>
-									<div class="">12h0m</div>
+									<div class="">法国航空</div>
+									<div class="">14h10m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>维也纳</span>16:55</div>
-									<div class="airport"><span>慕尼黑</span>17:50</div>
-									<div class="airport"><span>慕尼黑</span>19:15</div>
-									<div class="airport"><span>北京</span>10:55+1</div>
+									<div class="airport"><span>卡萨布兰卡</span>18:15</div>
+									<div class="airport"><span>巴黎</span>22:20</div>
+									<div class="airport"><span>巴黎</span>23:20</div>
+									<div class="airport"><span>北京</span>16:25+1</div>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="departure">香港出发</div>
-						<div class="com_flightInfo">
-							<div class="voyage">启程</div>
-							<div class="ibWrap">
-								<div class="">汉莎航空</div>
-								<div class="">12h15m</div>
-								<div class="">直飞</div>
+						<div class="autoWrapper">
+							<div class="com_flightInfo">
+								<div class="voyage">启程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">24h0</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>香港</span>23:20</div>
+									<div class="airport"><span>巴黎</span>05:40+1</div>
+									<div class="airport"><span>巴黎</span>11:25</div>
+									<div class="airport"><span>马拉喀什</span>13:45</div>
+								</div>
 							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>香港</span>23:05</div>
-								<div class="airport"><span>法兰克福</span>05:20+1</div>
-							</div>
-						</div>
-						<div class="com_flightInfo">
-							<div class="voyage">回程</div>
-							<div class="ibWrap">
-								<div class="flex1">汉莎航空</div>
-								<div class="flex1">16h40m</div>
-								<div class="flex1">1次中转</div>
-							</div>
-							<div class="flex-row-start-between">
-								<div class="airport"><span>维也纳</span>16:55</div>
-								<div class="airport"><span>慕尼黑</span>17:50</div>
-								<div class="airport"><span>慕尼黑</span>22:30</div>
-								<div class="airport"><span>香港</span>15:35+1</div>
+							<div class="com_flightInfo">
+								<div class="voyage">回程</div>
+								<div class="ibWrap">
+									<div class="">法国航空</div>
+									<div class="">16h20m</div>
+									<div class="">1次中转</div>
+								</div>
+								<div class="flex-row-start-between">
+									<div class="airport"><span>卡萨布兰卡</span>18:15</div>
+									<div class="airport"><span>巴黎</span>22:20</div>
+									<div class="airport"><span>巴黎</span>23:20</div>
+									<div class="airport"><span>香港</span>18:35+1</div>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -891,13 +1054,12 @@
 
 			<div class="quotation">
 
-				<h4>一键预订优惠</h4>
-				<span class="declare">*不会产生任何费用 / Travelzoo专享</span>
+				<h4>获取实时价格</h4>
+
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-				<?php include_once('discount.php'); echo $discount8 ?>
-					<?php include_once('quotation-form.php'); echo $text2 ;?>
+					<?php include_once('quotation-form.php'); echo $text1 ;?>
 
 				</div>
 
@@ -909,14 +1071,11 @@
 		<!-- More trips like this -->
 		<div class="site">
 			<!-- trips -->
-			<?php include 'recommend.php' ;?>
+			<?php include_once('recommend.php') ;?>
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<h4 class="flex-row-end-between">
-				博客
-				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
-			</h4>
+			<?php include_once('blog.php') ;?>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>

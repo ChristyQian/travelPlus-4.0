@@ -132,42 +132,10 @@
 								</div>
 							</a>
 					    </div>
-					    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,swd,dm" data-tag="history,art,seaview,northeuro">
-							<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
-								<div class="imgWrap">
-									<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
-									<div class="hotSale" style="display:none">
-										<div class="transparentBg"></div>
-										<div class="transparentTxt">
-											<div class="yellowTxt">国庆档</div>
-											<div class="pinkTxt">2人同行，1人半价</div>
-										</div>
-									</div>
-								</div>
-								<div class="agendaWrap">
-									<p>
-										北欧多元首都之旅 <br/>
-										斯德哥尔摩 - 卑尔根 - 哥本哈根
-									</p>
-									<div class="rate">
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star" aria-hidden="true"></i>
-									</div>
-									<div>
-										11天
-										<span class="delPrice">￥19,100</span>
-										<span class="price">￥27,300<span>起</span></span>
-									</div>
-								</div>
-							</a>
-					    </div>
-					<div id="shopping-in-london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
-						<a href="itinerary-shopping-in-london-paris-amsterdam.php" >	
+					    <div id="in-depth-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo" data-tag="history,art,nature">
+						<a href="itinerary-in-depth-morocco.php" >	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/shopping-in-londan-paris-amsterdam.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/in-depth-morocco.jpg" alt="" />
 								<div class="hotSale" style="display: none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
@@ -178,7 +146,39 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									欧洲新年打折季之旅 <br/>
+									摩洛哥深度游 <br/>
+									马拉喀什 - 撒哈拉 - 菲斯
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥23,800<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+					    <div id="shopping-in-london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
+						<a href="itinerary-shopping-in-london-paris-amsterdam.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/shopping-in-london-paris-amsterdam.jpg" alt="" />
+								<div class="hotSale" style="display: none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									新年伦敦巴黎阿姆斯特丹购物之旅 <br/>
 									阿姆斯特丹 - 巴黎 - 伦敦
 								</p>
 								<div class="rate">
@@ -192,6 +192,38 @@
 									11天
 									<span class="delPrice">￥19,100</span>
 									<span class="price">￥25,800<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div id="shopping-in-amsterdam-paris" name="home-trip-box" class="home-trip-box" data-dest="fr,nz" data-tag="history,art,honeymoon">
+						<a href="itinerary-shopping-in-amsterdam-paris.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/shopping-in-amsterdam-paris.jpg" alt="" />
+								<div class="hotSale" style="display: none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									新年打折季购物之旅 <br/>
+									阿姆斯特丹 - 巴黎
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥21,800<span>起</span></span>
 								</div>
 							</div>
 						</a>
@@ -388,6 +420,38 @@
 							</div>
 						</a>
 				    </div>
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,swd,dm" data-tag="history,art,seaview,northeuro">
+							<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
+								<div class="imgWrap">
+									<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
+									<div class="hotSale" style="display:none">
+										<div class="transparentBg"></div>
+										<div class="transparentTxt">
+											<div class="yellowTxt">国庆档</div>
+											<div class="pinkTxt">2人同行，1人半价</div>
+										</div>
+									</div>
+								</div>
+								<div class="agendaWrap">
+									<p>
+										北欧多元首都之旅 <br/>
+										斯德哥尔摩 - 卑尔根 - 哥本哈根
+									</p>
+									<div class="rate">
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star active" aria-hidden="true"></i>
+										<i class="fa fa-star" aria-hidden="true"></i>
+									</div>
+									<div>
+										11天
+										<span class="delPrice">￥19,100</span>
+										<span class="price">￥27,300<span>起</span></span>
+									</div>
+								</div>
+							</a>
+					    </div>
 				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
 							<div class="imgWrap">
@@ -530,7 +594,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									原味欧洲，古堡奇幻之旅 <br/>
+									原味欧洲，古堡童话之旅 <br/>
 									德国 - 瑞士 - 奥地利
 								</p>
 								<div class="rate">

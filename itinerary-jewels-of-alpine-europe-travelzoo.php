@@ -22,7 +22,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">TravelZoo专享 2人同行,1人半价</div>
+						<div class="yellowTxt">Travelzoo专享 2人同行,1人半价</div>
 						<div class="tourName">阿尔卑斯山环游之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -848,7 +848,7 @@
 			<div class="quotation">
 
 				<h4>一键预订优惠</h4>
-				<span class="declare">*不会产生任何费用 / TravleZoo专享</span>
+				<span class="declare">*不会产生任何费用 / Travelzoo专享</span>
 
 				<div class="quotationBg"></div>
 
