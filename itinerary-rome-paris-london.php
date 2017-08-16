@@ -46,11 +46,11 @@
 					<div class="flex1 itineraryLine">
 						<div class="days">11天</div>
 						<div class="flex-row-start-between">
-							<div>意大利</div>
+							<div>罗马</div>
 							<i class="grayArrow"></i>
-							<div>法国</div>
+							<div>巴黎</div>
 							<i class="grayArrow"></i>
-							<div>英国</div>
+							<div>伦敦</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>

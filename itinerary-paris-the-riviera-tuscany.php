@@ -46,9 +46,11 @@
 					<div class="flex1 itineraryLine">
 						<div class="days">14天</div>
 						<div class="flex-row-start-between">
-							<div>法国</div>
+							<div>巴黎</div>
 							<i class="grayArrow"></i>
-							<div>意大利</div>
+							<div>里维埃拉</div>
+							<i class="grayArrow"></i>
+							<div>托斯卡纳</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>

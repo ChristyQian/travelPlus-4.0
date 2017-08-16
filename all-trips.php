@@ -649,7 +649,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									地中海完美假期 <br/>
+									地中海完美假期风光之旅 <br/>
 									意大利 - 希腊
 								</p>
 								<div class="rate">
