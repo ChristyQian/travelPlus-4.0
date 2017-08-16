@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-rome-paris-athens";
+	$pageName="itinerary-portugal-spain-morocco";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
@@ -554,6 +554,42 @@
 							</div>
 						</div>
 						<div class="hotelDes">SANA Malhoa Hotel酒店提供宽敞的现代化客房、一个水疗中心以及带户外用餐的Mediterrâneo Restaurant餐厅。El Corte Inglés购物中心距离酒店有5分钟步行路程。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_ext.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Novotel Madrid Center 马德里市中心诺富特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">马德里市中心诺富特酒店是4星级酒店，可为游客提供免费停车场，纪念品商店和美容院。客房提供标准的装修及木制的的地板。大的餐厅提供简单的正宗菜肴， 鸡尾酒饮品可在大堂吧享用。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Novotel Madrid Center 马德里市中心诺富特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">马德里市中心诺富特酒店是4星级酒店，可为游客提供免费停车场，纪念品商店和美容院。客房提供标准的装修及木制的的地板。大的餐厅提供简单的正宗菜肴， 鸡尾酒饮品可在大堂吧享用。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_dinning.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Novotel Madrid Center 马德里市中心诺富特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">马德里市中心诺富特酒店是4星级酒店，可为游客提供免费停车场，纪念品商店和美容院。客房提供标准的装修及木制的的地板。大的餐厅提供简单的正宗菜肴， 鸡尾酒饮品可在大堂吧享用。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->

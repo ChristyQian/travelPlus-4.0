@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-rome-paris-athens";
+	$pageName="itinerary-budapest-vienna-prague";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
@@ -69,11 +69,11 @@
 						<p class="serif">当你因《布达佩斯大饭店》、金色大厅和布拉格广场来到这里，你会发现中热情的东欧人带给你的远不止这些，你会深深迷恋上多瑙河和伏尔塔瓦河畔的这些城市，终有一天完美的旅程回忆会把你再次带回到这里。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Rosa.jpg" />
+								<img src="img/itinerary/tourDirector/Constantin.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Rosa</span>
+								<span class="name">Constantin</span>
 							</div>
 						</div>
 					</div>

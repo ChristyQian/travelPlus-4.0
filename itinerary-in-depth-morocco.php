@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-jewels-of-alpine-europe";
+	$pageName="itinerary-in-depth-morocco";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
@@ -22,7 +22,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">新年档</div>
+						<div class="yellowTxt" style="display:none">新年档</div>
 						<div class="tourName">摩洛哥深度游</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -68,11 +68,11 @@
 						<p class="serif">若这是你初次来到非洲，深度游览摩洛哥一定是你的不二之选！撒哈拉沙漠体验，绿洲探秘，摩洛哥美食课程，露天集市淘宝，还有《卡萨布兰卡》《波斯王子》《角斗士》等电影取景地，你一定放不下你的相机想要全部记录下来。在这趟旅程中，你将和我一起体验北非心脏摩洛哥的沙漠风情！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/rosa.jpg" />
+								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Rosa</span>
+								<span class="name">Tini Gattazzo</span>
 							</div>
 						</div>
 					</div>
@@ -592,7 +592,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_loby.jpg" />
+								<img src="img/hotel/Kasbah Hotel Xaluca Arfoud/Kasbah Hotel Xaluca Arfoud_lobby.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>

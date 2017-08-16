@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-jewels-of-alpine-europe";
+	$pageName="itinerary-shopping-in-amsterdam-paris";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
@@ -66,11 +66,11 @@
 						<p class="serif">这是一趟阿姆斯特丹和巴黎的跨年购物之旅，你将和我一起领略梵高博物馆和巴黎卢浮宫的艺术气息，还有大把自由时间去享受折扣季的购物狂欢。从阿姆斯特丹的红灯区到巴黎的夜生活，买不完的折扣店和新年夜巴黎上空的烟火秀，让充满乐趣的异国体验开启你新的一年！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
+								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fortuna Gallo</span>
+								<span class="name">Tini Gattazzo</span>
 							</div>
 						</div>
 					</div>

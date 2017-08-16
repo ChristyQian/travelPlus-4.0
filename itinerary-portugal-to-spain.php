@@ -1,39 +1,38 @@
 <!DOCTYPE html>
 <html>
 	<?php 
-	$pageName="itinerary-wonders-of-dubai-and-abu-dhabi";
+	$pageName="itinerary-portugal-to-spain";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="燃情阿联酋之旅";
-	$itineraryPrice="￥23,900";
+	$itineraryName="葡萄牙西班牙之旅";
+	$itineraryPrice="￥24,600";
 
     include_once("itinerary-head.php"); 
 ?>
 
 	<body data-spy="scroll" data-target="#travelPlusNav">
 		<?php include_once('fix-cta.php'); echo $text1 ;?>
-		<?php include_once('common-header.php') ;?>
+		<?php include_once('common-header.php');?>
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/billboard/wonders-of-dubai-and-abu-dhabi.jpg)  center center no-repeat;
-				background-size:cover;">
+		<div class="imagesWrap" style="background:url(img/itinerary/billboard/portugal-to-spain.jpg)  center center no-repeat; background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt" style="visibility: hidden;">热卖</div>
-						<div class="tourName">燃情阿联酋之旅</div>
+						<div class="yellowTxt" style="display:none">新年档</div>
+						<div class="tourName">葡萄牙西班牙之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
+							<div class="pinkTxt" style="display:none">仅剩6席</div>
 						</div>
 					</div>
 				</div>
@@ -44,19 +43,21 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">8天</div>
+						<div class="days">13天</div>
 						<div class="flex-row-start-between">
-							<div>迪拜</div>
+							<div>里斯本</div>
 							<i class="grayArrow"></i>
-							<div>阿布扎比</div>
+							<div>塞维利亚</div>
 							<i class="grayArrow"></i>
-							<div>艾恩</div>
+							<div>马德里</div>
+							<i class="grayArrow"></i>
+							<div>巴塞罗那</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">
-							￥23,900
+							￥24,600
 							<span>起</span>
 						</div>
 						<div>
@@ -66,25 +67,26 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">这次的行程，跟我一起去到神秘而富饶的阿联酋吧！从迪拜奢华壮丽的高楼大厦，到阿布扎比原生态的沙漠，一路体验沙漠晚餐、沙丘越野、猎鹰展演等众多阿拉伯独有的特色活动，遇见真正的阿拉伯风情！</p>
+						<p class="serif">这趟旅程你将回到大航海时期的起点里斯本和热情迷人的西班牙。既有贝伦塔旁迷人的海岸线，也有高迪之城的天才艺，同时品尝外酥里内的葡式蛋派，种类丰富的tapas和美味的sangria酒也是南欧之旅不可错过的一部分，你还可以和我一起探寻西班牙橄榄油农场，快来加入我们吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
+								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fortuna Gallo</span>
+								<span class="name">Fabrice Tomlin</span>
 							</div>
 						</div>
 					</div>
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							欣赏迪拜和阿布扎比的奢华建筑<br/> 
-							驰骋于沙漠之中<br/> 
-							享受被沙漠包围的的贝多因营地晚餐<br/> 
-							在阿布扎比猎鹰院观赏猎鹰习俗表演<br/> 
-							探索阿联酋的特色集市
+							感受葡萄牙航海文化，亲临热罗尼莫斯修道院、贝伦塔和海军纪念碑
+							<br/> 前往小众目的地：人骨教堂，科尔多瓦清真寺、牟利罗花园等探寻别样乐趣
+							<br/> 尽情享受弗朗明戈发源地塞利维亚的西班牙热情奔放
+							<br/> 品尝西班牙塔帕斯和意大利开胃酒，并与当地人共进晚餐
+							<br/> 深入橄榄油农场，探索西班牙作为橄榄油大国的奥秘
+							<br/> 充沛的自由时间规划别样旅途，真正身临其境，感受欧洲西南角土地上的绚烂文化
 						</p>
 					</div>
 				</div>
@@ -97,7 +99,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/wonders-of-dubai-and-abu-dhabi-1.jpg" />
+								<img src="img/itinerary/portugal-to-spain00.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -116,7 +118,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/wonders-of-dubai-and-abu-dhabi-2.jpg" />
+								<img src="img/itinerary/portugal-to-spain01.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -135,7 +137,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/wonders-of-dubai-and-abu-dhabi-3.jpg" />
+								<img src="img/itinerary/portugal-to-spain02.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -154,7 +156,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/wonders-of-dubai-and-abu-dhabi-4.jpg" />
+								<img src="img/itinerary/portugal-to-spain03.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -173,7 +175,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/wonders-of-dubai-and-abu-dhabi-5.jpg" />
+								<img src="img/itinerary/portugal-to-spain04.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -192,7 +194,26 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/wonders-of-dubai-and-abu-dhabi-6.jpg" />
+								<img src="img/itinerary/portugal-to-spain05.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+						<div class="photoBy">
+							<div class="com_profile">
+								<div class="imgWrap">
+									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								</div>
+							</div>
+							Photo by Anita
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/portugal-to-spain06.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -231,7 +252,7 @@
 						<div class="imgWrap">
 							<img src="img/page-2.svg" />
 						</div>
-						7晚精选酒店住宿
+						11晚精选酒店住宿
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -284,7 +305,7 @@
 			<div class="itineraryIntro section">
 				<div class="initialScreenLinear"></div>
 				<div class="itineraryMap">
-					<img src="img/itinerary/map/wonders-of-dubai-and-abu-dhabi.jpg" />
+					<img src="img/itinerary/map/portugal-to-spain.jpg" />
 				</div>
 				<div class="initialScreen">
 					<div class="com_itinerary_summary">
@@ -295,100 +316,132 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>启程并抵达迪拜，参加欢迎晚宴</li>
+									<li>出发并抵达里斯本</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>迪拜观光游</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>									
-									<li>沿谢赫扎耶德路前往迪拜新区</li>
-									<li>在迪拜购物中心停留</li>
-									<li>沿着海滩去往老城，途经阿拉伯塔朱美拉酒店和哈利法塔</li>
-									<li>乘坐阿布拉水上的士</li>
-									<li>进入贾希里城堡和迪拜博物馆参观</li>
-									<li>参观谢赫穆罕默德文化理解中心，品尝传统阿拉伯美食</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第3天</label><span>前往沙迦，并进行观光游览</span>
+								<label>第2天</label><span>里斯本观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>参观沙迦传统民俗博物馆</li>
-									<li>途经法萨尔王清真寺</li>
-									<li>进入著名的蓝色市场观光</li>
+									<li>在爱德华第五世公园欣赏里斯本的全貌</li>
+									<li>经过德尔庞巴尔广场和自由大道</li>
+									<li>参观莫拉利亚大区，贝伦塔，航海纪念碑和热罗尼莫斯修道院</li>
+									<li>乘车前往商业区巴洛奥尔多，步行游览奥古斯塔大街和罗西奥广场</li>
+									<li>晚上参加欢迎晚宴，认识同行伙伴</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第3天</label><span>里斯本自由活动</span>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第4天</label><span>埃武拉观光游并前往塞维利亚</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>上午乘车前往埃武拉神秘的人骨教堂参观</li>
+									<li>在戴安娜罗马神庙徒步观光</li>
+									<li>下午乘车前往塞维利亚</li>
+									<li>晚餐进入到塞维利亚当地人家中与他们共进晚餐</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第5天</label><span>塞维利亚及王宫观光游</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>乘坐巴士游览城市风光，途经瓜达尔基维尔河，世博园区，黄金塔，玛丽亚路易莎公园</li>
+									<li>从西班牙广场步行到圣十字犹太区的大教堂，途中穿过牟利罗花园</li>
+									<li>进入塞维利亚王宫参观</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第6天</label><span>塞维利亚自由活动</span>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第7天</label><span>科尔多瓦观光游并前往马德里</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>乘坐大巴前往科尔多瓦，途径橄榄油农场参观，品尝橄榄油美食</li>
+									<li>途径百花寺，前往科尔多瓦清真寺</li>
+									<li>步行游览旧城区和犹太区</li>
+									<li>下午坐高铁前往菲斯</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第8天</label><span>马德里观光游</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>驻足西班牙皇家宫殿</li>
+									<li>途经德波神庙</li>
+									<li>游览马德里西班牙广场、马约尔广场和太阳门</li>
+									<li>参观普拉多博物馆，了解西班牙艺术家戈雅和巴斯克斯</li>
 									<li>下午自由活动</li>
+									<li>晚上是非强制性的西班牙之夜，享受晚餐和印度吟唱音乐</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>上午在迪拜自由活动，下午进行沙漠越野和贝多因晚餐</span>
+								<label>第9天</label><span>马德里自由活动</span>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第10天</label><span>前往巴塞罗那</span>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第11天</label><span>巴塞罗那观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>前往沙漠区进行沙丘越野</li>
-									<li>沿途在“沙漠之舟”骆驼农场停留</li>
-									<li>品尝贝多因营地晚餐</li>
-									<li>欣赏阿拉伯肚皮舞和文化演出</li>
+									<li>在奥运会举办地蒙特惠奇稍作停留，在米拉多尔阿尔卡尔德公园漫步</li>
+									<li>途径西班牙广场和斗牛场旧址</li>
+									<li>驱车前往海边，漫步到哥伦布纪念碑</li>
+									<li>进入圣家堂参观，圣家堂是高迪著名的半成品杰作</li>
+									<li>乘车沿格拉西亚大道观光，途经高迪的 “骨头房子”</li>
+									<li>晚上参加告别晚宴，结束愉快的行程</li>
 								</ul>
+							</div>
+						</div>	
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第12天</label><span>前往巴塞罗那机场搭乘返程航班</span>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>前往阿布扎比</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>参观阿布扎比猎鹰院</li>
-									<li>下午在阿布扎比自由活动，晚上品尝当地晚餐</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第6天</label><span>阿布扎比观光游</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>前往萨蒂亚特岛</li>
-									<li>在古根海姆博物馆和阿布扎比卢浮宫停留</li>
-									<li>途经阿联酋皇宫和滨海大道</li>
-									<li>进入谢赫扎耶德清真寺参观</li>
-									<li>下午在阿布扎比自由活动</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第7天</label><span>前往艾恩，并进行观光游览</span>
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>穿过沙漠中的绿洲之城艾恩</li>
-									<li>参观艾恩绿洲公园和骆驼市场</li>
-									<li>在扎耶德故宫停留</li>
-									<li>进入贾希里城堡参观</li>
-									<li>参加告别晚宴</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第8天</label><span>前往机场，搭乘返程航班，并抵达中国</span>
+								<label>第13天</label><span>抵达中国</span>
 							</div>
 						</div>
 						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
@@ -407,115 +460,237 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_ext.jpg" />
+								<img src="img/hotel/Novotel Lisboa/Novotel Lisboa_lobby.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hyatt Regency Dubai迪拜凯悦酒店</div>
+								<div class="transparentTxt">Novotel Lisboa 里斯本诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代酒店享有阿拉伯海湾景致的客房，距离黄金市场（Gold Souk）有5分钟步行路程。酒店的公共区域提供免费无线网络连接。
-豪华客房的标准设施包括典雅家具和优美的景色。</div>
+						<div class="hotelDes">Novotel Lisboa酒店提供丰富的自助早餐和免费无线网络连接，距离里斯本动物园有500米。
+酒店宽敞的客房拥有时尚的设计风格，设有平面电视和咖啡/茶水设备，酒吧，健身中心和室外泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_room.jpg" />
+								<img src="img/hotel/Novotel Lisboa/Novotel Lisboa_room.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hyatt Regency Dubai迪拜凯悦酒店</div>
+								<div class="transparentTxt">Novotel Lisboa 里斯本诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">部分客房设有休息区，客人可以在休息区一边享用迷你吧的饮品，一边观赏卫星电视节目以放松身心。酒店毗邻新兴的PalmDeira人工群岛，距离迪拜国际机场有15分钟车程，距离地铁站仅有数步之遥。</div>
+						<div class="hotelDes">Novotel Lisboa酒店提供丰富的自助早餐和免费无线网络连接，距离里斯本动物园有500米。
+酒店宽敞的客房拥有时尚的设计风格，设有平面电视和咖啡/茶水设备，酒吧，健身中心和室外泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_dinning.jpg" />
+								<img src="img/hotel/Novotel Lisboa/Novotel Lisboa_dinning.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hyatt Regency Dubai迪拜凯悦酒店</div>
+								<div class="transparentTxt">Novotel Lisboa 里斯本诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代酒店享有阿拉伯海湾景致的客房，距离黄金市场（Gold Souk）有5分钟步行路程。酒店的公共区域提供免费无线网络连接。
-豪华客房的标准设施包括典雅家具和优美的景色。</div>
+						<div class="hotelDes">Novotel Lisboa酒店提供丰富的自助早餐和免费无线网络连接，距离里斯本动物园有500米。
+酒店宽敞的客房拥有时尚的设计风格，设有平面电视和咖啡/茶水设备，酒吧，健身中心和室外泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_gym.jpg" />
+								<img src="img/hotel/Novotel Lisboa/Novotel Lisboa_dinning2.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hyatt Regency Dubai迪拜凯悦酒店</div>
+								<div class="transparentTxt">Novotel Lisboa 里斯本诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">部分客房设有休息区，客人可以在休息区一边享用迷你吧的饮品，一边观赏卫星电视节目以放松身心。酒店毗邻新兴的PalmDeira人工群岛，距离迪拜国际机场有15分钟车程，距离地铁站仅有数步之遥。</div>
+						<div class="hotelDes">Novotel Lisboa酒店提供丰富的自助早餐和免费无线网络连接，距离里斯本动物园有500米。
+酒店宽敞的客房拥有时尚的设计风格，设有平面电视和咖啡/茶水设备，酒吧，健身中心和室外泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Hyatt Regency Dubai/Hyatt Regency Dubai_pool.jpg" />
+								<img src="img/hotel/Novotel Lisboa/Novotel Lisboa_dinning3.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hyatt Regency Dubai迪拜凯悦酒店</div>
+								<div class="transparentTxt">Novotel Lisboa 里斯本诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家现代酒店享有阿拉伯海湾景致的客房，距离黄金市场（Gold Souk）有5分钟步行路程。酒店的公共区域提供免费无线网络连接。
-豪华客房的标准设施包括典雅家具和优美的景色。</div>
+						<div class="hotelDes">Novotel Lisboa酒店提供丰富的自助早餐和免费无线网络连接，距离里斯本动物园有500米。
+酒店宽敞的客房拥有时尚的设计风格，设有平面电视和咖啡/茶水设备，酒吧，健身中心和室外泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Southern Sun Abu Dhabi/Southern Sun Abu Dhabi_room.jpg" />
+								<img src="img/hotel/Novotel Lisboa/Novotel Lisboa_gym.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Southern Sun Abu Dhabi阿布扎比南方太阳酒店</div>
+								<div class="transparentTxt">Novotel Lisboa 里斯本诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店位于商务区的中心，设有室外游泳池、桑拿浴室和健身房，各处均覆盖免费无线网络连接，提供24小时客房服务。</div>
+						<div class="hotelDes">Novotel Lisboa酒店提供丰富的自助早餐和免费无线网络连接，距离里斯本动物园有500米。
+酒店宽敞的客房拥有时尚的设计风格，设有平面电视和咖啡/茶水设备，酒吧，健身中心和室外泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Southern Sun Abu Dhabi/Southern Sun Abu Dhabi_dinning.jpg" />
+								<img src="img/hotel/Novotel Lisboa/Novotel Lisboa_pool.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Southern Sun Abu Dhabi阿布扎比南方太阳酒店</div>
+								<div class="transparentTxt">Novotel Lisboa 里斯本诺富特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店距离阿布扎比机场（Abu Dhabi Airport）29公里。客人可以在距离酒店有不到数分钟步行路程的阿布扎比购物中心（Abu Dhabi Mall）购物。 
-</div>
+						<div class="hotelDes">Novotel Lisboa酒店提供丰富的自助早餐和免费无线网络连接，距离里斯本动物园有500米。
+酒店宽敞的客房拥有时尚的设计风格，设有平面电视和咖啡/茶水设备，酒吧，健身中心和室外泳池。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Southern Sun Abu Dhabi/Southern Sun Abu Dhabi_gym.jpg" />
+								<img src="img/hotel/Zenit Sevilla/Zenit Sevilla_ext.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Southern Sun Abu Dhabi阿布扎比南方太阳酒店</div>
+								<div class="transparentTxt">Sevilla Zenit 塞维利亚泽尼特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店位于商务区的中心，设有室外游泳池、桑拿浴室和健身房，各处均覆盖免费无线网络连接，提供24小时客房服务。</div>
+						<div class="hotelDes">酒店以安达卢西亚风格装饰，提供带免费WiFi和平板卫星电视的客房。 Hotel Zenit Sevilla酒店每间宽敞的客房均设有空调和木地板。客房提供迷你吧和枕头选单。浴室铺有典型的瓷砖，并配有吹风机、浴室用品和浴袍。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/hotel/Southern Sun Abu Dhabi/Southern Sun Abu Dhabi_pool.jpg" />
+								<img src="img/hotel/Zenit Sevilla/Zenit Sevilla_lobby.jpg" />
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Southern Sun Abu Dhabi阿布扎比南方太阳酒店</div>
+								<div class="transparentTxt">Sevilla Zenit 塞维利亚泽尼特酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">酒店距离阿布扎比机场（Abu Dhabi Airport）29公里。客人可以在距离酒店有不到数分钟步行路程的阿布扎比购物中心（Abu Dhabi Mall）购物。 
-</div>
+						<div class="hotelDes">酒店以安达卢西亚风格装饰，提供带免费WiFi和平板卫星电视的客房。 Hotel Zenit Sevilla酒店每间宽敞的客房均设有空调和木地板。客房提供迷你吧和枕头选单。浴室铺有典型的瓷砖，并配有吹风机、浴室用品和浴袍。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Zenit Sevilla/Zenit Sevilla_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Sevilla Zenit 塞维利亚泽尼特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店以安达卢西亚风格装饰，提供带免费WiFi和平板卫星电视的客房。 Hotel Zenit Sevilla酒店每间宽敞的客房均设有空调和木地板。客房提供迷你吧和枕头选单。浴室铺有典型的瓷砖，并配有吹风机、浴室用品和浴袍。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Zenit Sevilla/Zenit Sevilla_dinning.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Sevilla Zenit 塞维利亚泽尼特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店以安达卢西亚风格装饰，提供带免费WiFi和平板卫星电视的客房。 Hotel Zenit Sevilla酒店每间宽敞的客房均设有空调和木地板。客房提供迷你吧和枕头选单。浴室铺有典型的瓷砖，并配有吹风机、浴室用品和浴袍。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Zenit Sevilla/Zenit Sevilla_dinning2.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Sevilla Zenit 塞维利亚泽尼特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">酒店以安达卢西亚风格装饰，提供带免费WiFi和平板卫星电视的客房。 Hotel Zenit Sevilla酒店每间宽敞的客房均设有空调和木地板。客房提供迷你吧和枕头选单。浴室铺有典型的瓷砖，并配有吹风机、浴室用品和浴袍。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_ext.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Novotel Madrid Center 马德里市中心诺富特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">马德里市中心诺富特酒店是4星级酒店，可为游客提供免费停车场，纪念品商店和美容院。客房提供标准的装修及木制的的地板。大的餐厅提供简单的正宗菜肴， 鸡尾酒饮品可在大堂吧享用。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Novotel Madrid Center 马德里市中心诺富特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">马德里市中心诺富特酒店是4星级酒店，可为游客提供免费停车场，纪念品商店和美容院。客房提供标准的装修及木制的的地板。大的餐厅提供简单的正宗菜肴， 鸡尾酒饮品可在大堂吧享用。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Novotel Madrid/Novotel Madrid_dinning.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Novotel Madrid Center 马德里市中心诺富特酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">马德里市中心诺富特酒店是4星级酒店，可为游客提供免费停车场，纪念品商店和美容院。客房提供标准的装修及木制的的地板。大的餐厅提供简单的正宗菜肴， 鸡尾酒饮品可在大堂吧享用。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Catalonia La Pedrera/Catalonia La Pedrera_ext.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Catalonia La Pedrera 加泰罗尼亚佩德雷拉酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">Hotel Catalonia La Pedrera酒店位于现代主义建引以为豪的著名建筑，如包括米拉之家在内的高迪和多明尼克的重要作品。拥有理想的购物环境，方便客人前往加泰罗尼亚广场和该市历史悠久的哥特区，提供免费WiFi。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Catalonia La Pedrera/Catalonia La Pedrera_lobby.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Catalonia La Pedrera 加泰罗尼亚佩德雷拉酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">Hotel Catalonia La Pedrera酒店位于现代主义建引以为豪的著名建筑，如包括米拉之家在内的高迪和多明尼克的重要作品。拥有理想的购物环境，方便客人前往加泰罗尼亚广场和该市历史悠久的哥特区，提供免费WiFi。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Catalonia La Pedrera/Catalonia La Pedrera_room.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Catalonia La Pedrera 加泰罗尼亚佩德雷拉酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">Hotel Catalonia La Pedrera酒店位于现代主义建引以为豪的著名建筑，如包括米拉之家在内的高迪和多明尼克的重要作品。拥有理想的购物环境，方便客人前往加泰罗尼亚广场和该市历史悠久的哥特区，提供免费WiFi。</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/hotel/Catalonia La Pedrera/Catalonia La Pedrera_dinning.jpg" />
+							</div>
+							<div class="hotelIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">Catalonia La Pedrera 加泰罗尼亚佩德雷拉酒店</div>
+							</div>
+						</div>
+						<div class="hotelDes">Hotel Catalonia La Pedrera酒店位于现代主义建引以为豪的著名建筑，如包括米拉之家在内的高迪和多明尼克的重要作品。拥有理想的购物环境，方便客人前往加泰罗尼亚广场和该市历史悠久的哥特区，提供免费WiFi。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -548,29 +723,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">东方航空</div>
-									<div class="">9h00m</div>
+									<div class="">荷兰皇家</div>
+									<div class="">15h40m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>成都</span>10:35</div>
-									<div class="airport"><span>昆明</span>11:55</div>
-									<div class="airport"><span>昆明</span>15:35</div>
-									<div class="airport"><span>迪拜</span>19:15</div>
+									<div class="airport"><span>成都</span>15:30</div>
+									<div class="airport"><span>阿姆斯特丹</span>19:15</div>
+									<div class="airport"><span>阿姆斯特丹</span>21:10</div>
+									<div class="airport"><span>里斯本</span>23:10</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">东方航空</div>
-									<div class="">08h05m</div>
+									<div class="">荷兰皇家</div>
+									<div class="">13h25m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>迪拜</span>20:45</div>
-									<div class="airport"><span>昆明</span>07:15+1</div>
-									<div class="airport"><span>昆明</span>10:50</div>
-									<div class="airport"><span>成都</span>12:25</div>
+									<div class="airport"><span>巴塞罗那</span>17:20</div>
+									<div class="airport"><span>阿姆斯特丹</span>19:45</div>
+									<div class="airport"><span>阿姆斯特丹</span>20:55</div>
+									<div class="airport"><span>成都</span>13:45+1</div>
 								</div>
 							</div>
 						</div>
@@ -581,25 +756,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">阿联酋航空</div>
-									<div class="">10h05m</div>
-									<div class="">直飞</div>
+									<div class="">汉莎航空</div>
+									<div class="">16h50m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海</span>06:15</div>
-									<div class="airport"><span>迪拜</span>12:20</div>
+									<div class="airport"><span>上海</span>13:50</div>
+									<div class="airport"><span>法兰克福</span>18:50</div>
+									<div class="airport"><span>法兰克福</span>20:40</div>
+									<div class="airport"><span>里斯本</span>22:40</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">阿联酋航空</div>
-									<div class="">7h45m</div>
-									<div class="">直飞</div>
+									<div class="">瑞士国际航空</div>
+									<div class="">15h10m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>迪拜</span>09:15</div>
-									<div class="airport"><span>上海</span>21:05</div>
+									<div class="airport"><span>巴塞罗那</span>09:45</div>
+									<div class="airport"><span>苏黎世</span>11:40</div>
+									<div class="airport"><span>苏黎世</span>13:00</div>
+									<div class="airport"><span>上海</span>07:55+1</div>
 								</div>
 							</div>
 						</div>
@@ -610,25 +789,29 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">阿联酋航空</div>
-									<div class="">8h50m</div>
-									<div class="">直飞</div>
+									<div class="">荷兰皇家</div>
+									<div class="">19h15m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>北京</span>6:50</div>
-									<div class="airport"><span>迪拜</span>11:40</div>
+									<div class="airport"><span>北京</span>11:55</div>
+									<div class="airport"><span>阿姆斯特丹</span>15:30</div>
+									<div class="airport"><span>阿姆斯特丹</span>21:10</div>
+									<div class="airport"><span>里斯本</span>23:10</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">阿联酋航空</div>
-									<div class="">7h20m</div>
-									<div class="">直飞</div>
+									<div class="">荷兰皇家</div>
+									<div class="">13h45m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>迪拜</span>11:10</div>
-									<div class="airport"><span>北京</span>22:30</div>
+									<div class="airport"><span>巴塞罗那</span>13:10</div>
+									<div class="airport"><span>阿姆斯特丹</span>15:35</div>
+									<div class="airport"><span>阿姆斯特丹</span>17:30</div>
+									<div class="airport"><span>北京</span>09:55+1</div>
 								</div>
 							</div>
 						</div>
@@ -640,24 +823,28 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">阿联酋航空</div>
-									<div class="">8h55m</div>
-									<div class="">直飞</div>
+									<div class="">22h45m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>香港</span>7:35</div>
-									<div class="airport"><span>迪拜</span>12:30</div>
+									<div class="airport"><span>香港</span>21:15</div>
+									<div class="airport"><span>迪拜</span>05:00+1</div>
+									<div class="airport"><span>迪拜</span>07:25</div>
+									<div class="airport"><span>里斯本</span>12:00</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
-									<div class="">阿联酋航空</div>
-									<div class="">7h15m</div>
-									<div class="">直飞</div>
+									<div class="">法国航空</div>
+									<div class="">16h40m</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>迪拜</span>10:00</div>
-									<div class="airport"><span>香港</span>21:05</div>
+									<div class="airport"><span>巴塞罗那</span>14:50</div>
+									<div class="airport"><span>迪拜</span>00:35+1</div>
+									<div class="airport"><span>迪拜</span>03:15</div>
+									<div class="airport"><span>香港</span>14:30</div>
 								</div>
 							</div>
 						</div>
@@ -827,7 +1014,6 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 
 				</div>
@@ -844,10 +1030,7 @@
 		</div>
 		<!-- From the blog -->
 		<div class="site blog">
-			<h4 class="flex-row-end-between">
-				博客
-				<a href="http://travelplus.ef.com.cn/blog/" class="blueBorderBtn">全部</a>
-			</h4>
+			<?php include_once('blog.php') ;?>
 		</div>
 		<!-- footer -->
 		<?php include_once('common-footer.php') ;?>

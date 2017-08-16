@@ -132,6 +132,38 @@
 								</div>
 							</a>
 					    </div>
+					    <div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="art,nature">
+						<a href="itinerary-portugal-to-spain.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/portugal-to-spain.jpg" alt="" />
+								<div class="hotSale" style="display: none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									葡萄牙西班牙之旅 <br/>
+									里斯本 - 塞维利亚 - 马德里 - 巴塞罗那
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									13天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥24,600<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
 					    <div id="in-depth-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo" data-tag="history,art,nature">
 						<a href="itinerary-in-depth-morocco.php" >	
 							<div class="imgWrap">
@@ -157,7 +189,7 @@
 									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div>
-									11天
+									13天
 									<span class="delPrice">￥19,100</span>
 									<span class="price">￥23,800<span>起</span></span>
 								</div>

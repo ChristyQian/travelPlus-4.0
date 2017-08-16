@@ -3,8 +3,8 @@
 <?php 
 	$pageName="all-trips";
 	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
-	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_迪拜旅游_线路推荐_限时特惠线路_假期出国游";
-	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，迪拜旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
+	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_线路推荐_限时特惠线路_假期出国游";
+	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
 	$metaDescription="英孚旅游+，根据热门季节、个人爱好等旅行元素，精心设计行程，带来更多元的主题线路和更优的旅行体验，真正融入异国文化，捕捉旅程中的每次怦然心动与惊喜。";
 
     include_once("all-trips-head.php"); 
@@ -13,13 +13,14 @@
 
 	<script type="text/javascript" src='js/func.js'></script>
 	
+	
 <?php 
-	 include_once('common-header2.php');
+	include_once('common-header2.php');
 ?>	
 
 <?PHP
-		include_once('triggeredLeadPop.php');
-	?>
+	include_once('triggeredLeadPop.php');
+?>
 		<div class="section" style="padding:0;">
 			<div class="whyUsBg">
 				<div class="site">
@@ -80,10 +81,9 @@
 							</div>-->
 							<select id="destination">
 								<option value="all" data-display="全部目的地">全部目的地</option>
-								<option value="australia" data-display="澳大利亚">澳大利亚</option>
-								<option value="wus" data-display="美国西部">美国西部</option>
-								<option value="ic" data-display="冰岛">冰岛</option>
-								<!-- <option value="db" data-display="迪拜">迪拜</option> -->
+								<option value="aus" data-display="澳大利亚">澳大利亚</option>
+								<option value="amw" data-display="美国西部">美国西部</option>
+								<option value="icy" data-display="冰岛">冰岛</option>
 								<option value="uk" data-display="英国">英国</option>
 								<option value="sc" data-display="苏格兰">苏格兰</option>
 								<option value="ir" data-display="爱尔兰">爱尔兰</option>
@@ -92,17 +92,16 @@
 								<option value="it" data-display="意大利">意大利</option>
 								<option value="sp" data-display="西班牙">西班牙</option>
 								<option value="nz" data-display="荷兰">荷兰</option>
-								<option value="swz" data-display="瑞士">瑞士</option>
-								<option value="swd" data-display="瑞典">瑞典</option>
+								<option value="sw" data-display="瑞士">瑞士</option>
 								<option value="gr" data-display="希腊">希腊</option>
 								<option value="dm" data-display="丹麦">丹麦</option>
 								<option value="nw" data-display="挪威">挪威</option>
-								<!-- <option value="fl" data-display="芬兰">芬兰</option> -->
+								<option value="fl" data-display="芬兰">芬兰</option>
 								<option value="bg" data-display="比利时">比利时</option>
-								<option value="austria" data-display="奥地利">奥地利</option>
+								<option value="au" data-display="奥地利">奥地利</option>
 							</select>
 						</div>
-						<!-- <div id="trip-tag" class="flex-row-start-start flex-flow">
+						<div id="trip-tag" class="flex-row-start-start flex-flow">
 							<div id="tag-history" data-tag="history" data-display="历史遗迹" name="tag-selector" class="checkbox">
 								历史遗迹
 							</div>
@@ -127,9 +126,9 @@
 							<div id="tag-food" data-tag="food" data-display="美食美酒" name="tag-selector" class="checkbox">
 								美食美酒
 							</div>
-						</div> -->
+						</div>
 					</div>
-					<button class="blueRBtn search"  onclick="Trip_Filter();"><i class="fa fa-search"></i>搜索</button>
+					<button class="blueRBtn search"  onclick="Trip_Filter();">搜索</button>
 				</div>
 			</div>
 		</div>
@@ -140,7 +139,7 @@
 					<div id="filter-selected" class="flex-row-center-start filterConditions">
 					</div>
 					
-					<button class="blueRBtn edit"><i class="fa fa-pencil-square-o" aria-hidden="true"></i>编辑</button>
+					<button class="blueRBtn edit">编辑</button>
 					
 				</div>
 			</div>
@@ -148,9 +147,41 @@
 		
 		<div class="site">
 			<!-- trips -->
-			<div class="section" id="offerSection">
+			<div class="section">
 				<h4>当季精选</h4>
-				<div class="flex-row-start-start flex-flow">													
+				<div class="flex-row-start-start flex-flow">	
+				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
+						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									食在意大利：食物与酒的美学 <br/>
+									都灵 - 意属里维耶拉 - 博洛尼亚 - 米兰
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									12天
+									<span class="delPrice">￥22,800</span>
+									<span class="price">￥21,500<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 							<div class="imgWrap">
@@ -182,8 +213,40 @@
 								</div>
 							</div>
 						</a>
-				    </div>				    			    				    
-				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
+				    </div>				    			    
+				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,sw,dm,fl" data-tag="history,art,seaview,northeuro">
+						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">2人同行，1人半价</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									北欧多元首都之旅 <br/>
+									斯德哥尔摩 - 卑尔根 - 哥本哈根
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div>
+									11天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥27,300<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
@@ -230,7 +293,7 @@
 							<div class="agendaWrap">
 								<p>
 									西班牙全景深度游 <br/>
-									马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+									西班牙 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -246,77 +309,13 @@
 								</div>
 							</div>
 						</a>
-				    </div>
-				    <div id="scandinavia-the-capitals-the-fjords" name="home-trip-box" class="home-trip-box" data-dest="nw,swd,dm" data-tag="history,art,seaview,northeuro">
-						<a href="itinerary-scandinavia-the-capitals-the-fjords.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/scandinavia-the-capitals-the-fjords.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									北欧多元首都之旅 <br/>
-									斯德哥尔摩 - 卑尔根 - 哥本哈根
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									11天
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥27,300<span>起</span></span>
-								</div>
-							</div>
-						</a>
 				    </div>				   
 				</div>
 			</div>
-			<div class="section" id="otherSection">
+			<div class="section">
 				<h4>全部行程</h4>
-				<div class="flex-row-start-start flex-flow">
-					<!-- <div id="wonders-of-dubai-and-abu-dhabi" name="home-trip-box" class="home-trip-box" data-dest="db" data-tag="nature,seaview">
-						<a href="itinerary-wonders-of-dubai-and-abu-dhabi.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/wonders-of-dubai-and-abu-dhabi.jpg" alt="" />
-								<div class="hotSale" style="display:none;">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt"></div>
-										<div class="pinkTxt"></div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									燃情阿联酋之旅 <br/>
-									迪拜 - 阿布扎比 - 艾恩
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									8天
-									<span class="delPrice">￥</span>
-									<span class="price">￥<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>	 -->				
-					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="australia" data-tag="nature,seaview,honeymoon,family">
+				<div class="flex-row-start-start flex-flow">					
+					<div id="adventures-in-australia" name="home-trip-box" class="home-trip-box" data-dest="aus" data-tag="nature,seaview,honeymoon,family">
 						<a href="itinerary-adventures-in-australia.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/adventures-in-australia.jpg" alt="" />
@@ -348,7 +347,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="art,nature,seaview,honeymoon,family">
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="amw" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-grand-tour-of-california.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
@@ -380,7 +379,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="ic" data-tag="nature,honeymoon,northeuro">
+				    <div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="icy" data-tag="nature,honeymoon,northeuro">
 						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
@@ -412,38 +411,6 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
-						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/Food-&-Wine--Northern-Italy-&-the-Italian-Riviera.jpg" alt="" />
-								<div class="hotSale" style="display:none;">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									食在意大利：食物与酒的美学 <br/>
-									都灵 - 意属里维耶拉 - 博洛尼亚 - 米兰
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div>
-									12天
-									<span class="delPrice">￥22,800</span>
-									<span class="price">￥21,500<span>起</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>	
 					<div id="italy-greece" name="home-trip-box" class="home-trip-box" data-dest="it,gr" data-tag="history,nature,seaview,honeymoon">
 						<a href="itinerary-italy-greece.php" >	
 							<div class="imgWrap">
@@ -491,7 +458,7 @@
 							<div class="agendaWrap">
 								<p>
 									一路向北欧洲之旅 <br/>
-									伦敦 - 安特卫普 - 阿姆斯特丹 - 汉堡 - 哥本哈根
+									伦敦 - 阿姆斯特丹 - 哥本哈根
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -522,7 +489,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									城市生活与艺术之旅<br/>
+									城市生活与艺术之旅(11天)-亲子团 <br/>
 									巴黎 - 罗马 - 雅典
 								</p>
 								<div class="rate">
@@ -540,7 +507,7 @@
 							</div>
 						</a>
 				    </div>
-					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
+					<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,sw,au" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
@@ -619,7 +586,7 @@
 							<div class="agendaWrap">
 								<p>
 									食在西班牙：爱在唇齿留香间 <br/>
-									巴塞罗那 - 圣塞瓦斯蒂安 - 拉里奥哈 - 马德里
+									西班牙
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -651,7 +618,7 @@
 							<div class="agendaWrap">
 								<p>
 									恋恋翡翠岛，“英爱”而行 <br/>
-									伦敦 - 爱丁堡 - 都柏林
+									伦敦-爱丁堡-都柏林
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -764,7 +731,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="swz,fr,ge" data-tag="art,nature">
+				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="sw,fr,ge" data-tag="art,nature">
 						<a href="itinerary-switzerland-alsace-the-black-forest.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/switzerland-alsace-the-black-forest.jpg" alt="" />
@@ -811,7 +778,7 @@
 							<div class="agendaWrap">
 								<p>
 									食在法国：美食与葡萄酒之旅 <br/>
-									图卢兹 - 波尔多 - 佩里格 - 巴黎 
+									法国
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -875,7 +842,7 @@
 							<div class="agendaWrap">
 								<p>
 									意大利全景深度游 <br/>
-									科莫湖 - 威尼斯 - 佛罗伦萨 - 罗马
+									意大利
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -992,47 +959,18 @@
 			</div>
 		</div>
 		<!-- footer -->
-<?php 
-	include_once('common-footer2.php')
-?>
+<?php include_once('common-footer2.php'); ?>
 <?php include 'popup.php' ;?>
+
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
+
 		<!-- Show the interaction effect, can be removed it later -->
 		<script src="js/triggeredLeadPop.js" type="text/javascript"></script>
 		<!-- Show the interaction effect, can be removed it later -->
+		
 		<script>
-			function init(){
-				$('#offerSection').show();
-				$('#otherSection').show();
-			}
-
-			function smartSection(sectionID){
-				var segment = 'inline';
-				var arryWrap = $('#'+sectionID).children('.flex-flow');
-				var childArry = arryWrap.children('div');						
-				for (var i=0;i<childArry.length;i++) {
-					var status = false;	
-					var styleVal = childArry[i].style.display;						
-					if (styleVal !== segment) {
-						continue;						
-					}
-					else {
-						status = true;
-						break;
-					} 
-					return status;
-				}
-				if (status == false) {
-					$('#'+sectionID).hide();
-					$('.site').css('padding-top',0);
-				}
-				else {
-					$('#'+sectionID).show();
-				}
-			}
-
 			function myaffix() {
 				var affixoffset = $('.filter').offset().top;
 				$(window).scroll(function () {
@@ -1076,9 +1014,6 @@
 				$('.editModel').show();
 			});
 			$('.search').click(function(){
-				init();
-				smartSection('offerSection');
-				smartSection('otherSection');
 				$('.filterResult').show();
 				$('.editModel').hide();
 			});
@@ -1126,5 +1061,7 @@
 				$('.filter').removeClass('affix-top').hasClass('affix');
 			});
 		</script>
+		
+		
 	</body>
 </html>
