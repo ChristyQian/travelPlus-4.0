@@ -132,6 +132,38 @@
 								</div>
 							</a>
 					    </div>
+					    <div id="carlifornia-and-the-grand-canyon" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="nature,family">
+						<a href="itinerary-grand-canyon.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/grand-canyon.jpg" alt="" />
+								<div class="hotSale" style="display: none;">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">国庆档</div>
+										<div class="pinkTxt">早鸟减5%</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									【亲子游】加州主题乐园+大峡谷之旅 <br/>
+									旧金山 - 洛杉矶 - 拉斯维加斯 - 弗拉格斯塔夫 - 凤凰城
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									13天
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥28,800<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
 					    <div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="art,nature">
 						<a href="itinerary-portugal-to-spain.php" >	
 							<div class="imgWrap">

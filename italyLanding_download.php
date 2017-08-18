@@ -263,6 +263,41 @@
 								<button class="yellowBtn">查看行程</button>								
 							</div>
 						</a>
+				    </div>
+				    <div id="venice-florence-rome" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,honeymoon">
+						<a href="itinerary-venice-florence-rome.php" >	
+							<div class="offerOutWrap">									
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
+								</div>
+							</div>
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/venice-florence-rome.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">意大利文艺复兴之旅</div>
+								<div class="itiDess">
+									威尼斯 - 佛罗伦萨 - 罗马
+								</div>	
+								<div class="itiDays">12天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									在威尼斯感受不紧不慢的浪漫生活，在佛罗伦萨与数之不尽的教堂建筑亲密接触，在罗马重温古时文明，从食物到生活方式，一起来全方位感受意大利的活力和文艺复兴的传奇往事吧！
+								</div>
+								<div class="itiPrice">										
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥18,500<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
 				    </div>	
 				    <div id="food-wine-northern-italy-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="art,nature,seaview,honeymoon,food">
 						<a href="itinerary-food-wine-northern-italy-the-italian-riviera.php" >	
@@ -351,41 +386,7 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="venice-florence-rome" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,honeymoon">
-						<a href="itinerary-venice-florence-rome.php" >	
-							<div class="offerOutWrap">									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/venice-florence-rome.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">意大利文艺复兴之旅</div>
-								<div class="itiDess">
-									威尼斯 - 佛罗伦萨 - 罗马
-								</div>	
-								<div class="itiDays">12天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									在威尼斯感受不紧不慢的浪漫生活，在佛罗伦萨与数之不尽的教堂建筑亲密接触，在罗马重温古时文明，从食物到生活方式，一起来全方位感受意大利的活力和文艺复兴的传奇往事吧！
-								</div>
-								<div class="itiPrice">										
-									<span class="delPrice">￥21,100</span>
-									<span class="price">￥18,500<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>								
-							</div>
-						</a>
-				    </div>
+				    
 				    <div id="rome-paris-london" name="home-trip-box" class="home-trip-box" data-dest="it,fr,uk" data-tag="history,art">
 						<a href="itinerary-rome-paris-london.php" >	
 							<div class="imgWrap">
@@ -642,6 +643,41 @@
 									<span class="price">￥23,400<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>
+							</div>
+						</a>
+				    </div>
+				    <div id="california-and-the-grand-canyon" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="nature,family">
+						<a href="itinerary-grand-canyon.php" >	
+							<div class="offerOutWrap">									
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
+								</div>
+							</div>
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/grand-canyon.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">【亲子游】加州主题乐园+大峡谷之旅</div>
+								<div class="itiDess">
+									旧金山 - 洛杉矶 - 拉斯维加斯 - 弗拉格斯塔夫 - 凤凰城
+								</div>	
+								<div class="itiDays">13天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									和孩子一起沐浴美国加州的灿烂阳光，相信震撼人心的科罗拉多河漂流和大峡谷探秘一定是一个让孩子大开眼界的绝佳的机会，还有他们最喜爱的迪士尼乐园和环球影城，让我们一起记录他们开怀大笑的时刻！
+								</div>
+								<div class="itiPrice">										
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥28,800<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>								
 							</div>
 						</a>
 				    </div>

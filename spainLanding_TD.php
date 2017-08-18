@@ -510,6 +510,41 @@
 							</div>
 						</a>
 				    </div>
+				    <div id="california-and-the-grand-canyon" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="nature,family">
+						<a href="itinerary-grand-canyon.php" >	
+							<div class="offerOutWrap">									
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
+								</div>
+							</div>
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/grand-canyon.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">【亲子游】加州主题乐园+大峡谷之旅</div>
+								<div class="itiDess">
+									旧金山 - 洛杉矶 - 拉斯维加斯 - 弗拉格斯塔夫 - 凤凰城
+								</div>	
+								<div class="itiDays">13天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									和孩子一起沐浴美国加州的灿烂阳光，相信震撼人心的科罗拉多河漂流和大峡谷探秘一定是一个让孩子大开眼界的绝佳的机会，还有他们最喜爱的迪士尼乐园和环球影城，让我们一起记录他们开怀大笑的时刻！
+								</div>
+								<div class="itiPrice">										
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥28,800<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
+				    </div>
 				    <div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
 						<a href="itinerary-portugal-spain-morocco.php" >	
 							<div class="offerOutWrap">									

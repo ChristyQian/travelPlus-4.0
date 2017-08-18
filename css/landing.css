@@ -466,6 +466,9 @@ body {
 	}
 }
 @media screen and (max-width: 425px) {
+	.header-nav.affix {
+		opacity: 0;
+	}
 	.browse-banner-container {
 		overflow: hidden;
 	}

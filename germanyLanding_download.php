@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php 
-	$pageName="Tours to Spain & Europe";
+	$pageName="Tours to Germany & Europe";
 	$tagTitle="EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_迪拜旅游_线路推荐_限时特惠线路_假期出国游";
 	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，迪拜旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
@@ -29,23 +29,23 @@
 								<i class="fa fa-chevron-right" data-reactid="228"></i>
 							</li>
 							<li class="breadcrumbs-segment">
-								<a class="dark" href="#">西班牙</a>
+								<a class="dark" href="#">德国</a>
 								<i class="fa fa-chevron-right" data-reactid="228"></i>
 							</li>
 						</ul>
 					</div>
 					<div class="site" data-target="#card">
 						<div class="browse-banner">
-							<div class="browse-banner-bg"><img class="browse-banner-overlay" src="img/itinerary/billboard/Grand-Tour-of-Spain.jpg" width="100%"/></div>
+							<div class="browse-banner-bg"><img class="browse-banner-overlay" src="img/itinerary/billboard/Germany-Switzerland-Austria.jpg" width="100%"/></div>
 							<div class="site browse-banner-content">
 								<div class="leftWrap">
 									<div class="">
 										<div class="landingInfo">
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
-												<h5>Spain Tours</h5>
-												<h1>玩在西班牙</h1>
-												<p>从马德里的博物馆，到塞尔维亚奔放热情的弗拉门戈，从流动的建筑博物馆巴塞罗那，到直布罗陀海峡的黄金海岸。作为世界文化遗产最多的国家之一，热情洋溢的西班牙同时还人文荟萃。三大宗教先后统治这片土地，各自留下了灿烂的文化。
+												<h5>Germany Tours</h5>
+												<h1>玩在德国</h1>
+												<p>当你穿过莱茵河谷，来到德国，这里的纽结饼、啤酒和黑森林蛋糕是一定要品尝的，此外慕尼黑的啤酒节狂欢，柏林和巴伐利亚的历史，也会让你对德国印象深刻。
 												</p>
 											</div>
 										</div>		 
@@ -118,7 +118,7 @@
 														<label>计划旅行时间:</label>
 														<div class="dropdownArrowWrap">
 															<select id="age" name="age" title="年龄" param="age">									
-																<option value="2017 Summer Holiday">2017 暑假</option>														
+																<option value="2017 Summer Holiday">2017 暑假</option>													
 																<option value="2017 National Day">2017 国庆</option>
 																<option value="2017 Xmas">2017 圣诞/新年</option>										
 																<option value="2018 Chinese New Year">2018 春节</option>
@@ -190,176 +190,32 @@
 		</div>
 		<div class="site landing">		
 			<div class="twoThird section">
-				<h4>"西班牙"相关行程<span class="frNote">共6条结果</span></h4>
+				<h4>"德国"相关行程<span class="frNote">共4条结果</span></h4>
 				<div class="flex-row-start-start flex-flow">
-					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
-							<div class="offerOutWrap">									
-								<div class="offerWrap earlyBird">
-									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
-								</div>
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">西法意城市狂想</div>
-								<div class="itiDess">
-									巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
-								</div>	
-								<div class="itiDays">12天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
-								</div>
-								<div class="itiPrice">										
-									<span class="delPrice">￥21,100</span>
-									<span class="price">￥21,000<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>								
-							</div>
-						</a>
-				    </div>	
-				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
-							<a href="itinerary-grand-tour-of-spain.php" >
-								<div class="offerOutWrap">									
-									<div class="offerWrap earlyBird">
-										<div class="offerArrow"></div>	
-										<div>早鸟优惠</div>
-									</div>
-									<div class="offerWrap date">
-										<!-- <div class="offerArrow"></div> -->									
-										<div>圣诞 / 元旦 / 春节出发</div>
-									</div>
-								</div>
-								<div class="imgWrap">
-									<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
-								</div>
-								<div class="infoWrap">
-									<div class="itiName">西班牙全景深度游</div>
-									<div class="itiDess">
-										马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
-									</div>	
-									<div class="itiDays">14天</div>
-									<div class="rate">
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-									</div>
-									<div class="itiIntro">
-										从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
-									</div>
-									<div class="itiPrice">
-										<span class="delPrice">￥19,100</span>
-										<span class="price">￥21,800<span>起</span></span>
-									</div>
-									<button class="yellowBtn">查看行程</button>
-								</div>
-							</a>
-					    </div>
-					    <div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="history,art,nature">
-						<a href="itinerary-portugal-to-spain.php" >	
+					<div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
+						<a href="itinerary-jewels-of-alpine-europe.php" >
 							<div class="offerOutWrap">									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
+									<div>国庆保证出团，仅剩&nbsp;4&nbsp;席</div>
 								</div>
-							</div>
+							</div>	
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/portugal-to-spain.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">葡萄牙西班牙之旅</div>
-								<div class="itiDess">
-									里斯本 - 塞维利亚 - 马德里 - 巴塞罗那
-								</div>	
+								<div class="itiName">阿尔卑斯山环游之旅</div>
+								<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
 								<div class="itiDays">13天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									这趟旅程你将回到大航海时期的起点里斯本和热情迷人的西班牙。既有贝伦塔旁迷人的海岸线，也有高迪之城的天才艺，同时品尝种类丰富的tapas和美味的sangria酒也是南欧之旅不可错过的一部分。
-								</div>
-								<div class="itiPrice">										
-									<span class="delPrice">￥21,100</span>
-									<span class="price">￥24,600<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>								
-							</div>
-						</a>
-				    </div>
-				    <div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
-						<a href="itinerary-portugal-spain-morocco.php" >	
-							<div class="offerOutWrap">									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/portugal-spain-morocco.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">葡萄牙西班牙摩洛哥之旅</div>
-								<div class="itiDess">
-									里斯本 - 塞维利亚 - 格兰纳达 - 卡萨布兰卡 - 舍夫沙万 - 马德里
-								</div>	
-								<div class="itiDays">16天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									逃离寒冷的冬季跟随我们一起来到伊比利亚半岛感受大西洋的冬日暖阳，站在直布罗陀海峡眺望非洲大陆，挖掘葡萄牙大发现时期的珍贵宝藏，感受马德里不可思议，还有如迷宫般的蓝白摩洛哥小镇。
-								</div>
-								<div class="itiPrice">										
-									<span class="delPrice">￥21,100</span>
-									<span class="price">￥26,200<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>								
-							</div>
-						</a>
-				    </div>
-					    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon,food">
-						<a href="itinerary-food-wine-a-taste-of-spain.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/Food-&-Wine_A-Taste-of-Spain.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">食在西班牙：爱在唇齿留香间</div>
-								<div class="itiDess">
-									巴塞罗那 - 圣塞瓦斯蒂安 - 拉里奥哈 - 马德里
-								</div>	
-								<div class="itiDays">11天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									从加泰罗尼亚的Cava起泡酒到巴斯林的Tapas，西班牙的美食正在呼唤你！品味地道美食，融入巴塞罗那和马德里的文化，尽情享受圣塞巴斯蒂安著名的食物，在拉里奥哈品尝丹魂葡萄酒。
+									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
 								</div>
 								<div class="itiPrice">
 									<span class="delPrice">￥19,100</span>
@@ -369,17 +225,23 @@
 							</div>
 						</a>
 				    </div>
-				    <div id="london-paris-madrid" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,sp" data-tag="art,honeymoon">
-						<a href="itinerary-london-paris-madrid.php" >	
+				    <div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
+						<a href="itinerary-germany-switzerland-austria.php" >	
+							<div class="offerOutWrap">									
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
+								</div>
+							</div>
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/london-paris-madrid.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">欧洲都市文化精品游</div>
+								<div class="itiName">原味欧洲，古堡童话之旅</div>
 								<div class="itiDess">
-									伦敦 - 巴黎 - 马德里
+									德国 - 瑞士 - 奥地利
 								</div>	
-								<div class="itiDays">11天</div>
+								<div class="itiDays">14天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -388,19 +250,76 @@
 									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									当你来到英国、法国和西班牙的首都，就尽情沉浸于此吧！追寻英国皇室的脚步发现伦敦的亮点，品着香槟游览“光之城”巴黎的城市建筑，在马德里享受悠闲假日。你将发现快节奏的都市，为何个个与众不同。
+									童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！
+								</div>
+								<div class="itiPrice">										
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥22,700<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
+				    </div>
+				    <div id="highlights-of-northern-europe-london-to-copenhagen" name="home-trip-box" class="home-trip-box" data-dest="uk,ge,dm,nz,bg" data-tag="history,art,honeymoon,northeuro">
+						<a href="itinerary-highlights-of-northern-europe-london-to-copenhagen.php" >
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/Highlights-of-Northern-Europe--London-to-Copenhagen.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">一路向北欧洲之旅</div>
+								<div class="itiDess">伦敦 - 安特卫普 - 阿姆斯特丹 - 汉堡 - 哥本哈根</div>
+								<div class="itiDays">12天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									在这趟精选的欧洲行程中，你会来到曾经的北欧经贸中心。充满活力的伦敦和安特卫普，独特的阿姆斯特丹运河，珍贵的汉堡遗迹，乐趣无限的哥本哈根，融入这些城市的历史和生活之中吧！
 								</div>
 								<div class="itiPrice">
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,000<span>起</span></span>
+									<span class="price">￥24,600<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>
 							</div>
 						</a>
 				    </div>
-				    </div>	
-				    <h4>当季精选</h4>
-				    <div class="flex-row-start-start flex-flow">													
+				    
+				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="swz,fr,ge" data-tag="art,nature">
+						<a href="itinerary-switzerland-alsace-the-black-forest.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/switzerland-alsace-the-black-forest.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">瑞士、阿尔萨斯和黑森林之旅</div>
+								<div class="itiDess">
+									瑞士 - 法国 - 德国
+								</div>	
+								<div class="itiDays">12天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									从瑞士的风景山区到德国神秘的黑森林，令人惊叹的景致无处不在。让我们共同见证标志性的马特洪峰，穿越过阿尔萨斯的科尔地区，品尝美味的黑森林蛋糕，驶入旧时的童话世界吧！
+								</div>
+								<div class="itiPrice">										
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥26,300<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
+				    </div>
+				</div>    				    	
+			    <h4>当季精选</h4>
+			    <div class="flex-row-start-start flex-flow">													
 					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 							<div class="offerOutWrap">									
