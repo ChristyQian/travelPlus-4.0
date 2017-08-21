@@ -16,7 +16,7 @@
 ?>
 	<div id="thankYouPage" class="banner-ty flex-center-center" style="background: url(img/banner-thank-you.jpg);">
         <div class="wrap flex-wrap flex-col-center-center">
-            <button class="button-download" onclick="window.open('files/spain.pdf')">点击下载攻略</button>
+            <button class="button-download" onclick="window.open('files/swiss.pdf')">点击下载攻略</button>
             <div class="tips">(文件大约10M，请在WiFi环境下下载)</div>
             <h2>感谢你的关注！</h2>
 			<p>想了解更多路线玩法推荐，或咨询签证问题<br/>

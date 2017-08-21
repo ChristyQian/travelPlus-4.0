@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php 
-	$pageName="Tours to Spain & Europe";
+	$pageName="Tours to Portugal & Europe";
 	$tagTitle="EF TravelPlus | 英孚旅游+";
 	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_迪拜旅游_线路推荐_限时特惠线路_假期出国游";
 	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，迪拜旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
@@ -29,23 +29,23 @@
 								<i class="fa fa-chevron-right" data-reactid="228"></i>
 							</li>
 							<li class="breadcrumbs-segment">
-								<a class="dark" href="#">西班牙</a>
+								<a class="dark" href="#">葡萄牙</a>
 								<i class="fa fa-chevron-right" data-reactid="228"></i>
 							</li>
 						</ul>
 					</div>
 					<div class="site" data-target="#card">
 						<div class="browse-banner">
-							<div class="browse-banner-bg"><img class="browse-banner-overlay" src="img/itinerary/billboard/Grand-Tour-of-Spain.jpg" width="100%"/></div>
+							<div class="browse-banner-bg"><img class="browse-banner-overlay" src="img/itinerary/billboard/portugal.jpg" width="100%"/></div>
 							<div class="site browse-banner-content">
 								<div class="leftWrap">
 									<div class="">
 										<div class="landingInfo">
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
-												<h5>Spain Tours</h5>
-												<h1>玩在西班牙</h1>
-												<p>从马德里的博物馆，到塞尔维亚奔放热情的弗拉门戈，从流动的建筑博物馆巴塞罗那，到直布罗陀海峡的黄金海岸。作为世界文化遗产最多的国家之一，热情洋溢的西班牙同时还人文荟萃。三大宗教先后统治这片土地，各自留下了灿烂的文化。
+												<h5>TPortugal Tours</h5>
+												<h1>玩在葡萄牙</h1>
+												<p>温和的气候、每年长达 3,000 小时的日照和绵延 850 公里的壮丽大西洋海滩，这里就是大航海时代的起点葡萄牙。醇香的波尔图红酒，搭配多元化的风景，和友善好客的当地人，欢乐无止境。
 												</p>
 											</div>
 										</div>		 
@@ -118,7 +118,7 @@
 														<label>计划旅行时间:</label>
 														<div class="dropdownArrowWrap">
 															<select id="age" name="age" title="年龄" param="age">									
-																<option value="2017 Summer Holiday">2017 暑假</option>														
+																<option value="2017 Summer Holiday">2017 暑假</option>													
 																<option value="2017 National Day">2017 国庆</option>
 																<option value="2017 Xmas">2017 圣诞/新年</option>										
 																<option value="2018 Chinese New Year">2018 春节</option>
@@ -190,87 +190,9 @@
 		</div>
 		<div class="site landing">		
 			<div class="twoThird section">
-				<h4>"西班牙"相关行程<span class="frNote">共6条结果</span></h4>
+				<h4>"葡萄牙"相关行程<span class="frNote">共2条结果</span></h4>
 				<div class="flex-row-start-start flex-flow">
-					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
-							<div class="offerOutWrap">									
-								<div class="offerWrap earlyBird">
-									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
-								</div>
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">西法意城市狂想</div>
-								<div class="itiDess">
-									巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
-								</div>	
-								<div class="itiDays">12天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
-								</div>
-								<div class="itiPrice">										
-									<span class="delPrice">￥21,100</span>
-									<span class="price">￥21,000<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>								
-							</div>
-						</a>
-				    </div>	
-				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
-							<a href="itinerary-grand-tour-of-spain.php" >
-								<div class="offerOutWrap">									
-									<div class="offerWrap earlyBird">
-										<div class="offerArrow"></div>	
-										<div>早鸟优惠</div>
-									</div>
-									<div class="offerWrap date">
-										<!-- <div class="offerArrow"></div> -->									
-										<div>圣诞 / 元旦 / 春节出发</div>
-									</div>
-								</div>
-								<div class="imgWrap">
-									<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
-								</div>
-								<div class="infoWrap">
-									<div class="itiName">西班牙全景深度游</div>
-									<div class="itiDess">
-										马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
-									</div>	
-									<div class="itiDays">14天</div>
-									<div class="rate">
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-										<i class="fa fa-star active" aria-hidden="true"></i>
-									</div>
-									<div class="itiIntro">
-										从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
-									</div>
-									<div class="itiPrice">
-										<span class="delPrice">￥19,100</span>
-										<span class="price">￥21,800<span>起</span></span>
-									</div>
-									<button class="yellowBtn">查看行程</button>
-								</div>
-							</a>
-					    </div>
-					    <div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="history,art,nature">
+					<div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="history,art,nature">
 						<a href="itinerary-portugal-to-spain.php" >	
 							<div class="offerOutWrap">									
 								<div class="offerWrap date">
@@ -304,7 +226,7 @@
 								<button class="yellowBtn">查看行程</button>								
 							</div>
 						</a>
-				    </div>
+				    </div>	
 				    <div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
 						<a href="itinerary-portugal-spain-morocco.php" >	
 							<div class="offerOutWrap">									
@@ -340,67 +262,9 @@
 							</div>
 						</a>
 				    </div>
-					    <div id="food-wine-a-taste-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,art,nature,seaview,honeymoon,food">
-						<a href="itinerary-food-wine-a-taste-of-spain.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/Food-&-Wine_A-Taste-of-Spain.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">食在西班牙：爱在唇齿留香间</div>
-								<div class="itiDess">
-									巴塞罗那 - 圣塞瓦斯蒂安 - 拉里奥哈 - 马德里
-								</div>	
-								<div class="itiDays">11天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									从加泰罗尼亚的Cava起泡酒到巴斯林的Tapas，西班牙的美食正在呼唤你！品味地道美食，融入巴塞罗那和马德里的文化，尽情享受圣塞巴斯蒂安著名的食物，在拉里奥哈品尝丹魂葡萄酒。
-								</div>
-								<div class="itiPrice">
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,400<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>
-							</div>
-						</a>
-				    </div>
-				    <div id="london-paris-madrid" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,sp" data-tag="art,honeymoon">
-						<a href="itinerary-london-paris-madrid.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/london-paris-madrid.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">欧洲都市文化精品游</div>
-								<div class="itiDess">
-									伦敦 - 巴黎 - 马德里
-								</div>	
-								<div class="itiDays">11天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									当你来到英国、法国和西班牙的首都，就尽情沉浸于此吧！追寻英国皇室的脚步发现伦敦的亮点，品着香槟游览“光之城”巴黎的城市建筑，在马德里享受悠闲假日。你将发现快节奏的都市，为何个个与众不同。
-								</div>
-								<div class="itiPrice">
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥22,000<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>
-							</div>
-						</a>
-				    </div>
-			    </div>
-			    <?php include 'landing_recommend.php' ;?> 	
-				<div class="card">
+				</div>    				    	
+			    <?php include 'landing_recommend.php' ;?>
+			    <div class="card">
 					<div class="flex-row-center-start whyUsTxt">
 						<div class="transparentBg">
 							<div class="Oval-6"></div>
