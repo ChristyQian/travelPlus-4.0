@@ -44,7 +44,7 @@
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
 												<h5 style="font-size:14px;line-height:initial;">The Netherlands Tours</h5>
-												<h1>跟着外籍导游Tini，玩在荷兰</h1>
+												<h1>跟着外籍导游Tini，玩转荷兰</h1>
 												<div>
 													<img src="img/itinerary/tourDirector/Tini-large.jpg" />
 													<p>如果要我选一个最美的国家，那我脑海里第一时间浮现的就是荷兰。吱吱转动的风车，开遍原野的郁金香，奶酪与啤酒的香气混杂着四散开来。荷兰就像一座巨大的花园，缤纷绮丽。三五好友结伴骑行，跟我一起发现众多魅力的荷兰城市吧！

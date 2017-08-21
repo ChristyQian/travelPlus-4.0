@@ -44,7 +44,7 @@
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
 												<h5 style="font-size:14px;line-height:initial;">England Tours</h5>
-												<h1>跟着外籍导游Fortuna，玩在英国</h1>
+												<h1>跟着外籍导游Fortuna，玩转英国</h1>
 												<div>
 													<img src="img/itinerary/tourDirector/Fortuna-large.jpg" />
 													<p>英国，每一个想要踏足欧洲的旅者都渴望去的国家，它总是不断地带给你惊喜。从迷人的郊外风光，到市中心著名的特色建筑；从英国的皇室故事到历史文化渊源。这里闲适和刺激并存，尽管我去了那么多次，仍然特别期待下一次的英国之旅，快跟我一起吧！
