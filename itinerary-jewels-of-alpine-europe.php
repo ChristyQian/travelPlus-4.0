@@ -22,7 +22,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">国庆档</div>
+						<div class="yellowTxt" style="display:none">国庆档</div>
 						<div class="tourName">阿尔卑斯山环游之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -32,11 +32,10 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">仅剩6席</div>
+							<div class="pinkTxt" style="display:none">仅剩6席</div>
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php'); echo $discount5 ?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -852,7 +851,6 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-					<?php include_once('discount.php'); echo $discount5 ?> 
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 
 				</div>

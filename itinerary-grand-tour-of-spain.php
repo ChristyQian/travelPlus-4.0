@@ -33,11 +33,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">早鸟减5%</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php'); echo $discount1 ?> 
+				<?php include_once('discount.php'); echo $discount2 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -72,11 +72,11 @@
 						<p class="serif">从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
+								<img src="img/itinerary/tourDirector/Tini.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fabrice-Tomlin</span>
+								<span class="name">Tini</span>
 							</div>
 						</div>
 					</div>
@@ -387,11 +387,11 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第9天</label><span>取道瓜迪斯前往瓦伦西亚</span>
+								<label>第9天</label><span>取道瓜迪克斯前往瓦伦西亚</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>参观瓜迪斯洞穴区</li>
+									<li>参观瓜迪克斯洞穴区</li>
 									<li>和当地人共进特色晚餐</li>
 								</ul>
 							</div>
@@ -403,7 +403,7 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>进入法亚博物馆参观</li>
+									<li>进入法雅博物馆参观</li>
 									<li>途经艺术科学城</li>
 									<li>参观瓦伦西亚大教堂</li>
 								</ul>
@@ -893,7 +893,7 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-					<?php include_once('discount.php'); echo $discount3 ?> 
+					<?php include_once('discount.php'); echo $discount2 ?> 
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 

@@ -679,11 +679,33 @@ a.goTopButton:hover {
 /*	width:100%;*/
 	opacity: 0.9;
 }
+.laliga .tourGuide {
+	position:absolute;
+	z-index:2;
+	left:10%;
+	top:100px;
+	width:80%;
+	text-align:center;
+	font-size:16px;
+}
+.laliga .tourGuide table {
+	width:100%;
+}
+/*.laliga .tourGuide {
+	width:800px;
+	padding:80px 120px;
+	color:#fff;
+	text-align:center;
+}*/
+.laliga .tourGuide h5 {
+	font-size:30px;
+	/*color:#ffd020;*/
+}
 .laliga .tourName span {
 	display:block;
 	font-size:0.6em;
 }
-.foreword {
+/*.foreword {
 	margin-bottom:40px;
 }
 .foreword .tourGuide{
@@ -696,21 +718,20 @@ a.goTopButton:hover {
 }
 .foreword .tourGuide h5{
 	font-size:30px;
-	/*color:#ffd020;*/
-}
-.laliga .itineraryHighLights .tourGuide {
+}*/
+/*.laliga .itineraryHighLights .tourGuide {
 	font-size:16px;	
 	line-height:24px;
 	background:url(../img/itinerary/laliga/laligaBG.jpg) center -50px no-repeat;
-}
-.foreword .hightLight {
+}*/
+/*.foreword .hightLight {
 	position:absolute;
 	right:0px;
 	top:100px;
-}
-.foreword .hightLight img {
+}*/
+/*.foreword .hightLight img {
 	border:5px solid #fff;
-}
+}*/
 .laliga .itineraryInfo {
 	padding-bottom:0;
 	min-height: auto;
@@ -976,14 +997,17 @@ table td {
 	.itineraryPhoto,
 	.itineraryPhoto .swiper-container {
 		width:100%;
-		height:360px;
-		height:310px;/* no content */
+		/*height:360px;
+		height:330px;
+		height:310px;*/
+		height:280px;/* no content */
 		padding:0;
 	}
 	.itineraryPhoto .swiper-slide .slideBg,
 	.itineraryPhoto .swiperBgWrap {
 		width:100%;
-		height:260px;
+		/*height:260px;*/
+		height:236px;
 	}	
 	.hotels .notes,
 	.flight .notes {
@@ -1104,21 +1128,25 @@ table td {
 		position:static;
 		display:none;
 	}
-	.laliga .itineraryHighLights .tourGuide {
+	.laliga .tourGuide {
 		width:100%;
-		padding:20px 10px;
+		/*padding:20px 10px;*/
 		font-size:14px;
+		top:0;
+		left:0;
+		line-height:16px;
 	}
-	.laliga .itineraryHighLights .tourGuide {
+	/*.laliga .itineraryHighLights .tourGuide {
 		background:url(../img/itinerary/laliga/laligaBG.jpg) center -200px no-repeat;
-	}
-	.laliga .itineraryHighLights .tourGuide table {
+	}*/
+	.laliga .tourGuide table {
 		width:100%;
 	}
-	.laliga .itineraryHighLights .tourGuide table img {
+	.laliga .tourGuide table img {
 		height:50px;
+		display:none;
 	}
-	.laliga .itineraryHighLights .tourGuide h5 {
+	.laliga .tourGuide h5 {
 		font-size:18px;
 	}
 	.foreword .hightLight img {
@@ -1159,10 +1187,10 @@ table td {
 	.blog .flex-row-start-around {
 		padding:10px;
 	}
-	.laliga .itineraryHighLights .tourGuide {
+	.laliga .tourGuide {
 		font-size:12px;
 	}
-	.laliga .itineraryHighLights .tourGuide h5 {
+	.laliga .tourGuide h5 {
 		font-size:16px;
 	}
 }

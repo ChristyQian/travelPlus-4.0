@@ -68,11 +68,11 @@
 						<p class="serif">若这是你初次来到非洲，深度游览摩洛哥一定是你的不二之选！撒哈拉沙漠体验，绿洲探秘，摩洛哥美食课程，露天集市淘宝，还有《卡萨布兰卡》《波斯王子》《角斗士》等电影取景地，你一定放不下你的相机想要全部记录下来。在这趟旅程中，你将和我一起体验北非心脏摩洛哥的沙漠风情！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								<img src="img/itinerary/tourDirector/Tini.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Tini Gattazzo</span>
+								<span class="name">Tini</span>
 							</div>
 						</div>
 					</div>
@@ -390,7 +390,7 @@
 								<ul>
 									<li>造访马拉喀什厨艺学校，学习如何烹制摩洛哥料理，并享用午餐</li>
 									<li>下午在马约尔花园漫步享受自由的午后时光</li>
-									<li>晚上非强制性的夕阳骆驼行和马拉喀什夜游</li>
+									<li>摩洛哥夜游与夕阳下骆驼骑行，享用马拉喀什传统晚餐</li>
 								</ul>
 							</div>
 						</div>
@@ -414,7 +414,7 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在当地导游的带领下进入撒哈拉沙漠，途径陶里尔特古堡和Kalaat M'Gouna</li>
+									<li>在当地导游的带领下进入撒哈拉沙漠，途经陶里尔特古堡和Kalaat M'Gouna玫瑰谷</li>
 									<li>乘车穿过棕榈树林，抵达图德拉峡谷观光</li>
 									<li>乘车再次进入撒哈拉沙漠，来到伊尔福德小镇参观坎儿井系统和当地民居（勿在宣传材料中提及民居参观内容）</li>
 									<li>返回酒店享用晚餐</li>
@@ -432,7 +432,7 @@
 									<li>进入穆莱阿里谢夫陵墓参观，然后步行游览里萨尼的筑垒</li>
 									<li>下午体验沙漠四驱吉普车，在沙漠驰骋</li>
 									<li>在贝多因人的帐篷处停下享用薄荷茶和小吃，在卡马里亚停下欣赏音乐演出</li>
-									<li>骑乘骆驼翻阅沙丘返回伊尔福德</li>
+									<li>骑乘骆驼翻越沙丘返回伊尔福德</li>
 								</ul>
 							</div>
 						</div>
@@ -444,7 +444,7 @@
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>上午出发前往米德勒特，沿途欣赏奇兹河谷和阿特拉斯山区的壮丽景色</li>
-									<li>下午乘车到伊夫兰小镇观赏雪松林和巴巴利猕猴，之后到达菲斯</li>
+									<li>下午乘车到伊夫兰小镇观赏雪松林，之后到达菲斯</li>
 								</ul>
 							</div>
 						</div>

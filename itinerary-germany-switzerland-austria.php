@@ -23,8 +23,8 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt" style="visibility: hidden;">热卖</div>
-						<div class="tourName">原味欧洲，古堡童话之旅</div>
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
+						<div class="tourName">德瑞奥古堡童话之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -33,10 +33,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -45,12 +46,18 @@
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
 						<div class="days">14天</div>
-						<div class="flex-row-start-between">
-							<div>德国</div>
+						<div class="flex-row-start-between"> 
+							<div>海德堡</div>
 							<i class="grayArrow"></i>
-							<div>瑞士</div>
+							<div>卢塞恩</div>
 							<i class="grayArrow"></i>
-							<div>奥地利</div>
+							<div>因斯布鲁克</div>
+							<i class="grayArrow"></i>
+							<div>慕尼黑</div>
+							<i class="grayArrow"></i>
+							<div>萨尔茨堡</div>
+							<i class="grayArrow"></i>
+							<div>维也纳</div>
 							<i class="grayArrow"></i>
 						</div>
 					</div>
@@ -66,7 +73,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！</p>
+						<p class="serif">德国的浪漫古堡，瑞士的纯美景色，奥地利的古典音乐，都包含在了这趟充满惊喜的童话旅程中。一路上除了必看因斯布鲁克大教堂、新天鹅堡、美泉宫、维也纳歌剧院等景点之外，还为你准备了神秘黑森林、卢塞恩等欧洲动人的自然美景，和与当地人共同品尝地道美食的体验。完美行程搭配充足的自由行时间，带你走遍每一个你意想不到的角落。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
@@ -282,7 +289,7 @@
 						<div class="imgWrap">
 							<img src="img/page-4.svg" />
 						</div>
-						6顿三道式晚餐，供应啤酒或葡萄酒
+						6顿三道式美食，供应啤酒或葡萄酒
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -895,6 +902,8 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+
+					<?php include_once('discount.php'); echo $discount2 ?> 
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 

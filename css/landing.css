@@ -155,7 +155,7 @@ body {
 	margin-bottom:15px;
 }
 .td .landingInfo h1 {
-	font-size:25px;
+	font-size:24px;
 }
 .landingInfo h5,
 .landingInfo p {
@@ -342,6 +342,10 @@ body {
 .twoThird .home-trip-box .rate {
 	font-size:14px;
 	margin-bottom:0;
+}
+.itiDess {
+	height:24px;
+	overflow:hidden;
 }
 .twoThird .hotSale {
 	position: absolute;

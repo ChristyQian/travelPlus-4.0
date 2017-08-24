@@ -81,7 +81,7 @@
 								{	
 								 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
 								 
-								 Lead_Validation("sp-form", "Lead_Insert", "spainLanding_download_thankyou.php", true);
+								 Lead_Validation("sp-form", "Lead_Insert", "franceLanding_download_thankyou.php", true);
 								}
 								</script>
 								<div class="rightWrap">
@@ -194,12 +194,6 @@
 				<div class="flex-row-start-start flex-flow">
 					<div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >
-							<div class="offerOutWrap">									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>国庆保证出团，仅剩&nbsp;4&nbsp;席</div>
-								</div>
-							</div>	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
 							</div>
@@ -266,7 +260,11 @@
 				    </div>
 					<div id="shopping-in-london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-shopping-in-london-paris-amsterdam.php" >	
-							<div class="offerOutWrap">									
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
+								</div>									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
 									<div>圣诞 / 元旦 / 春节出发</div>
@@ -276,7 +274,7 @@
 								<img src="img/itinerary/allTripsList/shopping-in-london-paris-amsterdam.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">新年伦敦巴黎阿姆斯特丹购物之旅</div>
+								<div class="itiName">欧洲新年折扣季购物之旅</div>
 								<div class="itiDess">
 									阿姆斯特丹 - 巴黎 - 伦敦
 								</div>	
@@ -301,7 +299,11 @@
 				    </div>
 				    <div id="shopping-in-amsterdam-paris" name="home-trip-box" class="home-trip-box" data-dest="fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-shopping-in-amsterdam-paris.php" >	
-							<div class="offerOutWrap">									
+							<div class="offerOutWrap">	
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
+								</div>								
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
 									<div>圣诞 / 元旦 / 春节出发</div>
@@ -311,7 +313,7 @@
 								<img src="img/itinerary/allTripsList/shopping-in-amsterdam-paris.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">新年打折季购物之旅</div>
+								<div class="itiName">欧洲新年折扣季购物之旅</div>
 								<div class="itiDess">
 									阿姆斯特丹 - 巴黎
 								</div>	

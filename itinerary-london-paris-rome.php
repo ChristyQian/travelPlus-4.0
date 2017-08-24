@@ -69,11 +69,11 @@
 						<p class="serif">在过去的2000年里，伦敦巴黎和罗马对于世界的影响之大，恐怕让其它城市都望其项背。在这趟旅程中，令你难忘的将不仅只是大本钟、埃菲尔铁塔和斗兽场等标志性建筑，更多体验等你亲身来试！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								<img src="img/itinerary/tourDirector/Tini.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Gattazzo</span>
+								<span class="name">Tini</span>
 							</div>
 						</div>
 					</div>

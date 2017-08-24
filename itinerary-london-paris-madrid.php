@@ -69,11 +69,11 @@
 						<p class="serif">当你来到英国、法国和西班牙的首都，就尽情沉浸于此吧！追寻英国皇室的脚步发现伦敦的亮点，品着香槟游览“光之城”巴黎的城市建筑，在马德里享受悠闲假日。你将发现快节奏的都市，为何个个与众不同。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								<img src="img/itinerary/tourDirector/Tini.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Gattazzo</span>
+								<span class="name">Tini</span>
 							</div>
 						</div>
 					</div>

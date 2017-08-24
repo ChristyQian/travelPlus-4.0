@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">Travelzoo专享</div>
+						<div class="yellowTxt">Travelzoo专享，立减1000</div>
 						<div class="tourName">冰岛奇幻北极光之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -33,7 +33,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt"></div>
+							<div class="pinkTxt">8月31日前</div>
 						</div>
 					</div>
 				</div>
@@ -71,7 +71,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fortuna-Gallo</span>
+								<span class="name">Fortuna Gallo</span>
 							</div>
 						</div>
 					</div>

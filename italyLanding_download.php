@@ -194,12 +194,6 @@
 				<div class="flex-row-start-start flex-flow">
 					<div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
 						<a href="itinerary-jewels-of-alpine-europe.php" >
-							<div class="offerOutWrap">									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>国庆保证出团，仅剩&nbsp;4&nbsp;席</div>
-								</div>
-							</div>	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
 							</div>
@@ -266,7 +260,11 @@
 				    </div>
 				    <div id="venice-florence-rome" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,honeymoon">
 						<a href="itinerary-venice-florence-rome.php" >	
-							<div class="offerOutWrap">									
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
+								</div>									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
 									<div>圣诞 / 元旦 / 春节出发</div>

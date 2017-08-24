@@ -348,10 +348,10 @@
 			</div>
 		</div>
 		<div class="site">
-				<h4>当季精选</h4>
+			<h4>当季精选</h4>
 				<div class="flex-row-start-start flex-flow">													
-					<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
-						<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
+					<div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="ic" data-tag="art,nature,seaview,honeymoon,family">
+						<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
@@ -359,18 +359,18 @@
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
+									<div>预订2018年2月、3月团</div>
 								</div>
 							</div>
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/icy-reykjavik-the-northern-lights.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">西法意城市狂想</div>
+								<div class="itiName">冰岛奇幻北极光之旅</div>
 								<div class="itiDess">
-									巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
+									雷克雅维克 - 冰岛西部
 								</div>	
-								<div class="itiDays">12天</div>
+								<div class="itiDays">9天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -379,18 +379,18 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									一趟旅程，就能体验到三种截然不同地中海风情！充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村！
+									看极光是许多人梦寐以求的旅行体验，火山、极地瀑布、蓝湖温泉等令人屏息的北国风光，快来打开你的冰与火之歌！
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥21,000<span>起</span></span>
+									<span class="price">￥32,000<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
 						</a>
 				    </div>	
-				    <div id="grand-tour-of-spain" name="home-trip-box" class="home-trip-box" data-dest="sp" data-tag="history,nature,seaview,honeymoon,food">
-						<a href="itinerary-grand-tour-of-spain.php" >
+				    <div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="history,nature,seaview,honeymoon,food">
+						<a href="itinerary-portugal-spain-morocco.php" >
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
@@ -402,14 +402,14 @@
 								</div>
 							</div>
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/grand-tour-of-spain.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/portugal-spain-morocco.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">西班牙全景深度游</div>
+								<div class="itiName">葡萄牙西班牙摩洛哥之旅</div>
 								<div class="itiDess">
-									马德里 - 格拉纳达 - 瓦伦西亚 - 巴塞罗那
+									里斯本 - 塞维利亚 - 格拉纳达 - 卡萨布兰卡 - 舍夫沙万 - 马德里
 								</div>	
-								<div class="itiDays">14天</div>
+								<div class="itiDays">16天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -418,31 +418,35 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									从马德里的博物馆到阳光海岸的沙滩，西班牙的城市总是令人惊喜。来巴塞罗那和马德里欣赏主流的艺术和建筑，在安达卢西亚欣赏教堂和摩尔城堡，从北到南打开你的西班牙假期吧！
+									逃离寒冷的冬季跟随我们一起来到伊比利亚半岛感受大西洋的冬日暖阳，站在直布罗陀海峡眺望非洲大陆，挖掘葡萄牙大发现时期的珍贵宝藏，感受马德里不可思议，还有如迷宫般的蓝白摩洛哥小镇。
 								</div>
 								<div class="itiPrice">
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥21,800<span>起</span></span>
+									<span class="price">￥26,200<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>
 							</div>
 						</a>
 				    </div>				    			    				    
-				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
-						<a href="itinerary-jewels-of-alpine-europe.php" >
+				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="history,art,honeymoon">
+						<a href="itinerary-grand-tour-of-california.php" >
 							<div class="offerOutWrap">									
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
+								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
-									<div>国庆保证出团，仅剩&nbsp;4&nbsp;席</div>
+									<div>圣诞 / 元旦 / 春节出发</div>
 								</div>
-							</div>	
+							</div>
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">阿尔卑斯山环游之旅</div>
-								<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
-								<div class="itiDays">13天</div>
+								<div class="itiName">圆梦加州畅游之旅</div>
+								<div class="itiDess">旧金山 - 优胜美地 - 蒙特雷 - 圣塔芭芭拉区 - 洛杉矶</div>
+								<div class="itiDays">11天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -451,11 +455,11 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
+									从旧金山的蜿蜒海岸线、静美红杉林，令人陶醉的优胜美地，到纳帕和索诺玛谷的著名葡萄酒，还有因为LA LA Land而更名声大噪的星光璀璨洛杉矶，快来体验真正的加州生活吧！
 								</div>
 								<div class="itiPrice">
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,400<span>起</span></span>
+									<span class="price">￥27,800<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>
 							</div>

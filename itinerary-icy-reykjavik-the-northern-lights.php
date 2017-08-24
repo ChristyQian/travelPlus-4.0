@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt"></div>
+						<div class="yellowTxt">预订2018年2月、3月团</div>
 						<div class="tourName">冰岛奇幻北极光之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -33,10 +33,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt"></div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -70,7 +71,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fortuna-Gallo</span>
+								<span class="name">Fortuna Gallo</span>
 							</div>
 						</div>
 					</div>
@@ -738,6 +739,8 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+
+					<?php include_once('discount.php') ; echo $discount2 ;?>
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 

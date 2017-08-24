@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt" style="visibility: hidden;">热卖</div>
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
 						<div class="tourName">东欧捷奥匈帝国之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -33,10 +33,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -66,7 +67,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">当你因《布达佩斯大饭店》、金色大厅和布拉格广场来到这里，你会发现中热情的东欧人带给你的远不止这些，你会深深迷恋上多瑙河和伏尔塔瓦河畔的这些城市，终有一天完美的旅程回忆会把你再次带回到这里。</p>
+						<p class="serif">当你因《布达佩斯大饭店》、金色大厅和布拉格广场来到这里，你会发现热情的东欧人带给你的远不止这些，你会深深迷恋上多瑙河和伏尔塔瓦河畔的这些城市，终有一天完美的旅程回忆会把你再次带回到这里。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Constantin.jpg" />
@@ -368,11 +369,12 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>前往布拉格</span>
+								<label>第7天</label><span>前往布拉格，下午自由活动</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>前往布拉格</li>
+									<li>坐邮轮夜游伏尔塔瓦河，欣赏布拉格如画夜景</li>
 								</ul>
 							</div>
 						</div>
@@ -841,6 +843,8 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+
+					<?php include_once('discount.php') ; echo $discount2 ;?>
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 

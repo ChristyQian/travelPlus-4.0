@@ -74,7 +74,7 @@
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Fabrice-Tomlin</span>
+								<span class="name">Fabrice Tomlin</span>
 							</div>
 						</div>
 					</div>

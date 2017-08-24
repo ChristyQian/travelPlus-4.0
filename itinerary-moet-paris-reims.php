@@ -70,11 +70,11 @@
 						<p class="serif">只有在法国香槟产区所酿造的起泡酒，才拥有香槟这一美誉。在这趟旅程中，你将来到两大著名香槟产区埃佩尔奈和兰斯，追溯从葡萄果实到香槟的诞生故事，品尝Moët酩悦等奢华香槟，学习香槟的品鉴知识，同时领略巴黎的城市氛围。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								<img src="img/itinerary/tourDirector/Tini.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Gattazzo</span>
+								<span class="name">Tini</span>
 							</div>
 						</div>
 					</div>

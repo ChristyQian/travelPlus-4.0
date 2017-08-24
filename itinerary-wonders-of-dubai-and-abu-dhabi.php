@@ -50,8 +50,6 @@
 							<i class="grayArrow"></i>
 							<div>阿布扎比</div>
 							<i class="grayArrow"></i>
-							<div>艾恩</div>
-							<i class="grayArrow"></i>
 						</div>
 					</div>
 					<div class="flex1 flex-row-start-between">
@@ -243,7 +241,7 @@
 						<div class="imgWrap">
 							<img src="img/page-4.svg" />
 						</div>
-						4顿三道式晚餐，供应啤酒或葡萄酒
+						5顿三道式晚餐，供应啤酒或葡萄酒
 					</div>
 					<div class="">
 						<div class="imgWrap">
@@ -310,7 +308,7 @@
 									<li>在迪拜购物中心停留</li>
 									<li>沿着海滩去往老城，途经阿拉伯塔朱美拉酒店和哈利法塔</li>
 									<li>乘坐阿布拉水上的士</li>
-									<li>进入贾希里城堡和迪拜博物馆参观</li>
+									<li>进入阿法迪城堡和迪拜博物馆参观</li>
 									<li>参观谢赫穆罕默德文化理解中心，品尝传统阿拉伯美食</li>
 								</ul>
 							</div>

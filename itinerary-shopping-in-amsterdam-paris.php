@@ -7,7 +7,7 @@
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="新年打折季购物之旅";
+	$itineraryName="欧洲新年折扣季购物之旅";
 	$itineraryPrice="￥21,800";
 
     include_once("itinerary-head.php"); 
@@ -22,8 +22,8 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">新年档</div>
-						<div class="tourName">新年打折季购物之旅</div>
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
+						<div class="tourName">欧洲新年折扣季购物之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -32,10 +32,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="display:none">仅剩6席</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -66,11 +67,11 @@
 						<p class="serif">这是一趟阿姆斯特丹和巴黎的跨年购物之旅，你将和我一起领略梵高博物馆和巴黎卢浮宫的艺术气息，还有大把自由时间去享受折扣季的购物狂欢。从阿姆斯特丹的红灯区到巴黎的夜生活，买不完的折扣店和新年夜巴黎上空的烟火秀，让充满乐趣的异国体验开启你新的一年！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
+								<img src="img/itinerary/tourDirector/Tini.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Tini Gattazzo</span>
+								<span class="name">Tini</span>
 							</div>
 						</div>
 					</div>
@@ -701,6 +702,9 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+				
+					<?php include_once('discount.php') ; echo $discount2 ;?>
+
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 
 				</div>

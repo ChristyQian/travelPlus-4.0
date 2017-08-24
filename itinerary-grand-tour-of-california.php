@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt"></div>
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
 						<div class="tourName">圆梦加州畅游之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -33,10 +33,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt"></div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -50,7 +51,9 @@
 							<i class="grayArrow"></i>
 							<div>优胜美地</div>
 							<i class="grayArrow"></i>
-							<div>圣芭芭拉</div>
+							<div>蒙特雷</div>
+							<i class="grayArrow"></i>
+							<div>圣塔芭芭拉区</div>
 							<i class="grayArrow"></i>
 							<div>洛杉矶</div>
 						</div>
@@ -67,7 +70,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">加州是我超爱的度假首选，从旧金山的蜿蜒海岸线、静美红杉林，令人陶醉的优胜美地，到纳帕和索诺玛谷的著名葡萄酒，还有因为LA LA Land而更名声大噪的星光璀璨洛杉矶，快来体验真正的加州生活吧！</p>
+						<p class="serif">从旧金山的蜿蜒海岸线、静美红 杉林、令人陶醉的优胜美地，到纳帕谷和索诺玛谷品尝著名葡萄酒，还有因为LA LA Land而更名声大噪的天使之城洛杉矶。在热情的沙滩和浪漫的海湾边，加州风光一览无余，这一次圆你一个不一样的加州梦。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Rosa.jpg" />
@@ -362,14 +365,14 @@
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>参观赫斯特城堡</li>
-									<li>前往圣巴巴拉</li>
+									<li>前往圣塔巴巴拉</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第8天</label><span>半天圣巴巴拉观光游</span>
+								<label>第8天</label><span>半天圣塔巴巴拉观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -487,7 +490,7 @@
 								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣塔巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -499,7 +502,7 @@
 								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣塔巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -511,7 +514,7 @@
 								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣塔巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -523,7 +526,7 @@
 								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣塔巴巴拉动物园都在附近。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
@@ -535,7 +538,7 @@
 								<div class="transparentTxt">贝斯特韦斯特普拉斯恩西纳套房酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣巴巴拉动物园都在附近。</div>
+						<div class="hotelDes">这家乡村酒店位于上东区。 客人可以享用酒吧，餐厅和水疗中心。Elings公园，洛斯帕德雷斯国家森林和圣塔巴巴拉动物园都在附近。</div>
 					</div>
 				</div>
 				<!-- 如果需要分页器 -->
@@ -843,6 +846,8 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+
+					<?php include_once('discount.php') ; echo $discount2 ;?>
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 

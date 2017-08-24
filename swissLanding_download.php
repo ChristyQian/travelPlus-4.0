@@ -193,13 +193,7 @@
 				<h4>"瑞士"相关行程<span class="frNote">共3条结果</span></h4>
 				<div class="flex-row-start-start flex-flow">
 					<div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
-						<a href="itinerary-jewels-of-alpine-europe.php" >
-							<div class="offerOutWrap">									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>国庆保证出团，仅剩&nbsp;4&nbsp;席</div>
-								</div>
-							</div>	
+						<a href="itinerary-jewels-of-alpine-europe.php" >	
 							<div class="imgWrap">
 								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
 							</div>
@@ -227,7 +221,11 @@
 				    </div>
 				    <div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" >	
-							<div class="offerOutWrap">									
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠</div>
+								</div>									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
 									<div>圣诞 / 元旦 / 春节出发</div>
@@ -237,10 +235,10 @@
 								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">原味欧洲，古堡童话之旅</div>
+								<div class="itiName">德瑞奥古堡童话之旅</div>
 								<div class="itiDess">
-									德国 - 瑞士 - 奥地利
-								</div>	
+									海德堡 - 卢塞恩 - 因斯布鲁克 - 慕尼黑 - 萨尔茨堡 - 维也纳
+								</div>		
 								<div class="itiDays">14天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>

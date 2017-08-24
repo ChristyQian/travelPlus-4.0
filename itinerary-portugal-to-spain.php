@@ -22,7 +22,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt" style="display:none">新年档</div>
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
 						<div class="tourName">葡萄牙西班牙之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -32,10 +32,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="display:none">仅剩6席</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -67,7 +68,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">这趟旅程你将回到大航海时期的起点里斯本和热情迷人的西班牙。既有贝伦塔旁迷人的海岸线，也有高迪之城的天才艺，同时品尝外酥里内的葡式蛋派，种类丰富的tapas和美味的sangria酒也是南欧之旅不可错过的一部分，你还可以和我一起探寻西班牙橄榄油农场，快来加入我们吧！</p>
+						<p class="serif">这趟旅程你将回到大航海时期的起点里斯本和热情迷人的西班牙。既有贝伦塔旁迷人的海岸线，也有高迪之城的天才技艺，同时品尝外酥里内的葡式蛋挞，种类丰富的tapas和美味的sangria酒也是南欧之旅不可错过的一部分，你还可以和我一起探寻西班牙橄榄油农场，快来加入我们吧！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
@@ -81,11 +82,12 @@
 					<div class="flex1 hightLight">
 						<h4>行程亮点</h4>
 						<p>
-							感受葡萄牙航海文化，亲临热罗尼莫斯修道院、贝伦塔和海军纪念碑
+							感受葡萄牙航海文化，亲临热罗尼莫斯修道院、贝伦塔和航海纪念碑
 							<br/> 前往小众目的地：人骨教堂，科尔多瓦清真寺、牟利罗花园等探寻别样乐趣
 							<br/> 尽情享受弗朗明戈发源地塞利维亚的西班牙热情奔放
-							<br/> 品尝西班牙塔帕斯和意大利开胃酒，并与当地人共进晚餐
+							<br/> 品尝西班牙塔帕斯和开胃酒，并与当地人共进晚餐
 							<br/> 深入橄榄油农场，探索西班牙作为橄榄油大国的奥秘
+							<br/> 在马德里年代最久的餐厅享用晚餐，欣赏诗人音乐，感受传统西班牙之夜
 							<br/> 充沛的自由时间规划别样旅途，真正身临其境，感受欧洲西南角土地上的绚烂文化
 						</p>
 					</div>
@@ -327,8 +329,8 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在爱德华第五世公园欣赏里斯本的全貌</li>
-									<li>经过德尔庞巴尔广场和自由大道</li>
+									<li>在爱德华第七世公园欣赏里斯本的全貌</li>
+									<li>经过德尔庞巴尔侯爵广场和自由大道</li>
 									<li>参观莫拉利亚大区，贝伦塔，航海纪念碑和热罗尼莫斯修道院</li>
 									<li>乘车前往商业区巴洛奥尔多，步行游览奥古斯塔大街和罗西奥广场</li>
 									<li>晚上参加欢迎晚宴，认识同行伙伴</li>
@@ -381,8 +383,8 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>乘坐大巴前往科尔多瓦，途径橄榄油农场参观，品尝橄榄油美食</li>
-									<li>途径百花寺，前往科尔多瓦清真寺</li>
+									<li>乘坐大巴前往科尔多瓦，途经橄榄油农场参观，品尝橄榄油美食</li>
+									<li>途经百花寺，前往科尔多瓦清真寺</li>
 									<li>步行游览旧城区和犹太区</li>
 									<li>下午坐高铁前往菲斯</li>
 								</ul>
@@ -400,7 +402,7 @@
 									<li>游览马德里西班牙广场、马约尔广场和太阳门</li>
 									<li>参观普拉多博物馆，了解西班牙艺术家戈雅和巴斯克斯</li>
 									<li>下午自由活动</li>
-									<li>晚上是非强制性的西班牙之夜，享受晚餐和印度吟唱音乐</li>
+									<li>西班牙之夜，享受晚餐和西班牙诗人音乐</li>
 								</ul>
 							</div>
 						</div>
@@ -424,7 +426,7 @@
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>在奥运会举办地蒙特惠奇稍作停留，在米拉多尔阿尔卡尔德公园漫步</li>
-									<li>途径西班牙广场和斗牛场旧址</li>
+									<li>途经西班牙广场和斗牛场旧址</li>
 									<li>驱车前往海边，漫步到哥伦布纪念碑</li>
 									<li>进入圣家堂参观，圣家堂是高迪著名的半成品杰作</li>
 									<li>乘车沿格拉西亚大道观光，途经高迪的 “骨头房子”</li>
@@ -1014,6 +1016,8 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+					<?php include_once('discount.php') ; echo $discount2 ;?>
+
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 
 				</div>

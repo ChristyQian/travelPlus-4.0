@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt" style="visibility: hidden;">热卖</div>
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
 						<div class="tourName">葡萄牙西班牙摩洛哥之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -33,10 +33,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt" style="visibility: hidden;">火爆热卖</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->
@@ -50,7 +51,7 @@
 							<i class="grayArrow"></i>
 							<div>塞维利亚</div>
 							<i class="grayArrow"></i>
-							<div>格兰纳达</div>
+							<div>格拉纳达</div>
 							<i class="grayArrow"></i>
 							<div>卡萨布兰卡</div>
 							<i class="grayArrow"></i>
@@ -90,7 +91,8 @@
 							领略人骨教堂的神秘<br/> 
 							深度了解阿尔罕布拉宫的文化历史<br/> 
 							在直布罗陀海峡眺望非洲大陆<br/> 
-							穿梭于摩洛哥的蓝色小镇<br/> 
+							穿梭于摩洛哥的蓝色小镇<br/>
+							摩洛哥夜游和夕阳骆驼骑行<br/> 
 							走进经典电影卡萨布兰卡的场景中<br/>
 							马德里的西班牙风情
 						</p>
@@ -315,7 +317,7 @@
 							<div class="itinerary_daily_detail">
 								<ul>									
 									<li>欣赏爱德华七世公园全景</li>
-									<li>乘大巴前往贝伦区参观贝伦塔及海军纪念碑，途径庞巴尔侯爵广场和自由大道</li>
+									<li>乘大巴前往贝伦区参观贝伦塔及航海纪念碑，途经庞巴尔侯爵广场和自由大道</li>
 									<li>参观热罗尼莫斯修道院</li>
 									<li>自巴洛奥尔多区步行前往抵达商业广场，继续沿奥古斯塔大街步行，穿过下城区，抵达罗西奥广场</li>
 									<li>下午自由活动</li>
@@ -345,7 +347,7 @@
 								<ul>
 									<li>乘车欣赏瓜达尔基维尔河，世博园区，黄金塔，玛丽亚路易莎公园</li>
 									<li>下车游览西班牙广场</li>
-									<li>步行前往塞维利亚大教堂参观，途径穆里略花园</li>
+									<li>步行前往塞维利亚大教堂参观，途经穆里略花园</li>
 									<li>下午自由活动</li>
 								</ul>
 							</div>
@@ -451,8 +453,9 @@
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>前往萨第安墓，巴迪皇宫游览</li>
-									<li>在Smarine露天市场，德吉马广场市场，地毯店，草药店等闲逛</li>
+									<li>在Smarine露天市场，德吉玛广场市场，地毯店，草药店等闲逛</li>
 									<li>下午自由活动</li>
+									<li>夕阳下骆驼骑行，享用马拉喀什当地晚餐</li>
 								</ul>
 							</div>
 						</div>
@@ -475,9 +478,9 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在西班牙广场参观堂吉柯德雕像</li>
-									<li>在马德里王宫和马约尔广场稍作停留，途径德波神庙</li>
-									<li>导游带领参股普拉多博物馆参观，了解西班牙艺术家戈雅和巴斯克斯的一生</li>
+									<li>在西班牙广场参观堂吉诃德雕像</li>
+									<li>在马德里王宫和马约尔广场稍作停留，途经德波神庙</li>
+									<li>导游带领参观普拉多博物馆，了解西班牙艺术家戈雅和巴斯克斯的一生</li>
 									<li>下午自由活动</li>
 									<li>晚上在马德里举行告别晚宴，与伙伴们告别</li>
 								</ul>
@@ -915,6 +918,8 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+
+					<?php include_once('discount.php') ; echo $discount2 ;?>
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?>
 

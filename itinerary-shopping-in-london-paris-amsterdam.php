@@ -7,7 +7,7 @@
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="新年伦敦巴黎阿姆斯特丹购物之旅";
+	$itineraryName="欧洲新年折扣季购物之旅";
 	$itineraryPrice="￥25,800";
 
     include_once("itinerary-head.php"); 
@@ -22,8 +22,8 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">新年档</div>						
-						<div class="tourName">新年伦敦巴黎阿姆斯特丹购物之旅</div>
+						<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>						
+						<div class="tourName">欧洲新年折扣季购物之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -32,10 +32,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt"></div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount2 ;?>
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -346,7 +347,7 @@
 									<li>漫步大运河与运河桥，观赏独特的船屋建筑群</li>
 									<li>参观著名的梵高博物馆，享受天才梵高的艺术世界</li>
 									<li>乘坐观光巴士领略城市风光</li>
-									<li>下午再阿姆斯特丹自由活动</li>
+									<li>下午在阿姆斯特丹自由活动</li>
 									<li>晚上参加欢迎晚宴</li>
 								</ul>
 							</div>
@@ -852,6 +853,8 @@
 
 				<div class="quotationWrap">
 
+					<?php include_once('discount.php') ; echo $discount2 ;?>
+					
 					<?php include_once('quotation-form.php'); echo $text1 ;?> 
 
 				</div>

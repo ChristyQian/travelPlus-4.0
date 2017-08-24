@@ -38,11 +38,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">早鸟减5%</div>
+							<div class="pinkTxt">2人同行，1人半价</div>
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php'); echo $discount1 ?> 
+				<?php include_once('discount.php'); echo $discount2 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -74,14 +74,14 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">一趟旅程，就能体验到三种截然不同地中海风情，是不是很超值？充满艺术气息的巴塞罗那，拥有沁人海洋的南法，传奇之地佛罗伦萨和美丽五渔村，我期待与你一起发现更多不可错过的旅行乐趣！</p>
+						<p class="serif">在巴塞罗那追寻高迪的足迹，罗马古迹中重拾昔日辉煌，漫步五渔村享受阳光海岸旁闲适的小镇风光，或是在文艺复兴发祥地佛罗伦萨找回被封存已久的历史光影……想到这一切，我已经迫不及待想要和你一起出发了！</p>
 						<div class="com_profile">
 							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Constantin.jpg" />
+								<img src="img/itinerary/tourDirector/Chris.jpg" />
 							</div>
 							<div class="userInfo">
 								<span class="position">外籍导游</span>
-								<span class="name">Constantin</span>								
+								<span class="name">Chris</span>								
 							</div>
 						</div>
 					</div>
@@ -814,7 +814,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php'); echo $discount3 ?> 
+					<?php include_once('discount.php'); echo $discount2 ?> 
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?> 
 

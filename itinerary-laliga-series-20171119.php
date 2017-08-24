@@ -7,7 +7,7 @@
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="西甲球迷观赛团";
+	$itineraryName="西甲非凡朝圣之旅";
 	$itineraryPrice="￥**,*00";
 
     include_once("itinerary-head.php"); 
@@ -17,7 +17,7 @@
 		<?php include_once('fix-cta.php'); echo $text1 ;?>			
 		<?php include_once('common-header.php') ;?>	
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/laliga/w_fcd439209019210749_ma_3047.jpg) center top no-repeat;
+		<div class="imagesWrap" style="background:url(img/itinerary/laliga/billboard/w_fcd439209019210749_ma_3047.jpg) center top no-repeat;
 				background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
@@ -63,13 +63,97 @@
 					</div>
 				</div>
 			</div>
-			<div class="relDiv foreword">
+				<!-- Swiper -->			
+		<div class="site itineraryPhoto">
+			<div class="swiper-container">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/laliga/laligaBG2.jpg" />
+							</div>
+							<div class="tourGuide">
+								<table>
+									<tr>
+										<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="100" /></td>
+										<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="100" /></td>
+									</tr>
+								</table>
+								<p>
+									<h5>贵族与平民的战争，优雅与血性的较量！</h5>
+									<br/>
+									红色或许从来都不是马德里足球的象征，<br/>
+									但同样承载着城市，与这项运动有关的兴衰荣辱。<br/>
+									<br/>
+									挥别了五十载风雨历程的卡尔德隆球场，<br/>
+									这将是床单军团移师万达大都会球场后的首场同城德比！<br/>
+									<br/>
+									在崭新的赛场，是蜕变，涅槃重生，<br/>
+									用胜利迎接新纪元的到来，<br/>
+									还是继续屈膝在白衣军团的强大统治力下？<br/>
+									<br/>
+									11月19日，一战定乾坤！
+								</p>
+							</div>
+						</div>
+					</div>	
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/Laliga/ADM-RAM/w_a55e8b4bc319205405_ma_3018.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+					</div>	
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/Laliga/ADM-RAM/w_6d8f88170519224056_ma_3958.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/Laliga/ADM-RAM/w_46bad96ede19224055_ma_3847.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/Laliga/ADM-RAM/w_fcd439209019210749_ma_3047.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+					</div>
+					
+				</div>				
+			    <div class="swiper-pagination">
+			    </div>
+			</div>
+		</div>
+<!-- 			<div class="relDiv foreword">
 				<div class="itineraryHighLights">
 					<div class="tourGuide">
 						<table width="600">
 							<tr>
-								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/atletico-madrid-logo-large.png" height="100" /></td>
-								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/real-madrid-logo-large.png" height="120" /></td>
+								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="100" /></td>
+								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="100" /></td>
 							</tr>
 						</table>
 						<p>
@@ -88,21 +172,9 @@
 							<br/>
 							11月19日，一战定乾坤！
 						</p>
-						<!-- <div class="com_profile">
-							<div class="imgWrap">
-								<img src="img/itinerary/tourDirector/Fortuna-Gallo.jpg" />
-							</div>
-							<div class="userInfo">
-								<span class="position">外籍导游</span>
-								<span class="name">Fortuna Gallo</span>
-							</div>
-						</div> -->
-					</div>
-					<div class="hightLight">
-						<img src="img/itinerary/Laliga/w_193fc8933619210750_ma_3094.jpg" width="390"/>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>
 		<div class="site">			
 			<div class="laligaPoints">
