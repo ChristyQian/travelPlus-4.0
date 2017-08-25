@@ -146,7 +146,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									欧洲新年折扣季购物之旅 <br/>
+									新年折扣季购物之旅 <br/>
 									阿姆斯特丹 - 巴黎 - 伦敦
 								</p>
 								<div class="rate">
@@ -178,7 +178,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									欧洲新年折扣季购物之旅 <br/>
+									新年折扣季购物之旅 <br/>
 									阿姆斯特丹 - 巴黎
 								</p>
 								<div class="rate">

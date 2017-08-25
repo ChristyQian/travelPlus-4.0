@@ -611,10 +611,10 @@
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>上海</span>1100</div>
-									<div class="airport"><span>伦敦</span>1630</div>
-									<div class="airport"><span>伦敦</span>1810</div>
-									<div class="airport"><span>马德里</span>2140</div>
+									<div class="airport"><span>上海</span>11:00</div>
+									<div class="airport"><span>伦敦</span>16:30</div>
+									<div class="airport"><span>伦敦</span>18:10</div>
+									<div class="airport"><span>马德里</span>21:40</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
@@ -625,10 +625,10 @@
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>巴塞罗那</span>1010</div>
-									<div class="airport"><span>伦敦</span>1135</div>
-									<div class="airport"><span>伦敦</span>1305</div>
-									<div class="airport"><span>上海</span>0710+1</div>
+									<div class="airport"><span>巴塞罗那</span>10:10</div>
+									<div class="airport"><span>伦敦</span>11:35</div>
+									<div class="airport"><span>伦敦</span>13:05</div>
+									<div class="airport"><span>上海</span>07:10+1</div>
 								</div>
 							</div>
 						</div>

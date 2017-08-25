@@ -491,7 +491,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">Hotel Athenaeum</div>
+								<div class="transparentTxt">Hotel Athenaeum阿西娜酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">从酒店步行10分钟可以到达：佛罗伦萨大教堂和乔托钟楼、佛罗伦萨学院美术馆（大卫像）、巴杰罗美术馆、世界上最古老的药妆店之一“圣塔玛利亚诺维拉”。</div>

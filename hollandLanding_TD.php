@@ -206,7 +206,7 @@
 								<img src="img/itinerary/allTripsList/shopping-in-london-paris-amsterdam.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">欧洲新年折扣季购物之旅</div>
+								<div class="itiName">新年折扣季购物之旅</div>
 								<div class="itiDess">
 									阿姆斯特丹 - 巴黎 - 伦敦
 								</div>	
@@ -245,7 +245,7 @@
 								<img src="img/itinerary/allTripsList/shopping-in-amsterdam-paris.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">欧洲新年折扣季购物之旅</div>
+								<div class="itiName">新年折扣季购物之旅</div>
 								<div class="itiDess">
 									阿姆斯特丹 - 巴黎
 								</div>	

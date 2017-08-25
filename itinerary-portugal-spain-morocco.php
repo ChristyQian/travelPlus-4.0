@@ -682,7 +682,7 @@
 									<div class="airport"><span>马德里</span>11:00</div>
 									<div class="airport"><span>伦敦</span>12:25</div>
 									<div class="airport"><span>伦敦</span>13:45</div>
-									<div class="airport"><span>上海</span>09：10+1</div>
+									<div class="airport"><span>上海</span>09:10+1</div>
 								</div>
 							</div>
 						</div>
