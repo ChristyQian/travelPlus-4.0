@@ -353,7 +353,7 @@
 								<div>
 									13天
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥24,600<span>起</span></span>
+									<span class="price">￥22,000<span>起</span></span>
 								</div>
 							</div>
 						</a>

@@ -516,7 +516,7 @@
 					</div>
 					<div class="itiPrice">										
 						<span class="delPrice">￥21,100</span>
-						<span class="price">￥23,800<span>起</span></span>
+						<span class="price">￥26,000<span>起</span></span>
 					</div>
 					<button class="yellowBtn">查看行程</button>								
 				</div>
@@ -555,7 +555,7 @@
 					</div>
 					<div class="itiPrice">										
 						<span class="delPrice">￥21,100</span>
-						<span class="price">￥24,600<span>起</span></span>
+						<span class="price">￥22,000<span>起</span></span>
 					</div>
 					<button class="yellowBtn">查看行程</button>								
 				</div>
