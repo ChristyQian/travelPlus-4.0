@@ -5,7 +5,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -44,7 +44,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -77,49 +77,26 @@
 					<button class="yellowBtn">查看行程</button>
 				</div>
 			</a>
-	    </div>				    			    				    
-	    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
-			<a href="itinerary-jewels-of-alpine-europe.php" >
-				<div class="imgWrap">
-					<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
-				</div>
-				<div class="infoWrap">
-					<div class="itiName">阿尔卑斯山环游之旅</div>
-					<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
-					<div class="itiDays">13天</div>
-					<div class="rate">
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-					</div>
-					<div class="itiIntro">
-						从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
-					</div>
-					<div class="itiPrice">
-						<span class="delPrice">￥19,100</span>
-						<span class="price">￥23,400<span>起</span></span>
-					</div>
-					<button class="yellowBtn">查看行程</button>
-				</div>
-			</a>
 	    </div>
-	    <div id="california-and-the-grand-canyon" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="nature,family">
-			<a href="itinerary-grand-canyon.php" >	
+	    <div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="history,art,nature">
+			<a href="itinerary-portugal-to-spain.php" >	
 				<div class="offerOutWrap">									
+					<div class="offerWrap earlyBird">
+						<div class="offerArrow"></div>	
+						<div>半价优惠</div>
+					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
 						<div>圣诞 / 元旦 / 春节出发</div>
 					</div>
 				</div>
 				<div class="imgWrap">
-					<img src="img/itinerary/allTripsList/grand-canyon.jpg" alt="" />
+					<img src="img/itinerary/allTripsList/portugal-to-spain.jpg" alt="" />
 				</div>
 				<div class="infoWrap">
-					<div class="itiName">【亲子游】加州主题乐园+大峡谷之旅</div>
+					<div class="itiName">葡萄牙西班牙之旅</div>
 					<div class="itiDess">
-						旧金山 - 洛杉矶 - 拉斯维加斯 - 弗拉格斯塔夫 - 凤凰城
+						里斯本 - 塞维利亚 - 马德里 - 巴塞罗那
 					</div>	
 					<div class="itiDays">13天</div>
 					<div class="rate">
@@ -127,25 +104,25 @@
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
 					</div>
 					<div class="itiIntro">
-						和孩子一起沐浴美国加州的灿烂阳光，相信震撼人心的科罗拉多河漂流和大峡谷探秘一定是一个让孩子大开眼界的绝佳的机会，还有他们最喜爱的迪士尼乐园和环球影城，让我们一起记录他们开怀大笑的时刻！
+						这趟旅程你将回到大航海时期的起点里斯本和热情迷人的西班牙。既有贝伦塔旁迷人的海岸线，也有高迪之城的天才艺，同时品尝种类丰富的tapas和美味的sangria酒也是南欧之旅不可错过的一部分。
 					</div>
 					<div class="itiPrice">										
 						<span class="delPrice">￥21,100</span>
-						<span class="price">￥28,800<span>起</span></span>
+						<span class="price">￥22,000<span>起</span></span>
 					</div>
 					<button class="yellowBtn">查看行程</button>								
 				</div>
 			</a>
-	    </div>
+	    </div>					    			    				    
 	    <div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
 			<a href="itinerary-portugal-spain-morocco.php" >	
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>								
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -184,7 +161,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -223,7 +200,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -262,7 +239,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -301,7 +278,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -340,7 +317,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -379,7 +356,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -418,7 +395,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
+						<div>半价优惠</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -447,6 +424,45 @@
 					<div class="itiPrice">										
 						<span class="delPrice">￥21,100</span>
 						<span class="price">￥27,800<span>起</span></span>
+					</div>
+					<button class="yellowBtn">查看行程</button>								
+				</div>
+			</a>
+	    </div>
+	    <div id="california-and-the-grand-canyon" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="nature,family">
+			<a href="itinerary-grand-canyon.php" >	
+				<div class="offerOutWrap">
+					<div class="offerWrap earlyBird">
+						<div class="offerArrow"></div>	
+						<div>半价优惠</div>
+					</div>									
+					<div class="offerWrap date">
+						<!-- <div class="offerArrow"></div> -->									
+						<div>圣诞 / 元旦 / 春节出发</div>
+					</div>
+				</div>
+				<div class="imgWrap">
+					<img src="img/itinerary/allTripsList/grand-canyon.jpg" alt="" />
+				</div>
+				<div class="infoWrap">
+					<div class="itiName">【亲子游】加州主题乐园+大峡谷之旅</div>
+					<div class="itiDess">
+						旧金山 - 洛杉矶 - 拉斯维加斯 - 弗拉格斯塔夫 - 凤凰城
+					</div>	
+					<div class="itiDays">13天</div>
+					<div class="rate">
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
+					</div>
+					<div class="itiIntro">
+						和孩子一起沐浴美国加州的灿烂阳光，相信震撼人心的科罗拉多河漂流和大峡谷探秘一定是一个让孩子大开眼界的绝佳的机会，还有他们最喜爱的迪士尼乐园和环球影城，让我们一起记录他们开怀大笑的时刻！
+					</div>
+					<div class="itiPrice">										
+						<span class="delPrice">￥21,100</span>
+						<span class="price">￥28,800<span>起</span></span>
 					</div>
 					<button class="yellowBtn">查看行程</button>								
 				</div>
@@ -522,43 +538,5 @@
 				</div>
 			</a>
 	    </div>
-	    <div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="history,art,nature">
-			<a href="itinerary-portugal-to-spain.php" >	
-				<div class="offerOutWrap">									
-					<div class="offerWrap earlyBird">
-						<div class="offerArrow"></div>	
-						<div>早鸟优惠</div>
-					</div>
-					<div class="offerWrap date">
-						<!-- <div class="offerArrow"></div> -->									
-						<div>圣诞 / 元旦 / 春节出发</div>
-					</div>
-				</div>
-				<div class="imgWrap">
-					<img src="img/itinerary/allTripsList/portugal-to-spain.jpg" alt="" />
-				</div>
-				<div class="infoWrap">
-					<div class="itiName">葡萄牙西班牙之旅</div>
-					<div class="itiDess">
-						里斯本 - 塞维利亚 - 马德里 - 巴塞罗那
-					</div>	
-					<div class="itiDays">13天</div>
-					<div class="rate">
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-					</div>
-					<div class="itiIntro">
-						这趟旅程你将回到大航海时期的起点里斯本和热情迷人的西班牙。既有贝伦塔旁迷人的海岸线，也有高迪之城的天才艺，同时品尝种类丰富的tapas和美味的sangria酒也是南欧之旅不可错过的一部分。
-					</div>
-					<div class="itiPrice">										
-						<span class="delPrice">￥21,100</span>
-						<span class="price">￥22,000<span>起</span></span>
-					</div>
-					<button class="yellowBtn">查看行程</button>								
-				</div>
-			</a>
-	    </div>	
+
 	</div>

@@ -194,7 +194,11 @@
 				<div class="flex-row-start-start flex-flow">
 					<div id="shopping-in-london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-shopping-in-london-paris-amsterdam.php" >	
-							<div class="offerOutWrap">									
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>半价优惠</div>
+								</div>									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
 									<div>圣诞 / 元旦 / 春节出发</div>
@@ -229,7 +233,11 @@
 				    </div>
 				    <div id="shopping-in-amsterdam-paris" name="home-trip-box" class="home-trip-box" data-dest="fr,nz" data-tag="history,art,honeymoon">
 						<a href="itinerary-shopping-in-amsterdam-paris.php" >	
-							<div class="offerOutWrap">									
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>半价优惠</div>
+								</div>									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
 									<div>圣诞 / 元旦 / 春节出发</div>

@@ -313,7 +313,7 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>参观保留完全的罗马建筑，包括方殿</li>
+									<li>参观保留完好的罗马建筑，包括方殿</li>
 									<li>参观建于公元100年左右的尼姆竞技场</li>
 									<li>漫步加尔桥</li>
 								</ul>

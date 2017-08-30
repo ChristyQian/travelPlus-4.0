@@ -197,7 +197,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>半价优惠</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -236,7 +236,7 @@
 								<div class="offerOutWrap">									
 									<div class="offerWrap earlyBird">
 										<div class="offerArrow"></div>	
-										<div>早鸟优惠</div>
+										<div>半价优惠</div>
 									</div>
 									<div class="offerWrap date">
 										<!-- <div class="offerArrow"></div> -->									
@@ -275,7 +275,7 @@
 							<div class="offerOutWrap">	
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>半价优惠</div>
 								</div>								
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -314,7 +314,7 @@
 							<div class="offerOutWrap">	
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>半价优惠</div>
 								</div>								
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									

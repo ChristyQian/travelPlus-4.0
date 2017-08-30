@@ -784,6 +784,9 @@ table td {
 	padding:10px;
 	text-align:center;
 }*/
+.laliga .mobile {
+	display:none;
+}
 @media screen and (max-width:1366px) and (min-width: 768px) {
 	.itineraryPhoto,
 	.itineraryPhoto .swiper-container {
@@ -1000,7 +1003,7 @@ table td {
 		/*height:360px;
 		height:330px;
 		height:310px;*/
-		height:280px;/* no content */
+		height:283px;/* no content */
 		padding:0;
 	}
 	.itineraryPhoto .swiper-slide .slideBg,
@@ -1182,8 +1185,49 @@ table td {
 	.laliga .itineraryMap {
 		width:100%;
 	}
+	.laliga .mobile {
+		display:block;
+		padding-top:25px;
+	}
+	.laliga .pc {
+		display:none;
+	}
+	/*.swiper-container-horizontal>.swiper-pagination-bullets, .swiper-pagination-custom, .swiper-pagination-fraction {
+    	bottom: 5px;
+	}*/
 }
-@media screen and (max-width: 320px) {	
+@media screen and (max-width: 414px) {
+	.itineraryPhoto, 
+	.itineraryPhoto .swiper-container {
+		height:276px;
+	}
+	.itineraryPhoto .swiper-slide .slideBg, 
+	.itineraryPhoto .swiperBgWrap {
+		height:232px;
+	}
+	.laliga .mobile {
+		padding-top:30px;
+	}
+}
+@media screen and (max-width: 375px) {
+	.itineraryPhoto, 
+	.itineraryPhoto .swiper-container {
+		height:255px;
+	}
+	.itineraryPhoto .swiper-slide .slideBg, 
+	.itineraryPhoto .swiperBgWrap {
+		height:210px;
+	}
+}
+@media screen and (max-width: 320px) {
+	.itineraryPhoto, 
+	.itineraryPhoto .swiper-container {
+		height:223px;
+	}
+	.itineraryPhoto .swiper-slide .slideBg, 
+	.itineraryPhoto .swiperBgWrap {
+		height:179px;
+	}	
 	.blog .flex-row-start-around {
 		padding:10px;
 	}

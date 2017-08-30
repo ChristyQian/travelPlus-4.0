@@ -190,7 +190,47 @@
 			<div class="twoThird section">
 				<h4>"摩洛哥"相关行程<span class="frNote">共2条结果</span></h4>
 				<div class="flex-row-start-start flex-flow">
-					<div id="in-depth-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo" data-tag="history,art,nature">
+						
+				    <div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
+						<a href="itinerary-portugal-spain-morocco.php" >	
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>半价优惠</div>
+								</div>									
+								<div class="offerWrap date">
+									<!-- <div class="offerArrow"></div> -->									
+									<div>圣诞 / 元旦 / 春节出发</div>
+								</div>
+							</div>
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/portugal-spain-morocco.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">葡萄牙西班牙摩洛哥之旅</div>
+								<div class="itiDess">
+									里斯本 - 塞维利亚 - 格兰纳达 - 卡萨布兰卡 - 舍夫沙万 - 马德里
+								</div>	
+								<div class="itiDays">16天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									逃离寒冷的冬季跟随我们一起来到伊比利亚半岛感受大西洋的冬日暖阳，站在直布罗陀海峡眺望非洲大陆，挖掘葡萄牙大发现时期的珍贵宝藏，感受马德里不可思议，还有如迷宫般的蓝白摩洛哥小镇。
+								</div>
+								<div class="itiPrice">										
+									<span class="delPrice">￥21,100</span>
+									<span class="price">￥26,200<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
+				    </div>
+				    <div id="in-depth-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo" data-tag="history,art,nature">
 						<a href="itinerary-in-depth-morocco.php" >	
 							<div class="offerOutWrap">									
 								<div class="offerWrap date">
@@ -220,45 +260,6 @@
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
 									<span class="price">￥23,800<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>								
-							</div>
-						</a>
-				    </div>	
-				    <div id="portugal-spain-morocco" name="home-trip-box" class="home-trip-box" data-dest="mo,portu,sp" data-tag="nature">
-						<a href="itinerary-portugal-spain-morocco.php" >	
-							<div class="offerOutWrap">
-								<div class="offerWrap earlyBird">
-									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
-								</div>									
-								<div class="offerWrap date">
-									<!-- <div class="offerArrow"></div> -->									
-									<div>圣诞 / 元旦 / 春节出发</div>
-								</div>
-							</div>
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/portugal-spain-morocco.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">葡萄牙西班牙摩洛哥之旅</div>
-								<div class="itiDess">
-									里斯本 - 塞维利亚 - 格兰纳达 - 卡萨布兰卡 - 舍夫沙万 - 马德里
-								</div>	
-								<div class="itiDays">16天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									逃离寒冷的冬季跟随我们一起来到伊比利亚半岛感受大西洋的冬日暖阳，站在直布罗陀海峡眺望非洲大陆，挖掘葡萄牙大发现时期的珍贵宝藏，感受马德里不可思议，还有如迷宫般的蓝白摩洛哥小镇。
-								</div>
-								<div class="itiPrice">										
-									<span class="delPrice">￥21,100</span>
-									<span class="price">￥26,200<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>

@@ -309,10 +309,11 @@
 								<label>第2天</label><span>卢塞恩观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
-								<ul>
+								<ul>									
 									<li>探索卢塞恩的老城区</li>
-									<li>观看狮子雕像</li>
+									<li>观看狮子雕像</li>									
 									<li>漫步卡佩尔桥</li>
+									<li>游览皮拉图斯山并享用午餐</li>
 									<li>在欢迎晚宴上与同行伙伴见面</li>
 								</ul>
 							</div>
@@ -371,6 +372,12 @@
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
 								<label>第7天</label><span>前往圣莫里茨</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>乘坐伯尔尼纳快车前往圣莫里茨</li>
+									<li>在圣莫里茨享用晚餐</li>
+								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">

@@ -17,7 +17,8 @@
 		<?php include_once('fix-cta.php'); echo $text1 ;?>			
 		<?php include_once('common-header.php') ;?>	
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/Laliga/FCB-RAM/w_ac07e31db923222505_apa6827.jpg) center center no-repeat; background-size:cover;">
+		<div class="imagesWrap" style="background:url(img/itinerary/Laliga/billboard/w_4dac6337f423202045_dsc8305.jpg) center center no-repeat; 
+			background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
@@ -74,23 +75,33 @@
 								<div class="tourGuide">
 									<table>
 										<tr>
-											<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="100" /></td>
-											<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="100" /></td>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="200" /></td>
+											<td>
+												<div class="pc">
+													<h5>巴塞罗那 vs 皇家马德里</h5>
+													<br/>
+													如果高迪缔造了这座城市绮丽的外表，<br/>
+													那梅西赋予巴塞罗那的则是激情与荣耀……<br/>
+													<br/>
+													置身诺坎普球场，<br/>
+													亲历这个星球上最血脉喷张的对诀，<br/>
+													成为史诗瞬间的见证者、讲述者。<br/>
+													<br/>
+													在最好的年华目睹“梅罗双骄”，<br/>
+													且看且珍惜。
+												</div>
+												<div class="mobile">
+													<h5>巴塞罗那 vs 皇家马德里</h5>
+													<br/>
+													在最好的年华目睹“梅罗双骄”，<br/>
+													且看且珍惜。<br/>
+													<br/>
+													12月20日 伯纳乌见证国家德比
+												</div>
+											</td>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
 										</tr>
 									</table>
-									<p>
-										<h5>巴塞罗那 vs 皇家马德里</h5>
-										<br/>
-										如果高迪缔造了这座城市绮丽的外表，<br/>
-										那梅西赋予巴塞罗那的则是激情与荣耀……<br/>
-										<br/>
-										置身诺坎普球场，<br/>
-										亲历这个星球上最血脉喷张的对诀，<br/>
-										成为史诗瞬间的见证者、讲述者。<br/>
-										<br/>
-										在最好的年华目睹“梅罗双骄”，<br/>
-										且看且珍惜。
-									</p>
 								</div>
 							</div>
 						</div>
@@ -108,7 +119,7 @@
 						<div class="swiper-slide">
 							<div class="swiperBgWrap">
 								<div class="slideBg">
-									<img src="img/itinerary/Laliga/FCB-RAM/w_43f6697a2703152737_q3a5182_1.jpg" />
+									<img src="img/itinerary/Laliga/FCB-RAM/3.pic_hd.jpg" />
 								</div>
 								<div class="bgIntro">
 									<div class="transparentBg"></div>
@@ -141,6 +152,8 @@
 					</div>				
 				    <div class="swiper-pagination">
 				    </div>
+				    <div class="swiper-button-prev swiper-button-white"></div>
+			   		<div class="swiper-button-next swiper-button-white"></div>
 				</div>
 			</div>
 		<!-- <div class="relDiv foreword">
@@ -1099,7 +1112,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-		<script src="js/itinerary.js"></script>
+		<script src="js/laliga.js"></script>
 		<script src="js/jquery.js"></script>
 		
 		<script src="js/jquery.jfeed.js"></script>

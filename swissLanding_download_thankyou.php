@@ -19,7 +19,9 @@
             <button class="button-download" onclick="window.open('files/swiss.pdf')">点击下载攻略</button>
             <div class="tips">(文件大约10M，请在WiFi环境下下载)</div>
             <h2>感谢你的关注！</h2>
-			<p>想了解更多路线玩法推荐，或咨询签证问题<br/>
+			<p>
+			<span class="pinkTxt">凡报名参团，就送出境游保险一份</span><br/>
+			想了解更多路线玩法推荐，或咨询签证问题<br/>
 			不如一键添加旅游顾问：EF小家 和TA沟通吧！</p>
             <img class="content-box-qr" src="img/sSqrcode.jpg" width="200">
         </div>

@@ -17,7 +17,7 @@
 		<?php include_once('fix-cta.php'); echo $text1 ;?>			
 		<?php include_once('common-header.php') ;?>	
 		<!-- Image -->
-		<div class="imagesWrap" style="background:url(img/itinerary/Laliga/RAM-VIL/w_ed5ed61d8e21193709_dsc3145.jpg) center center no-repeat;
+		<div class="imagesWrap" style="background:url(img/itinerary/Laliga/billboard/w_1c98ccbc0a21201230_dsc3163.jpg) center center no-repeat;
 				background-size:cover;">
 			<div class="site">
 				<div class="tourInfo">
@@ -75,24 +75,34 @@
 								<div class="tourGuide">
 									<table>
 										<tr>
-											<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="100" /></td>
-											<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/CVF-logo.png" height="100" /></td>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
+											<td>
+												<div class="pc">
+													<h5>皇家马德里 vs 比利亚雷亚尔</h5>
+													<br/>
+													黄色象征灿烂、辉煌，有着太阳般的光辉，<br/>
+													它是骄傲的色彩，<br/>
+													是照亮黑暗的勇敢之光。<br/>
+													<br/>
+													但在西甲赛场，它被定义为不屈顽强，<br/>
+													这支身披黄色战袍的英武之师，<br/>
+													带着对联赛冠军的渴望，再次造访伯纳乌球场……<br/>
+													<br/>
+													“黄色潜水艇”――比利亚雷亚尔，<br/>
+													能否成功伏击银河战舰？等你来揭晓！<br/>
+												</div>
+												<div class="mobile">
+													<h5>皇家马德里 vs 比利亚雷亚尔</h5>
+													<br/>
+													“黄色潜水艇”——比利亚雷亚尔，<br/>
+													能否成功伏击银河战舰？<br/>
+													<br/>
+													1月14日 等你来揭晓！
+												</div>
+											</td>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/CVF-logo.png" height="200" /></td>
 										</tr>
 									</table>
-									<p>
-										<h5>皇家马德里 vs 比利亚雷亚尔</h5>
-										<br/>
-										黄色象征灿烂、辉煌，有着太阳般的光辉，<br/>
-										它是骄傲的色彩，<br/>
-										是照亮黑暗的勇敢之光。<br/>
-										<br/>
-										但在西甲赛场，它被定义为不屈顽强，<br/>
-										这支身披黄色战袍的英武之师，<br/>
-										带着对联赛冠军的渴望，再次造访伯纳乌球场……<br/>
-										<br/>
-										“黄色潜水艇”――比利亚雷亚尔，<br/>
-										能否成功伏击银河战舰？等你来揭晓！<br/>
-									</p>
 								</div>
 							</div>
 						</div>
@@ -121,7 +131,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Laliga/RAM-VIL/w_c99100ee5621201836_ma_5728.jpg" />
+								<img src="img/itinerary/Laliga/RAM-VIL/w_bb9090d71021205025levante-villarreal08.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -132,7 +142,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Laliga/RAM-VIL/w_ed5ed61d8e21193709_dsc3145.jpg" />
+								<img src="img/itinerary/Laliga/RAM-VIL/w_c99100ee5621201836_ma_5728.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -143,6 +153,8 @@
 				</div>				
 			    <div class="swiper-pagination">
 			    </div>
+			    <div class="swiper-button-prev swiper-button-white"></div>
+			    <div class="swiper-button-next swiper-button-white"></div>
 			</div>
 		</div>
 			<!-- <div class="relDiv foreword">
@@ -884,7 +896,7 @@
 		<script src="js/jquery-2.1.1.min.js"></script>
 		<script src="js/bootstrap.min.js"></script>
 		<script src="js/sticky.min.js"></script>
-		<script src="js/itinerary.js"></script>
+		<script src="js/laliga.js"></script>
 		<script src="js/jquery.js"></script>
 		
 		<script src="js/jquery.jfeed.js"></script>

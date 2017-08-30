@@ -1,7 +1,8 @@
     var swiper1 = new Swiper('.itineraryPhoto .swiper-container', {
-		autoplay: 3000,
 		autoplayDisableOnInteraction:false,
 		loop:true,
+		prevButton:'.swiper-button-prev',
+		nextButton:'.swiper-button-next',
 		width:1160,
         pagination: '.swiper-pagination',
         paginationClickable: true,

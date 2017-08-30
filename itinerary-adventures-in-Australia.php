@@ -368,7 +368,7 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>中途参观布里斯班国家公园</li>
+									<li>中途参观努萨国家公园</li>
 								</ul>
 							</div>
 						</div>

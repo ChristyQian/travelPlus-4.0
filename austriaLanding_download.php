@@ -192,39 +192,13 @@
 			<div class="twoThird section">
 				<h4>"奥地利"相关行程<span class="frNote">共3条结果</span></h4>
 				<div class="flex-row-start-start flex-flow">
-					<div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
-						<a href="itinerary-jewels-of-alpine-europe.php" >
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">阿尔卑斯山环游之旅</div>
-								<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
-								<div class="itiDays">13天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
-								</div>
-								<div class="itiPrice">
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,400<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>
-							</div>
-						</a>
-				    </div>
+					
 				    <div id="budapest-vienna-prague" name="home-trip-box" class="home-trip-box" data-dest="hungary,czech,austria" data-tag="nature">
 						<a href="itinerary-budapest-vienna-prague.php" >	
 							<div class="offerOutWrap">
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>半价优惠</div>
 								</div>									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -263,7 +237,7 @@
 							<div class="offerOutWrap">	
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>半价优惠</div>
 								</div>								
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -294,6 +268,33 @@
 									<span class="price">￥22,700<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
+				    </div>
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
+						<a href="itinerary-jewels-of-alpine-europe.php" >
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">阿尔卑斯山环游之旅</div>
+								<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
+								<div class="itiDays">13天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
+								</div>
+								<div class="itiPrice">
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥23,400<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>
 							</div>
 						</a>
 				    </div>

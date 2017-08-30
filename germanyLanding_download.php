@@ -85,9 +85,9 @@
 								}
 								</script>
 								<div class="rightWrap">
-									<h5 class="rightWrapHead">下载独家攻略，寻找出游灵感&nbsp;&gt;&gt;</h5>									
+									<h5 class="rightWrapHead">下载独家攻略，附赠旅游保险&nbsp;&gt;&gt;</h5>									
 									<div class="browse-banner-content-box">
-										<h5>下载独家攻略，寻找出游灵感
+										<h5>下载独家攻略，附赠旅游保险
 											<div class="goBackStatusIcon">
 												<div class="whiteTrangle"></div>
 												<div class="backgroundTrangle"></div>
@@ -192,39 +192,13 @@
 			<div class="twoThird section">
 				<h4>"德国"相关行程<span class="frNote">共4条结果</span></h4>
 				<div class="flex-row-start-start flex-flow">
-					<div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
-						<a href="itinerary-jewels-of-alpine-europe.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
-							</div>
-							<div class="infoWrap">
-								<div class="itiName">阿尔卑斯山环游之旅</div>
-								<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
-								<div class="itiDays">13天</div>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div class="itiIntro">
-									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
-								</div>
-								<div class="itiPrice">
-									<span class="delPrice">￥19,100</span>
-									<span class="price">￥23,400<span>起</span></span>
-								</div>
-								<button class="yellowBtn">查看行程</button>
-							</div>
-						</a>
-				    </div>
+					
 				    <div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
 						<a href="itinerary-germany-switzerland-austria.php" >	
 							<div class="offerOutWrap">
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>半价优惠</div>
 								</div>									
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -284,8 +258,7 @@
 								<button class="yellowBtn">查看行程</button>
 							</div>
 						</a>
-				    </div>
-				    
+				    </div>				    
 				    <div id="switzerland-alsace-the-black-forest" name="home-trip-box" class="home-trip-box" data-dest="swz,fr,ge" data-tag="art,nature">
 						<a href="itinerary-switzerland-alsace-the-black-forest.php" >	
 							<div class="imgWrap">
@@ -312,6 +285,33 @@
 									<span class="price">￥26,300<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
+							</div>
+						</a>
+				    </div>
+				    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,swz,austria" data-tag="history,art,honeymoon">
+						<a href="itinerary-jewels-of-alpine-europe.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
+							</div>
+							<div class="infoWrap">
+								<div class="itiName">阿尔卑斯山环游之旅</div>
+								<div class="itiDess">瑞士 - 法国 - 意大利 - 奥地利 - 德国</div>
+								<div class="itiDays">13天</div>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+								</div>
+								<div class="itiIntro">
+									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。
+								</div>
+								<div class="itiPrice">
+									<span class="delPrice">￥19,100</span>
+									<span class="price">￥23,400<span>起</span></span>
+								</div>
+								<button class="yellowBtn">查看行程</button>
 							</div>
 						</a>
 				    </div>
