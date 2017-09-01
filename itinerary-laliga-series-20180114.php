@@ -64,126 +64,100 @@
 				</div>
 			</div>
 			<!-- Swiper -->			
-		<div class="site itineraryPhoto">
-			<div class="swiper-container">
-				<div class="swiper-wrapper">
-					<div class="swiper-slide">
+			<div class="site itineraryPhoto">
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+								<div class="swiperBgWrap">
+									<div class="slideBg">
+										<img src="img/itinerary/laliga/laligaBG2.jpg" />
+									</div>
+									<div class="tourGuide">
+										<table>
+											<tr>
+												<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
+												<td>
+													<div class="pc">
+														<h5>皇家马德里 vs 比利亚雷亚尔</h5>
+														<br/>
+														黄色象征灿烂、辉煌，有着太阳般的光辉，<br/>
+														它是骄傲的色彩，<br/>
+														是照亮黑暗的勇敢之光。<br/>
+														<br/>
+														但在西甲赛场，它被定义为不屈顽强，<br/>
+														这支身披黄色战袍的英武之师，<br/>
+														带着对联赛冠军的渴望，再次造访伯纳乌球场……<br/>
+														<br/>
+														“黄色潜水艇”――比利亚雷亚尔，<br/>
+														能否成功伏击银河战舰？<br/>
+														<br/>
+														1月14日 等你来揭晓！
+													</div>
+													<div class="mobile">
+														<h5>皇家马德里 vs 比利亚雷亚尔</h5>
+														<br/>
+														“黄色潜水艇”——比利亚雷亚尔，<br/>
+														能否成功伏击银河战舰？<br/>
+														<br/>
+														1月14日 等你来揭晓！
+													</div>
+												</td>
+												<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/CVF-logo.png" height="200" /></td>
+											</tr>
+										</table>
+									</div>
+								</div>
+							</div>
+						<div class="swiper-slide">
 							<div class="swiperBgWrap">
 								<div class="slideBg">
-									<img src="img/itinerary/laliga/laligaBG2.jpg" />
+									<img src="img/itinerary/Laliga/RAM-VIL/w_1c98ccbc0a21201230_dsc3163.jpg" />
 								</div>
-								<div class="tourGuide">
-									<table>
-										<tr>
-											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
-											<td>
-												<div class="pc">
-													<h5>皇家马德里 vs 比利亚雷亚尔</h5>
-													<br/>
-													黄色象征灿烂、辉煌，有着太阳般的光辉，<br/>
-													它是骄傲的色彩，<br/>
-													是照亮黑暗的勇敢之光。<br/>
-													<br/>
-													但在西甲赛场，它被定义为不屈顽强，<br/>
-													这支身披黄色战袍的英武之师，<br/>
-													带着对联赛冠军的渴望，再次造访伯纳乌球场……<br/>
-													<br/>
-													“黄色潜水艇”――比利亚雷亚尔，<br/>
-													能否成功伏击银河战舰？等你来揭晓！<br/>
-												</div>
-												<div class="mobile">
-													<h5>皇家马德里 vs 比利亚雷亚尔</h5>
-													<br/>
-													“黄色潜水艇”——比利亚雷亚尔，<br/>
-													能否成功伏击银河战舰？<br/>
-													<br/>
-													1月14日 等你来揭晓！
-												</div>
-											</td>
-											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/CVF-logo.png" height="200" /></td>
-										</tr>
-									</table>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
 								</div>
 							</div>
 						</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/RAM-VIL/w_1c98ccbc0a21201230_dsc3163.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/RAM-VIL/w_a8dff9ad0921201228_dsc3153.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/Laliga/RAM-VIL/w_a8dff9ad0921201228_dsc3153.jpg" />
+								</div>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+								</div>
 							</div>
 						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/RAM-VIL/w_bb9090d71021205025levante-villarreal08.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/RAM-VIL/w_c99100ee5621201836_ma_5728.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/Laliga/RAM-VIL/w_bb9090d71021205025levante-villarreal08.jpg" />
+								</div>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+								</div>
 							</div>
 						</div>
-					</div>	
-				</div>				
-			    <div class="swiper-pagination">
-			    </div>
-			    <div class="swiper-button-prev swiper-button-white"></div>
-			    <div class="swiper-button-next swiper-button-white"></div>
-			</div>
-		</div>
-			<!-- <div class="relDiv foreword">
-				<div class="itineraryHighLights">
-					<div class="tourGuide">
-						<table width="600">
-							<tr>
-								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="100" /></td>
-								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/CVF-logo.png" height="100" /></td>
-							</tr>
-						</table>
-						<p>
-							<h5>皇家马德里 vs 比利亚雷亚尔</h5>
-							<br/>
-							黄色象征灿烂、辉煌，有着太阳般的光辉，<br/>
-							它是骄傲的色彩，<br/>
-							是照亮黑暗的勇敢之光。<br/>
-							<br/>
-							但在西甲赛场，<br/>
-							它被定义为不屈顽强，<br/>
-							这支身披黄色战袍的英武之师，<br/>
-							带着对联赛冠军的渴望，再次造访伯纳乌球场……<br/>
-							<br/>
-							“黄色潜水艇”――比利亚雷亚尔，<br/>
-							能否成功伏击银河战舰？等你来揭晓！<br/>
-						</p>
-					</div>
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/Laliga/RAM-VIL/w_c99100ee5621201836_ma_5728.jpg" />
+								</div>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+								</div>
+							</div>
+						</div>	
+					</div>				
+				    <div class="swiper-pagination"></div>
+				    <div class="swiper-button-prev swiper-button-white"></div>
+				    <div class="swiper-button-next swiper-button-white"></div>
 				</div>
-			</div> -->
+			</div>
 		</div>
 		<div class="site">			
 			<div class="laligaPoints">
@@ -191,19 +165,19 @@
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/CR-vertical-0420_13.jpg" width="100%" /><p>与西甲指定全球唯一官方球迷俱乐部一起感受顶级足球赛事的魅力</p></div>
 					<div class="ibWrap textWrap">
 						<h6>非凡官方</h6>
-						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅【西甲指定的全球唯一官方球迷俱乐部】</p>
+						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅【西甲指定的全球唯一官方球迷俱乐部】，独家提供西甲总部参观，一览西甲背后的那些“故事”</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_2d249ab50d19190949_ma_2852.jpg" width="100%" /><p>共赴万达大都会球场，见证首场同城德比</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/RAM-VIL/nine-6.jpg" width="100%" /><p>"黄色潜水艇"—— 比利亚雷亚尔</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
-						<h6>同城竞技</h6>
-						<p>世界第一同城较量，见证万达大都会球场在新赛季首次上演的马德里德比。燃爆全场，亲自揭晓有东方力量注入的西甲是否有独特的滋味</p>
+						<h6>感受激情</h6>
+						<p>这也是一场不容错过的联赛，来自黄潜的正面挑战，坐镇主场的皇马带你感受走向冠军的十足激情</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_a55e8b4bc319205405_ma_3018.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/RAM-VIL/nine-8.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
 					<div class="ibWrap textWrap">
-						<h6>球票升级</h6>
-						<p>不同等级的球票，可为你提供升级服务，获得额外参观西甲总部及参观俱乐部训练，有机会与巨星近距离互动</p>
+						<h6>可选套票</h6>
+						<p>基础球迷套票：旅行项目 + 皇马主场对阵比利亚雷亚尔球票 （可升级球票）</p>
 					</div>
 				</div>
 				<div>
@@ -212,7 +186,7 @@
 						<h6>别样体验</h6>
 						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/hmjlb.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/RAM-VIL/nine-5.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
@@ -226,7 +200,7 @@
 					</div>
 				</div>
 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/mos.jpg" width="100%" /><p>圣家堂</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/RAM-VIL/nine-Sagrada-Familia.jpg" width="100%" /><p>圣家堂</p></div>
 					<div class="ibWrap textWrap">
 						<h6>自由安排</h6>
 						<p>行程包括充分自由时间，探索西班牙足球文化的非凡之路</p>
@@ -386,11 +360,11 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>【球迷朝圣】参观马竞训练基地</span> 
+								<label>第4天</label><span>【球迷朝圣】参观西甲总部</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>埃斯皮诺训练场是马德里竞技的训练基地，运气好的话还能在门口见到格里兹曼、托雷斯、加梅罗等马竞大牌足球明星。</li>
+									<li>【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事。</li>
 								</ul>
 							</div>
 						</div>
@@ -410,7 +384,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label>整天自由活动时间</span> 
+								<label>第6天</label><span>整天自由活动时间</span> 
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
@@ -872,7 +846,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('quotation-form-laliga.php'); echo $text1 ;?> 
+					<?php include_once('quotation-form-laliga-0114.php'); echo $text1 ;?> 
 
 				</div>
 

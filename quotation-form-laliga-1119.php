@@ -57,10 +57,10 @@
 								<label>套票选择：</label>
 								<div class="dropdownArrowWrap">
 									<select id="age" name="age" title="年龄" param="age">									
-										<option value="basic ticket">基础球迷套票</option>																			
-										<option value="basic ticket and upgrade">基础球迷套票+ 升级【马竞vs皇马】球票</option>
-										<option value="super fun">【SuperFun套票】</option>										
-										<option value="super fun and upgrade">【SuperFun套票】+ 升级【马竞vs皇马】球票</option>									
+										<option value="基础球迷">基础球迷套票</option>																			
+										<option value="基础球迷+升级球票">基础球迷套票+ 升级【马竞vs皇马】球票</option>
+										<option value="SuperFan">【SuperFan套票】</option>										
+										<option value="SuperFan+升级球票">【SuperFan套票】+ 升级【马竞vs皇马】球票</option>									
 									</select>
 									<div id="age-error-msg" class="form-error-msg">
 										<i class="fa fa-warning"></i>请输入旅行时间

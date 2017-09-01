@@ -78,20 +78,22 @@
 											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="200" /></td>
 											<td>
 												<div class="pc">
-													<h5>巴塞罗那 vs 皇家马德里</h5>
+													<h5>国家德比</h5>
 													<br/>
-													如果高迪缔造了这座城市绮丽的外表，<br/>
-													那梅西赋予巴塞罗那的则是激情与荣耀……<br/>
+													如果说丰收女神赋予了皇马无尽的力量，<br/>
+													那皇马赋予马德里的则是激情与荣耀……<br/>
 													<br/>
-													置身诺坎普球场，<br/>
-													亲历这个星球上最血脉喷张的对诀，<br/>
+													置身伯纳乌，<br/>
+													亲历这个星球上最血脉偾张的对决，<br/>
 													成为史诗瞬间的见证者、讲述者。<br/>
 													<br/>
 													在最好的年华目睹“梅罗双骄”，<br/>
-													且看且珍惜。
+													且看且珍惜。<br/>
+													<br/>
+													12月20日 伯纳乌见证国家德比
 												</div>
 												<div class="mobile">
-													<h5>巴塞罗那 vs 皇家马德里</h5>
+													<h5>国家德比</h5>
 													<br/>
 													在最好的年华目睹“梅罗双骄”，<br/>
 													且看且珍惜。<br/>
@@ -191,33 +193,37 @@
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/CR-vertical-0420_13.jpg" width="100%" /><p>与西甲指定全球唯一官方球迷俱乐部一起感受顶级足球赛事的魅力</p></div>
 					<div class="ibWrap textWrap">
 						<h6>非凡官方</h6>
-						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅【西甲指定的全球唯一官方球迷俱乐部】</p>
+						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅【西甲指定的全球唯一官方球迷俱乐部】，独家提供西甲总部参观，一览西甲背后的那些“故事”</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_2d249ab50d19190949_ma_2852.jpg" width="100%" /><p>共赴万达大都会球场，见证首场同城德比</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-bsbwg.jpg" width="100%" /><p>现场见证国家德比，皇马与巴萨的豪门球场厮杀</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
-						<h6>同城竞技</h6>
-						<p>世界第一同城较量，见证万达大都会球场在新赛季首次上演的马德里德比。燃爆全场，亲自揭晓有东方力量注入的西甲是否有独特的滋味</p>
+						<h6>巅峰对决</h6>
+						<p>这不仅仅是一场足球比赛，这是被称为世纪大战的震撼较量。自始以来的第270场国家德比。是齐祖继续将玄学进行到底，坐镇主场对巴塞罗那进行再一次碾压；还是巴尔韦德带着加泰罗尼亚人必胜的决心，誓死捍卫宇宙队的荣光。等你来亲自揭晓</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_a55e8b4bc319205405_ma_3018.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-home-count.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
 					<div class="ibWrap textWrap">
-						<h6>球票升级</h6>
-						<p>不同等级的球票，可为你提供升级服务，获得额外参观西甲总部及参观俱乐部训练，有机会与巨星近距离互动</p>
+						<h6>两个主场</h6>
+						<p>不论你是哪一个主队的追随者，置身诺坎普，也来看一场巴萨对阵拉科鲁尼亚的联赛，感受加泰罗尼亚式的激情与热血，你值得拥有</p>
 					</div>
 				</div>
 				<div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/bnwqcct.jpg" width="100%" /><p>伯纳乌球场餐厅用餐</p></div>
 					<div class="ibWrap textWrap">
-						<h6>别样体验</h6>
-						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食</p>
+						<h6>一网打尽</h6>
+						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食。不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，并在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/hmjlb.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine_hmbwg.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
-						<h6>梅西“零距离”</h6>
-						<p>不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，并在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
+						<h6>升级服务</h6>
+						<p>全部升级【SuperFan套票】</p>
+						<ul>
+							<li>球票升级：巴萨对阵拉科鲁尼亚，球票可升级至更佳视野区！</li>
+							<li>参观俱乐部训练球场：亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
+						</ul>
 					</div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/D2A34C44-FE8E-4B03-90A4-F16CB6256976.jpg" width="100%" /><p>参观诺坎普球场和巴萨博物馆</p></div>
 					<div class="ibWrap textWrap">
@@ -226,15 +232,15 @@
 					</div>
 				</div>
 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/mos.jpg" width="100%" /><p>圣家堂</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-Sagrada-Familia.jpg" width="100%" /><p>圣家堂</p></div>
 					<div class="ibWrap textWrap">
-						<h6>自由安排</h6>
-						<p>行程包括充分自由时间，探索西班牙足球文化的非凡之路</p>
+						<h6>畅游西班牙</h6>
+						<p>行程包括充分自由时间，探索西班牙足球文化的非凡之旅</p>
 					</div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/plaza-mayor-madrid.jpg" width="100%" /><p>马约尔广场</p></div>
 				</div>
 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_900x700_29201255_orh5720.jpg" width="100%" /><p>深度感受西班牙足球文化</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-football.jpg" width="100%" /><p>球迷可亲临皇马、马萨训练基地</p></div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/pldbwg.jpg" width="100%" /><p>普拉多博物馆</p></div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/IMG_8962.jpg" width="100%" /><p>专业外籍导游和中方领队全程陪同</p></div>
 				</div>
@@ -454,8 +460,8 @@
 				<div class="includedItems">
 					<h5>可选套票</h5>
 					<ul>
-						<li>基础球迷套票：旅行项目 </li>
-						<li>SuperFan套票：旅行项目 + 参观西甲总部 + 参观俱乐部训练</li>
+						<li>皇马【SuperFan套票】：旅行项目+巴萨对阵拉科鲁尼亚（可升级球票）+ 参观皇马训练基地</li>
+						<li>巴萨【SuperFan套票】：旅行项目+巴萨对阵拉科鲁尼亚（可升级球票）+ 参观巴萨训练基地</li>
 					</ul>
 					<h5>旅行项目</h5>
 					<ul>						
@@ -574,22 +580,18 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span class="yellowTxt">【需升级SuperFan套餐】</span><span>参观拉玛西亚青训营+下午自由活动</span> 
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
-									<li>拉玛西亚青训营由巴萨俱乐部建立，被称为足球界的“采石场”，为世界球坛培育了像梅西、哈维、伊涅斯塔这样的足球巨星。在我们的行程中，你将在这里看到西甲球队的实况训练。</li>
-								</ul>
+								<label>第3天</label><span>巴塞罗那自由活动</span> 
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>上午自由活动+参观诺坎普球场和巴萨博物馆</span> 
+								<label>第4天</label><span>上午自由活动或巴萨球迷参观巴萨训练基地La Masia<span class="yellowTxt">【需升级SuperFan套票】</span>+下午参观诺坎普球场和巴萨博物馆</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>【球迷朝圣】参观诺坎普球场和巴萨博物馆</li>
+									<li>上午自由活动或亲临巴萨训练基地La Masia<span class="yellowTxt">【需升级SuperFan套餐】</span>，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
+									<li>下午【球迷朝圣】参观诺坎普球场和巴萨博物馆</li>
 									<ul>
 										<li>诺坎普球场是巴萨的黄金主场，见证了无数巴萨的绝杀与荣耀</li>
 										<li>饱览巴萨所获的奖杯，零距离参观克鲁伊夫、马拉多纳和梅西等球星的更衣室、训练场甚至他们所坐过的长椅，参观教练恩里克代表巴萨发言的新闻发布室</li>
@@ -618,19 +620,21 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>								
-									<li>白天在马德里自由活动，晚上在现场见证国家德比，皇马与巴萨的豪门球场厮杀。</li>
+									<li>白天在马德里自由活动或（皇马球迷）参观皇马训练基地Valdebebas<span class="yellowTxt">【需升级SuperFan套票】</span></li>
+									<li>晚上在现场见证国家德比，皇马与巴萨的豪门球场厮杀。</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>【球迷朝圣】参观马竞训练基地</span>
+								<label>第7天</label><span>参观西甲总部</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>埃斯皮诺训练场是马德里竞技的训练基地，运气好的话还能在门口见到格里兹曼、托雷斯、加梅罗等马竞大牌足球明星。</li>
-									<li><span class="yellowTxt">【需升级SuperFan套餐】</span>参观西甲总部 (西甲是世界最高水平的职业足球联赛之一，具有很强的观赏性，也是诞生最多FIFA金球奖和足球先生的联赛。你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事。)</li>
+									<li>上午自由活动</li>
+									<li>【球迷朝圣】参观西甲总部
+【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事。</li>
 								</ul>
 							</div>
 						</div>
@@ -1088,7 +1092,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('quotation-form-laliga.php'); echo $text1 ;?> 
+					<?php include_once('quotation-form-laliga-1220.php'); echo $text1 ;?> 
 
 				</div>
 

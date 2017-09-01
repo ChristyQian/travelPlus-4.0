@@ -705,6 +705,12 @@ a.goTopButton:hover {
 	display:block;
 	font-size:0.6em;
 }
+.laliga .laligaPoints ul {
+	padding-left:20px;
+}
+.laliga .laligaPoints ul li {
+	list-style:disc;
+}
 /*.foreword {
 	margin-bottom:40px;
 }
