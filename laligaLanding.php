@@ -29,7 +29,7 @@
 								<i class="fa fa-chevron-right" data-reactid="228"></i>
 							</li>
 							<li class="breadcrumbs-segment">
-								<a class="dark" href="#">La liga Tours</a>
+								<a class="dark" href="#">西甲足球盛宴</a>
 								<i class="fa fa-chevron-right" data-reactid="228"></i>
 							</li>
 						</ul>
@@ -43,9 +43,9 @@
 										<div class="landingInfo">
 											<div class="transparentBg"></div>
 											<div class="transparentTxt">
-												<h5>La liga Tours</h5>
-												<h1>足球盛宴</h1>
-												<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食。不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，并在梅西投资的餐厅用餐，切身感受球王生活中的点滴
+												<h5>西甲足球盛宴</h5>
+												<h1 class="laliga">西甲非凡朝圣之旅</h1>
+												<p>联合西甲俱乐部，组织官方授权西甲观赛团！新赛季锁定多场重量级比赛，官方渠道供票，专属机会参观西甲总部，了解顶级足球赛事背后的故事；独家探秘皇马训练基地Valdebebas 或巴萨训练基地La Masia，充分感受西班牙足球体系与氛围，并有机会与俱乐部成员进行激动人心的实战对抗！
 												</p>
 											</div>
 										</div>		 
@@ -85,9 +85,9 @@
 								}
 								</script>
 								<div class="rightWrap">
-									<h5 class="rightWrapHead">多场足球赛事可供选择&nbsp;&gt;&gt;</h5>									
+									<h5 class="rightWrapHead">多场重量级比赛可供选择&nbsp;&gt;&gt;</h5>									
 									<div class="browse-banner-content-box">
-										<h5>多场足球赛事可供选择
+										<h5>多场重量级比赛可供选择
 											<div class="goBackStatusIcon">
 												<div class="whiteTrangle"></div>
 												<div class="backgroundTrangle"></div>
@@ -118,8 +118,8 @@
 														<label>观赛时间:</label>
 														<div class="dropdownArrowWrap">
 															<select id="age" name="age" title="年龄" param="age">									
-																<option value="2017 11 19">马竞 VS 皇马 2017.11.17 出发</option>		
-																<option value="2017 12 20">皇马 VS 巴萨 2017.12.15 出发</option>									
+																<option value="2017 11 17">马竞 VS 皇马 2017.11.17 出发</option>		
+																<option value="2017 12 15">皇马 VS 巴萨 2017.12.15 出发</option>									
 																<option value="2018 01 12">皇马 VS 比利亚雷亚尔 2018.01.12 出发</option>									
 															</select>
 															<div id="age-error-msg" class="form-error-msg">
@@ -180,15 +180,25 @@
 		</div>
 		<div class="site landing">		
 			<div class="twoThird section">
-				<h4>"La liga"相关行程<span class="frNote">共3条结果</span></h4>
+				<h4>"西甲足球盛宴"相关行程<span class="frNote">共3条结果</span></h4>
 				<div class="flex-row-start-start flex-flow">					
 				    <div id="itinerary-laliga-series-20171119" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
-						<a href="itinerary-laliga-series-20171119.php" >	
+						<a href="itinerary-laliga-series-20171119.php" >
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠10%</div>
+								</div>									
+								<div class="offerWrap earlyBird laliga">
+									<div class="offerArrow"></div>	
+									<div>西甲官方观赛团</div>
+								</div>
+							</div>	
 							<div class="imgWrap">
 								<img src="img/itinerary/laliga/billboard/w_f1d903bd3d08170810scr_6099.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">西甲非凡朝圣之旅 </div>
+								<div class="itiName">2017.11.19 马德里竞技 VS 皇马 </div>
 								<div class="itiDess">
 									马德里 - 巴塞罗那
 								</div>	
@@ -201,23 +211,33 @@
 									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									马德里竞技 VS 皇家马德里
+									挥别了五十载风雨历程的卡尔德隆球场，这将是床单军团移师万达大都会球场后的首场同城德比！在崭新的赛场，是蜕变，涅槃重生，用胜利迎接新纪元的到来，还是继续屈膝在白衣军团的强大统治力下？
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥**,000<span>起</span></span>
+									<span class="price">￥26,000<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
 						</a>
 				    </div>
 				    <div id="itinerary-laliga-series-20171220" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
-						<a href="itinerary-laliga-series-20171220.php" >	
+						<a href="itinerary-laliga-series-20171220.php" >
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠10%</div>
+								</div>									
+								<div class="offerWrap earlyBird laliga">
+									<div class="offerArrow"></div>	
+									<div>西甲官方观赛团</div>
+								</div>
+							</div>		
 							<div class="imgWrap">
 								<img src="img/itinerary/laliga/FCB-RAM/3.pic_hd.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">西甲超级球迷观赛团</div>
+								<div class="itiName">2017.12.20 皇马 VS 巴萨</div>
 								<div class="itiDess">
 									巴塞罗那 - 马德里
 								</div>	
@@ -230,11 +250,11 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									巅峰对决，这是被称为世纪大战的震撼较量。自始以来的第270场国家德比。
+									巅峰对决，这是被称为世纪大战的震撼较量，自始以来的第270场国家德比。置身伯纳乌，亲历这个星球上最血脉偾张的对决，成为史诗瞬间的见证者、讲述者，在最好的年华目睹“梅罗双骄”
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥**,*00<span>起</span></span>
+									<span class="price">￥54,000<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
@@ -242,11 +262,21 @@
 				    </div>	
 				    <div id="itinerary-laliga-series-20180114" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
 						<a href="itinerary-laliga-series-20180114.php" >
+							<div class="offerOutWrap">
+								<div class="offerWrap earlyBird">
+									<div class="offerArrow"></div>	
+									<div>早鸟优惠10%</div>
+								</div>									
+								<div class="offerWrap earlyBird laliga">
+									<div class="offerArrow"></div>	
+									<div>西甲官方观赛团</div>
+								</div>
+							</div>	
 							<div class="imgWrap">
 								<img src="img/itinerary/laliga/ADM-RAM/w_4735ec2bc008170807scr_6146.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">西甲非凡朝圣之旅</div>
+								<div class="itiName">2018.01.14 皇马 VS 比利亚雷亚尔</div>
 								<div class="itiDess">
 									马德里 - 巴塞罗那
 								</div>	
@@ -259,17 +289,27 @@
 									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									皇马主场 VS 比利亚雷亚尔
+									在西甲赛场，它被定义为不屈顽强，这支身披黄色战袍的英武之师，带着对联赛冠军的渴望，再次造访伯纳乌球场“黄色潜水艇”――比利亚雷亚尔，能否成功伏击银河战舰？1月14日 等你来揭晓！
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥**,*00<span>起</span></span>
+									<span class="price">￥24,700<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
 						</a>
 				    </div>
 				</div>
+				<div>
+					<img src="img/itinerary/Laliga/feifan.jpg" width="100%" />
+				</div>
+				<!-- <div class="cropImg flex-flow">
+					<div class="ibWrap"><img src="img/itinerary/Laliga/CR-vertical-0420_13.jpg" width="100%" /></div>
+					<div class="ibWrap textWrap">
+						<h6>非凡官方</h6>
+						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅<br/>【西甲指定的全球唯一官方球迷俱乐部】</p>
+					</div>
+				</div> -->
 				<?php include 'landing_recommend.php' ;?>     				    	
 				<div class="card">
 					<div class="flex-row-center-start whyUsTxt">

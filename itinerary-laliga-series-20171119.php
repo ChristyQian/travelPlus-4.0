@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
 	$itineraryName="西甲非凡朝圣之旅";
-	$itineraryPrice="￥**,*00";
+	$itineraryPrice="￥26,000";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -24,7 +24,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">【西甲俱乐部官方】观赛团</div>						
-						<div class="tourName">西甲非凡朝圣之旅<span>马德里竞技 VS 皇家马德里</span></div>
+						<div class="tourName">西甲非凡朝圣之旅<span>马德里竞技 VS 皇马</span></div>
 						<div class="flex-row-start-between">
 							<div class="rate" style="display:none;">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -37,6 +37,7 @@
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount3 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -54,11 +55,11 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥**,*00
+							￥26,000
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">获取出发城市价格</a>
 						</div>
 					</div>
 				</div>
@@ -78,8 +79,9 @@
 										<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="200" /></td>
 										<td>
 											<div class="pc">
-												<h5>马德里竞技 vs 皇家马德里</h5>
-												贵族与平民的战争，<br/>优雅与血性的较量！
+												<h5>马德里竞技 vs 皇马</h5>
+												<br/>
+												贵族与平民的战争，<br/>优雅与血性的较量！<br/>
 												<br/>
 												红色或许从来都不是马德里足球的象征，<br/>
 												但同样承载着城市，与这项运动有关的兴衰荣辱。<br/>
@@ -95,10 +97,10 @@
 												11月19日，一战定乾坤！
 											</div>
 											<div class="mobile">
-												<h5>马德里竞技 vs 皇家马德里</h5>
+												<h5>马德里竞技 vs 皇马</h5>
 												<br/>
 												在崭新的赛场，
-												是蜕变，涅槃重生，用胜利迎接新纪元的到来，<br/>
+												是蜕变，涅槃重生，<br/>用胜利迎接新纪元的到来，<br/>
 												还是继续屈膝在白衣军团的强大统治力下？<br/>
 												<br/>
 												11月19日，一战定乾坤！
@@ -197,7 +199,7 @@
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_a55e8b4bc319205405_ma_3018.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
 					<div class="ibWrap textWrap">
 						<h6>升级服务</h6>
-						<p>可选择升级至【SuperFan套票】，获独家权益</p>
+						<p>可选择升级至<span class="yellowTxt">【SuperFan套票】</span>，获独家权益</p>
 						<ul>
 							<li>球票升级：升级至更佳视野区！</li>
 							<li>参观俱乐部训练球场：亲临皇家马德里训练基地Valdebebas，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
@@ -210,14 +212,14 @@
 						<h6>别样体验</h6>
 						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/hmjlb.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-football.jpg" width="100%" /><p>亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
 						<h6>梅西“零距离”</h6>
-						<p>不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，并在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
+						<p>不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/ADM-RAM/nine-nkpqc.jpg" width="100%" /><p>参观诺坎普球场和巴萨博物馆</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/nine-FCB.jpg" width="100%" /><p>参观诺坎普球场和巴萨博物馆</p></div>
 					<div class="ibWrap textWrap">
 						<h6>地道路线</h6>
 						<p>由外籍导游与中方领队共同带领你走遍马德里及巴塞罗那的著名景点，为你的朝圣之旅更添一笔浓烈的西班牙色彩：圣家堂、西班牙广场、格拉西亚大道、普拉多博物馆</p>
@@ -232,7 +234,7 @@
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/plaza-mayor-madrid.jpg" width="100%" /><p>马约尔广场</p></div>
 				</div>
 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_900x700_29201255_orh5720.jpg" width="100%" /><p>深度感受西班牙足球文化</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/hmjlb.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/pldbwg.jpg" width="100%" /><p>普拉多博物馆</p></div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/IMG_8962.jpg" width="100%" /><p>专业外籍导游和中方领队全程陪同</p></div>
 				</div>
@@ -452,21 +454,22 @@
 				<div class="includedItems">
 					<h5>可选套票</h5>
 					<ul>
-						<li>基础球迷套票：旅行项目 + 马竞主场对阵皇马比赛球票 （可升级球票）</li>
-						<li>【SuperFan套票】：旅行项目 + 马竞主场对阵皇马比赛球票 （可升级球票） + 参观皇马训练基地</li>
+						<li>基础球迷套票：<span class="grayTxt">旅行项目</span> + 马竞主场对阵皇马比赛球票 （可升级球票）</li>
+						<li>【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 马竞主场对阵皇马比赛球票 （可升级球票）+ 参观皇马训练基地</li>
 					</ul>
+					<span class="grayTxt">
 					<h5>旅行项目</h5>
 					<ul>						
 						<li>来往机票</li>
 						<li>7晚精选酒店住宿</li>						
-						<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐</li>
+						<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
 						<li>多语言外籍导游和中方领队</li>
 						<li>专用豪华大巴接送</li>
 						<li>陪同观光和精选景点门票</li>
 						<li>除自由时间外涉及的海外服务小费</li>
 						<li>旅行期间的保险</li>
 					</ul>
-					
+					</span>
 					<!-- <table>
 						<tr>
 							<th>套票选项</th>
@@ -608,7 +611,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label>巴塞罗那自由活动</span> 
+								<label>第6天</label><span>巴塞罗那自由活动</span> 
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
@@ -1064,11 +1067,13 @@
 
 			<div class="quotation">
 
-				<h4>获取实时价格</h4>
+				<h4>获取出发城市价格</h4>
 
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+
+					<?php include_once('discount.php'); echo $discount3 ?> 
 
 					<?php include_once('quotation-form-laliga-1119.php'); echo $text1 ;?> 
 

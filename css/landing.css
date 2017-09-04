@@ -154,6 +154,10 @@ body {
 	line-height:48px;
 	margin-bottom:15px;
 }
+.landingInfo h1.laliga {
+	font-size:40px;
+	margin-bottom:5px;
+}
 .td .landingInfo h1 {
 	font-size:24px;
 }
@@ -387,7 +391,13 @@ body {
 	border-bottom: 2px solid #9101af;
     border-left: 5px solid #9101af;
 }
-
+.offerWrap.earlyBird.laliga {
+	background-color:#000;
+}
+.offerWrap.earlyBird.laliga .offerArrow {
+	border-bottom: 2px solid #666;
+    border-left: 5px solid #666;
+}
 .twoThird .home-trip-box .grayBorderBtn {
 	position:absolute;
 	bottom:20px;
@@ -462,6 +472,29 @@ body {
 }
 #thankYouPage button {}
 #thankYouPage img {margin-top:20px;}
+.cropImg {
+	font-size:0;
+	margin-bottom:20px;
+}
+.cropImg .ibWrap {
+	width:100%;
+	max-width:386px;
+	height:216px;
+	overflow:hidden;
+	vertical-align: middle;
+}
+.cropImg .ibWrap.textWrap {
+	width:48%;
+	/*height:auto;*/
+	padding:50px 30px;
+	font-size:14px;
+	background-color:#000;
+	color:#fff;
+}
+.cropImg .ibWrap.textWrap h6 {
+	font-size:20px;
+	line-height:38px;
+}
 @media screen and (min-width: 1200px) {
 	.twoThird .card,
 	.goBackStatusIcon,
@@ -508,7 +541,8 @@ body {
 	.landingInfo .transparentTxt {
 		padding:5px 18px 0 26px;
 	}
-	.landingInfo h1 {
+	.landingInfo h1,
+	.landingInfo h1.laliga {
 		font-size:24px;
 		line-height:24px;
 	}
@@ -629,6 +663,9 @@ body {
 	}
 	.td .landingInfo .transparentTxt {
 		padding-top:15px;
+	}
+	.cropImg .ibWrap.textWrap { 
+		width:100%;
 	}
 }
 @media screen and (max-width: 375px) {

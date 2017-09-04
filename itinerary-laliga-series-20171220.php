@@ -7,8 +7,8 @@
 	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
 	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
 
-	$itineraryName="西甲超级球迷观赛团";
-	$itineraryPrice="￥**,*00";
+	$itineraryName="西甲非凡朝圣之旅";
+	$itineraryPrice="￥54,000";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -24,7 +24,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">【西甲俱乐部官方】观赛团</div>						
-						<div class="tourName">西甲超级球迷观赛团<span>皇家马德里 VS 巴塞罗那</span></div>
+						<div class="tourName">西甲非凡朝圣之旅<span>皇马 VS 巴萨</span></div>
 						<div class="flex-row-start-between">
 							<div class="rate" style="display:none;">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -37,6 +37,7 @@
 						</div>
 					</div>
 				</div>
+				<?php include_once('discount.php'); echo $discount3 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -54,11 +55,11 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥**,*00
+							￥54,000
 							<span>起</span>
 						</div>
 						<div>
-							<a class="blueRBtn" href="#getPersonalizedPrice">获取实时价格</a>
+							<a class="blueRBtn" href="#getPersonalizedPrice">获取出发城市价格</a>
 						</div>
 					</div>
 				</div>
@@ -78,7 +79,7 @@
 											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="200" /></td>
 											<td>
 												<div class="pc">
-													<h5>国家德比</h5>
+													<h5>皇马 vs 巴萨</h5>
 													<br/>
 													如果说丰收女神赋予了皇马无尽的力量，<br/>
 													那皇马赋予马德里的则是激情与荣耀……<br/>
@@ -93,7 +94,7 @@
 													12月20日 伯纳乌见证国家德比
 												</div>
 												<div class="mobile">
-													<h5>国家德比</h5>
+													<h5>皇马 vs 巴萨</h5>
 													<br/>
 													在最好的年华目睹“梅罗双骄”，<br/>
 													且看且珍惜。<br/>
@@ -158,34 +159,6 @@
 			   		<div class="swiper-button-next swiper-button-white"></div>
 				</div>
 			</div>
-		<!-- <div class="relDiv foreword">
-			<div class="itineraryHighLights">
-				<div class="tourGuide">
-					<table width="600">
-						<tr>
-							<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="100" /></td>
-							<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="100" /></td>
-						</tr>
-					</table>
-					<p>
-						<h5>巴塞罗那 vs 皇家马德里</h5>
-						<br/>
-						如果高迪缔造了这座城市绮丽的外表，<br/>
-						那梅西赋予巴塞罗那的则是激情与荣耀……<br/>
-						<br/>
-						置身诺坎普球场，<br/>
-						亲历这个星球上最血脉喷张的对诀，<br/>
-						成为史诗瞬间的见证者、讲述者。<br/>
-						<br/>
-						在最好的年华目睹“梅罗双骄”，<br/>
-						且看且珍惜。
-					</p>
-				</div>
-				<div class="hightLight">
-					<img src="img/itinerary/Laliga/w_193fc8933619210750_ma_3094.jpg" width="390"/>
-				</div>
-			</div>
-		</div> -->
 		</div>
 		<div class="site">			
 			<div class="laligaPoints">
@@ -205,27 +178,27 @@
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-home-count.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
 					<div class="ibWrap textWrap">
 						<h6>两个主场</h6>
-						<p>不论你是哪一个主队的追随者，置身诺坎普，也来看一场巴萨对阵拉科鲁尼亚的联赛，感受加泰罗尼亚式的激情与热血，你值得拥有</p>
+						<p>一趟旅程，两场豪门主场对决。不论你是哪一个主队的追随者，置身诺坎普，也来看一场巴萨对阵拉科鲁尼亚的联赛，感受加泰罗尼亚式的激情与热血，你值得拥有</p>
 					</div>
 				</div>
 				<div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/bnwqcct.jpg" width="100%" /><p>伯纳乌球场餐厅用餐</p></div>
 					<div class="ibWrap textWrap">
 						<h6>一网打尽</h6>
-						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食。不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，并在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
+						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食。不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine_hmbwg.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-football.jpg" width="100%" /><p>亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
 						<h6>升级服务</h6>
-						<p>全部升级【SuperFan套票】</p>
+						<p>全部升级<span class="yellowTxt">【SuperFan套票】</span></p>
 						<ul>
 							<li>球票升级：巴萨对阵拉科鲁尼亚，球票可升级至更佳视野区！</li>
 							<li>参观俱乐部训练球场：亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
 						</ul>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/D2A34C44-FE8E-4B03-90A4-F16CB6256976.jpg" width="100%" /><p>参观诺坎普球场和巴萨博物馆</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/nine-FCB.jpg" width="100%" /><p>参观诺坎普球场和巴萨博物馆</p></div>
 					<div class="ibWrap textWrap">
 						<h6>地道路线</h6>
 						<p>由外籍导游与中方领队共同带领你走遍马德里及巴塞罗那的著名景点，为你的朝圣之旅更添一笔浓烈的西班牙色彩：圣家堂、西班牙广场、格拉西亚大道、普拉多博物馆</p>
@@ -240,298 +213,35 @@
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/plaza-mayor-madrid.jpg" width="100%" /><p>马约尔广场</p></div>
 				</div>
 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-football.jpg" width="100%" /><p>球迷可亲临皇马、马萨训练基地</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine_hmbwg.jpg" width="100%" /><p>参观皇马俱乐部博物馆</p></div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/pldbwg.jpg" width="100%" /><p>普拉多博物馆</p></div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/IMG_8962.jpg" width="100%" /><p>专业外籍导游和中方领队全程陪同</p></div>
 				</div>
-<!-- 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_900x700_29201255_orh5720.jpg" width="100%" /><p>万达大都会球场</p></div>
-					<div class="ibWrap textWrap">
-						<h6>自由安排</h6>
-						<p>行程包括充分自由时间，探索西班牙足球文化的非凡之路</p>
-					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/IMG_8962.jpg" width="100%" /><p>马德里</p></div>
-				</div> -->
 			</div>
 		</div>
-		<!-- Swiper -->			
-		<!-- <div class="site itineraryPhoto">
-			<div class="swiper-container">
-				<div class="swiper-wrapper">
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga00.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga01.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga02.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga03.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga04.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga05.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga06.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga07.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga08.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga09.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-				</div>
-			    <div class="swiper-pagination">
-			    </div>
-			</div>
-		</div> -->
 		<!-- Include -->
 		<div class="section blueBg">
 			<div class="site">
 				<h4>价格包含</h4>
 				<div class="includedItems">
-					<h5>可选套票</h5>
+					<h5>可选套票<span>(2选1)</span> </h5>
 					<ul>
-						<li>皇马【SuperFan套票】：旅行项目+巴萨对阵拉科鲁尼亚（可升级球票）+ 参观皇马训练基地</li>
-						<li>巴萨【SuperFan套票】：旅行项目+巴萨对阵拉科鲁尼亚（可升级球票）+ 参观巴萨训练基地</li>
+						<li>皇马【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨 + 巴萨 VS 拉科鲁尼亚（可升级球票）+ 参观皇马训练基地 </li>
+						<li>巴萨【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨 + 巴萨 VS 拉科鲁尼亚（可升级球票）+ 参观巴萨训练基地 </li>
 					</ul>
+					<span class="grayTxt">
 					<h5>旅行项目</h5>
 					<ul>						
 						<li>来往机票</li>
 						<li>8晚精选酒店住宿</li>						
-						<li>每日早餐，梅西餐厅午餐，伯纳乌球场晚餐</li>
+						<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
 						<li>多语言外籍导游和中方领队</li>
 						<li>专用豪华大巴接送</li>
 						<li>陪同观光和精选景点门票</li>
 						<li>除自由时间外涉及的海外服务小费</li>
 						<li>旅行期间的保险</li>
 					</ul>
-					
-					<!-- <table>
-						<tr>
-							<th>套票选项</th>
-							<th>旅行项目</th>
-							<th>马竞主场 vs. 皇马比赛球票（基础票）</th>
-							<th>马竞主场 vs. 皇马比赛球票（升级球票）</th>
-							<th>【需升级SuperFan套餐】可获（参观西甲总部+参观俱乐部训练）</th>
-						</tr>
-						<tr>
-							<td>基础套票</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td></td>
-						</tr>
-						<tr>
-							<td>升级套票A</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-						</tr>
-						<tr>
-							<td>升级套票B</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-						</tr>
-						<tr>
-							<td>升级套票C</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-						</tr>
-					</table> -->					
-					<!-- <dl>
-						<dt>基础套票 价格包含:</dt>
-						<dd>套票所含项目</dd>
-						<dd>马竞主场 vs. 皇马比赛球票（基础票）</dd>
-					</dl>
-					<dl>
-						<dt>升级套票A 价格包含:</dt>
-						<dd>套票所含项目</dd>
-						<dd>马竞主场 vs. 皇马比赛球票（升级球票）</dd>
-					</dl>
-					<dl>
-						<dt>升级套票B 价格包含:</dt>
-						<dd>套票所含项目</dd>
-						<dd>升级SuperFan套餐可获【参观西甲总部+参观俱乐部训练】</dd>
-					</dl>
-					<dl>
-						<dt>升级套票C 价格包含:</dt>
-						<dd>升级套票A</dd>
-						<dd>升级SuperFan套餐可获【参观西甲总部+参观俱乐部训练】</dd>
-					</dl> -->
+					</span>
 				</div>
 			</div>
 		</div>
@@ -586,11 +296,11 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>上午自由活动或巴萨球迷参观巴萨训练基地La Masia<span class="yellowTxt">【需升级SuperFan套票】</span>+下午参观诺坎普球场和巴萨博物馆</span> 
+								<label>第4天</label><span>上午自由活动或巴萨球迷参观巴萨训练基地La Masia<span class="yellowTxt">【SuperFan套票】</span>+下午参观诺坎普球场和巴萨博物馆</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>上午自由活动或亲临巴萨训练基地La Masia<span class="yellowTxt">【需升级SuperFan套餐】</span>，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
+									<li>上午自由活动或（巴萨球迷）亲临巴萨训练基地La Masia<span class="yellowTxt">【SuperFan套票】</span>，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
 									<li>下午【球迷朝圣】参观诺坎普球场和巴萨博物馆</li>
 									<ul>
 										<li>诺坎普球场是巴萨的黄金主场，见证了无数巴萨的绝杀与荣耀</li>
@@ -616,11 +326,11 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>【球迷朝圣】皇马主场 vs. 巴萨观赛之夜</span> 
+								<label>第6天</label><span>【球迷朝圣】皇马主场 vs. 巴萨 观赛之夜</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>								
-									<li>白天在马德里自由活动或（皇马球迷）参观皇马训练基地Valdebebas<span class="yellowTxt">【需升级SuperFan套票】</span></li>
+									<li>白天在马德里自由活动或（皇马球迷）参观皇马训练基地Valdebebas<span class="yellowTxt">【SuperFan套票】</span></li>
 									<li>晚上在现场见证国家德比，皇马与巴萨的豪门球场厮杀。</li>
 								</ul>
 							</div>
@@ -1086,11 +796,13 @@
 
 			<div class="quotation">
 
-				<h4>获取实时价格</h4>
+				<h4>获取出发城市价格</h4>
 
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
+
+					<?php include_once('discount.php'); echo $discount3 ?> 
 
 					<?php include_once('quotation-form-laliga-1220.php'); echo $text1 ;?> 
 
