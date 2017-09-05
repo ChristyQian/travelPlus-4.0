@@ -71,7 +71,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/laliga/laligaBG2.jpg" />
+								<img src="img/itinerary/laliga/ADM-RAM/slide-1.jpg" />
 							</div>
 							<div class="tourGuide">
 								<table>
@@ -79,7 +79,7 @@
 										<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="200" /></td>
 										<td>
 											<div class="pc">
-												<h5>马德里竞技 vs 皇马</h5>
+												<h5>马德里竞技 VS 皇马</h5>
 												<br/>
 												贵族与平民的战争，<br/>优雅与血性的较量！<br/>
 												<br/>
@@ -97,7 +97,7 @@
 												11月19日，一战定乾坤！
 											</div>
 											<div class="mobile">
-												<h5>马德里竞技 vs 皇马</h5>
+												<h5>马德里竞技 VS 皇马</h5>
 												<br/>
 												在崭新的赛场，
 												是蜕变，涅槃重生，<br/>用胜利迎接新纪元的到来，<br/>
@@ -115,7 +115,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Laliga/ADM-RAM/w_81db60bdfb20222334a.jpg" />
+								<img src="img/itinerary/Laliga/ADM-RAM/slide-2.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -126,7 +126,7 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Laliga/ADM-RAM/w_4735ec2bc008170807scr_6146.jpg" />
+								<img src="img/itinerary/Laliga/ADM-RAM/slide-3.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
@@ -137,14 +137,25 @@
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">
 							<div class="slideBg">
-								<img src="img/itinerary/Laliga/ADM-RAM/w_f1d903bd3d08170810scr_6099.jpg" />
+								<img src="img/itinerary/Laliga/ADM-RAM/slide-4.jpg" />
 							</div>
 							<div class="bgIntro">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
 							</div>
 						</div>
-					</div>					
+					</div>
+					<div class="swiper-slide">
+						<div class="swiperBgWrap">
+							<div class="slideBg">
+								<img src="img/itinerary/Laliga/ADM-RAM/slide-5.jpg" />
+							</div>
+							<div class="bgIntro">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+							</div>
+						</div>
+					</div>						
 				</div>				
 			    <div class="swiper-pagination">
 			    </div>
@@ -196,7 +207,7 @@
 						<h6>同城竞技</h6>
 						<p>世界第一同城较量，见证万达大都会球场在新赛季首次上演的马德里德比。燃爆全场，亲自揭晓有东方力量注入的西甲是否有独特的滋味</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_a55e8b4bc319205405_ma_3018.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/ADM-RAM/nine-stadium.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
 					<div class="ibWrap textWrap">
 						<h6>升级服务</h6>
 						<p>可选择升级至<span class="yellowTxt">【SuperFan套票】</span>，获独家权益</p>
@@ -212,7 +223,7 @@
 						<h6>别样体验</h6>
 						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-football.jpg" width="100%" /><p>亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/ADM-RAM/nine-huangma.jpg" width="100%" /><p>亲临皇家马德里训练基地，充分感受西班牙足球体系与氛围</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
@@ -454,8 +465,8 @@
 				<div class="includedItems">
 					<h5>可选套票</h5>
 					<ul>
-						<li>基础球迷套票：<span class="grayTxt">旅行项目</span> + 马竞主场对阵皇马比赛球票 （可升级球票）</li>
-						<li>【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 马竞主场对阵皇马比赛球票 （可升级球票）+ 参观皇马训练基地</li>
+						<li>基础球迷套票：<span class="grayTxt">旅行项目</span> + 马竞 VS 皇马球票 （可升级球票）</li>
+						<li>【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 马竞 VS 皇马球票 （可升级球票）+ 参观皇马训练基地</li>
 					</ul>
 					<span class="grayTxt">
 					<h5>旅行项目</h5>
@@ -575,7 +586,7 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>【球迷朝圣】马竞主场 vs. 皇马观赛之夜</span> 
+								<label>第3天</label><span>【球迷朝圣】马竞主场 VS 皇马观赛之夜</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -586,7 +597,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>自由活动 或 参观皇马训练基地Valdebebas <span class="yellowTxt">【需升级SuperFan套票】</span></span> 
+								<label>第4天</label><span>上午自由活动或参观皇马训练基地Valdebebas <span class="yellowTxt">【需升级SuperFan套票】</span>，下午参观西甲总部</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>

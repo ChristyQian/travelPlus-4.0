@@ -71,15 +71,15 @@
 						<div class="swiper-slide">
 							<div class="swiperBgWrap">
 								<div class="slideBg">
-									<img src="img/itinerary/laliga/laligaBG2.jpg" />
+									<img src="img/itinerary/laliga/FCB-RAM/slide-1.jpg" />
 								</div>
 								<div class="tourGuide">
 									<table>
 										<tr>
-											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="200" /></td>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
 											<td>
 												<div class="pc">
-													<h5>皇马 vs 巴萨</h5>
+													<h5>皇马 VS 巴萨</h5>
 													<br/>
 													如果说丰收女神赋予了皇马无尽的力量，<br/>
 													那皇马赋予马德里的则是激情与荣耀……<br/>
@@ -94,7 +94,7 @@
 													12月20日 伯纳乌见证国家德比
 												</div>
 												<div class="mobile">
-													<h5>皇马 vs 巴萨</h5>
+													<h5>皇马 VS 巴萨</h5>
 													<br/>
 													在最好的年华目睹“梅罗双骄”，<br/>
 													且看且珍惜。<br/>
@@ -102,7 +102,7 @@
 													12月20日 伯纳乌见证国家德比
 												</div>
 											</td>
-											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="200" /></td>
 										</tr>
 									</table>
 								</div>
@@ -144,7 +144,7 @@
 						<div class="swiper-slide">
 							<div class="swiperBgWrap">
 								<div class="slideBg">
-									<img src="img/itinerary/Laliga/FCB-RAM/w_dcef9f8c3423205222_apa5823.jpg" />
+									<img src="img/itinerary/Laliga/FCB-RAM/slide-5.jpg" />
 								</div>
 								<div class="bgIntro">
 									<div class="transparentBg"></div>
@@ -187,7 +187,7 @@
 						<h6>一网打尽</h6>
 						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食。不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-football.jpg" width="100%" /><p>亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-lamaxiya.jpg" width="100%" /><p>亲临巴塞罗那俱乐部La Masia训练基地，充分感受西班牙足球体系与氛围</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
@@ -226,8 +226,8 @@
 				<div class="includedItems">
 					<h5>可选套票<span>(2选1)</span> </h5>
 					<ul>
-						<li>皇马【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨 + 巴萨 VS 拉科鲁尼亚（可升级球票）+ 参观皇马训练基地 </li>
-						<li>巴萨【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨 + 巴萨 VS 拉科鲁尼亚（可升级球票）+ 参观巴萨训练基地 </li>
+						<li>皇马【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨球票 + 巴萨 VS 拉科鲁尼亚球票（可升级球票）+ 参观皇马训练基地 </li>
+						<li>巴萨【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨球票 + 巴萨 VS 拉科鲁尼亚球票（可升级球票）+ 参观巴萨训练基地 </li>
 					</ul>
 					<span class="grayTxt">
 					<h5>旅行项目</h5>
@@ -269,7 +269,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>巴塞罗那观光游+梅西餐厅午餐+巴萨 vs. 拉科鲁尼亚观赛</span>
+								<label>第2天</label><span>巴塞罗那观光游+梅西餐厅午餐+巴萨 VS 拉科鲁尼亚观赛</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -278,11 +278,11 @@
 									<li>进入高迪的代表作圣家堂参观，这里将圣经的场景如图画般展现，是世界上唯一未完工便被列入世界遗产的建筑</li>
 									<li>【球迷朝圣】梅西餐厅午餐</li>
 									<ul>
-										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜。</li>
+										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜</li>
 									</ul>
-									<li>【球迷朝圣】巴萨 vs. 拉科鲁尼亚观赛之夜</li>
+									<li>【球迷朝圣】巴萨 VS 拉科鲁尼亚观赛之夜</li>
 									<ul>
-										<li>在现场见证国家德比，巴萨与拉科鲁尼亚的球场厮杀。</li>
+										<li>在现场见证巴萨与拉科鲁尼亚的球场厮杀</li>
 									</ul>
 								</ul>
 							</div>
@@ -326,12 +326,12 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>【球迷朝圣】皇马主场 vs. 巴萨 观赛之夜</span> 
+								<label>第6天</label><span>【球迷朝圣】皇马主场 VS 巴萨 观赛之夜</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>								
 									<li>白天在马德里自由活动或（皇马球迷）参观皇马训练基地Valdebebas<span class="yellowTxt">【SuperFan套票】</span></li>
-									<li>晚上在现场见证国家德比，皇马与巴萨的豪门球场厮杀。</li>
+									<li>晚上在现场见证国家德比，皇马与巴萨的豪门球场厮杀</li>
 								</ul>
 							</div>
 						</div>
@@ -343,8 +343,7 @@
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>上午自由活动</li>
-									<li>【球迷朝圣】参观西甲总部
-【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事。</li>
+									<li>【球迷朝圣】参观西甲总部【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事</li>
 								</ul>
 							</div>
 						</div>
@@ -362,7 +361,7 @@
 									</ul>									
 									<li>【球迷朝圣】伯纳乌球场内餐厅晚餐</li>
 									<ul>
-										<li>在伯纳乌球场内的餐厅享用地道的西班牙晚餐，用餐期间还可直接观看赛场，体会不同一般的视觉体验。</li>
+										<li>在伯纳乌球场内的餐厅享用地道的西班牙晚餐，用餐期间还可直接观看赛场，体会不同一般的视觉体验</li>
 									</ul>
 								</ul>
 							</div>

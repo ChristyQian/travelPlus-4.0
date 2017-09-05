@@ -71,7 +71,7 @@
 						<div class="swiper-slide">
 								<div class="swiperBgWrap">
 									<div class="slideBg">
-										<img src="img/itinerary/laliga/laligaBG2.jpg" />
+										<img src="img/itinerary/laliga/RAM-VIL/slide-1.jpg" />
 									</div>
 									<div class="tourGuide">
 										<table>
@@ -79,7 +79,7 @@
 												<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
 												<td>
 													<div class="pc">
-														<h5>皇马 vs 比利亚雷亚尔</h5>
+														<h5>皇马 VS 比利亚雷亚尔</h5>
 														<br/>
 														黄色象征灿烂、辉煌，有着太阳般的光辉，<br/>
 														它是骄傲的色彩，<br/>
@@ -95,7 +95,7 @@
 														1月14日 等你来揭晓！
 													</div>
 													<div class="mobile">
-														<h5>皇马 vs 比利亚雷亚尔</h5>
+														<h5>皇马 VS 比利亚雷亚尔</h5>
 														<br/>
 														“黄色潜水艇”——比利亚雷亚尔，<br/>
 														能否成功伏击银河战舰？<br/>
@@ -175,7 +175,7 @@
 						<h6>感受激情</h6>
 						<p>这也是一场不容错过的联赛，来自黄潜的正面挑战，坐镇主场的皇马带你感受走向冠军的十足激情</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/RAM-VIL/nine-8.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/RAM-VIL/nine-stadium.jpg" width="100%"/><p>提供两种等级球票，官方渠道供票</p></div>
 					<div class="ibWrap textWrap">
 						<h6>可选套票</h6>
 						<p>基础球迷套票：旅行项目 + 皇马主场对阵比利亚雷亚尔球票 （可升级球票）</p>
@@ -187,7 +187,7 @@
 						<h6>别样体验</h6>
 						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-football.jpg" width="100%" /><p>亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/RAM-VIL/nine-huangma.jpg" width="100%" /><p>亲临皇家马德里训练基地，充分感受西班牙足球体系与氛围</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">
@@ -231,7 +231,7 @@
 				<div class="includedItems">
 					<h5>套票</h5>
 					<ul>
-						<li>基础球迷套票：<span class="grayTxt">旅行项目</span> + 皇马主场对阵比利亚雷亚尔比赛球票 （可升级球票）</li>
+						<li>基础球迷套票：<span class="grayTxt">旅行项目</span> + 皇马 VS 比利亚雷亚尔比赛球票 （可升级球票）</li>
 					</ul>
 					<span class="grayTxt">
 						<h5>旅行项目</h5>
@@ -343,7 +343,7 @@
 									</ul>
 									<li>【球迷朝圣】伯纳乌球场内餐厅晚餐</li>
 									<ul>
-										<li>在伯纳乌球场内的餐厅享用地道的西班牙晚餐，用餐期间还可直接观看赛场，体会不同一般的视觉体验。</li>
+										<li>在伯纳乌球场内的餐厅享用地道的西班牙晚餐，用餐期间还可直接观看赛场，体会不同一般的视觉体验</li>
 									</ul>
 								</ul>
 							</div>
@@ -351,11 +351,11 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>【球迷朝圣】皇马主场 vs. 比利亚雷亚尔观赛之夜</span> 
+								<label>第3天</label><span>【球迷朝圣】皇马主场 VS 比利亚雷亚尔观赛之夜</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>白天在马德里自由活动，晚上在现场见证国家德比，皇马与比利亚雷亚尔的球场厮杀。</li>
+									<li>白天在马德里自由活动，晚上在现场见证国家德比，皇马与比利亚雷亚尔的球场厮杀</li>
 								</ul>
 							</div>
 						</div>
@@ -366,7 +366,7 @@
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事。</li>
+									<li>【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事</li>
 								</ul>
 							</div>
 						</div>
@@ -404,7 +404,7 @@
 									</ul>									
 									<li>【球迷朝圣】梅西餐厅晚餐</li>
 									<ul>
-										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜。</li>
+										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜</li>
 									</ul>
 								</ul>
 							</div>

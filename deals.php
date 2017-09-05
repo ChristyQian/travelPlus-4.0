@@ -18,48 +18,112 @@
 <?PHP
 	include_once('triggeredLeadPop.php');
 ?>
-		<!-- <div class="yellowBg">
+		<div class="yellowBg">
 			<div class="site">
-		 		<h5>倒计时优惠</h5>
-		 		<div class="serif">国庆保证出团，最后机会！</div>				
+		 		<h5>早鸟优惠</h5>
+		 		<div class="serif">凡9月20日(含)前，优惠10%</div>				
 			</div>
-	 	</div> -->
-		<!-- <div class="site">
+	 	</div>
+		<div class="site">
 			 <div class="flex-row-start-start flex-flow">			    	
-			    <div id="jewels-of-alpine-europe" name="home-trip-box" class="home-trip-box" data-dest="it,fr,ge,sw,au" data-tag="history,art,honeymoon">
-					<a href="itinerary-jewels-of-alpine-europe.php" >	
-						<div class="imgWrap">
-							<img src="img/itinerary/allTripsList/jewels-of-alpine-europe.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">国庆档</div>
-									<div class="pinkTxt">仅剩6席</div>
+			    <div id="laliga-tour-1119" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
+						<a href="itinerary-laliga-series-20171119.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/laliga-1119.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">2017.11.17出发</div>
+										<div class="pinkTxt">早鸟优惠10%</div>
+									</div>
 								</div>
 							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								阿尔卑斯山环游之旅 <br/>
-								瑞士 - 法国 - 意大利 - 奥地利 - 德国
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
+							<div class="agendaWrap">
+								<p>
+									西甲非凡朝圣之旅 马德里竞技 VS 皇马<br/>
+									马德里 - 巴塞罗那
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥28,000</span>
+									<span class="price">￥26,000<span>起</span></span>
+								</div>
 							</div>
-							<div>
-								13天
-								<span class="delPrice">￥19,100</span>
-								<span class="price">￥23,400<span>起</span></span>
+						</a>
+				    </div>
+				    <div id="laliga-tour-1220" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
+						<a href="itinerary-laliga-series-20171220.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/laliga-1220.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">2017.12.15出发</div>
+										<div class="pinkTxt">早鸟优惠10%</div>
+									</div>
+								</div>
 							</div>
-						</div>
-					</a>
-			    </div>	
+							<div class="agendaWrap">
+								<p>
+									西甲非凡朝圣之旅 皇马 VS 巴萨<br/>
+									巴塞罗那 - 马德里
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									10天
+									<span class="delPrice">￥28,000</span>
+									<span class="price">￥54,000<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>
+				    <div id="laliga-tour-0114" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
+						<a href="itinerary-laliga-series-20180114.php" >	
+							<div class="imgWrap">
+								<img src="img/itinerary/allTripsList/laliga-0114.jpg" alt="" />
+								<div class="hotSale">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">
+										<div class="yellowTxt">2018.01.12出发</div>
+										<div class="pinkTxt">早鸟优惠10%</div>
+									</div>
+								</div>
+							</div>
+							<div class="agendaWrap">
+								<p>
+									西甲非凡朝圣之旅 皇马 VS 比利亚雷亚尔<br/>
+									马德里 - 巴塞罗那
+								</p>
+								<div class="rate">
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
+								</div>
+								<div>
+									9天
+									<span class="delPrice">￥28,000</span>
+									<span class="price">￥24,700<span>起</span></span>
+								</div>
+							</div>
+						</a>
+				    </div>	
 			</div> 
-		</div> -->
+		</div>
 		<div class="lightBlueBg">
 			<div class="site">
 		 		<h5>早鸟优惠</h5>
