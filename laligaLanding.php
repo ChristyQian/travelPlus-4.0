@@ -195,7 +195,7 @@
 								</div>
 							</div>	
 							<div class="imgWrap">
-								<img src="img/itinerary/laliga/billboard/w_f1d903bd3d08170810scr_6099.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/laliga-1119.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
 								<div class="itiName">2017.11.19 马德里竞技 VS 皇马 </div>
@@ -234,7 +234,7 @@
 								</div>
 							</div>		
 							<div class="imgWrap">
-								<img src="img/itinerary/laliga/FCB-RAM/3.pic_hd.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/laliga-1220.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
 								<div class="itiName">2017.12.20 皇马 VS 巴萨</div>
@@ -273,7 +273,7 @@
 								</div>
 							</div>	
 							<div class="imgWrap">
-								<img src="img/itinerary/laliga/ADM-RAM/w_4735ec2bc008170807scr_6146.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/laliga-0114.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
 								<div class="itiName">2018.01.14 皇马 VS 比利亚雷亚尔</div>
