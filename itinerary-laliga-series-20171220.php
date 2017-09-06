@@ -26,12 +26,12 @@
 						<div class="yellowTxt">【西甲俱乐部官方】观赛团</div>						
 						<div class="tourName">西甲非凡朝圣之旅<span>皇马 VS 巴萨</span></div>
 						<div class="flex-row-start-between">
-							<div class="rate" style="display:none;">
+							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div class="pinkTxt">2017.12.15出发</div>
 						</div>
@@ -224,24 +224,40 @@
 			<div class="site">
 				<h4>价格包含</h4>
 				<div class="includedItems">
-					<h5>可选套票<span>(2选1)</span> </h5>
-					<ul>
-						<li>皇马【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨球票 + 巴萨 VS 拉科鲁尼亚球票（可升级球票）+ 参观皇马训练基地 </li>
-						<li>巴萨【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 皇马 VS 巴萨球票 + 巴萨 VS 拉科鲁尼亚球票（可升级球票）+ 参观巴萨训练基地 </li>
-					</ul>
-					<span class="grayTxt">
-					<h5>旅行项目</h5>
-					<ul>						
-						<li>来往机票</li>
-						<li>8晚精选酒店住宿</li>						
-						<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
-						<li>多语言外籍导游和中方领队</li>
-						<li>专用豪华大巴接送</li>
-						<li>陪同观光和精选景点门票</li>
-						<li>除自由时间外涉及的海外服务小费</li>
-						<li>旅行期间的保险</li>
-					</ul>
-					</span>
+					<div class="ibWrap whiteborderWrap">
+						<h5>旅行项目</h5>
+						<ul>
+							<li>来往机票</li>
+							<li>8晚精选酒店住宿</li>
+							<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
+							<li>多语言外籍导游和中方领队</li>
+							<li>专用豪华大巴接送</li>
+							<li>陪同观光和精选景点门票</li>
+							<li>除自由时间外涉及的海外服务小费</li>
+							<li>旅行期间的保险</li>
+						</ul>
+					</div>
+					<div class="ibWrap darkBlueWrap">
+						<h5>可选套票<span>(2选1)</span> </h5>
+						<fieldset>
+							<legend>皇马【SuperFan套票】</legend>
+							<ul>
+								<li>旅行项目</li>
+								<li>皇马 VS 巴萨球票</li>
+								<li>巴萨 VS 拉科鲁尼亚球票（可升级球票）</li>
+								<li>参观皇马训练基地</li>
+							</ul>
+						</fieldset>
+						<fieldset>
+							<legend>巴萨【SuperFan套票】</legend>
+							<ul>
+								<li>旅行项目</li>
+								<li>皇马 VS 巴萨球票</li>
+								<li>巴萨 VS 拉科鲁尼亚球票（可升级球票）</li>
+								<li>参观巴萨训练基地</li>
+							</ul>
+						</fieldset>
+					</div>
 				</div>
 			</div>
 		</div>

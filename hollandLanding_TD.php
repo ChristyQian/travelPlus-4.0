@@ -216,7 +216,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									本次旅行特别为买到剁手的购物狂定制，在阿姆斯特丹、巴黎和伦敦观光游览著名景点后，我们预留了充足的自由活动时间给你从哈罗德百货、老佛爷、奥特莱斯购物村尽情买买买
@@ -255,7 +255,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									这是一趟阿姆斯特丹和巴黎的跨年购物之旅，你将和我一起领略梵高博物馆和巴黎卢浮宫的艺术气息，还有大把自由时间去享受折扣季的购物狂欢。

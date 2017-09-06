@@ -48,7 +48,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									9天
@@ -80,7 +80,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									10天
@@ -112,7 +112,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									9天
@@ -154,7 +154,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								16天
@@ -186,7 +186,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								11天
@@ -218,7 +218,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								9天
@@ -250,7 +250,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								11天
@@ -282,7 +282,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								9天
@@ -314,7 +314,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								11天
@@ -346,7 +346,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								13天
@@ -378,7 +378,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								13天
@@ -474,7 +474,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								14天
@@ -506,7 +506,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
 								12天

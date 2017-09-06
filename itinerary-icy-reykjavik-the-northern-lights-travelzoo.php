@@ -31,7 +31,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div class="pinkTxt">8月31日前</div>
 						</div>

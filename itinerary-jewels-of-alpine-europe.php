@@ -30,7 +30,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star" aria-hidden="true"></i>
 							</div>
 							<div class="pinkTxt" style="display:none">仅剩6席</div>
 						</div>

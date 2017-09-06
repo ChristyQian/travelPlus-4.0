@@ -30,7 +30,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div class="pinkTxt">9月20日前缴付定金有效</div>
 						</div>

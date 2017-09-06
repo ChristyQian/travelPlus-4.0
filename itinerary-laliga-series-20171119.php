@@ -26,12 +26,12 @@
 						<div class="yellowTxt">【西甲俱乐部官方】观赛团</div>						
 						<div class="tourName">西甲非凡朝圣之旅<span>马德里竞技 VS 皇马</span></div>
 						<div class="flex-row-start-between">
-							<div class="rate" style="display:none;">
+							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div class="pinkTxt">2017.11.17出发</div>
 						</div>
@@ -64,133 +64,104 @@
 					</div>
 				</div>
 			</div>
-				<!-- Swiper -->			
-		<div class="site itineraryPhoto">
-			<div class="swiper-container">
-				<div class="swiper-wrapper">
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga/ADM-RAM/slide-1.jpg" />
+			<!-- Swiper -->			
+			<div class="site itineraryPhoto">
+				<div class="swiper-container">
+					<div class="swiper-wrapper">
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/laliga/ADM-RAM/slide-1.jpg" />
+								</div>
+								<div class="tourGuide">
+									<table>
+										<tr>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="200" /></td>
+											<td>
+												<div class="pc">
+													<h5>马德里竞技 VS 皇马</h5>
+													<br/>
+													贵族与平民的战争，<br/>优雅与血性的较量！<br/>
+													<br/>
+													红色或许从来都不是马德里足球的象征，<br/>
+													但同样承载着城市，与这项运动有关的兴衰荣辱。<br/>
+													<br/>
+													挥别了五十载风雨历程的卡尔德隆球场，<br/>
+													这将是床单军团移师万达大都会球场后的<br/>
+													首场同城德比！<br/>
+													<br/>
+													在崭新的赛场，
+													是蜕变，涅槃重生，用胜利迎接新纪元的到来，<br/>
+													还是继续屈膝在白衣军团的强大统治力下？<br/>
+													<br/>
+													11月19日，一战定乾坤！
+												</div>
+												<div class="mobile">
+													<h5>马德里竞技 VS 皇马</h5>
+													<br/>
+													在崭新的赛场，
+													是蜕变，涅槃重生，<br/>用胜利迎接新纪元的到来，<br/>
+													还是继续屈膝在白衣军团的强大统治力下？<br/>
+													<br/>
+													11月19日，一战定乾坤！
+												</div>
+											</td>
+											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
+										</tr>
+									</table>								
+								</div>
 							</div>
-							<div class="tourGuide">
-								<table>
-									<tr>
-										<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="200" /></td>
-										<td>
-											<div class="pc">
-												<h5>马德里竞技 VS 皇马</h5>
-												<br/>
-												贵族与平民的战争，<br/>优雅与血性的较量！<br/>
-												<br/>
-												红色或许从来都不是马德里足球的象征，<br/>
-												但同样承载着城市，与这项运动有关的兴衰荣辱。<br/>
-												<br/>
-												挥别了五十载风雨历程的卡尔德隆球场，<br/>
-												这将是床单军团移师万达大都会球场后的<br/>
-												首场同城德比！<br/>
-												<br/>
-												在崭新的赛场，
-												是蜕变，涅槃重生，用胜利迎接新纪元的到来，<br/>
-												还是继续屈膝在白衣军团的强大统治力下？<br/>
-												<br/>
-												11月19日，一战定乾坤！
-											</div>
-											<div class="mobile">
-												<h5>马德里竞技 VS 皇马</h5>
-												<br/>
-												在崭新的赛场，
-												是蜕变，涅槃重生，<br/>用胜利迎接新纪元的到来，<br/>
-												还是继续屈膝在白衣军团的强大统治力下？<br/>
-												<br/>
-												11月19日，一战定乾坤！
-											</div>
-										</td>
-										<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="200" /></td>
-									</tr>
-								</table>								
+						</div>	
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/Laliga/ADM-RAM/slide-2.jpg" />
+								</div>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+								</div>
 							</div>
-						</div>
-					</div>	
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/ADM-RAM/slide-2.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-					</div>	
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/ADM-RAM/slide-3.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/ADM-RAM/slide-4.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+						</div>	
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/Laliga/ADM-RAM/slide-3.jpg" />
+								</div>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+								</div>
 							</div>
 						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/Laliga/ADM-RAM/slide-5.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/Laliga/ADM-RAM/slide-4.jpg" />
+								</div>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+								</div>
 							</div>
 						</div>
-					</div>						
-				</div>				
-			    <div class="swiper-pagination">
-			    </div>
-			    <div class="swiper-button-prev swiper-button-white"></div>
-			    <div class="swiper-button-next swiper-button-white"></div>
-			</div>
-		</div>
-<!-- 			<div class="relDiv foreword">
-				<div class="itineraryHighLights">
-					<div class="tourGuide">
-						<table width="600">
-							<tr>
-								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="100" /></td>
-								<td align="center" style="vertical-align: bottom;"><img src="img/itinerary/laliga/logo/MCF-logo.png" height="100" /></td>
-							</tr>
-						</table>
-						<p>
-							<h5>贵族与平民的战争，优雅与血性的较量！</h5>
-							<br/>
-							红色或许从来都不是马德里足球的象征，<br/>
-							但同样承载着城市，与这项运动有关的兴衰荣辱。<br/>
-							<br/>
-							挥别了五十载风雨历程的卡尔德隆球场，<br/>
-							这将是床单军团移师万达大都会球场后的<br/>
-							首场同城德比！<br/>
-							<br/>
-							在崭新的赛场，<br/>
-							是蜕变，涅槃重生，用胜利迎接新纪元的到来，<br/>
-							还是继续屈膝在白衣军团的强大统治力下？<br/>
-							<br/>
-							11月19日，一战定乾坤！
-						</p>
-					</div>
+						<div class="swiper-slide">
+							<div class="swiperBgWrap">
+								<div class="slideBg">
+									<img src="img/itinerary/Laliga/ADM-RAM/slide-5.jpg" />
+								</div>
+								<div class="bgIntro">
+									<div class="transparentBg"></div>
+									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
+								</div>
+							</div>
+						</div>						
+					</div>				
+				    <div class="swiper-pagination"></div>
+				    <div class="swiper-button-prev swiper-button-white"></div>
+				    <div class="swiper-button-next swiper-button-white"></div>
 				</div>
-			</div> -->
+			</div>
 		</div>
 		<div class="site">			
 			<div class="laligaPoints">
@@ -249,295 +220,44 @@
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/pldbwg.jpg" width="100%" /><p>普拉多博物馆</p></div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/IMG_8962.jpg" width="100%" /><p>专业外籍导游和中方领队全程陪同</p></div>
 				</div>
-<!-- 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/w_900x700_29201255_orh5720.jpg" width="100%" /><p>万达大都会球场</p></div>
-					<div class="ibWrap textWrap">
-						<h6>自由安排</h6>
-						<p>行程包括充分自由时间，探索西班牙足球文化的非凡之路</p>
-					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/IMG_8962.jpg" width="100%" /><p>马德里</p></div>
-				</div> -->
 			</div>
 		</div>
-		<!-- Swiper -->			
-		<!-- <div class="site itineraryPhoto">
-			<div class="swiper-container">
-				<div class="swiper-wrapper">
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga00.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga01.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga02.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga03.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga04.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga05.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga06.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga07.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga08.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="swiperBgWrap">
-							<div class="slideBg">
-								<img src="img/itinerary/laliga09.jpg" />
-							</div>
-							<div class="bgIntro">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
-							</div>
-						</div>
-						<div class="photoBy">
-							<div class="com_profile">
-								<div class="imgWrap">
-									<img src="img/itinerary/tourDirector/Gattazzo.jpg" />
-								</div>
-							</div>
-							Photo by Anita
-						</div>
-					</div>
-				</div>
-			    <div class="swiper-pagination">
-			    </div>
-			</div>
-		</div> -->
 		<!-- Include -->
 		<div class="section blueBg">
 			<div class="site">
 				<h4>价格包含</h4>
-				<div class="includedItems">
-					<h5>可选套票</h5>
-					<ul>
-						<li>基础球迷套票：<span class="grayTxt">旅行项目</span> + 马竞 VS 皇马球票 （可升级球票）</li>
-						<li>【SuperFan套票】：<span class="grayTxt">旅行项目</span> + 马竞 VS 皇马球票 （可升级球票）+ 参观皇马训练基地</li>
-					</ul>
-					<span class="grayTxt">
-					<h5>旅行项目</h5>
-					<ul>						
-						<li>来往机票</li>
-						<li>7晚精选酒店住宿</li>						
-						<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
-						<li>多语言外籍导游和中方领队</li>
-						<li>专用豪华大巴接送</li>
-						<li>陪同观光和精选景点门票</li>
-						<li>除自由时间外涉及的海外服务小费</li>
-						<li>旅行期间的保险</li>
-					</ul>
-					</span>
-					<!-- <table>
-						<tr>
-							<th>套票选项</th>
-							<th>旅行项目</th>
-							<th>马竞主场 vs. 皇马比赛球票（基础票）</th>
-							<th>马竞主场 vs. 皇马比赛球票（升级球票）</th>
-							<th>【需升级SuperFan套餐】可获（参观西甲总部+参观俱乐部训练）</th>
-						</tr>
-						<tr>
-							<td>基础套票</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td></td>
-						</tr>
-						<tr>
-							<td>升级套票A</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-						</tr>
-						<tr>
-							<td>升级套票B</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-						</tr>
-						<tr>
-							<td>升级套票C</td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-							<td><i class="fa fa-check" aria-hidden="true"></i></td>
-						</tr>
-					</table> -->					
-					<!-- <dl>
-						<dt>基础套票 价格包含:</dt>
-						<dd>套票所含项目</dd>
-						<dd>马竞主场 vs. 皇马比赛球票（基础票）</dd>
-					</dl>
-					<dl>
-						<dt>升级套票A 价格包含:</dt>
-						<dd>套票所含项目</dd>
-						<dd>马竞主场 vs. 皇马比赛球票（升级球票）</dd>
-					</dl>
-					<dl>
-						<dt>升级套票B 价格包含:</dt>
-						<dd>套票所含项目</dd>
-						<dd>升级SuperFan套餐可获【参观西甲总部+参观俱乐部训练】</dd>
-					</dl>
-					<dl>
-						<dt>升级套票C 价格包含:</dt>
-						<dd>升级套票A</dd>
-						<dd>升级SuperFan套餐可获【参观西甲总部+参观俱乐部训练】</dd>
-					</dl> -->
+				<div class="includedItems">					
+					<div class="ibWrap whiteborderWrap">
+						<h5>旅行项目</h5>
+						<ul>						
+							<li>来往机票</li>
+							<li>7晚精选酒店住宿</li>						
+							<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
+							<li>多语言外籍导游和中方领队</li>
+							<li>专用豪华大巴接送</li>
+							<li>陪同观光和精选景点门票</li>
+							<li>除自由时间外涉及的海外服务小费</li>
+							<li>旅行期间的保险</li>
+						</ul>
+					</div>
+					<div class="ibWrap darkBlueWrap">
+						<h5>可选套票</h5>
+						<fieldset>
+							<legend>基础球迷套票</legend>
+							<ul>
+								<li>旅行项目</li>
+								<li>马竞 VS 皇马球票 （可升级球票）</li>
+							</ul>
+						</fieldset>
+						<fieldset>
+							<legend>SuperFan套票</legend>
+							<ul>
+								<li>旅行项目</li>
+								<li>马竞 VS 皇马球票 （可升级球票）</li>
+								<li>参观皇马训练基地</li>
+							</ul>
+						</fieldset>
+					</div>
 				</div>
 			</div>
 		</div>
