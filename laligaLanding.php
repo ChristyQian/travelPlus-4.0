@@ -2,10 +2,10 @@
 <html>
 <?php 
 	$pageName="laliga series";
-	$tagTitle="EF TravelPlus | 英孚旅游+";
-	$metaTitle="欧洲游线路_澳大利亚旅游_美国旅游_极光旅游_迪拜旅游_线路推荐_限时特惠线路_假期出国游";
-	$metaKeywords="澳大利亚旅游，美国旅游，极光旅游，迪拜旅游，德瑞奥，德国旅游，奥地利旅游，荷兰旅游，瑞士旅游，丹麦旅游，爱尔兰旅游，瑞典旅游，吃货行程，美食之旅，法国旅游，西班牙旅游，意大利旅游，英国旅游，希腊旅游，北欧旅游，春节欧洲游，长假欧洲游，欧洲线路推荐，限时优惠，国庆出境，十一长假，EFTravelPlus";
-	$metaDescription="英孚旅游+，根据热门季节、个人爱好等旅行元素，精心设计行程，带来更多元的主题线路和更优的旅行体验，真正融入异国文化，捕捉旅程中的每次怦然心动与惊喜。";
+	$tagTitle="西甲观赛团 - EF TravelPlus | 英孚旅游+";
+	$metaTitle="西甲赛程 | 西班牙国家德比 | 同城德比 | 西甲观赛游 | 西甲旅游 | 西班牙观赛游 | 西甲观赛团 |西班牙赛事游 | 西班牙体育旅游 | EFTravelPlus";
+	$metaKeywords="Laliga | 西甲观赛游 | 西欧旅游 | 澳大利亚旅游 | 美国旅游 | 极光旅游 | 迪拜旅游 | 德瑞奥 | 德国旅游 | 奥地利旅游 | 荷兰旅游 | 瑞士旅游 | 丹麦旅游 | 爱尔兰旅游 | 瑞典旅游 | 法国旅游 | 西班牙旅游 | 意大利旅游 | 英国旅游 | 希腊旅游 | 北欧旅游 | 春节欧洲游 | 长假欧洲游 | 欧洲线路推荐 | 限时优惠 | 国庆出境 | 十一长假 | EFTravelPlus";
+	$metaDescription="英孚旅游+,根据热门季节,个人爱好等旅行元素,精心设计行程,带来更多元的主题线路和更优的旅行体验,真正融入异国文化,捕捉旅程中的每次怦然心动与惊喜.";
 
     include_once("landing-head.php"); 
 ?>
@@ -198,7 +198,7 @@
 								<img src="img/itinerary/allTripsList/laliga-1119.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">2017.11.19 马德里竞技 VS 皇马 </div>
+								<div class="itiName">2017.11.19 马德里竞技 VS 皇家马德里 </div>
 								<div class="itiDess">
 									马德里 - 巴塞罗那
 								</div>	
@@ -208,7 +208,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									挥别了五十载风雨历程的卡尔德隆球场，这将是床单军团移师万达大都会球场后的首场同城德比！在崭新的赛场，是蜕变，涅槃重生，用胜利迎接新纪元的到来，还是继续屈膝在白衣军团的强大统治力下？
@@ -237,7 +237,7 @@
 								<img src="img/itinerary/allTripsList/laliga-1220.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">2017.12.20 皇马 VS 巴萨</div>
+								<div class="itiName">2017.12.20 皇家马德里 VS 巴塞罗那</div>
 								<div class="itiDess">
 									巴塞罗那 - 马德里
 								</div>	
@@ -276,7 +276,7 @@
 								<img src="img/itinerary/allTripsList/laliga-0114.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">2018.01.14 皇马 VS 比利亚雷亚尔</div>
+								<div class="itiName">2018.01.14 皇家马德里 VS 比利亚雷亚尔</div>
 								<div class="itiDess">
 									马德里 - 巴塞罗那
 								</div>	
@@ -286,7 +286,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									在西甲赛场，它被定义为不屈顽强，这支身披黄色战袍的英武之师，带着对联赛冠军的渴望，再次造访伯纳乌球场“黄色潜水艇”――比利亚雷亚尔，能否成功伏击银河战舰？1月14日 等你来揭晓！
@@ -303,13 +303,6 @@
 				<div>
 					<img src="img/itinerary/Laliga/feifan.jpg" width="100%" />
 				</div>
-				<!-- <div class="cropImg flex-flow">
-					<div class="ibWrap"><img src="img/itinerary/Laliga/CR-vertical-0420_13.jpg" width="100%" /></div>
-					<div class="ibWrap textWrap">
-						<h6>非凡官方</h6>
-						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅<br/>【西甲指定的全球唯一官方球迷俱乐部】</p>
-					</div>
-				</div> -->
 				<?php include 'landing_recommend.php' ;?>     				    	
 				<div class="card">
 					<div class="flex-row-center-start whyUsTxt">

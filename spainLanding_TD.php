@@ -294,7 +294,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									这趟旅程你将回到大航海时期的起点里斯本和热情迷人的西班牙。既有贝伦塔旁迷人的海岸线，也有高迪之城的天才艺，同时品尝种类丰富的tapas和美味的sangria酒也是南欧之旅不可错过的一部分。
@@ -333,7 +333,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									逃离寒冷的冬季跟随我们一起来到伊比利亚半岛感受大西洋的冬日暖阳，站在直布罗陀海峡眺望非洲大陆，挖掘葡萄牙大发现时期的珍贵宝藏，感受马德里不可思议，还有如迷宫般的蓝白摩洛哥小镇。

@@ -47,7 +47,7 @@
 						<div class="flex-row-start-between">
 							<div>都灵</div>
 							<i class="grayArrow"></i>
-							<div>意属里维耶拉</div>
+							<div>意属里维埃拉</div>
 							<i class="grayArrow"></i>
 							<div>博洛尼亚</div>
 							<i class="grayArrow"></i>
@@ -67,7 +67,7 @@
 				</div>
 				<div class="flex-row-start-around itineraryHighLights">
 					<div class="flex1 tourGuide">
-						<p class="serif">对于爱好美食的你来说，意大利得天独厚的美味料理定会让你不虚此行。在里维耶拉欣赏美景、品尝葡萄酒，在博洛尼亚品尝当地纯正的干酪和香醋，此外你还将亲自动手烹饪美食，探寻舌尖上的意大利。</p>
+						<p class="serif">对于爱好美食的你来说，意大利得天独厚的美味料理定会让你不虚此行。在里维埃拉欣赏美景、品尝葡萄酒，在博洛尼亚品尝当地纯正的干酪和香醋，此外你还将亲自动手烹饪美食，探寻舌尖上的意大利。</p>
 						<div class="com_profile">
 							<div class="imgWrap">
 								<img src="img/itinerary/tourDirector/Fabrice-Tomlin.jpg" />
@@ -85,7 +85,7 @@
 							品尝新鲜意式美食<br/>
 							拜访名扬世界的葡萄酒故乡<br/>
 							探索帕马森干酪的秘密<br/>
-							漫步阳光明媚的里维耶拉海岸<br/>
+							漫步阳光明媚的里维埃拉海岸<br/>
 							感受前卫摩登的米兰都市<br/>
 						</p>
 					</div>
@@ -342,18 +342,18 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>途经巴罗洛前往意属里维耶拉</span> 
+								<label>第4天</label><span>途经巴罗洛前往意属里维埃拉</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>在巴罗洛稍作停留，享用午餐，参加品酒会，然后前往意属里维耶拉</li>
+									<li>在巴罗洛稍作停留，享用午餐，参加品酒会，然后前往意属里维埃拉</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>里维耶拉自由行</span> 
+								<label>第5天</label><span>里维埃拉自由行</span> 
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						

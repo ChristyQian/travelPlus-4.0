@@ -316,7 +316,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>经由庞培前往罗马</span>
+								<label>第3天</label><span>经由庞贝前往罗马</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>

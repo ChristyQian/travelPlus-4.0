@@ -302,7 +302,7 @@ i {
 }
 .Oval .call {
 	display:inline-block;
-	background:url(../img/call.png) no-repeat;
+	background:url(../img/whiteCall.svg) no-repeat;
 	background-size:cover;
 	width:18px;
 	height:18px;
@@ -1115,7 +1115,8 @@ footer .site .backToTop {
 	margin-right:5px;
 }
 .defaultFooter .Oval .call {
-	background:url(../img/grayCall.png) no-repeat;
+	background:url(../img/grayCall.svg) no-repeat;
+	background-size:cover;
 }
 footer ul {
 	display:-webkit-box;

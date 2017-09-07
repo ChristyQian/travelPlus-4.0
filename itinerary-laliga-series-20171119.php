@@ -2,10 +2,10 @@
 <html>
 <?php 
 	$pageName="itinerary-laliga-series";
-	$tagTitle="行程 - EF TravelPlus | 英孚旅游+";
-	$metaTitle="欧洲旅游新选择_EF英孚旅游_一站式旅游专家";
-	$metaKeywords="欧洲旅游，EF英孚旅游，EFTravelPlus，品质跟团游，EF英孚教育，告别走马观花，体验式旅行";
-	$metaDescription="英孚旅游+,是英孚旗下一站式旅游服务专家，在全球众多国家拥有专业的旅游执行团队和完善的网络体系，用有趣的方式，让你和有趣的年轻人一起，发现未知的精彩世界。";
+	$tagTitle="西甲观赛团 - EF TravelPlus | 英孚旅游+";
+	$metaTitle="西甲赛程 | 西班牙国家德比 | 同城德比 | 西甲观赛游 | 西甲旅游 | 西班牙观赛游 | 西甲观赛团 |西班牙赛事游 | 西班牙体育旅游 | EFTravelPlus";
+	$metaKeywords="Laliga | 西甲观赛游 | 西欧旅游 | 澳大利亚旅游 | 美国旅游 | 极光旅游 | 迪拜旅游 | 德瑞奥 | 德国旅游 | 奥地利旅游 | 荷兰旅游 | 瑞士旅游 | 丹麦旅游 | 爱尔兰旅游 | 瑞典旅游 | 法国旅游 | 西班牙旅游 | 意大利旅游 | 英国旅游 | 希腊旅游 | 北欧旅游 | 春节欧洲游 | 长假欧洲游 | 欧洲线路推荐 | 限时优惠 | 国庆出境 | 十一长假 | EFTravelPlus";
+	$metaDescription="英孚旅游+,根据热门季节,个人爱好等旅行元素,精心设计行程,带来更多元的主题线路和更优的旅行体验,真正融入异国文化,捕捉旅程中的每次怦然心动与惊喜.";
 
 	$itineraryName="西甲非凡朝圣之旅";
 	$itineraryPrice="￥26,000";
@@ -24,7 +24,7 @@
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
 						<div class="yellowTxt">【西甲俱乐部官方】观赛团</div>						
-						<div class="tourName">西甲非凡朝圣之旅<span>马德里竞技 VS 皇马</span></div>
+						<div class="tourName">西甲非凡朝圣之旅<span>马德里竞技 VS 皇家马德里</span></div>
 						<div class="flex-row-start-between">
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -79,7 +79,7 @@
 											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/ADM-logo.png" height="200" /></td>
 											<td>
 												<div class="pc">
-													<h5>马德里竞技 VS 皇马</h5>
+													<h5>马德里竞技 VS 皇家马德里</h5>
 													<br/>
 													贵族与平民的战争，<br/>优雅与血性的较量！<br/>
 													<br/>
@@ -97,7 +97,7 @@
 													11月19日，一战定乾坤！
 												</div>
 												<div class="mobile">
-													<h5>马德里竞技 VS 皇马</h5>
+													<h5>马德里竞技 VS 皇家马德里</h5>
 													<br/>
 													在崭新的赛场，
 													是蜕变，涅槃重生，<br/>用胜利迎接新纪元的到来，<br/>
@@ -166,12 +166,12 @@
 		<div class="site">			
 			<div class="laligaPoints">
 				<div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/CR-vertical-0420_13.jpg" width="100%" /><p>与西甲指定全球唯一官方球迷俱乐部一起感受顶级足球赛事的魅力</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/CR-vertical-0420_13.jpg" width="100%" /><p>与西甲指定中国独家官方球迷俱乐部一起感受顶级足球赛事的魅力</p></div>
 					<div class="ibWrap textWrap">
 						<h6>非凡官方</h6>
-						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅【西甲指定的全球唯一官方球迷俱乐部】，独家提供西甲总部参观，一览西甲背后的那些“故事”</p>
+						<p>西甲俱乐部官方组织的西甲非凡朝圣之旅【西甲指定的中国独家官方球迷俱乐部】，独家提供西甲总部参观，一览西甲背后的那些“故事”</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/ADM-RAM/nine_2852.jpg" width="100%" /><p>共赴万达大都会球场，见证首场同城德比</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/ADM-RAM/nine_2852.jpg" width="100%" /><p>见证首场同城德比</p></div>
 				</div>
 				<div>
 					<div class="ibWrap textWrap">

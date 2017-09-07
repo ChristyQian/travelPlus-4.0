@@ -455,7 +455,7 @@
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
 					</div>
 					<div class="itiIntro">
 						和孩子一起沐浴美国加州的灿烂阳光，相信震撼人心的科罗拉多河漂流和大峡谷探秘一定是一个让孩子大开眼界的绝佳的机会，还有他们最喜爱的迪士尼乐园和环球影城，让我们一起记录他们开怀大笑的时刻！
@@ -490,7 +490,7 @@
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
 					</div>
 					<div class="itiIntro">
 						从迪拜奢华壮丽的高楼大厦，到阿布扎比原生态的沙漠，一路体验沙漠晚餐、沙丘越野、猎鹰展演等众多阿拉伯独有的特色活动，遇见真正的阿拉伯风情！
@@ -525,7 +525,7 @@
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
 						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star" aria-hidden="true"></i>
 					</div>
 					<div class="itiIntro">
 						撒哈拉沙漠体验，摩洛哥美食课程，露天集市淘宝，还有《卡萨布兰卡》《波斯王子》《角斗士》等电影取景地，在这趟旅程中，你将和我一起体验北非心脏摩洛哥的沙漠风情！

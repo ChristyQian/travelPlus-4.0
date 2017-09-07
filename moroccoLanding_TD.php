@@ -217,7 +217,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									逃离寒冷的冬季跟随我们一起来到伊比利亚半岛感受大西洋的冬日暖阳，站在直布罗陀海峡眺望非洲大陆，挖掘葡萄牙大发现时期的珍贵宝藏，感受马德里不可思议，还有如迷宫般的蓝白摩洛哥小镇。

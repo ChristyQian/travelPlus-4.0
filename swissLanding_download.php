@@ -218,7 +218,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！
@@ -274,7 +274,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
 									从瑞士卢塞恩湖游历到法国安纳西，前往风景如画的峡谷，沿科莫湖闲庭信步，穿过列支敦士登一路直达冬季仙境因斯布鲁克和巴伐利亚首府慕尼黑。

@@ -50,16 +50,5 @@
 			<li><a id="nav-review" href="review.php">评论</a></li>
 			<li><a id="nav-blog" href="http://travelplus.ef.com.cn/blog/">博客</a></li>
 		</ul>
-		<!--<div class="head-fix-right flex-row-center-between">
-	        	<div class="flex-no-grow-no-shrink-auto icon Oval-5"><i class="fa fa-wechat"></i></div>
-	        	<div class="flex-no-grow-no-shrink-auto icon Oval"><i class="call"></i></div>
-	        	<div class="flex-no-grow-no-shrink-auto hotline">
-	        		<p>来电咨询</p>
-	        		<span>400-018-7518</span>
-	        	</div>
-	        	<button class="flex-no-grow-no-shrink-auto borderBtn">
-	        		更多优惠
-	        	</button>
-        </div>-->
    </div>
 </div>

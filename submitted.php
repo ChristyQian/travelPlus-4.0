@@ -50,7 +50,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									西甲非凡朝圣之旅 马德里竞技 VS 皇马<br/>
+									西甲非凡朝圣之旅 马德里竞技 VS 皇家马德里<br/>
 									马德里 - 巴塞罗那
 								</p>
 								<div class="rate">
@@ -58,7 +58,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									9天
@@ -82,7 +82,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									西甲非凡朝圣之旅 皇马 VS 巴萨<br/>
+									西甲非凡朝圣之旅 皇家马德里 VS 巴塞罗那<br/>
 									巴塞罗那 - 马德里
 								</p>
 								<div class="rate">
@@ -90,7 +90,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									10天
@@ -114,7 +114,7 @@
 							</div>
 							<div class="agendaWrap">
 								<p>
-									西甲非凡朝圣之旅 皇马 VS 比利亚雷亚尔<br/>
+									西甲非凡朝圣之旅 皇家马德里 VS 比利亚雷亚尔<br/>
 									马德里 - 巴塞罗那
 								</p>
 								<div class="rate">
@@ -122,7 +122,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									9天
@@ -154,7 +154,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									16天
@@ -186,7 +186,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									11天
@@ -218,7 +218,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									9天
@@ -250,7 +250,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									11天
@@ -282,7 +282,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									9天
@@ -314,7 +314,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									11天
@@ -410,7 +410,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									13天
@@ -442,7 +442,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									14天
@@ -474,7 +474,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									12天
@@ -506,7 +506,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star" aria-hidden="true"></i>
+									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
 									13天
@@ -659,7 +659,7 @@
 							<div class="agendaWrap">
 								<p>
 									食在意大利：食物与酒的美学 <br/>
-									都灵 - 意属里维耶拉 - 博洛尼亚 - 米兰
+									都灵 - 意属里维埃拉 - 博洛尼亚 - 米兰
 								</p>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -1178,7 +1178,7 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
+									<i class="fa fa-star" aria-hidden="true"></i>
 								</div>
 								<div>
 									13天
