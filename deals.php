@@ -127,7 +127,7 @@
 		<div class="lightBlueBg">
 			<div class="site">
 		 		<h5>早鸟优惠</h5>
-		 		<div class="serif">凡9月20日(含)前，2人同行，1人半价！</div>
+		 		<div class="serif">凡9月30日(含)前，2人同行，立减6000！</div>
 		 	</div>
 	 	</div>
 	 	<div class="site">
@@ -140,7 +140,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -172,7 +172,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -204,7 +204,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">预订2018年2月、3月团</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -236,7 +236,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -268,7 +268,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -300,7 +300,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -332,7 +332,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -364,7 +364,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -396,7 +396,7 @@
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
 								<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-								<div class="pinkTxt">2人同行，1人半价</div>
+								<div class="pinkTxt">2人同行，立减6000</div>
 							</div>
 						</div>
 					</div>
@@ -428,7 +428,7 @@
 							<div class="transparentBg"></div>
 							<div class="transparentTxt">
 								<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-								<div class="pinkTxt">2人同行，1人半价</div>
+								<div class="pinkTxt">2人同行，立减6000</div>
 							</div>
 						</div>
 					</div>
@@ -460,7 +460,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
@@ -492,7 +492,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，1人半价</div>
+									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>
 						</div>
