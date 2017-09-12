@@ -214,7 +214,7 @@
 								<li>国际连锁经济酒店，类似Ibis（宜必思），各方面条件中等，房间不大但也基本满足需求。</li>
 								<li>国际四星/五星酒店，此类酒店最大的注意点是目的地不同差价非常大。很多团会标注入住国际5星酒店，然而仅在意大利升级，因为可能同类酒店即便在法国瑞士的郊区也会非常贵。</li>
 								<li>市区酒店：市区酒店不论星级如何，主要意味着更方便的交通，在自由时间有更丰富的安排。</li>
-								<li><strong>在大城市<span class="yellowTxt">EF TravelPlus</span>，全部安排市区4-5星级酒店，像五渔村周边的小城，也安排同等级酒店，优越地理位置，方便自由时间安排活动</strong></li>
+								<li><strong><span class="yellowTxt">EF TravelPlus</span>在大城市全部安排市区4-5星级酒店，像五渔村周边的小城，也安排同等级酒店，优越地理位置，方便自由时间安排活动</strong></li>
 							</ul>
 						</div>
 					</div>
@@ -355,7 +355,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>2人同行，立减6000</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -394,7 +394,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>2人同行，立减6000</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -433,7 +433,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>早鸟优惠</div>
+									<div>2人同行，立减6000</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									

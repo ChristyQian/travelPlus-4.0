@@ -1,6 +1,6 @@
 <div class="section trips recommend">
 	<h4>当季精选</h4>
-	<div class="flex-row-start-between flex-flow">
+	<div class="flex-row-start-start flex-flow">
 		<div id="icy-reykjavik-the-northern-lights" name="home-trip-box" class="home-trip-box" data-dest="ic" data-tag="nature,honeymoon,northeuro">
 			<a href="itinerary-icy-reykjavik-the-northern-lights.php" >	
 				<div class="imgWrap">
@@ -9,7 +9,7 @@
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
 							<div class="yellowTxt">预订2018年2月、3月团</div>
-							<div class="pinkTxt">2人同行，1人半价</div>
+							<div class="pinkTxt">2人同行，立减6000</div>
 						</div>
 					</div>
 				</div>
@@ -41,7 +41,7 @@
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
 							<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-							<div class="pinkTxt">2人同行，1人半价</div>
+							<div class="pinkTxt">2人同行，立减6000</div>
 						</div>
 					</div>
 				</div>
@@ -73,7 +73,7 @@
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
 							<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-							<div class="pinkTxt">2人同行，1人半价</div>
+							<div class="pinkTxt">2人同行，立减6000</div>
 						</div>
 					</div>
 				</div>

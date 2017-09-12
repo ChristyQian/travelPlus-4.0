@@ -438,7 +438,7 @@ body {
 
 #thankYouPage {
 	color:#fff;
-	line-height:36px;
+	/*line-height:36px;*/
 	text-align:center;
 }
 #thankYouPage h2 {
@@ -449,7 +449,7 @@ body {
 	margin-bottom:20px;
 }
 #thankYouPage p {
-	font-size:18px;
+	font-size:14px;
 }
 .banner-ty {
     width: 100%;
@@ -462,13 +462,15 @@ body {
     color: #000;
     background-color: #FFF;
     height: 50px;
-    width: 320px;
+    min-width: 320px;
     font-family: 'Microsoft Yahei';
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
     letter-spacing: 2px;
     border: none;
     border-radius: 40px;
+    padding:0 20px;
+    margin:5px 20px;
 }
 #thankYouPage button {}
 #thankYouPage img {margin-top:20px;}

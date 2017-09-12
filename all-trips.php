@@ -260,7 +260,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -292,7 +292,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -324,7 +324,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">预订2018年2月、3月团</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -356,7 +356,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -388,7 +388,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -420,7 +420,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -452,7 +452,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -484,7 +484,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -516,7 +516,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -548,7 +548,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -580,7 +580,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -612,7 +612,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>
 							</div>
@@ -643,8 +643,8 @@
 								<div class="hotSale" style="display: none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -740,7 +740,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -772,7 +772,7 @@
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
 										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -867,8 +867,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-										<div class="pinkTxt">2人同行，1人半价</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -899,8 +899,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -931,8 +931,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -963,8 +963,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -995,8 +995,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1027,8 +1027,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1059,8 +1059,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1091,8 +1091,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1123,8 +1123,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1155,8 +1155,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1187,8 +1187,8 @@
 								<div class="hotSale" style="display:none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">暑期档</div>
-										<div class="pinkTxt">仅剩4席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1219,8 +1219,8 @@
 								<div class="hotSale" style="display: none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1251,8 +1251,8 @@
 								<div class="hotSale" style="display: none;">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">美食美酒</div>
-										<div class="pinkTxt">早鸟减5%</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>
@@ -1283,8 +1283,8 @@
 								<div class="hotSale" style="display:none">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">国庆档</div>
-										<div class="pinkTxt">仅剩6席</div>
+										<div class="yellowTxt"></div>
+										<div class="pinkTxt"></div>
 									</div>
 								</div>
 							</div>

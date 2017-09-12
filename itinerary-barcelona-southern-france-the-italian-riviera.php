@@ -38,7 +38,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">2人同行，1人半价</div>
+							<div class="pinkTxt">2人同行，立减6000</div>
 						</div>
 					</div>
 				</div>

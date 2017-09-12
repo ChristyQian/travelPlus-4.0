@@ -16,9 +16,9 @@
 ?>
 	<div id="thankYouPage" class="banner-ty flex-center-center" style="background: url(img/banner-thank-you.jpg);">
         <div class="wrap flex-wrap flex-col-center-center">
-            <button class="button-download" onclick="window.open('files/bfr.pdf')">点击下载攻略</button>
-            <div class="tips">(文件大约10M，请在WiFi环境下下载)</div>
-            <h2>感谢你的关注！</h2>
+        	<h2>感谢你的关注！</h2>
+        	<div class="tips">(文件大约10M，请在WiFi环境下下载)</div>
+            <button class="button-download" onclick="window.open('files/spain-france-italy.pdf')">点击下载攻略</button>            
 			<p>
 			<span class="pinkTxt">凡报名参团，就送出境游保险一份</span><br/>
 			想了解更多路线玩法推荐，或咨询签证问题<br/>
