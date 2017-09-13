@@ -99,7 +99,7 @@
 
 														<textarea id="email" name="email" type="email" title="邮箱" param="email"></textarea>
 
-														<div id="name-error-msg" class="form-error-msg">
+														<div id="email-error-msg" class="form-error-msg">
 
 															<i class="fa fa-warning"></i>请输入邮箱
 
@@ -110,7 +110,7 @@
 													<input name="pagename" type="hidden" title="pagename" param="pagename" value="<?php echo $_SERVER['PHP_SELF']; ?>">
 													<input name="etag" type="hidden" title="etag" param="etag" value="<?php echo $_SESSION['etag']; ?>">
 													<input name="channel" type="hidden" title="channel" param="channel" value="<?php echo $_SESSION['channel'];?>">
-													<input name="email" type="hidden" title="email" param="email" value="<?php echo $_SESSION['email'];?>">
+													
 													<input name="motivation" type="hidden" title="motivation" param="motivation" value="-">
 													<input name="destination" type="hidden" title="destination" param="destination" value="-">
 													<input name="sfreplication" type="hidden" title="sfreplication" param="sfreplication" value="true">							

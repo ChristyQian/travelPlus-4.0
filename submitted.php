@@ -63,7 +63,7 @@
 								<div>
 									9天
 									<span class="delPrice">￥28,000</span>
-									<span class="price">￥26,000<span>起</span></span>
+									<span class="price">￥26,000<span>香港出发</span></span>
 								</div>
 							</div>
 						</a>
@@ -95,7 +95,7 @@
 								<div>
 									10天
 									<span class="delPrice">￥28,000</span>
-									<span class="price">￥54,000<span>起</span></span>
+									<span class="price">￥54,000<span>香港出发</span></span>
 								</div>
 							</div>
 						</a>
@@ -127,7 +127,7 @@
 								<div>
 									9天
 									<span class="delPrice">￥28,000</span>
-									<span class="price">￥24,700<span>起</span></span>
+									<span class="price">￥24,700<span>香港出发</span></span>
 								</div>
 							</div>
 						</a>

@@ -215,7 +215,7 @@
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥26,000<span>起</span></span>
+									<span class="price">￥26,000<span>香港出发</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
@@ -254,7 +254,7 @@
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥54,000<span>起</span></span>
+									<span class="price">￥54,000<span>香港出发</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
@@ -293,7 +293,7 @@
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥24,700<span>起</span></span>
+									<span class="price">￥24,700<span>香港出发</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
