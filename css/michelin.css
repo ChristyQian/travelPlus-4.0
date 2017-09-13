@@ -1,0 +1,94 @@
+.michelin .browse-banner {
+
+}
+h1 {
+    position: absolute;
+    /* left: 18%; */
+    top: 50%;
+    color: #fff;
+    font-size: 58px;
+    line-height: 68px;
+}
+h1 span {
+	display:block;
+	font-size:48px;
+	font-weight:normal;
+}
+.michelin .twoThird {
+	margin-left:0;
+}
+.rightWrap .browse-banner-content-box h5 span {
+	display:block;
+	font-size:14px;
+}
+.browse-banner-content-box .quoItem {
+	vertical-align:top;
+}
+.benefits {
+	margin-bottom:50px;
+}
+.skewX {
+	position:relative;
+	width:750px;
+	height:auto;
+	padding:20px 20px 20px 100px;
+	margin:20px 0;
+	color:#fff;
+	font-size:14px;
+}
+.skewX::after {
+	content: '';
+	position: absolute;	
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	z-index: -1;
+	background-color:#333;
+	-webkit-transform:skewX(-15deg);
+	-moz-transform:skewX(-15deg);
+	-o-transform:skewX(-15deg);
+	-ms-transform:skewX(-15deg);
+	transform: skewX(-15deg);
+}
+.skewX .number {
+	position:absolute;
+	z-index:2;
+	left:40px;
+	top:40px;
+	font-size:58px;
+	font-weight:bold;
+	font-style:italic;	
+}
+.benefit1.skewX::after {
+	background-color:#94c5db;
+}
+.benefit2.skewX::after {
+	background-color:#f7b84f;
+}
+.rightWrap .card {
+	margin-top:0;
+}
+.michelin .quoWrap {
+	width:419px;
+}
+@media screen and (max-width:425px) {
+	h1 {
+		top:20px;
+		left:20px;
+		font-size:24px;
+		line-height:36px;
+	}
+	h1 span {
+		font-size:20px;
+	}
+	.skewX {
+		width:inherit;
+	}
+	.skewX::after {
+		transform:skewX(-3deg);
+	}
+	.michelin .quoWrap {
+		width:inherit;
+	}
+}

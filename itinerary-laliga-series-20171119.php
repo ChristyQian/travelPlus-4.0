@@ -56,7 +56,7 @@
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
 							￥26,000
-							<span>起</span>
+							<span>香港出发</span>
 						</div>
 						<div>
 							<a class="blueRBtn" href="#getPersonalizedPrice">获取出发城市价格</a>

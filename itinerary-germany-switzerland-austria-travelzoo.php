@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">Travelzoo专享</div>
+						<div class="yellowTxt">春节出发</div>
 						<div class="tourName">德瑞奥古堡童话之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -33,7 +33,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">2人同行，1人半价</div>
+							<div class="pinkTxt">2人同行，立减6000</div>
 						</div>
 					</div>
 				</div>
@@ -900,7 +900,7 @@
 			<div class="quotation">
 
 				<h4>一键预订优惠</h4>
-				<span class="declare">*不会产生任何费用 / Travelzoo专享</span>
+				<span class="declare">*不会产生任何费用</span>
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">

@@ -31,7 +31,7 @@
 
 								 <?php echo $itineraryPrice ?>
 
-								 <span>起</span>
+								 <span>香港出发</span>
 
 							</div>
 
