@@ -20,6 +20,7 @@ body {
 .rightWrap {
 	position:absolute;
 	right:0;
+	color:#fff;
 }
 
 .banner-share-topper {
@@ -219,7 +220,7 @@ body {
 	position:relative;
 }
 .browse-banner-content-box .quoInfo {
-	position: initial;
+	position: static;
 	padding-bottom:10px;
 }
 .browse-banner-content-box .quoInfo form {
@@ -451,6 +452,17 @@ body {
 #thankYouPage p {
 	font-size:14px;
 }
+.michelin #thankYouPage h2 {
+	line-height:58px;
+	font-size:30px;
+}
+.michelin #thankYouPage p {
+	text-align:left;
+	font-size:16px;
+}
+.michelin #thankYouPage+.site {
+	padding-top:50px;
+}
 .banner-ty {
     width: 100%;
     height: 480px;
@@ -497,7 +509,7 @@ body {
 	font-size:20px;
 	line-height:38px;
 }
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 768px) {
 	.twoThird .card,
 	.goBackStatusIcon,
 	.rightWrapHead {

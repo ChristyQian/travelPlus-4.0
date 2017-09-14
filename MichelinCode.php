@@ -18,13 +18,14 @@
 		<div class="browse-page-container">
 			<div class="landingTop browse-banner-container">
 				<div class="relDiv">								
-					<div class="site">
+					<div class="">
 						<div class="browse-banner">
 							<div class="browse-banner-bg">
-								<img class="browse-banner-overlay" src="img/activity/Michelin/Michelin.jpg" width="100%"/>	
-								<h1><span>你吃米其林，我买单!</span>送你100欧，去欧洲吃大餐</h1>										
-							</div>
-							<div class="site browse-banner-content">
+								<!-- <img class="browse-banner-overlay" src="img/activity/Michelin/Michelin.jpg" width="100%"/>	 -->
+								<div class="site">
+									<h1><span>你吃米其林，我买单!</span>送你100欧，去欧洲吃大餐</h1>									
+
+								<div class="rightWrap">
 								<!--backend interface --> 
 								<script type="text/javascript" src='../lib/services.js'></script>
 							    <!--leads and pages --> 
@@ -34,13 +35,12 @@
 								{	
 								 bs_trackClick(bs_getEventCategory(), "Lead Form Submission");	
 								 
-								 Lead_Validation("sp-form", "Lead_Insert", "europeLanding_thankyou.php", true);
+								 Lead_Validation("sp-form", "Lead_Insert", "Michelin_thankyou.php", true);
 								}
 								</script>
-								<div class="rightWrap">
-									<h5 class="rightWrapHead">填表拿代金券&nbsp;&gt;&gt;</h5>									
+									<h5 class="rightWrapHead">填写真实信息，领取大礼包&nbsp;&gt;&gt;</h5>									
 									<div class="browse-banner-content-box">
-										<h5>填表拿代金券<span>获取Travelzoo代金券和1000元旅行Coupon</span>
+										<h5>填写真实信息，领取大礼包<span>数量有限，发完即止</span>
 											<div class="goBackStatusIcon">
 												<div class="whiteTrangle"></div>
 												<div class="backgroundTrangle"></div>
@@ -117,7 +117,7 @@
 
 												</form>					
 
-												<button id="lead-submit-button" onclick="Quotation_Form_Submit()" class="orangeBtn">开启完美假期</button>
+												<button id="lead-submit-button" onclick="Quotation_Form_Submit()" class="orangeBtn">提交领取</button>
 											</div>
 										</div>	
 									</div>
@@ -152,18 +152,33 @@
 		<div class="site landing" data-target="#card">
 			<div class="twoThird section">
 				<div class="benefits">
-					<h5>EF TravelPlus联合TravelZoo旅游族给大家发福利了！</h5>
+					<h5>EF TravelPlus联合<span class="TravelzooLogo">TravelZoo旅游族</span>给大家发福利了！</h5>
+					<p>三重大礼包，等你来拿</p>
 					<div class="skewX benefit1">
 					<span class="number">1</span>
-					送你“大有来头——米其林美味密码” 50元现金券；<br/>
-					凡在活动指定餐厅用餐满500元，即可使用；<br/>
-					数量有限，发完即止；
+					Travelzoo送你“大有来头——米其林美味密码” 50元现金券；
+					<ul>
+						<li>凡在“大有来头”活动指定餐厅用餐，即可使用，无购买金额限制；</li>
+						<li>数量有限，发完即止，每人只限领取一次；</li>
+						<li>收到专享码后，使用有效期至2017年11月30日。</li>
+					</ul>
 					</div>
 					<div class="skewX benefit2">
 					<span class="number">2</span>
+					Travelzoo送你全场“美食水疗”&“酒店j精选”95折抵扣券；
+					<ul>
+						<li>全场适用，不限次数；</li>
+						<li>限2017年10月31日之前有效。</li>
+					</ul>
+					</div>
+					<div class="skewX benefit1">
+					<span class="number">3</span>
 					美食爱好者们，EF TravelPlus请你去欧洲吃米其林大餐！<br/>
-					送你100欧现金，你吃饭，我买单；<br/>
-					凡在9月30日之前报名参加2018年2月28日之前出发的出境游产品，皆可享受此优惠；
+					<ul>
+						<li>送你100欧现金，你吃饭，我买单！</li>
+						<li>凡在9月30日之前报名参加2018年2月28日之前出发的出境游产品，皆可享受此优惠；</li>
+						<li>每人只限领取一次</li>
+					</ul>
 					</div>
 				</div>
 				<div class="flex-row-start-start flex-flow">
@@ -308,6 +323,7 @@
 				</div>
 			</div>
 		</div>
+	</div>
 		<!-- footer -->
 <?php 
 	include_once('common-footer2.php')
