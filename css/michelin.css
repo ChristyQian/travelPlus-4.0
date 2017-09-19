@@ -127,6 +127,12 @@ h1 span {
 	h1 span {
 		font-size:20px;
 	}
+	h5 {
+		font-size:15px;
+	}
+	h5+p {
+		font-size:12px;
+	}
 	.skewX {
 		width:inherit;
 	}

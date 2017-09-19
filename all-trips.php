@@ -1396,16 +1396,16 @@
 				}
 			});
 
-			$('.checkbox').click(function(){
-				if($(this).hasClass('checked')){
-					$(this).removeClass('checked');
-					event.stopPropagation();
-				}
-				else {
-					$(this).addClass('checked');
-					event.stopPropagation();
-				}
-			});
+			// $('.checkbox').click(function(){
+			// 	if($(this).hasClass('checked')){
+			// 		$(this).removeClass('checked');
+			// 		event.stopPropagation();
+			// 	}
+			// 	else {
+			// 		$(this).addClass('checked');
+			// 		event.stopPropagation();
+			// 	}
+			// });
 			$('.edit').click(function(){
 				$('.filterResult').hide();
 				$('.editModel').show();

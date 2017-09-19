@@ -9,7 +9,7 @@
 
     include_once("landing-head.php"); 
 ?>
-	<body data-spy="scroll">
+	<body data-spy="scroll" class="spain">
 	
 <?php 
 	 include_once('common-header2.php');

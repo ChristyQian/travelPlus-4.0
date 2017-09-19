@@ -307,6 +307,7 @@ body {
 	width:30%;
 	height:213px;
 	overflow: hidden;
+	padding-bottom:0;
 }
 .twoThird .home-trip-box .imgWrap img {
 	width:auto;
@@ -517,6 +518,20 @@ body {
 	}
 }
 @media screen and (max-width: 425px) {
+	.spain .rightWrapHead,
+	.italy .rightWrapHead,
+	.germany .rightWrapHead,
+	.france .rightWrapHead,
+	.england .rightWrapHead {
+		display:none;
+	}
+	.spain .browse-banner-content-box,
+	.italy .browse-banner-content-box,
+	.germany .browse-banner-content-box,
+	.france .browse-banner-content-box,
+	.england .browse-banner-content-box {
+		display:block;
+	}
 	.header-nav.affix {
 		opacity: 0;
 	}

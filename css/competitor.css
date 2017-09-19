@@ -187,7 +187,7 @@ h6 {
 }
 .home-trip-box {
 	display: inline-block;
-    width: 100%;
+    /*width: 100%;*/
     background-color: #f7f5f0;
     padding: 20px;
     position: relative;

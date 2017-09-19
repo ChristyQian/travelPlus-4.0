@@ -127,7 +127,7 @@
 		<div class="lightBlueBg">
 			<div class="site">
 		 		<h5>早鸟优惠</h5>
-		 		<div class="serif">凡9月30日(含)前，2人同行，立减6000！</div>
+		 		<div class="serif">凡10月15日(含)前，2人同行，立减6000！</div>
 		 	</div>
 	 	</div>
 	 	<div class="site">

@@ -673,9 +673,12 @@ h5 {
 }
 .home-trip-box {
 	position: relative;
-	-webkit-box-flex: 0;
+	/*-webkit-box-flex: 0;
 	    -ms-flex: 0 1 380px;
-	        flex: 0 1 380px;	
+	        flex: 0 1 380px;*/
+	width:32%;/*compatible width below than IE 11 */
+	width:calc(32% - 3px);
+	
 	background-color: #fff;	
 	/*margin-bottom:30px;
 	margin-right:28px;*/
@@ -687,14 +690,19 @@ h5 {
 .home-trip-box a:hover {
 	text-decoration: none;
 }
+.home-trip-box a {
+	display: inline;
+}
 .home-trip-box .imgWrap {
-	width:380px;
-	height:248px;
+	/*width:380px;
+	height:248px;*/
 	position:relative;
+	padding-bottom:65.26%;
 }
 .home-trip-box .imgWrap img {
+	position:absolute;
 	width: 100%;
-	height: inherit;
+	height: 100%;
 	background-position: center center !important;
 	background-repeat: no-repeat !important;
 	background-size: cover !important;

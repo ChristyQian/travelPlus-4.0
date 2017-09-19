@@ -165,7 +165,7 @@
 					</div>
 					<div class="skewX benefit2">
 					<span class="number">2</span>
-					Travelzoo送你全场“美食水疗”&“酒店j精选”95折抵扣券；
+					Travelzoo送你全场“美食水疗”&“酒店精选”95折抵扣券；
 					<ul>
 						<li>全场适用，不限次数；</li>
 						<li>限2017年10月31日之前有效。</li>
