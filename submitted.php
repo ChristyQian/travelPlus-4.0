@@ -75,7 +75,7 @@
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">2017.12.15出发</div>
+										<div class="yellowTxt">2017.12.17出发</div>
 										<div class="pinkTxt">早鸟优惠10%</div>
 									</div>
 								</div>
@@ -93,9 +93,9 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div>
-									10天
+									9天
 									<span class="delPrice">￥28,000</span>
-									<span class="price">￥54,000<span>香港出发</span></span>
+									<span class="price">￥52,100<span>北京、上海出发</span></span>
 								</div>
 							</div>
 						</a>
@@ -203,7 +203,7 @@
 								<div class="hotSale">
 									<div class="transparentBg"></div>
 									<div class="transparentTxt">
-										<div class="yellowTxt">预订2018年2月、3月团</div>
+										<div class="yellowTxt">2月团已满，3月出发预订中</div>
 										<div class="pinkTxt">2人同行，立减6000</div>
 									</div>
 								</div>

@@ -192,7 +192,7 @@
 				<div>
 					<div class="ibWrap textWrap">
 						<h6>梅西“零距离”</h6>
-						<p>不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
+						<p>不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在诺坎普球场餐厅用餐，切身感受球王生活中的点滴</p>
 					</div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/nine-FCB.jpg" width="100%" /><p>参观诺坎普球场和巴萨博物馆</p></div>
 					<div class="ibWrap textWrap">
@@ -226,7 +226,7 @@
 						<ul>						
 							<li>来往机票</li>
 							<li>7晚精选酒店住宿</li>						
-							<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
+							<li>每日早餐，伯纳乌球场和诺坎普球场餐厅晚餐，参观西甲总部</li>
 							<li>多语言外籍导游和中方领队</li>
 							<li>专用豪华大巴接送</li>
 							<li>陪同观光和精选景点门票</li>
@@ -240,7 +240,7 @@
 							<legend>基础球迷套票</legend>
 							<ul>
 								<li>旅行项目</li>
-								<li>皇马 VS 比利亚雷亚尔比赛球票 （可升级球票）</li>
+								<li>皇家马德里 VS 比利亚雷亚尔比赛球票（可升级球票）</li>
 							</ul>
 						</fieldset>
 					</div>
@@ -292,11 +292,11 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>【球迷朝圣】皇马主场 VS 比利亚雷亚尔观赛之夜</span> 
+								<label>第3天</label><span>【球迷朝圣】皇家马德里主场 VS 比利亚雷亚尔观赛之夜</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>白天在马德里自由活动，晚上在现场见证皇马与比利亚雷亚尔的球场厮杀</li>
+									<li>白天在马德里自由活动，晚上在现场见证皇家马德里与比利亚雷亚尔的球场厮杀</li>
 								</ul>
 							</div>
 						</div>
@@ -327,13 +327,13 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第6天</label><span>整天自由活动时间</span> 
+								<label>第6天</label><span>巴塞罗那自由活动</span> 
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>上午自由活动+参观诺坎普球场和巴萨博物馆+梅西餐厅晚餐</span> 
+								<label>第7天</label><span>上午自由活动+巴萨内部员工带领下参观诺坎普球场和巴萨博物馆+诺坎普餐厅用餐</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -341,12 +341,8 @@
 									<ul>
 										<li>诺坎普球场是巴萨的黄金主场，见证了无数巴萨的绝杀与荣耀</li>
 										<li>饱览巴萨所获的奖杯，零距离参观克鲁伊夫、马拉多纳和梅西等球星的更衣室、训练场甚至他们所坐过的长椅，参观教练恩里克代表巴萨发言的新闻发布室</li>
-										<li>巴萨内部员工将成为此行向导</li>
 									</ul>									
-									<li>【球迷朝圣】梅西餐厅晚餐</li>
-									<ul>
-										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜</li>
-									</ul>
+									<li>【球迷朝圣】诺坎普餐厅享用晚餐</li>
 								</ul>
 							</div>
 						</div>
@@ -612,7 +608,7 @@
 								<div class="ibWrap">
 									<div class="">阿联酋航空</div>
 									<div class="">11h0m</div>
-									<div class="">直飞</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>马德里</span>14:25</div>

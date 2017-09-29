@@ -21,7 +21,7 @@
 	(
 		array("img/itinerary/home-icy.jpg",
 			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>立减6000</p>10月15日前</div></div>",
-			"预订2018年2月、3月团",
+			"2018年2月出发已满，3月出发预订中",
 			"<p>冰岛奇幻北极光之旅<br/>可享受“2人同行，立减6000”</p>",
 			"Slide-icy",
 			"itinerary-icy-reykjavik-the-northern-lights.php",

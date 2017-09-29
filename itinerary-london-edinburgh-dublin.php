@@ -573,7 +573,7 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">英国航空</div>
-									<div class="">16h15m</div>
+									<div class="">11h15m</div>
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">

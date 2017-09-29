@@ -586,10 +586,10 @@
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>北京</span>1030</div>
-									<div class="airport"><span>法兰克福</span>1445</div>
-									<div class="airport"><span>法兰克福</span>1710</div>
-									<div class="airport"><span>米兰</span>1820</div>
+									<div class="airport"><span>北京</span>10:30</div>
+									<div class="airport"><span>法兰克福</span>14:45</div>
+									<div class="airport"><span>法兰克福</span>17:10</div>
+									<div class="airport"><span>米兰</span>18:20</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
@@ -603,7 +603,7 @@
 									<div class="airport"><span>米兰</span>11:00</div>
 									<div class="airport"><span>法兰克福</span>12:20</div>
 									<div class="airport"><span>法兰克福</span>17:10</div>
-									<div class="airport"><span>北京</span>08:30+1</div>								
+									<div class="airport"><span>北京</span>08:30+1</div>
 								</div>
 							</div>
 						</div>

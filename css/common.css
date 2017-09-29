@@ -214,7 +214,14 @@ i {
     line-height:40px;
     margin-left:10px;
 }
-
+#top-wechat,
+.header-nav.affix .icon.Oval-5,
+#sticky-wechat {
+	display:none;
+}
+.fixCAT .flex-row-center-between {
+	justify-content: flex-end;
+}
 /*****************************************/
 /*                Header                 */
 /*****************************************/

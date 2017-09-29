@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,根据热门季节,个人爱好等旅行元素,精心设计行程,带来更多元的主题线路和更优的旅行体验,真正融入异国文化,捕捉旅程中的每次怦然心动与惊喜.";
 
 	$itineraryName="西甲非凡朝圣之旅";
-	$itineraryPrice="￥54,000";
+	$itineraryPrice="￥52,100";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -33,7 +33,7 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">2017.12.15出发</div>
+							<div class="pinkTxt">2017.12.17出发</div>
 						</div>
 					</div>
 				</div>
@@ -45,7 +45,7 @@
 			<div class="itineraryInfo">
 				<div class="flex-row-start-around itineraryBasicInfo">
 					<div class="flex1 itineraryLine">
-						<div class="days">10天</div>
+						<div class="days">9天</div>
 						<div class="flex-row-start-between">
 							<div>巴塞罗那</div>
 							<i class="grayArrow"></i>
@@ -55,8 +55,8 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥54,000
-							<span>香港出发</span>
+							￥52,100
+							<span>北京、上海出发</span>
 						</div>
 						<div>
 							<a class="blueRBtn" href="#getPersonalizedPrice">获取出发城市价格</a>
@@ -91,7 +91,7 @@
 													在最好的年华目睹“梅罗双骄”，<br/>
 													且看且珍惜。<br/>
 													<br/>
-													12月20日 伯纳乌见证国家德比
+													12月23日 伯纳乌见证国家德比
 												</div>
 												<div class="mobile">
 													<h5>皇家马德里 VS 巴塞罗那</h5>
@@ -99,7 +99,7 @@
 													在最好的年华目睹“梅罗双骄”，<br/>
 													且看且珍惜。<br/>
 													<br/>
-													12月20日 伯纳乌见证国家德比
+													12月23日 伯纳乌见证国家德比
 												</div>
 											</td>
 											<td align="center" style="vertical-align: middle;"><img src="img/itinerary/laliga/logo/FCB-logo.png" height="200" /></td>
@@ -130,7 +130,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="swiper-slide">
+						<!-- <div class="swiper-slide">
 							<div class="swiperBgWrap">
 								<div class="slideBg">
 									<img src="img/itinerary/Laliga/FCB-RAM/WechatIMG150.jpg" />
@@ -140,7 +140,7 @@
 									<div class="transparentTxt">梵蒂冈不可思议的建筑</div>
 								</div>
 							</div>
-						</div>
+						</div> -->
 						<div class="swiper-slide">
 							<div class="swiperBgWrap">
 								<div class="slideBg">
@@ -186,17 +186,17 @@
 						<h6>巅峰对决</h6>
 						<p>这不仅仅是一场足球比赛，这是被称为世纪大战的震撼较量。自始以来的第270场国家德比。是齐祖继续将玄学进行到底，坐镇主场对巴塞罗那进行再一次碾压；还是巴尔韦德带着加泰罗尼亚人必胜的决心，誓死捍卫宇宙队的荣光。等你来亲自揭晓</p>
 					</div>
-					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-home-count2.jpg" width="100%"/><p>巴塞罗那对阵拉科鲁尼亚的联赛</p></div>
+					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-FCB.jpg" width="100%"/><p>伯纳乌球场</p></div>
 					<div class="ibWrap textWrap">
-						<h6>两个主场</h6>
-						<p>一趟旅程，两场豪门主场对决。不论你是哪一个主队的追随者，置身诺坎普，也来看一场巴萨对阵拉科鲁尼亚的联赛，感受加泰罗尼亚式的激情与热血，你值得拥有</p>
+						<h6>目睹“梅罗双骄”</h6>
+						<p>置身伯纳乌，亲历这个星球上最血脉偾张的对决！</p>
 					</div>
 				</div>
 				<div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/bnwqcct.jpg" width="100%" /><p>伯纳乌球场餐厅用餐</p></div>
 					<div class="ibWrap textWrap">
 						<h6>一网打尽</h6>
-						<p>参观当地伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食。不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
+						<p>参观伯纳乌球场及皇马博物馆，体会玄学的力量。在球场内的餐厅俯瞰主场，享用地道西班牙美食。不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，并在诺坎普球场餐厅用餐，切身感受球王生活中的点滴</p>
 					</div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/FCB-RAM/nine-lamaxiya.jpg" width="100%" /><p>亲临巴塞罗那俱乐部La Masia训练基地，充分感受西班牙足球体系与氛围</p></div>
 				</div>
@@ -205,7 +205,7 @@
 						<h6>升级服务</h6>
 						<p>全部升级<span class="yellowTxt">【SuperFan套票】</span></p>
 						<ul>
-							<li>球票升级：巴萨对阵拉科鲁尼亚，球票可升级至更佳视野区！</li>
+							
 							<li>参观俱乐部训练球场：亲临皇家马德里训练基地Valdebebas或巴塞罗那俱乐部训练基地La Masia，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
 						</ul>
 					</div>
@@ -239,8 +239,8 @@
 						<h5>旅行项目</h5>
 						<ul>
 							<li>来往机票</li>
-							<li>8晚精选酒店住宿</li>
-							<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
+							<li>7晚精选酒店住宿</li>
+							<li>每日早餐，伯纳乌球场和诺坎普球场餐厅晚餐，参观西甲总部</li>
 							<li>多语言外籍导游和中方领队</li>
 							<li>专用豪华大巴接送</li>
 							<li>陪同观光和精选景点门票</li>
@@ -249,13 +249,12 @@
 						</ul>
 					</div>
 					<div class="ibWrap darkBlueWrap">
-						<h5>可选套票<span>(2选1)</span> </h5>
+						<h5>可选套票<span>(二选一)</span> </h5>
 						<fieldset>
 							<legend>皇马【SuperFan套票】</legend>
 							<ul>
 								<li>旅行项目</li>
 								<li>皇马 VS 巴萨球票</li>
-								<li>巴萨 VS 拉科鲁尼亚球票（可升级球票）</li>
 								<li>参观皇马训练基地</li>
 							</ul>
 						</fieldset>
@@ -264,7 +263,6 @@
 							<ul>
 								<li>旅行项目</li>
 								<li>皇马 VS 巴萨球票</li>
-								<li>巴萨 VS 拉科鲁尼亚球票（可升级球票）</li>
 								<li>参观巴萨训练基地</li>
 							</ul>
 						</fieldset>
@@ -296,51 +294,38 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>巴塞罗那观光游+梅西餐厅午餐+巴萨 VS 拉科鲁尼亚观赛</span>
+								<label>第2天</label><span>巴塞罗那观光游</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li>参观犹太山、西班牙广场、大斗牛场旧址等文化历史景点</li>
 									<li>参观兰布拉大道、巴特罗之家感受巴塞罗那的生活与艺术</li>
 									<li>进入高迪的代表作圣家堂参观，这里将圣经的场景如图画般展现，是世界上唯一未完工便被列入世界遗产的建筑</li>
-									<li>【球迷朝圣】梅西餐厅午餐</li>
-									<ul>
-										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜</li>
-									</ul>
-									<li>【球迷朝圣】巴萨 VS 拉科鲁尼亚观赛之夜</li>
-									<ul>
-										<li>在现场见证巴萨与拉科鲁尼亚的球场厮杀</li>
-									</ul>
+									<li>在巴塞罗那共进晚餐</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>巴塞罗那自由活动</span> 
-							</div>
-						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第4天</label><span>上午自由活动或巴萨球迷参观巴萨训练基地La Masia<span class="yellowTxt">【SuperFan套票】</span>+下午参观诺坎普球场和巴萨博物馆</span> 
+								<label>第3天</label><span>上午巴塞罗那自由活动或（巴萨球迷）参观巴萨训练基地La Masia</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>上午自由活动或（巴萨球迷）亲临巴萨训练基地La Masia<span class="yellowTxt">【SuperFan套票】</span>，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗！</li>
-									<li>下午【球迷朝圣】参观诺坎普球场和巴萨博物馆</li>
+									<li>亲临巴萨训练基地La Masia，充分感受西班牙足球体系与氛围，由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗</li>
+									<li>在诺坎普球场餐厅享用午餐</li>
+									<li>【球迷朝圣】在巴萨内部员工带领下参观诺坎普球场和巴萨博物馆</li>
 									<ul>
 										<li>诺坎普球场是巴萨的黄金主场，见证了无数巴萨的绝杀与荣耀</li>
 										<li>饱览巴萨所获的奖杯，零距离参观克鲁伊夫、马拉多纳和梅西等球星的更衣室、训练场甚至他们所坐过的长椅，参观教练恩里克代表巴萨发言的新闻发布室</li>
-										<li>巴萨内部员工将成为此行向导</li>
-									</ul>
+									</ul>									
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第5天</label><span>前往马德里，在马德里观光游</span> 
+								<label>第4天</label><span>前往马德里，在马德里观光游</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>								
@@ -350,37 +335,14 @@
 								</ul>
 							</div>
 						</div>
-						<div class="itinerary_daily_item">
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第6天</label><span>【球迷朝圣】皇马主场 VS 巴萨 观赛之夜</span> 
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>								
-									<li>白天在马德里自由活动或（皇马球迷）参观皇马训练基地Valdebebas<span class="yellowTxt">【SuperFan套票】</span></li>
-									<li>晚上在现场见证国家德比，皇马与巴萨的豪门球场厮杀</li>
-								</ul>
-							</div>
-						</div>
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>参观西甲总部</span>
+								<label>第5天</label><span>上午马德里自由活动或（皇马球迷）参观皇马训练基地Valdebebas+下午参观伯纳乌球场和皇马博物馆+伯纳乌球场餐厅晚餐</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>上午自由活动</li>
-									<li>【球迷朝圣】参观西甲总部【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事</li>
-								</ul>
-							</div>
-						</div>
-						<div class="itinerary_daily_item">						
-							<div class="itinerary_daily_title">
-								<div class="itemCircle"></div>
-								<label>第8天</label><span>上午自由活动+参观伯纳乌球场和皇马博物馆+伯纳乌球场餐厅晚餐</span> 
-							</div>
-							<div class="itinerary_daily_detail">
-								<ul>
+									<li>亲临皇马训练基地Valdebebas，充分感受西班牙足球体系与氛围，由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗</li>
 									<li>【球迷朝圣】参观伯纳乌球场和皇马博物馆</li>
 									<ul>
 										<li>伯纳乌球场是皇马的主场，是皇马球迷的朝圣必去地</li>
@@ -392,11 +354,38 @@
 									</ul>
 								</ul>
 							</div>
+						</div>						
+						<div class="itinerary_daily_item">						
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第6天</label><span>参观西甲总部</span>
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>
+									<li>上午自由活动</li>
+									<li>【球迷朝圣】参观西甲总部
+									<ul>
+										<li>【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事</li>
+									</ul>
+								</ul>
+							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第9天</label><span>返程</span>
+								<label>第7天</label><span>【球迷朝圣】皇马主场 VS 巴萨 观赛之夜</span> 
+							</div>
+							<div class="itinerary_daily_detail">
+								<ul>	
+									<li>上午自由活动</li>							
+									<li>晚上在现场见证国家德比，皇马与巴萨的豪门球场厮杀</li>
+								</ul>
+							</div>
+						</div>
+						<div class="itinerary_daily_item">
+							<div class="itinerary_daily_title">
+								<div class="itemCircle"></div>
+								<label>第8天</label><span>返程</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -407,7 +396,7 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第10天</label><span>抵达中国</span>
+								<label>第9天</label><span>抵达中国</span>
 							</div>
 						</div>
 						<p>请注意，以上为示范行程，行程内容可能会因出发日期、航班时间或其他因素发生变动，详情请拨打电话 400-180-7518 查询。</p>
@@ -651,7 +640,7 @@
 								<div class="ibWrap">
 									<div class="">阿联酋航空</div>
 									<div class="">17h5m</div>
-									<div class="">直飞</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>马德里</span>14:25</div>

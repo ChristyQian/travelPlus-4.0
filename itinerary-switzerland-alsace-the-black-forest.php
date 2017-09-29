@@ -498,7 +498,7 @@
 								<div class="transparentTxt">Hotel Europa 欧洲酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">从酒店可以看到皮拉图斯山美丽的景色，琉森湖就在马路对面。 距离市中心只有10分钟的步行距离。</div>
+						<div class="hotelDes">从酒店可以看到皮拉图斯山美丽的景色，琉森湖就在马路对面。距离市中心只有10分钟的步行距离。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">

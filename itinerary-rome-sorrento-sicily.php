@@ -661,8 +661,8 @@
 								<div class="flex-row-start-between">
 									<div class="airport"><span>香港</span>23:50</div>
 									<div class="airport"><span>法兰克福</span>05:20+1</div>
-									<div class="airport"><span>法兰克福</span>0710</div>
-									<div class="airport"><span>罗马</span>0855</div>
+									<div class="airport"><span>法兰克福</span>07:10</div>
+									<div class="airport"><span>罗马</span>08:55</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">

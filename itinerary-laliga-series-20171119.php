@@ -199,7 +199,7 @@
 				<div>
 					<div class="ibWrap textWrap">
 						<h6>梅西“零距离”</h6>
-						<p>不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在梅西投资的餐厅用餐，切身感受球王生活中的点滴</p>
+						<p>不仅踏上梅球王的主场诺坎普体育场，参观巴萨博物馆，还在诺坎普球场餐厅用餐，切身感受球王生活中的点滴</p>
 					</div>
 					<div class="ibWrap relDiv"><img src="img/itinerary/Laliga/nine-FCB.jpg" width="100%" /><p>参观诺坎普球场和巴萨博物馆</p></div>
 					<div class="ibWrap textWrap">
@@ -232,7 +232,7 @@
 						<ul>						
 							<li>来往机票</li>
 							<li>7晚精选酒店住宿</li>						
-							<li>每日早餐，伯纳乌球场晚餐，梅西赞助餐厅晚餐，参观西甲总部</li>
+							<li>每日早餐，伯纳乌球场和诺坎普球场餐厅晚餐，参观西甲总部</li>
 							<li>多语言外籍导游和中方领队</li>
 							<li>专用豪华大巴接送</li>
 							<li>陪同观光和精选景点门票</li>
@@ -246,14 +246,14 @@
 							<legend>基础球迷套票</legend>
 							<ul>
 								<li>旅行项目</li>
-								<li>马竞 VS 皇马球票 （可升级球票）</li>
+								<li>马德里竞技 VS 皇马比赛球票(可升级球票)</li>
 							</ul>
 						</fieldset>
 						<fieldset>
 							<legend>SuperFan套票</legend>
 							<ul>
 								<li>旅行项目</li>
-								<li>马竞 VS 皇马球票 （可升级球票）</li>
+								<li>马德里竞技 VS 皇马比赛球票(可升级球票)</li>
 								<li>参观皇马训练基地</li>
 							</ul>
 						</fieldset>
@@ -285,18 +285,18 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第2天</label><span>马德里观光游+伯纳乌球场和皇马博物馆+伯纳乌球场餐厅晚餐</span>
+								<label>第2天</label><span>马德里观光游+参观伯纳乌球场和皇马博物馆+伯纳乌球场餐厅晚餐</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>参观西班牙广场, 德波神庙, 皇家宫殿, 马约尔广场, 太阳门等景点</li>
+									<li>参观西班牙广场, 德波神庙, 皇家宫殿, 马约尔广场和太阳门等景点</li>
 									<li>进入普拉多博物馆参观，普拉多博物馆是世界四大博物馆之一，是了解西班牙绘画艺术必去的美术馆</li>
 									<li>【球迷朝圣】参观伯纳乌球场和皇马博物馆</li>
 									<ul>
 										<li>伯纳乌球场是皇马的主场，是皇马球迷的朝圣必去地</li>
 										<li>在皇马内部员工带领下，参观奖杯展览、球场全景、球员更衣室、更衣室通道等，走进莫德里奇、C罗、瓦拉内等大牌球星的训练日常，深入了解皇马豪门的辉煌缩影</li>
 									</ul>
-									<li>【球迷朝圣】伯纳乌球场内餐厅晚餐</li>
+									<li>【球迷朝圣】伯纳乌球场内餐厅共进晚餐</li>
 									<ul>
 										<li>在伯纳乌球场内的餐厅享用地道的西班牙晚餐，用餐期间还可直接观看赛场，体会不同一般的视觉体验。</li>
 									</ul>
@@ -306,7 +306,7 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第3天</label><span>【球迷朝圣】马竞主场 VS 皇马观赛之夜</span> 
+								<label>第3天</label><span>【球迷朝圣】马德里竞技主场 VS 皇家马德里观赛之夜</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -317,12 +317,15 @@
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第4天</label><span>上午自由活动或参观皇马训练基地Valdebebas <span class="yellowTxt">【需升级SuperFan套票】</span>，下午参观西甲总部</span> 
+								<label>第4天</label><span>上午自由活动或参观皇马训练基地Valdebebas <span class="yellowTxt">【需升级SuperFan套票】</span>+下午参观西甲总部</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
 									<li><span class="yellowTxt">【需升级SuperFan套餐】</span>亲临皇马训练基地Valdebebas，充分感受西班牙足球体系与氛围。由专业教练带领团队进行足球训练，并有机会与俱乐部成员进行激动人心的实战对抗</li>
-									<li>参观西甲总部 (【独家】你将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事)</li>
+									<li>下午参观西甲总部</li>
+									<ul>
+										<li>【独家】将在西甲总部工作人员带领下，全面参观西甲总部，包括联赛球队代表的常用会议室，深入了解西甲的幕后故事</li>
+									</ul>
 								</ul>
 							</div>
 						</div>
@@ -348,27 +351,23 @@
 						<div class="itinerary_daily_item">						
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第7天</label><span>上午自由活动+参观诺坎普球场和巴萨博物馆+梅西餐厅晚餐</span> 
+								<label>第7天</label><span>上午自由活动+参观诺坎普球场和巴萨博物馆+诺坎普餐厅用餐</span> 
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
-									<li>【球迷朝圣】参观诺坎普球场和巴萨博物馆</li>
+									<li>【球迷朝圣】在巴萨内部员工带领下参观诺坎普球场和巴萨博物馆</li>
 									<ul>
 										<li>诺坎普球场是巴萨的黄金主场，见证了无数巴萨的绝杀与荣耀</li>
 										<li>饱览巴萨所获的奖杯，零距离参观克鲁伊夫、马拉多纳和梅西等球星的更衣室、训练场甚至他们所坐过的长椅，参观教练恩里克代表巴萨发言的新闻发布室</li>
-										<li>巴萨内部员工将成为此行向导</li>
 									</ul>									
-									<li>【球迷朝圣】梅西餐厅晚餐</li>
-									<ul>
-										<li>梅西的餐厅，不仅占地1000平方米，还拥有一个超大花园，还原了西班牙小镇悠闲恬静的气氛，来这里一定要试试梅西自己最爱的Milanesa Napolitana a caballo这道菜。</li>
-									</ul>
+									<li>【球迷朝圣】诺坎普餐厅享用晚餐</li>
 								</ul>
 							</div>
 						</div>
 						<div class="itinerary_daily_item">
 							<div class="itinerary_daily_title">
 								<div class="itemCircle"></div>
-								<label>第8天</label><span>返程</span>
+								<label>第8天</label><span>自由活动+返程</span>
 							</div>
 							<div class="itinerary_daily_detail">
 								<ul>
@@ -627,7 +626,7 @@
 								<div class="ibWrap">
 									<div class="">阿联酋航空</div>
 									<div class="">11h0m</div>
-									<div class="">直飞</div>
+									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>马德里</span>14:25</div>

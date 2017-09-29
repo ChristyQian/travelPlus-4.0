@@ -596,7 +596,7 @@
 							<div class="voyage">启程</div>
 							<div class="ibWrap">
 								<div class="">国泰港龙航空</div>
-								<div class="">9h35m</div>
+								<div class="">14h35m</div>
 								<div class="">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">

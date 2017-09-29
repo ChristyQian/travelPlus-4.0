@@ -8,7 +8,7 @@
 					<div class="hotSale">
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
-							<div class="yellowTxt">预订2018年2月、3月团</div>
+							<div class="yellowTxt">2月团已满，只接受预订3月团</div>
 							<div class="pinkTxt">2人同行，立减6000</div>
 						</div>
 					</div>

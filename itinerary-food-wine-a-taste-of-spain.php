@@ -659,10 +659,10 @@
 								<div class="flex1">1次中转</div>
 							</div>
 							<div class="flex-row-start-between">
-								<div class="airport"><span>马德里</span>2205</div>
-								<div class="airport"><span>迪拜</span>0710+1</div>
-								<div class="airport"><span>迪拜</span>1005</div>
-								<div class="airport"><span>香港</span>2200</div>								
+								<div class="airport"><span>马德里</span>22:05</div>
+								<div class="airport"><span>迪拜</span>07:10+1</div>
+								<div class="airport"><span>迪拜</span>10:05</div>
+								<div class="airport"><span>香港</span>22:00</div>								
 							</div>
 						</div>
 					</div>

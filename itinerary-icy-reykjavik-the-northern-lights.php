@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">预订2018年2月、3月团</div>
+						<div class="yellowTxt">2018年2月出发已满，3月出发预订中</div>
 						<div class="tourName">冰岛奇幻北极光之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">
@@ -335,7 +335,7 @@
 									<li>来到Husafell小镇，沿着Grimsa河参观，途经巨魔瀑布（Troll Falls）</li>
 									<li>观赏流速极快的德尔达图赫菲温泉（Deildartunguhver）</li>
 									<li>参观雷克霍特小镇（Reykholt），这里也是冰岛传奇作家Snorri Sturluson的故乡</li>
-									<li>观赏著名的赫伦瀑布（ Hraunfossar）和儿童瀑布(Barnafoss)</li>
+									<li>观赏著名的赫伦瀑布（Hraunfossar）和儿童瀑布(Barnafoss)</li>
 								</ul>
 							</div>
 						</div>
@@ -388,7 +388,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">雷克雅未克福斯酒店</div>
+								<div class="transparentTxt">Fosshotel Reykjavík雷克雅未克福斯酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">Fosshotel Reykjavík酒店位于雷克雅未克市中心，享有城市和海洋的美景，提供一个健身中心和餐厅。距离Laugavegur购物街有200米，并设有免费WiFi。</div>
@@ -400,7 +400,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">雷克雅未克福斯酒店</div>
+								<div class="transparentTxt">Fosshotel Reykjavík雷克雅未克福斯酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">Fosshotel Reykjavík酒店位于雷克雅未克市中心，享有城市和海洋的美景，提供一个健身中心和餐厅。距离Laugavegur购物街有200米，并设有免费WiFi。</div>
@@ -412,7 +412,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">雷克雅未克福斯酒店</div>
+								<div class="transparentTxt">Fosshotel Reykjavík雷克雅未克福斯酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">Fosshotel Reykjavík酒店位于雷克雅未克市中心，享有城市和海洋的美景，提供一个健身中心和餐厅。距离Laugavegur购物街有200米，并设有免费WiFi。</div>
@@ -424,7 +424,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">福斯雷克霍特酒店</div>
+								<div class="transparentTxt">Fosshotel Reykholt福斯雷克霍特酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">Fosshotel Reykholt酒店距离雷克霍特著名的Deildartunguhver温泉，Hraunfossar和Barnafoss瀑布都很近，这里提供免费的wifi。餐厅会供应冰岛当地新鲜的海味料理，酒店内还设有一个影音厅。</div>
@@ -436,7 +436,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">福斯雷克霍特酒店</div>
+								<div class="transparentTxt">Fosshotel Reykholt福斯雷克霍特酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">Fosshotel Reykholt酒店距离雷克霍特著名的Deildartunguhver温泉，Hraunfossar和Barnafoss瀑布都很近，这里提供免费的wifi。餐厅会供应冰岛当地新鲜的海味料理，酒店内还设有一个影音厅。</div>
@@ -448,7 +448,7 @@
 							</div>
 							<div class="hotelIntro">
 								<div class="transparentBg"></div>
-								<div class="transparentTxt">福斯雷克霍特酒店</div>
+								<div class="transparentTxt">Fosshotel Reykholt福斯雷克霍特酒店</div>
 							</div>
 						</div>
 						<div class="hotelDes">Fosshotel Reykholt酒店距离雷克霍特著名的Deildartunguhver温泉，Hraunfossar和Barnafoss瀑布都很近，这里提供免费的wifi。餐厅会供应冰岛当地新鲜的海味料理，酒店内还设有一个影音厅。</div>

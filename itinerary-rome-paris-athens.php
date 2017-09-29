@@ -604,15 +604,13 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">14h10m</div>
-									<div class="">1次中转</div>
+									<div class="">中国航空</div>
+									<div class="">12h30m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>成都</span>14:35</div>
-									<div class="airport"><span>阿姆斯特丹</span>19:05</div>
-									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-									<div class="airport"><span>罗马</span>22:45</div>
+									<div class="airport"><span>成都</span>01:50</div>
+									<div class="airport"><span>巴黎</span>07:20</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
@@ -638,14 +636,12 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">法国航空</div>
-									<div class="">16h0m</div>
-									<div class="">1次中转</div>
+									<div class="">12h20m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>上海</span>23:20</div>
 									<div class="airport"><span>巴黎</span>05:40+1</div>
-									<div class="airport"><span>巴黎</span>07:15</div>
-									<div class="airport"><span>罗马</span>09:20</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
@@ -671,14 +667,12 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">法国航空</div>
-									<div class="">14h30m</div>
-									<div class="">1次中转</div>
+									<div class="">11h55m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>北京</span>09:00</div>
 									<div class="airport"><span>巴黎</span>13:50</div>
-									<div class="airport"><span>巴黎</span>15:25</div>
-									<div class="airport"><span>罗马</span>17:30</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
@@ -704,14 +698,12 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">法国航空</div>
-									<div class="">15h15m</div>
-									<div class="">1次中转</div>
+									<div class="">12h40m</div>
+									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
 									<div class="airport"><span>广州</span>23:05</div>
 									<div class="airport"><span>巴黎</span>05:55+1</div>
-									<div class="airport"><span>巴黎</span>07:15</div>
-									<div class="airport"><span>罗马</span>09:20</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">
@@ -736,15 +728,15 @@
 							<div class="com_flightInfo">
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
-									<div class="">荷兰航空</div>
-									<div class="">16h25m</div>
+									<div class="">芬兰航空</div>
+									<div class="">15h15m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>香港</span>12:20</div>
-									<div class="airport"><span>阿姆斯特丹</span>18:20</div>
-									<div class="airport"><span>阿姆斯特丹</span>20:35</div>
-									<div class="airport"><span>罗马</span>22:45</div>
+									<div class="airport"><span>香港</span>00:25</div>
+									<div class="airport"><span>赫尔辛基</span>06:00</div>
+									<div class="airport"><span>赫尔辛基</span>07:35</div>
+									<div class="airport"><span>巴黎</span>09:40</div>
 								</div>
 							</div>
 							<div class="com_flightInfo">

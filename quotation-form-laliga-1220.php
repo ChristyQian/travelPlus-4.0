@@ -31,7 +31,7 @@
 
 								 <?php echo $itineraryPrice ?>
 
-								 <span>香港出发</span>
+								 <span>北京、上海出发</span>
 
 							</div>
 
@@ -57,10 +57,8 @@
 								<label>套票选择：</label>
 								<div class="dropdownArrowWrap">
 									<select id="age" name="age" title="年龄" param="age">									
-										<option value="皇马SuperFan">皇马【SuperFan套票】</option>																			
-										<option value="皇马SuperFan+升级球票">皇马【SuperFan套票】+ 升级【巴萨vs拉科鲁尼亚】球票</option>
-										<option value="巴萨SuperFan">巴萨【SuperFan套票】</option>										
-										<option value="巴萨SuperFan+升级球票">巴萨【SuperFan套票】+ 升级【巴萨vs拉科鲁尼亚】球票</option>									
+										<option value="皇马SuperFan">皇马【SuperFan套票】</option>																	
+										<option value="巴萨SuperFan">巴萨【SuperFan套票】</option>											
 									</select>
 									<div id="age-error-msg" class="form-error-msg">
 										<i class="fa fa-warning"></i>请输入旅行时间
