@@ -551,7 +551,7 @@
 								<div class="transparentTxt">Kasbah Hotel Xaluca Arfoud 夏露卡阿尔方德古堡酒店</div>
 							</div>
 						</div>
-						<div class="hotelDes">Radisson Blu Hotel酒店距离马拉喀什火车站和马拉喀什广场都只有5分钟路程，酒店内设有室外游泳池和餐厅，提供免费WiFi。每间客房均设有空调、阳台、露台以及1间带浴缸、淋浴和吹风机的私人浴室，享有市景和泳景。</div>
+						<div class="hotelDes">这家四星级酒店位于撒哈拉大沙漠的入口处，距离镇中心仅有5分钟的车程，设有2座游泳池，并配备了提供土耳其浴室和10间按摩室的Spa中心。客房和套房均拥有暖色调的装潢，并配备了免费无线网路连接以及化石浴室。</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="swiperBgWrap">

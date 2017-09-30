@@ -547,7 +547,7 @@
 								<div class="voyage">启程</div>
 								<div class="ibWrap">
 									<div class="">东方航空</div>
-									<div class="">9h00m</div>
+									<div class="">12h40m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -561,7 +561,7 @@
 								<div class="voyage">回程</div>
 								<div class="ibWrap">
 									<div class="">东方航空</div>
-									<div class="">08h05m</div>
+									<div class="">12h40m</div>
 									<div class="">1次中转</div>
 								</div>
 								<div class="flex-row-start-between">
@@ -613,7 +613,7 @@
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>北京</span>6:50</div>
+									<div class="airport"><span>北京</span>06:50</div>
 									<div class="airport"><span>迪拜</span>11:40</div>
 								</div>
 							</div>
@@ -642,7 +642,7 @@
 									<div class="">直飞</div>
 								</div>
 								<div class="flex-row-start-between">
-									<div class="airport"><span>香港</span>7:35</div>
+									<div class="airport"><span>香港</span>07:35</div>
 									<div class="airport"><span>迪拜</span>12:30</div>
 								</div>
 							</div>
