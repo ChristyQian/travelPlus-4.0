@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Courtyard by Marriott Vienna Schoenbrunn 维也纳美泉宫万怡酒店"
+desc = "这家四星级酒店毗邻著名的美泉宫和美泉宫动物园，Courtyard by Marriott Wien Schönbrunn酒店的现代化空调客房均配备了平面电视、吹风机、办公桌以及沏茶/咖啡设备。酒店公共区域提供免费无线网络连接。酒店的La Corte餐厅供应意大利和奥地利美食。客人可以在大堂酒吧休闲放松，亦可在24小时营业的市场品尝小吃。"

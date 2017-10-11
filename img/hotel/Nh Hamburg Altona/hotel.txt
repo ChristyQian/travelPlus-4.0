@@ -1,0 +1,3 @@
+[hotel]
+name = "NH Hamburg Altona汉堡阿尔托那NH酒店"
+desc = "现代化的四星级NH Hamburg Altona酒店坐落在汉堡（Hamburg）市Altona区的安静环境中，设有免费Wi-Fi、西班牙风格的餐厅以及带全景阳光露台的spa中心。酒店对面就是Bornkampsweg公交车站。酒店距离国家室内体育馆（Barclaycard arena）和Neue Flora Musical Theatre音乐剧院仅有2站的路程。"

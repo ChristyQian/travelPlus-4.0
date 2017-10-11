@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Fosshotel Reykjavík雷克雅未克福斯酒店"
+desc = "Fosshotel Reykjavík酒店位于雷克雅未克市中心，享有城市和海洋的美景，提供一个健身中心和餐厅。距离Laugavegur购物街有200米，并设有免费WiFi。"

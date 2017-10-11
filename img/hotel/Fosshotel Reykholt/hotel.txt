@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Fosshotel Reykholt福斯雷克霍特酒店"
+desc = "Fosshotel Reykholt酒店距离雷克霍特著名的Deildartunguhver温泉，Hraunfossar和Barnafoss瀑布都很近，这里提供免费的wifi。餐厅会供应冰岛当地新鲜的海味料理，酒店内还设有一个影音厅。"

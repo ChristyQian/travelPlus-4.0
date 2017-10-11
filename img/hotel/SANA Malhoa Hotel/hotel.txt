@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "SANA Malhoa Hotel萨那马尔哈酒店"
+desc = "SANA Malhoa Hotel酒店提供宽敞的现代化客房、一个水疗中心以及带户外用餐的Mediterrâneo Restaurant餐厅。El Corte Inglés购物中心距离酒店有5分钟步行路程。"

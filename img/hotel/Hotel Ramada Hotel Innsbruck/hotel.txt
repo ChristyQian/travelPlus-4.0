@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Hotel Ramada Hotel Innsbruck因斯布鲁克酒店"
+desc = "酒店因斯布鲁克酒店因斯布鲁克市中心，步行即可到达所有景点和地标。乘坐巴士5分钟可以到达因斯布鲁克市中心。"

@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Catalonia La Pedrera 加泰罗尼亚佩德雷拉酒店"
+desc = "Hotel Catalonia La Pedrera酒店位于现代主义建引以为豪的著名建筑，如包括米拉之家在内的高迪和多明尼克的重要作品。拥有理想的购物环境，方便客人前往加泰罗尼亚广场和该市历史悠久的哥特区，提供免费WiFi。"

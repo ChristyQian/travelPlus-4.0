@@ -203,7 +203,7 @@
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
-									<div class="yellowTxt">2月团已满，3月出发预订中</div>
+									<div class="yellowTxt">2018年2月、3月出发预订中</div>
 									<div class="pinkTxt">2人同行，立减6000</div>
 								</div>
 							</div>

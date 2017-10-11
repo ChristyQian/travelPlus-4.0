@@ -23,7 +23,7 @@
 				<div class="tourInfo">
 					<div class="transparentBg"></div>
 					<div class="transparentTxt">
-						<div class="yellowTxt">2018年2月出发已满，3月出发预订中</div>
+						<div class="yellowTxt">2018年2月、3月出发预订中</div>
 						<div class="tourName">冰岛奇幻北极光之旅</div>
 						<div class="flex-row-start-between">
 							<div class="rate">

@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Pullman Barcelona Skipper 巴塞罗那斯基普伯尔曼酒店"
+desc = "酒店邻近巴塞罗那的奥林匹克港口（Olympic Port），提供五星级的奢华住宿，距离海滩仅有100米，配有免费无线网络连接和2个室外游泳池。酒店提供带平面电视和DVD播放机的宽敞卧室，以及带花洒淋浴的典雅浴室。Pullman Barcelona Skipper酒店设有带城市和大海美景的屋顶泳池，以及带阳光躺椅的季节性开放的大型露台。"

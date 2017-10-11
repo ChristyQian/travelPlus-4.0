@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Four Points Sheraton San Rafael 圣地亚哥福朋喜来登酒店"
+desc = "Four Points by Sheraton San Diego酒店位于圣地亚哥市中心以北10分钟路程处，设有九洞高尔夫球场、餐厅、酒吧和室外游泳池。酒店也设有带日光浴平台的热水浴池和设施齐全的健身房，提供全方位服务的商务中心和前往6英里（9.6公里）范围内的免费班车服务"

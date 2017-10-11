@@ -1,0 +1,3 @@
+[hotel]
+name = "Silken Amara Plaza西尔肯阿玛拉广场酒店"
+desc = "Silken Amara Plaza酒店静静地坐落在圣塞瓦斯蒂安（San Sebastián）的皮奥十二世广场（Plaza Pio XII Square），毗邻乌鲁梅阿河（River Urumea）。典雅的现代化客房提供免费Wi-Fi和平板电视。Silken Amara Plaza酒店距离圣塞巴斯蒂安主座教堂（San Sebastian Cathedral）和阿诺埃塔体育场（Anoeta Stadium）只有10分钟的轻松步行路程，距离贝壳海滩（Playa Concha Beach）1.5公里，步行15分钟可到。"

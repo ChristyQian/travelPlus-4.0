@@ -1,0 +1,3 @@
+﻿[hotel]
+name = "Novotel Madrid 马德里市中心诺富特酒店"
+desc = "酒店位于马德里市（Madrid）的萨拉曼卡区（Salamanca District），距离24小时机场巴士站200米。这家独具风格的酒店距离丽池公园（Retiro Park）有8分钟的步行路程，提供覆盖各处的免费WiFi。"
