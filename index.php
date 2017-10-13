@@ -20,14 +20,14 @@
     $slide = array
 	(
 		array("img/itinerary/home-icy.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>立减6000</p>10月15日前</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>立减4000</p>10月23日前</div></div>",
 			"2018年2月、3月出发预订中",
-			"<p>冰岛奇幻北极光之旅<br/>可享受“2人同行，立减6000”</p>",
+			"<p>冰岛奇幻北极光之旅<br/>可享受“2人同行，立减4000”</p>",
 			"Slide-icy",
 			"itinerary-icy-reykjavik-the-northern-lights.php",
 			"查看行程<i class='whiteArrow'></i>"),
 		array("img/itinerary/home-portugal-spain-morocco.jpg",
-			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>立减6000</p>10月15日前</div></div>",
+			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>立减4000</p>10月23日前</div></div>",
 			"圣诞 / 元旦 / 春节出发",
 			"<p>葡萄牙西班牙摩洛哥之旅<br/>16天</p>",
 			"Slide-psm",
@@ -40,12 +40,12 @@
 			"Slide-freetour",
 			"why-us.php",
 			"了解详情<i class='whiteArrow'></i>"),
-		array("img/itinerary/home-grand-tour-of-california.jpg",
+		array("img/itinerary/home-germany-switzerland-austria.jpg",
 			"<div class='discount'><div class='transparentBg'></div><div class='transparentTxt'><p>2人同行<br/>立减6000</p>10月15日前</div></div>",
 			"圣诞 / 元旦 / 春节出发",
-			"<p>圆梦加州畅游之旅<br/>11天</p>",
-			"Slide-california",
-			"itinerary-grand-tour-of-california.php",
+			"<p>德瑞奥古堡童话之旅<br/>14天</p>",
+			"Slide-gsa",
+			"itinerary-germany-switzerland-austria.php",
 			"查看行程<i class='whiteArrow'></i>")
 	);
 ?>	

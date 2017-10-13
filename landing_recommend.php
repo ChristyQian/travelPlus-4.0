@@ -1,11 +1,50 @@
 	<h4>当季精选</h4>
-    <div class="flex-row-start-start flex-flow">													
+    <div class="flex-row-start-start flex-flow">
+    	<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
+			<a href="itinerary-germany-switzerland-austria.php" >	
+				<div class="offerOutWrap">
+					<div class="offerWrap earlyBird">
+						<div class="offerArrow"></div>	
+						<div>2人同行，立减6000</div>
+					</div>									
+					<div class="offerWrap date">
+						<!-- <div class="offerArrow"></div> -->									
+						<div>圣诞 / 元旦 / 春节出发</div>
+					</div>
+				</div>
+				<div class="imgWrap">
+					<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
+				</div>
+				<div class="infoWrap">
+					<div class="itiName">德瑞奥古堡童话之旅</div>
+					<div class="itiDess">
+						海德堡 - 卢塞恩 - 因斯布鲁克 - 慕尼黑 - 萨尔茨堡 - 维也纳
+					</div>	
+					<div class="itiDays">14天</div>
+					<div class="rate">
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
+						<i class="fa fa-star active" aria-hidden="true"></i>
+					</div>
+					<div class="itiIntro">
+						童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！
+					</div>
+					<div class="itiPrice">										
+						<span class="delPrice">￥21,100</span>
+						<span class="price">￥22,700<span>起</span></span>
+					</div>
+					<button class="yellowBtn">查看行程</button>								
+				</div>
+			</a>
+	    </div>														
 		<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
 			<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>今日下单，最高立减3100</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -44,7 +83,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -83,7 +122,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -122,7 +161,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>								
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -161,7 +200,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -195,51 +234,13 @@
 				</div>
 			</a>
 	    </div>	
-	    <div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
-			<a href="itinerary-germany-switzerland-austria.php" >	
-				<div class="offerOutWrap">
-					<div class="offerWrap earlyBird">
-						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
-					</div>									
-					<div class="offerWrap date">
-						<!-- <div class="offerArrow"></div> -->									
-						<div>圣诞 / 元旦 / 春节出发</div>
-					</div>
-				</div>
-				<div class="imgWrap">
-					<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
-				</div>
-				<div class="infoWrap">
-					<div class="itiName">德瑞奥古堡童话之旅</div>
-					<div class="itiDess">
-						海德堡 - 卢塞恩 - 因斯布鲁克 - 慕尼黑 - 萨尔茨堡 - 维也纳
-					</div>	
-					<div class="itiDays">14天</div>
-					<div class="rate">
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-						<i class="fa fa-star active" aria-hidden="true"></i>
-					</div>
-					<div class="itiIntro">
-						童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！
-					</div>
-					<div class="itiPrice">										
-						<span class="delPrice">￥21,100</span>
-						<span class="price">￥22,700<span>起</span></span>
-					</div>
-					<button class="yellowBtn">查看行程</button>								
-				</div>
-			</a>
-	    </div>	
+	    
 	    <div id="venice-florence-rome" name="home-trip-box" class="home-trip-box" data-dest="it" data-tag="history,art,honeymoon">
 			<a href="itinerary-venice-florence-rome.php" >	
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -278,7 +279,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -317,7 +318,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -356,7 +357,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -395,7 +396,7 @@
 				<div class="offerOutWrap">									
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									
@@ -434,7 +435,7 @@
 				<div class="offerOutWrap">
 					<div class="offerWrap earlyBird">
 						<div class="offerArrow"></div>	
-						<div>2人同行，立减6000</div>
+						<div>2人同行，立减4000</div>
 					</div>									
 					<div class="offerWrap date">
 						<!-- <div class="offerArrow"></div> -->									

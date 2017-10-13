@@ -355,7 +355,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>2人同行，立减6000</div>
+									<div>2人同行，立减4000</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -394,7 +394,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>2人同行，立减6000</div>
+									<div>2人同行，立减4000</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -428,8 +428,8 @@
 							</div>
 						</a>
 				    </div>				    			    				    
-				    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="history,art,honeymoon">
-						<a href="itinerary-grand-tour-of-california.php" >
+				    <div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
+						<a href="itinerary-germany-switzerland-austria.php" >
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
@@ -441,12 +441,12 @@
 								</div>
 							</div>
 							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
+								<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
 							</div>
 							<div class="infoWrap">
-								<div class="itiName">圆梦加州畅游之旅</div>
-								<div class="itiDess">旧金山 - 优胜美地 - 蒙特雷 - 圣塔芭芭拉区 - 洛杉矶</div>
-								<div class="itiDays">11天</div>
+								<div class="itiName">德瑞奥古堡童话之旅</div>
+								<div class="itiDess">海德堡 - 卢塞恩 - 因斯布鲁克 - 慕尼黑 - 萨尔茨堡 - 维也纳</div>
+								<div class="itiDays">14天</div>
 								<div class="rate">
 									<i class="fa fa-star active" aria-hidden="true"></i>
 									<i class="fa fa-star active" aria-hidden="true"></i>
@@ -455,11 +455,11 @@
 									<i class="fa fa-star active" aria-hidden="true"></i>
 								</div>
 								<div class="itiIntro">
-									从旧金山的蜿蜒海岸线、静美红杉林，令人陶醉的优胜美地，到纳帕和索诺玛谷的著名葡萄酒，还有因为LA LA Land而更名声大噪的星光璀璨洛杉矶，快来体验真正的加州生活吧！
+									童话般风景的德国浪漫海德堡，繁华与自然互相交织的梦幻天堂卢塞恩，皑皑雪山的阿尔卑斯山脚，还有藏着许多故事的城堡，你有太多理由爱上这个旅程！
 								</div>
 								<div class="itiPrice">
 									<span class="delPrice">￥19,100</span>
-									<span class="price">￥27,800<span>起</span></span>
+									<span class="price">￥22,700<span>起</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>
 							</div>

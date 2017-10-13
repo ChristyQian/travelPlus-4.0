@@ -197,7 +197,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>2人同行，立减6000</div>
+									<div>今日下单，最高立减3100</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -236,7 +236,7 @@
 								<div class="offerOutWrap">									
 									<div class="offerWrap earlyBird">
 										<div class="offerArrow"></div>	
-										<div>2人同行，立减6000</div>
+										<div>2人同行，立减4000</div>
 									</div>
 									<div class="offerWrap date">
 										<!-- <div class="offerArrow"></div> -->									
@@ -275,7 +275,7 @@
 							<div class="offerOutWrap">	
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>2人同行，立减6000</div>
+									<div>2人同行，立减4000</div>
 								</div>								
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									
@@ -314,7 +314,7 @@
 							<div class="offerOutWrap">	
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>2人同行，立减6000</div>
+									<div>2人同行，立减4000</div>
 								</div>								
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									

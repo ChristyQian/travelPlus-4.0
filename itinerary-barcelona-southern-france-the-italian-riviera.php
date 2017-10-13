@@ -38,11 +38,11 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
-							<div class="pinkTxt">2人同行，立减6000</div>
+							<div class="pinkTxt">今日下单，最高减3100</div>
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php'); echo $discount2 ?> 
+				<?php include_once('discount.php'); echo $discount4 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -814,7 +814,7 @@
 
 				<div class="quotationWrap">
 
-					<?php include_once('discount.php'); echo $discount2 ?> 
+					<?php include_once('discount.php'); echo $discount4 ?> 
 
 					<?php include_once('quotation-form.php'); echo $text1 ;?> 
 

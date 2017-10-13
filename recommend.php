@@ -9,7 +9,7 @@
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
 							<div class="yellowTxt">2018年2月、3月出发预订中</div>
-							<div class="pinkTxt">2人同行，立减6000</div>
+							<div class="pinkTxt">2人同行，立减4000</div>
 						</div>
 					</div>
 				</div>
@@ -41,7 +41,7 @@
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
 							<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-							<div class="pinkTxt">2人同行，立减6000</div>
+							<div class="pinkTxt">2人同行，立减4000</div>
 						</div>
 					</div>
 				</div>
@@ -65,10 +65,10 @@
 				</div>
 			</a>
 	    </div>	
-	    <div id="grand-tour-of-california" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="art,nature,seaview,honeymoon,family">
-			<a href="itinerary-grand-tour-of-california.php" >	
+	    <div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
+			<a href="itinerary-germany-switzerland-austria.php" >	
 				<div class="imgWrap">
-					<img src="img/itinerary/allTripsList/grand-tour-of-california.jpg" alt="" />
+					<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
 					<div class="hotSale">
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
@@ -79,8 +79,8 @@
 				</div>
 				<div class="agendaWrap">
 					<p>
-						圆梦加州畅游之旅 <br/>
-						旧金山 - 优胜美地 - 蒙特雷 - 圣塔芭芭拉区 - 洛杉矶
+						德瑞奥古堡童话之旅 <br/>
+						海德堡 - 卢塞恩 - 因斯布鲁克 - 慕尼黑 - 萨尔茨堡 - 维也纳
 					</p>
 					<div class="rate">
 						<i class="fa fa-star active" aria-hidden="true"></i>
@@ -90,9 +90,9 @@
 						<i class="fa fa-star active" aria-hidden="true"></i>
 					</div>
 					<div>
-						11天
-						<span class="delPrice">￥</span>
-						<span class="price">￥27,800<span>起</span></span>
+						14天
+						<span class="delPrice">￥19,100</span>
+						<span class="price">￥22,700<span>起</span></span>
 					</div>
 				</div>
 			</a>
