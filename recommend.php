@@ -73,7 +73,7 @@
 						<div class="transparentBg"></div>
 						<div class="transparentTxt">
 							<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-							<div class="pinkTxt">2人同行，立减6000</div>
+							<div class="pinkTxt">2人同行，立减4000</div>
 						</div>
 					</div>
 				</div>

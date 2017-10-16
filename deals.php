@@ -18,52 +18,10 @@
 <?PHP
 	include_once('triggeredLeadPop.php');
 ?>
-		<div class="yellowBg">
-			<div class="site">
-		 		<h5>倒计时优惠</h5>
-		 		<div class="serif">10月15日(含)前，2人同行，立减6000！</div>				
-			</div>
-	 	</div>
-		<div class="site">
-			 <div class="flex-row-start-start flex-flow">
-			 	<div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
-					<a href="itinerary-germany-switzerland-austria.php" >	
-						<div class="imgWrap">
-							<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">2人同行，立减6000</div>
-								</div>
-							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								德瑞奥古堡童话之旅 <br/>
-								海德堡 - 卢塞恩 - 因斯布鲁克 - 慕尼黑 - 萨尔茨堡 - 维也纳
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-							</div>
-							<div>
-								14天
-								<span class="delPrice">￥19,100</span>
-								<span class="price">￥22,700<span>起</span></span>
-							</div>
-						</div>
-					</a>
-			    </div>
-			 </div>
-		</div>
 		<div class="lightBlueBg">
 			<div class="site">
-		 		<h5>早鸟优惠</h5>
-		 		<div class="serif">10月23日(含)前，今日下单，最高立减3100！</div>
+		 		<h5>限时优惠</h5>
+		 		<div class="serif">今日预定，最高立减3100！</div>
 		 	</div>
 	 	</div>
 	 	<div class="site">
@@ -76,7 +34,7 @@
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
 									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">今日下单，最高立减3100</div>
+									<div class="pinkTxt">今日预定，最高立减3100</div>
 								</div>
 							</div>
 						</div>
@@ -211,7 +169,7 @@
 		<div class="lightBlueBg">
 			<div class="site">
 		 		<h5>早鸟优惠</h5>
-		 		<div class="serif">10月23日(含)前，2人同行，立减4000！</div>
+		 		<div class="serif">10月31日(含)前，2人同行，立减4000！</div>
 		 	</div>
 	 	</div>
 	 	<div class="site">
@@ -280,7 +238,38 @@
 						</div>
 					</a>
 			    </div>		
-			    
+			    <div id="germany-switzerland-austria" name="home-trip-box" class="home-trip-box" data-dest="ge,swz,austria" data-tag="history,art,nature">
+					<a href="itinerary-germany-switzerland-austria.php" >	
+						<div class="imgWrap">
+							<img src="img/itinerary/allTripsList/germany-switzerland-austria.jpg" alt="" />
+							<div class="hotSale">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">
+									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
+									<div class="pinkTxt">2人同行，立减4000</div>
+								</div>
+							</div>
+						</div>
+						<div class="agendaWrap">
+							<p>
+								德瑞奥古堡童话之旅 <br/>
+								海德堡 - 卢塞恩 - 因斯布鲁克 - 慕尼黑 - 萨尔茨堡 - 维也纳
+							</p>
+							<div class="rate">
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+							</div>
+							<div>
+								14天
+								<span class="delPrice">￥19,100</span>
+								<span class="price">￥22,700<span>起</span></span>
+							</div>
+						</div>
+					</a>
+			    </div>
 			    
 			    <div id="shopping-in-london-paris-amsterdam" name="home-trip-box" class="home-trip-box" data-dest="uk,fr,nz" data-tag="history,art,honeymoon">
 					<a href="itinerary-shopping-in-london-paris-amsterdam.php" >	
