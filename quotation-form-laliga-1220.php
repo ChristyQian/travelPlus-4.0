@@ -31,7 +31,7 @@
 
 								 <?php echo $itineraryPrice ?>
 
-								 <span>北京、上海出发</span>
+								 <span>上海出发</span>
 
 							</div>
 

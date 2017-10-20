@@ -8,7 +8,7 @@
 	$metaDescription="英孚旅游+,根据热门季节,个人爱好等旅行元素,精心设计行程,带来更多元的主题线路和更优的旅行体验,真正融入异国文化,捕捉旅程中的每次怦然心动与惊喜.";
 
 	$itineraryName="西甲非凡朝圣之旅";
-	$itineraryPrice="￥52,100";
+	$itineraryPrice="￥34,500";
 
     include_once("itinerary-head.php"); 
 ?>
@@ -37,7 +37,6 @@
 						</div>
 					</div>
 				</div>
-				<?php include_once('discount.php'); echo $discount3 ?> 
 			</div>
 		</div>
 		<!-- Itinerary Info -->	  
@@ -55,8 +54,8 @@
 					</div>
 					<div class="flex1 flex-row-start-between">
 						<div class="priceWG">							
-							￥52,100
-							<span>北京、上海出发</span>
+							￥34,500
+							<span>上海出发</span>
 						</div>
 						<div>
 							<a class="blueRBtn" href="#getPersonalizedPrice">获取出发城市价格</a>
@@ -816,8 +815,6 @@
 				<div class="quotationBg"></div>
 
 				<div class="quotationWrap">
-
-					<?php include_once('discount.php'); echo $discount3 ?> 
 
 					<?php include_once('quotation-form-laliga-1220.php'); echo $text1 ;?> 
 

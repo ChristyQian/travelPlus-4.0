@@ -185,7 +185,7 @@
 				    <div id="itinerary-laliga-series-20171119" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
 						<a href="itinerary-laliga-series-20171119.php" >
 							<div class="offerOutWrap">
-								<div class="offerWrap earlyBird">
+								<div class="offerWrap earlyBird" style="display:none">
 									<div class="offerArrow"></div>	
 									<div>早鸟优惠10%</div>
 								</div>									
@@ -224,7 +224,7 @@
 				    <div id="itinerary-laliga-series-20171220" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
 						<a href="itinerary-laliga-series-20171220.php" >
 							<div class="offerOutWrap">
-								<div class="offerWrap earlyBird">
+								<div class="offerWrap earlyBird" style="display:none">
 									<div class="offerArrow"></div>	
 									<div>早鸟优惠10%</div>
 								</div>									
@@ -254,7 +254,7 @@
 								</div>
 								<div class="itiPrice">										
 									<span class="delPrice">￥21,100</span>
-									<span class="price">￥54,000<span>香港出发</span></span>
+									<span class="price">￥34,500<span>上海出发</span></span>
 								</div>
 								<button class="yellowBtn">查看行程</button>								
 							</div>
@@ -263,7 +263,7 @@
 				    <div id="itinerary-laliga-series-20180114" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
 						<a href="itinerary-laliga-series-20180114.php" >
 							<div class="offerOutWrap">
-								<div class="offerWrap earlyBird">
+								<div class="offerWrap earlyBird" style="display:none">
 									<div class="offerArrow"></div>	
 									<div>早鸟优惠10%</div>
 								</div>									

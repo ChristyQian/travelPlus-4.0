@@ -1,6 +1,7 @@
 <?php 
 	$text1 = '提交查询<i class="whiteArrow"></i></button></div>';
 	$text2 = '在线预订<i class="whiteArrow"></i></button></div>';
+	$text3 = '确认提交<i class="whiteArrow"></i></button></div>';
 ?>
 	<!--backend interface --> 
 

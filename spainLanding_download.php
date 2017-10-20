@@ -197,7 +197,7 @@
 							<div class="offerOutWrap">									
 								<div class="offerWrap earlyBird">
 									<div class="offerArrow"></div>	
-									<div>今日下单，最高立减3100</div>
+									<div>今日预定，最高立减3100</div>
 								</div>
 								<div class="offerWrap date">
 									<!-- <div class="offerArrow"></div> -->									

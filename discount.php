@@ -1,8 +1,8 @@
 <?php 
-	$discount1 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><p>2人同行<br/>立减6000</p>10月15日前</div></div>';
-	$discount2 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><p>2人同行<br/>立减4000</p>10月23日前</div></div>';
-	$discount3 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><p>早鸟优惠<br/>10%</p>10月23日前</div></div>';
-	$discount4 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><p>今日下单<br/>最高减3100</p>10月23日前</div></div>';
+	$discount1 = '';
+	$discount2 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><p>2人同行<br/>立减4000</p>10月31日前</div></div>';
+	$discount3 = '';
+	$discount4 = '';
 	$discount5 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><p style="margin-bottom:10px">国庆出发</p>仅剩6席</div></div>';
 	$discount6 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><p>赠[红磨坊门票]</p>8月30号前</div></div>';
 	$discount7 = '<div class="discount"><div class="transparentBg"></div><div class="transparentTxt"><span>Travelzoo专享</span><p>立减1000</p>8月31日前</div></div>';

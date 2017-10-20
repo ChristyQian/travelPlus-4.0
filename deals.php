@@ -18,154 +18,12 @@
 <?PHP
 	include_once('triggeredLeadPop.php');
 ?>
-		<div class="lightBlueBg">
+<!-- 		<div class="yellowBg">
 			<div class="site">
 		 		<h5>限时优惠</h5>
 		 		<div class="serif">今日预定，最高立减3100！</div>
 		 	</div>
-	 	</div>
-	 	<div class="site">
-			<div class="flex-row-start-start flex-flow">
-				<div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
-					<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
-						<div class="imgWrap">
-							<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
-							<div class="hotSale">
-								<div class="transparentBg"></div>
-								<div class="transparentTxt">
-									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
-									<div class="pinkTxt">今日预定，最高立减3100</div>
-								</div>
-							</div>
-						</div>
-						<div class="agendaWrap">
-							<p>
-								西法意城市狂想 <br/>
-								巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
-							</p>
-							<div class="rate">
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-								<i class="fa fa-star active" aria-hidden="true"></i>
-							</div>
-							<div>
-								12天
-								<span class="delPrice">￥21,100</span>
-								<span class="price">￥21,000<span>起</span></span>
-							</div>
-						</div>
-					</a>
-			    </div>
-			</div>
-		</div>
-		<div class="yellowBg">
-			<div class="site">
-		 		<h5>La Liga 专场优惠</h5>
-		 		<div class="serif">凡10月23日(含)前，优惠10%</div>				
-			</div>
-	 	</div>
-		<div class="site">
-			 <div class="flex-row-start-start flex-flow">			    	
-			    <div id="laliga-tour-1119" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
-						<a href="itinerary-laliga-series-20171119.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/laliga-1119.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">2017.11.17出发</div>
-										<div class="pinkTxt">早鸟优惠10%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									西甲非凡朝圣之旅 马德里竞技 VS 皇家马德里<br/>
-									马德里 - 巴塞罗那
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									9天
-									<span class="delPrice">￥28,000</span>
-									<span class="price">￥26,000<span>香港出发</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div id="laliga-tour-1220" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
-						<a href="itinerary-laliga-series-20171220.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/laliga-1220.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">2017.12.17出发</div>
-										<div class="pinkTxt">早鸟优惠10%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									西甲非凡朝圣之旅 皇家马德里 VS 巴塞罗那<br/>
-									巴塞罗那 - 马德里
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									9天
-									<span class="delPrice">￥28,000</span>
-									<span class="price">￥52,100<span>北京、上海出发</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>
-				    <div id="laliga-tour-0114" name="home-trip-box" class="home-trip-box" data-dest="laliga" data-tag="football">
-						<a href="itinerary-laliga-series-20180114.php" >	
-							<div class="imgWrap">
-								<img src="img/itinerary/allTripsList/laliga-0114.jpg" alt="" />
-								<div class="hotSale">
-									<div class="transparentBg"></div>
-									<div class="transparentTxt">
-										<div class="yellowTxt">2018.01.12出发</div>
-										<div class="pinkTxt">早鸟优惠10%</div>
-									</div>
-								</div>
-							</div>
-							<div class="agendaWrap">
-								<p>
-									西甲非凡朝圣之旅 皇家马德里 VS 比利亚雷亚尔<br/>
-									马德里 - 巴塞罗那
-								</p>
-								<div class="rate">
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-									<i class="fa fa-star active" aria-hidden="true"></i>
-								</div>
-								<div>
-									9天
-									<span class="delPrice">￥28,000</span>
-									<span class="price">￥24,700<span>香港出发</span></span>
-								</div>
-							</div>
-						</a>
-				    </div>	
-			</div> 
-		</div>
+	 	</div> -->
 		<div class="lightBlueBg">
 			<div class="site">
 		 		<h5>早鸟优惠</h5>
@@ -367,10 +225,10 @@
 						</div>
 					</a>
 			    </div>
-			    <div id="carlifornia-and-the-grand-canyon" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="nature,family">
-					<a href="itinerary-grand-canyon.php" >	
+			    <div id="barcelona-southern-france-the-italian-riviera" name="home-trip-box" class="home-trip-box" data-dest="it,fr,sp" data-tag="art,nature,seaview,honeymoon,family">
+					<a href="itinerary-barcelona-southern-france-the-italian-riviera.php" >	
 						<div class="imgWrap">
-							<img src="img/itinerary/allTripsList/grand-canyon.jpg" alt="" />
+							<img src="img/itinerary/allTripsList/barcelona-southern-france-the-italian-riviera.jpg" alt="" />
 							<div class="hotSale">
 								<div class="transparentBg"></div>
 								<div class="transparentTxt">
@@ -381,8 +239,8 @@
 						</div>
 						<div class="agendaWrap">
 							<p>
-								【亲子游】加州主题乐园+大峡谷之旅 <br/>
-								旧金山 - 洛杉矶 - 拉斯维加斯 - 弗拉格斯塔夫 - 凤凰城
+								西法意城市狂想 <br/>
+								巴塞罗那 - 南法 - 五渔村 - 佛罗伦萨
 							</p>
 							<div class="rate">
 								<i class="fa fa-star active" aria-hidden="true"></i>
@@ -392,13 +250,13 @@
 								<i class="fa fa-star active" aria-hidden="true"></i>
 							</div>
 							<div>
-								13天
-								<span class="delPrice">￥19,100</span>
-								<span class="price">￥28,800<span>起</span></span>
+								12天
+								<span class="delPrice">￥21,100</span>
+								<span class="price">￥21,000<span>起</span></span>
 							</div>
 						</div>
 					</a>
-			    </div>
+			    </div>			    
 			    <div id="portugal-to-spain" name="home-trip-box" class="home-trip-box" data-dest="portu,sp" data-tag="art,nature">
 					<a href="itinerary-portugal-to-spain.php" >	
 						<div class="imgWrap">
@@ -460,6 +318,38 @@
 								14天
 								<span class="delPrice">￥19,100</span>
 								<span class="price">￥21,800<span>起</span></span>
+							</div>
+						</div>
+					</a>
+			    </div>
+			    <div id="carlifornia-and-the-grand-canyon" name="home-trip-box" class="home-trip-box" data-dest="wus" data-tag="nature,family">
+					<a href="itinerary-grand-canyon.php" >	
+						<div class="imgWrap">
+							<img src="img/itinerary/allTripsList/grand-canyon.jpg" alt="" />
+							<div class="hotSale">
+								<div class="transparentBg"></div>
+								<div class="transparentTxt">
+									<div class="yellowTxt">圣诞 / 元旦 / 春节出发</div>
+									<div class="pinkTxt">2人同行，立减4000</div>
+								</div>
+							</div>
+						</div>
+						<div class="agendaWrap">
+							<p>
+								【亲子游】加州主题乐园+大峡谷之旅 <br/>
+								旧金山 - 洛杉矶 - 拉斯维加斯 - 弗拉格斯塔夫 - 凤凰城
+							</p>
+							<div class="rate">
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+								<i class="fa fa-star active" aria-hidden="true"></i>
+							</div>
+							<div>
+								13天
+								<span class="delPrice">￥19,100</span>
+								<span class="price">￥28,800<span>起</span></span>
 							</div>
 						</div>
 					</a>
